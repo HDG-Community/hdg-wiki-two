@@ -1,0 +1,77 @@
+# If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
+# contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: "https://humandomestication.guide/"
+title: Human Domestication Guide
+copyright: " "
+paginate: 5
+theme: [PaperMod]
+
+module:
+  imports:
+  - path: github.com/wjianbo/hugo-wikilinks
+
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts", "papermod"]
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Foundational Works
+          url: foundational-works/
+          weight: 7
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  description: "A HDG Wiki"
+  author: The Lorets
+
+  defaultTheme: auto
+  ShowShareButtons: false
+  ShowReadingTime: false
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  HideFooter: true
+
+markup:
+  goldmark:
+    renderHooks:
+      link:
+        enableDefault: true
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false

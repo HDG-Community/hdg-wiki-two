@@ -22,6 +22,7 @@
 
           packages = [
             pkgs.hugo
+            pkgs.go
           ];
         };
       });
