@@ -18,7 +18,7 @@
 
 	{{ $rel := relref $page $anchorized }}
 
-	{{ $linkedPage := $page.GetPage $rel }}
+	{{ $linkedPage := $page.Site.GetPage $content }}
 
 	{{ $link := printf "%s%s%s%s%s" "<a href=\"" $rel "\">" $linkedPage.Title "</a>"  }}
 
