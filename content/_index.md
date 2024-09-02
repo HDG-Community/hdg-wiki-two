@@ -5,4 +5,4 @@ date: 2024-09-02
 
 honk
 
-welcome to the hdg wiki, a fan site for [[high-maintenance-houseplant]]
+welcome to the hdg wiki, nerd
