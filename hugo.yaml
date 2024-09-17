@@ -4,7 +4,7 @@ baseURL: "https://florops.github.io/hdg-wiki-two/"
 title: Human Domestication Guide
 copyright: " "
 paginate: 5
-theme: [PaperMod]
+theme: hextra
 
 module:
   imports:
