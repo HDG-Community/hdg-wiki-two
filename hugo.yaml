@@ -32,7 +32,7 @@ languages:
       category: categories
       tag: tags
       series: series
-    menu:
+    menu:      
       main:
         - name: Search
           params:
@@ -64,7 +64,15 @@ params:
   env: production
   description: "A HDG Wiki"
   author: The Lorets
-
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/favicon-light.svg
+      dark: images/favicon-light.svg
+      link: /
+      width: 40
+      height: 20
   defaultTheme: auto
   ShowShareButtons: false
   ShowReadingTime: false
