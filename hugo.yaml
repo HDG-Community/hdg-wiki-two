@@ -68,8 +68,8 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: /favicon-light.svg
-      dark: /favicon-light.svg
+      path: /images/favicon-light.svg
+      dark: /images/favicon-light.svg
       link: /
       width: 40
       height: 20
