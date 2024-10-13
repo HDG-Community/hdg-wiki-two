@@ -34,15 +34,25 @@ languages:
       series: series
     menu:
       main:
-        - name: Archive
-          url: archives
-          weight: 5
         - name: Search
-          url: search/
+          params:
+            type: search
           weight: 1
+        - name: Blog
+          url: archives
+          weight: 2
+        - name: Guide
+          url: archives
+          weight: 3
+        - name: Consent
+          url: archives
+          weight: 4
+        - name: About HDG
+          url: archives
+          weight: 5 
         - name: Foundational Works
           url: foundational-works/
-          weight: 7
+          weight: 6
 
 outputs:
   home:
