@@ -39,7 +39,7 @@ languages:
           weight: 5
         - name: Search
           url: search/
-          weight: 10
+          weight: 1
         - name: Foundational Works
           url: foundational-works/
           weight: 7
@@ -65,7 +65,13 @@ params:
   ShowRssButtonInSectionTermList: true
   ShowAllPagesInArchive: true
   HideFooter: true
-
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+  search:
+    enable: true
+    type: flexsearch
 markup:
   goldmark:
     renderHooks:
