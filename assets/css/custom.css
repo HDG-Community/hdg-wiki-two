@@ -1,3 +1,4 @@
+/* Set Fonts */
 /* atkinson-hyperlegible-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
@@ -34,7 +35,18 @@
   src: url('../fonts/atkinson-hyperlegible-v11-latin-700italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-
 .content {
     font-family: "Atkinson Hyperlegible", Roboto;
+  }
+/* Set Accent Colours */
+  :root {
+    --primary-hue: #c63c62;
+    --primary-saturation: 100%;
+    --navbar-height: 4rem;
+    --menu-height: 3.75rem;
+  }
+  
+  .dark {
+    --primary-hue: #e56588;
+    --primary-saturation: 100%;
   }
