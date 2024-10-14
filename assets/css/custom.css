@@ -74,3 +74,8 @@ body {
   --tw-bg-opacity:1;
   background-color:#f3f4f4;
 }
+.hx-shadow-\[0_-12px_16px_white\] {
+  --tw-shadow:0 -12px 16px #f3f4f4;
+  --tw-shadow-colored:0 -12px 16px #f3f4f4;
+  box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)
+}
