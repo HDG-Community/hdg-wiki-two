@@ -6,11 +6,6 @@ copyright: " "
 paginate: 5
 theme: hextra
 
-module:
-  imports:
-  - path: github.com/wjianbo/hugo-wikilinks
-
-
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
