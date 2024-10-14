@@ -57,12 +57,8 @@ body:is(html[class~=dark] *) {
   background-color:#1d1b1b;
 }
 /* Set the Background in Light Theme */
-body:is(html[class~=light] *) {
+body {
+  width:100%;
   --tw-bg-opacity:1;
   background-color:#f3f4f4;
-}
-/* Set the Background in Red Theme */
-body:is(html[class~=red] *) {
-  --tw-bg-opacity:1;
-  background-color:red;
 }
