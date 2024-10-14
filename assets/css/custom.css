@@ -50,3 +50,14 @@
     --primary-hue: #e56588;
     --primary-saturation: 100%;
   }
+
+/* Set the Background in Dark Theme */
+body:is(html[class~=dark] *) {
+  --tw-bg-opacity:1;
+  background-color:#1d1b1b;
+}
+/* Set the Background in Light Theme */
+body:is(html[class~=light] *) {
+  --tw-bg-opacity:1;
+  background-color:#f3f4f4;
+}
