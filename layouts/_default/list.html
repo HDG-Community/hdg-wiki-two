@@ -11,11 +11,11 @@
         <div class="hx-mt-16"></div>
         {{ partial "components/last-updated.html" . }}
         {{ partial "components/comments.html" . }}
-    {{- if .Content }}
-     <div class="post-content">
-     {{ partial "content-wikilinks" . }}
-     </div>
-     {{- end }}
+        {{- if .Content }}
+<div class="post-content">
+  {{ partial "content-wikilinks" . }}
+</div>
+{{- end }}
       </main>
     </article>
   </div>
