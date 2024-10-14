@@ -61,3 +61,8 @@ body:is(html[class~=light] *) {
   --tw-bg-opacity:1;
   background-color:#f3f4f4;
 }
+/* Set the Background in Red Theme */
+body:is(html[class~=red] *) {
+  --tw-bg-opacity:1;
+  background-color:red;
+}

@@ -84,7 +84,7 @@ params:
   ShowAllPagesInArchive: true
   HideFooter: true
   theme:
-    # light | dark | system
+    # light | dark | system | red
     default: system
     displayToggle: true
   search:
