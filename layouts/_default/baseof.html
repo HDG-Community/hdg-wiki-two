@@ -8,5 +8,10 @@
       {{ partial "footer.html" . }}
     {{ end }}
     {{ partial "scripts.html" . }}
+{{- if .Content }}
+<div class="post-content">
+  {{ partial "content-wikilinks" . }}
+</div>
+{{- end }}
   </body>
 </html>
