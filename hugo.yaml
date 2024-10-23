@@ -34,7 +34,7 @@ languages:
             type: search
           weight: 1
         - name: Blog
-          url: archives
+          url: blog
           weight: 2
         - name: Guide
           url: archives
@@ -65,7 +65,7 @@ params:
     logo:
       path: images/favicon.svg
       dark: images/favicon-light.svg
-      link: /
+      link: /hdg-wiki-two
       width: 40
       height: 20
   defaultTheme: auto
