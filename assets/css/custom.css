@@ -117,7 +117,7 @@ body {
 /* Make bold text Protectorate Pink in Dark Mode */
 strong:is(html[class~=dark] *){
   font-weight:bolder;
-  color: #DB4D75;
+  color: #ff80aa;
 }
 /* Make bold text Affini Rose in Light */
 strong {
