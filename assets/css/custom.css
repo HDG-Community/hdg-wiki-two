@@ -120,7 +120,7 @@ strong:is(html[class~=dark] *){
   color: #DB4D75;
 }
 /* Make bold text Affini Rose in Light */
-strong:is(html[class~=dark] *){
+strong {
   font-weight:bolder;
   color: #b72650;
 }
