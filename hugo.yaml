@@ -34,7 +34,7 @@ languages:
             type: search
           weight: 1
         - name: Blog
-          url: blog/
+          url: /hdg-wiki-two/blog/
           weight: 2
         - name: Guide
           url: archives
