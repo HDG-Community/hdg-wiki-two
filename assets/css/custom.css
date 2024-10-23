@@ -86,7 +86,7 @@ body {
   color: #009454;
 }
 /* Change the colour of links in Light Theme */
-.content :where(a):not(:where([class~=not-prose], [class~=not-prose] *)):is(html[class~=light] *) {
+.content :where(a):not(:where([class~=not-prose], [class~=not-prose] *)) {
   --tw-text-opacity: 1;
   color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-text-opacity));
   color: #017239;
