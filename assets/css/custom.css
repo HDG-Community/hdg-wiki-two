@@ -83,11 +83,33 @@ body {
 .content :where(a):not(:where([class~=not-prose], [class~=not-prose] *)):is(html[class~=dark] *) {
   --tw-text-opacity: 1;
   color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-text-opacity));
-  color: #009454;
+  color: #00C26E;
 }
 /* Change the colour of links in Light Theme */
 .content :where(a):not(:where([class~=not-prose], [class~=not-prose] *)) {
   --tw-text-opacity: 1;
   color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-text-opacity));
   color: #017239;
+}
+
+/* Change the Colour of Light Grey Elements to conform to WCAG2*/
+/* Left Sidebar Light*/
+.hx-text-gray-500 {
+  --tw-text-opacity:1;
+  color:#383638/var(--tw-text-opacity)
+}
+
+/* Top Navbar Light */
+.hx-text-gray-600 {
+  --tw-text-opacity:1;
+  color:#383638/var(--tw-text-opacity)
+}
+/* Sidebars Dark */
+.hx-text-gray-500 {
+  --tw-text-opacity:1;
+  color:#383638/var(--tw-text-opacity)
+}
+.hx-text-gray-600 {
+  --tw-text-opacity:1;
+  color:#383638/var(--tw-text-opacity)
 }
