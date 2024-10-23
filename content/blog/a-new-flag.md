@@ -5,10 +5,6 @@ author: Teagan
 draft: false
 description: Teagan talks flags! 
 ---
-
-# A New Flag
---- 
-
 *Excerpt from **Prelude to Protectorate: The Rise & Fall of the Final Terran Accord** (Sillinvalina and Chelsie Porax, 132 DE):*
 
 For most of its history, the top brass of the [Cosmic Navy](https://humandomestication.guide/terran-accord/terran-cosmic-navy) had always been a fledgling political power, unable to effectively wrangle political clout from the corporations, who both commanded the economies the TCN relied upon, as well as many sporting sizable military fleets of their own. However, for nearly the past half-decade, the [Accord](https://humandomestication.guide/en/terran-accord) upper establishment had used Terra's first contact with alien life to drive popular and corporate support for expanding the navy. Now, as the wake of the Rinan Campaign settled, concerns among the Accord elite about the possibility of increasing military influence grew.

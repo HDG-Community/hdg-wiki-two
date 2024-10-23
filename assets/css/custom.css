@@ -79,3 +79,15 @@ body {
   --tw-shadow-colored:0 -12px 16px #f3f4f4;
   box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)
 }
+/* Change the colour of links in Dark Theme */
+.content :where(a):not(:where([class~=not-prose], [class~=not-prose] *)):is(html[class~=dark] *) {
+  --tw-text-opacity: 1;
+  color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-text-opacity));
+  color: #009454;
+}
+/* Change the colour of links in Light Theme */
+.content :where(a):not(:where([class~=not-prose], [class~=not-prose] *)):is(html[class~=light] *) {
+  --tw-text-opacity: 1;
+  color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-text-opacity));
+  color: #017239;
+}
