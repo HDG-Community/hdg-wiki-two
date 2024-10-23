@@ -124,3 +124,8 @@ strong {
   font-weight:bolder;
   color: #b72650;
 }
+
+/* Move the Start of the Content Closer to the title on single pages */
+.hx-mb-16 {
+  margin-bottom:2rem;
+}
