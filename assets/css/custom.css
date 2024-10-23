@@ -113,3 +113,14 @@ body {
   --tw-text-opacity:1;
   color:#383638/var(--tw-text-opacity)
 }
+
+/* Make bold text Protectorate Pink in Dark Mode */
+strong:is(html[class~=dark] *){
+  font-weight:bolder;
+  color: #DB4D75;
+}
+/* Make bold text Affini Rose in Light */
+strong:is(html[class~=dark] *){
+  font-weight:bolder;
+  color: #b72650;
+}
