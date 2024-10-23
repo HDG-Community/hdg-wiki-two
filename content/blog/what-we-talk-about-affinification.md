@@ -6,12 +6,6 @@ author: Kanagen
 draft: false
 description: Sui Generis Author Kanagen talks Affinification
 ---
-
-# What We Talk About When We Talk About Affinification
-
-<span id="byline"> Author: <span id="authorname"> Kanagen </span> </span> <span id=date>Published: 29 Apr 2024. </span>
---- 
-
 ## Introduction
 What we have here is a failure to communicate. 
 
