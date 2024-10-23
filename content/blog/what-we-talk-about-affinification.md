@@ -4,7 +4,7 @@ date: 2024-09-01T14:33:03+00:00
 tags: [blog]
 author: Kanagen
 draft: false
-description: *Sui Generis* Author Kanagen talks Affinification
+description: Sui Generis Author Kanagen talks Affinification
 ---
 
 # What We Talk About When We Talk About Affinification
