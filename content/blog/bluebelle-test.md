@@ -25,3 +25,5 @@ What other kinds of markdown formatting are there... hmmmmmm. I dunno. Probably 
 
 `Oh! Code Blocks! Bleep Bloop!`
 ```Also bigger code blocks!!!```
+
+![](/img/test.svg)
