@@ -27,5 +27,5 @@ What other kinds of markdown formatting are there... hmmmmmm. I dunno. Probably 
 ```Also bigger code blocks!!!```
 
 
-![skoof!](/img/doe_plush.png?height=100px#float-end)
+![skoof!](/img/doe_plush.png?height=100px)
 
