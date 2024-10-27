@@ -28,5 +28,5 @@ What other kinds of markdown formatting are there... hmmmmmm. I dunno. Probably 
 
 
 ![skoof!](/img/doe_plush.png?height=100px)
-![snuggly!](/img/snuggly.mov)
+
 
