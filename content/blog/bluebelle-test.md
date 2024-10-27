@@ -27,4 +27,4 @@ What other kinds of markdown formatting are there... hmmmmmm. I dunno. Probably 
 ```Also bigger code blocks!!!```
 
 ![](/img/test.svg)
-![Scenario 1: Across columns](/img/doe_plush.png)
+![skoof!](/doe_plush.png)
