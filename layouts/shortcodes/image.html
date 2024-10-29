@@ -1,0 +1,20 @@
+{{ $image_name := .Get 0 }}
+{{ $image_glob := printf "**/%s*" $image_name }}
+
+{{ $alt := .Get 1 }}
+{{ $position := .Get 2 | default "right" }}
+
+{{ $caption := strings.Trim .InnerDeindent "\n\r " | markdownify }}
+
+<div class="img-aside img-aside-{{ $position }}">
+    {{ with resources.GetMatch $image_glob }}
+        {{ partial "images/image" (dict
+            "Page" .
+            "Filename" .Name
+            "Alt" $alt
+            "Caption" $caption
+            "Width" "200px"
+        )}}
+        <a class="img-permalink" href="{{.RelPermalink}}">(Permalink)</a>
+    {{ end }}
+</div>

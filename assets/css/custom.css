@@ -44,11 +44,15 @@
     --primary-saturation: 100%;
     --navbar-height: 4rem;
     --menu-height: 3.75rem;
+
+    --secondary-bg: #222222;
   }
   
   .dark {
     --primary-hue: #e56588;
     --primary-saturation: 100%;
+
+    --secondary-bg: #222222;
   }
 
 /* Set the Background in Dark Theme */
@@ -141,4 +145,64 @@ strong {
 .hx-p-4 {
   padding:1.5rem;
   margin-top: 1.2rem;
+}
+
+/*
+ * Image Asides
+*/
+
+.img-aside {
+  position: relative;
+  background-color: var(--secondary-bg);
+  border-radius: 0.375rem;
+  padding-bottom: 1rem;
+  max-width: min(30%, 200px);
+}
+
+.img-aside img {
+  border-radius: 0.375rem 0.375rem 0rem 0rem;
+}
+
+.img-aside .figure-caption {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.img-aside-right {
+  float: right;
+  margin-left: 10px;
+}
+
+.img-aside-left {
+  float: left;
+  margin-right: 10px;
+}
+
+div .img-aside img {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.img-permalink {
+  position: absolute;
+  bottom: 2px;
+  right: 2px;
+  font-size: 0.7em;
+}
+
+@media only screen and (max-width: 480px) {
+  .img-aside-right {
+    float: none;
+  }
+  .img-aside-left {
+    float: none;
+  }
+
+  .img-aside img {
+    border-radius: 0.375rem;
+  }
+
+  .img-aside {
+    max-width: 100%;
+  }
 }
