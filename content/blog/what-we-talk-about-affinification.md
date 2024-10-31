@@ -1,5 +1,5 @@
 ---
-title: What we Talk About when we Talk About Affinification
+title: What We Talk About when we Talk About Affinification
 date: 2024-04-29T00:00:00+00:00
 tags: [blog]
 author: Kanagen
