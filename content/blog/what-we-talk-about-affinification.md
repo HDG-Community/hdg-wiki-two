@@ -1,6 +1,6 @@
 ---
 title: What we Talk About when we Talk About Affinification
-date: 2024-09-01T14:33:03+00:00
+date: 2024-04-29T00:00:00+00:00
 tags: [blog]
 author: Kanagen
 draft: false
