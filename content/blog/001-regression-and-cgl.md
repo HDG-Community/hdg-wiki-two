@@ -67,10 +67,10 @@ These situations involve physiologically and neurologically mature adults, despi
 ## De-Aging/Underage
 This policy prohibits the following scenarios for multiple reasons, and applies equally to alien species as well as digitized or artificial sophonts:
 
-A sophont getting physically de-aged below maturity into physical childhood.
-A sophont who is physically or mentally¹ a child or otherwise not yet mature².
-A child who has been artificially age-progressed to physically or mentally resemble an adult.
-Generally speaking, any kinks, scenes or dynamics which involve a physically immature sophont at any point during the process.
+- A sophont getting physically de-aged below maturity into physical childhood.
+- A sophont who is physically or mentally¹ a child or otherwise not yet mature².
+- A child who has been artificially age-progressed to physically or mentally resemble an adult.
+- Generally speaking, any kinks, scenes or dynamics which involve a physically immature sophont at any point during the process.
 
 ¹ Given that most digitized and artificial sophonts do not have biological bodies which experience aging like humans do, maturity should be determined based on the appearance of any avatars or piloted bodies, and whether or not their baseline cognitive maturity is comparable to that of an adult. A robot constructed three years ago with comparable mental faculties to an adult human would be considered a mature sophont. An AI that has been operating for centuries which has never progressed beyond intellectual and emotional behaviors expected of a small child would not be considered a mature sophont.
 
