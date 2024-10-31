@@ -19,7 +19,7 @@ Your writing can therefore talk about familial relationships, and you can explor
 
 HDG is in many ways a kink setting, but it is also a setting that many people have tried to make consistent and coherent, and as such we can assume that the cycle of life continues. 
 
-**However, when it comes to the details of how that cycle works, we urge you not to explore them in this setting. It is simply too fraught a topic. **
+**However, when it comes to the details of how that cycle works, we urge you not to explore them in this setting. It is simply too fraught a topic.**
 
 ## Speculative Fiction and Kink
 Science fiction, as a genre, can absolutely explore questions of eugenics and the complicated ethics of raising children inside of a propaganda-heavy space empire that imposes its own values on its subjects and it's entirely reasonable to want to explore those questions. 
@@ -39,9 +39,9 @@ If you want to explore any of those topics, you'll need to do it in a different 
 ## Community Safety
 In the past, there have been instances where individuals acting in bad faith have attempted to cast the HDG setting and its authors in the worst possible light based on deliberate misinterpretations. As a result, we are well aware that including any content related to these subjects is a magnet for negative attention which can have repercussions against the setting as a whole.
 
-Children may well exist in the Affini Compact, but bigots exist in the real world, and we cannot leave room for bad-faith interpretations leading to accusations of pedophilia or supporting real world genocide. This is not saying 'no kink at pride', it's saying 'we don't want to be on the evening news'.
+**Children may well exist in the Affini Compact, but bigots exist in the real world,** and we cannot leave room for bad-faith interpretations leading to accusations of pedophilia or supporting real world genocide. This is not saying "no kink at pride", it's saying "we don't want to be on the evening news".
 
-In short, do not include children as part of your HDG stories.
+**In short, do not include children as part of your HDG stories.**
 
 This is partially a moderation decision, because nobody wants to deal with the fallout of the inevitable consequences of trying to pin this stuff down. It's partially a pragmatic decision, because we're a pile of marginalized queers and our work will not be viewed in the most generous light by the people who want to hurt us. It's partially a decision taken for the health of the community, because there are some differences of opinion that can be waved away with "idk, bond canon?" and there are some which fundamentally alter the fabric of what we are working with.
 
