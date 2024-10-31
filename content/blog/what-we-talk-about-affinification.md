@@ -1,10 +1,10 @@
 ---
-title: What We Talk About when we Talk About Affinification
+title: What We Talk about when We Talk about Affinification
 date: 2024-04-29T00:00:00+00:00
 tags: [blog]
 author: Kanagen
 draft: false
-description: _Sui Generis_ author Kanagen talks about affinification.
+description: Sui Generis author Kanagen talks about affinification.
 ---
 ## Introduction
 What we have here is a failure to communicate. 
