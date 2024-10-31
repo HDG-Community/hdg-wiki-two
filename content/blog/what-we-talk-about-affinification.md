@@ -4,7 +4,7 @@ date: 2024-04-29T00:00:00+00:00
 tags: [blog]
 author: Kanagen
 draft: false
-description: Sui Generis Author Kanagen talks Affinification
+description: *Sui Generis* author Kanagen talks about affinification.
 ---
 ## Introduction
 What we have here is a failure to communicate. 
