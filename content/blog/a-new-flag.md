@@ -40,8 +40,6 @@ For his part, Admiral Terrizzi was far more than satisfied with the outcome. He 
 
 Sadly, Admiral Terrizzi passed away a few years before the arrival of the Compact due to complications incurred by his time in microgravity over his career. Edwardo Terrizzi continued to have a prolific career as a painter under the Accord, which in turn truly blossomed in the care of the Compact. He is survived by his ramet who is still making art and raising chickens on Io to this day.
 
-<br>
-
 [^1]: If curious to learn more, please check with your owner before proceeding with your research on this subject.
 [^2]: Translation from Late Wild Italian by Meleo Ilpinphin, Second Floret.
 [^3]: This had occurred several times before this was written, notably under the Solar Union Treaties of the 22nd century and the first and second Terran Accords, which were only loosely connected to the contemporary Accord as polities (see Chapter 2 if you want to learn more!).
