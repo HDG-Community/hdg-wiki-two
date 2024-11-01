@@ -1,0 +1,22 @@
+<!-- plimage — plant image -->
+
+{{ $image_glob := printf "**/%s*" .image_name }}
+
+{{ $alt := .alt }}
+
+{{ $width := .width | default "200px" }}
+
+{{ $caption := strings.Trim .caption "\n\r " | markdownify }}
+
+<div class="img-aside img-aside-{{ .position }}">
+    {{ with resources.GetMatch $image_glob }}
+        {{ partial "images/image" (dict
+            "Page" .
+            "Filename" .Name
+            "Alt" $alt
+            "Caption" $caption
+            "Width" $width
+        )}}
+        <a class="img-permalink" href="{{.RelPermalink}}">(Permalink)</a>
+    {{ end }}
+</div>

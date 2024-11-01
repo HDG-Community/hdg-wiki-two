@@ -190,6 +190,16 @@ div .img-aside img {
   font-size: 0.7em;
 }
 
+.img-aside-main {
+  margin-top: 10px;
+  max-width: 100%;
+  padding-top: 15px;
+}
+
+.img-aside-main img {
+  border-radius: 0;
+}
+
 @media only screen and (max-width: 480px) {
   .img-aside-right {
     float: none;

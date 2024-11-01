@@ -1,11 +1,10 @@
 {{ $image_name := .Get 0 }}
 {{ $alt := .Get 1 }}
-{{ $position := .Get 2 | default "main" }}
+{{ $position := .Get 2 | default "right" }}
 
 {{ partial "plimage" (dict
     "image_name" $image_name
     "alt" $alt
     "position" $position
     "caption" .InnerDeindent
-    "width" "600px"
 ) }}

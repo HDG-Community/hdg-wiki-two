@@ -1,5 +1,7 @@
 github.com/hugomods/images v0.11.2 h1:d7u3c/ePboeOGx8OI5eUnilpA79YvD7KJjUgqVMR83Y=
 github.com/hugomods/images v0.11.2/go.mod h1:U6Gwj16LKvk66rOMyGFrnF6f0aV8lT89lqOsckOAjYY=
+github.com/kcastellino/hugo-mod-time v0.0.2 h1:xM3bBardNkMMTO/HRqtTYEEdpxsRBo61DJuTQEyl9k4=
+github.com/kcastellino/hugo-mod-time v0.0.2/go.mod h1:1N9IRhchez4k0rigONx7JvrbaGsVLp5fDs3BO4rSsyg=
 github.com/milafrerichs/hugo-wikilinks v0.0.0-20211029084251-6464e839c73a h1:0qQ/BiywfDRKZk2qS2DXvTli0qnYt2YqQ/gyIOJ7M6s=
 github.com/milafrerichs/hugo-wikilinks v0.0.0-20211029084251-6464e839c73a/go.mod h1:ICa2d3iU0rHQ6RlTDrMoLZllsBf6T0fPByvIPrfWmBQ=
 github.com/wjianbo/hugo-wikilinks v0.0.0-20211029084251-6464e839c73a h1:6F02ThH1tlbbnb785SNQbnQMpn7dzznMFoFOXdj84rY=
