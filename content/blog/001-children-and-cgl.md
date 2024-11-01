@@ -2,7 +2,7 @@
 title: On Children, Age Regression and CG/l Dynamics
 date: 2023-11-29T00:00:00+00:00
 tags: [blog]
-author: The Lorets
+authors: [The Lorets]
 draft: false
 description: A more detailed explanation of the "No Children in HDG" rule, why it matters, and what sort of content is and isn't prohibited by the policy.
 ---

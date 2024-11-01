@@ -2,7 +2,7 @@
 title: What We Talk about when We Talk about Affinification
 date: 2024-04-29T00:00:00+00:00
 tags: [blog]
-author: Kanagen
+authors: [Kanagen]
 draft: false
 description: <em>Sui Generis</em> author Kanagen talks about affinification.
 ---

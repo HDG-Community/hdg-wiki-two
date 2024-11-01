@@ -91,6 +91,8 @@ params:
   search:
     enable: true
     type: flexsearch
+  footer:
+    displayPoweredBy: false
 markup:
   goldmark:
     renderHooks:

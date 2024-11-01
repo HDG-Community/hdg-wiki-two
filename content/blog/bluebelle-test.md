@@ -2,7 +2,10 @@
 title: A bluebelle test post!
 date: 2024-09-01T14:33:03+00:00
 tags: [skoof]
-author: skoof
+authors: 
+    - name: skoof
+      link: https://skoof.ca
+      image: /img/doe_plush.png
 draft: false
 description: A test post by bluebelle!
 ---
