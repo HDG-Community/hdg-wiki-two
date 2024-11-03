@@ -11,6 +11,8 @@ welcome to the hdg wiki, nerd. Go see the [[Foundational Works]] page, or look a
 
 You can also look at our [[Archives]]!! Which we might want to rename "timeline" but idk. 
 
+You can also link to pages with [[Archives|custom text]]! And with [[Foundational Works#human-domestication-guide|anchors!]]
+
 
 ---
 ## Heading 2 

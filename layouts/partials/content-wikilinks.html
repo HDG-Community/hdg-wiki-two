@@ -1,7 +1,9 @@
 {{ $firstBracket := "\\[\\[" }}
 {{ $lastBracket := "\\]\\]" }}
+{{ $pipe := "\\|" }}
 
-{{ $wikiregex := "\\[\\[([^/]+?)\\]\\]" }}
+{{ $wikiregex := "\\[\\[([^/|]+?)(\\|([^\\]]*?))?\\]\\]" }}
+{{ $linkregex := "^([^#]*?)(#(.*?))?$" }}
 {{ $page := .Page }}
 
 {{ $wikilinks := .Content | findRE $wikiregex }}
@@ -12,15 +14,35 @@
 	{{ $content := . | replaceRE $wikiregex "$1" }}
 	{{ $content := $content | replaceRE "\\?" "\\?" }}
 
+	{{ $text := . | replaceRE $wikiregex "$3" }}
+
 	{{ $wikilink :=  printf "%s%s%s" $firstBracket $content $lastBracket }}
 
-	{{ $anchorized := $content | anchorize }}
+	{{ with $text }}
+		{{ $wikilink =  printf "%s%s%s%s%s" $firstBracket $content $pipe $text $lastBracket }}
+	{{ end }}
+
+	{{ $linkPart := $content | replaceRE $linkregex "$1" }}
+	{{ $anchorPart := $content | replaceRE $linkregex "$3" }}
+
+	{{ $anchorized := $linkPart | anchorize }}
 
 	{{ $rel := relref $page $anchorized }}
 
+	{{ with $anchorPart }}
+		{{ $rel = printf "%s#%s" $rel $anchorPart }}
+	{{ end }}
+
 	{{ $linkedPage := $page.Site.GetPage $content }}
 
-	{{ $link := printf "%s%s%s%s%s" "<a href=\"" $rel "\">" $linkedPage.Title "</a>"  }}
+	{{ $linkText := $linkedPage.Title }}
+
+	{{ with $text }}
+		{{ $linkText = $text }}
+	{{ end }}
+
+	{{ $link := printf "%s%s%s%s%s" "<a href=\"" $rel "\">" $linkText "</a>"  }}
+
 
 	{{ $noteContent := $.Scratch.Get "content" | replaceRE $wikilink $link }}
 	{{ $.Scratch.Set "content" $noteContent }}
