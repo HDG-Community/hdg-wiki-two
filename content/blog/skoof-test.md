@@ -15,6 +15,8 @@ layout: skoof
 Hello! My name is skoof! I am typing up a blog page, bleep bloop!
 This the is the page I use to test things when I don't want them to disturb the rest of the site, although inevitably I end up disturbing the site *anyways* which is a pain. 
 
+We can go to the [[Blog]]! 
+
 So, I wonder what happens when I add more body text! 
 
 # What do the different headings look like! 
