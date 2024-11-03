@@ -6,6 +6,7 @@ draft: false
 description: Feathered, high-gravity cat xenos.
 ---
 > _"It is common knowledge that one cannot, for ethical reasons, rise to disturb a cat who sleeps in one’s lap, Astrid knew. The not-quite-cat currently sleeping in her lap, however, had_ her _trapped in a much more physical sense. It was simply too heavy to move."_
+> 
 > **Promilie's [_Florets of a Feather_](https://archiveofourown.org/works/54477985/chapters/145430536), chapter 4**
 
 The khetari are feathered, cat-like sophonts endemic to the Milky Way galaxy. Though only around over a meter tall, their short stature belies an extraordinary strength and weight. Hailing from a large and unusually dense world called Söen, the khetari are adapted for gravity far higher than that of Terra, making them much tougher and heavier than they look.

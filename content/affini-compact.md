@@ -51,7 +51,7 @@ For further details, read SapphicSounds' [_For a Better Universe_](https://archi
 > 
 > 'Everyone who gets a vote, yes,' Wing scratched. 'The florets get a separate vote, but it’s just for fun. They do check up on things if it’s ever a different result from the real vote, though. I voted yes in it, for what it’s worth.'"
 > 
-> anna//bool's [_Divaricated_](https://archiveofourown.org/works/41618376/chapters/112724392), chapter 34
+> **anna//bool's [_Divaricated_](https://archiveofourown.org/works/41618376/chapters/112724392), chapter 34**
 
 The Compact is radically decentralized, and governance tends to be direct and extremely democratic. Every citizen of the Compact is entitled to their vote (even florets, though their votes are just for fun). In smaller communities, such as aboard ships or smaller stations, or in matters concerning an individual community within a larger polity, this process is direct, with every sophont involved able to comment, argue, and vote on the outcome. Terrans might recognize this as anarcho-communist commune-style organization, and plenty of other sophont cultures have developed their own versions of it independently. 
 
@@ -65,7 +65,7 @@ It should be noted that, even in Protectorates that are permitted self-governmen
 ### The Bureaucracy 
 > _“Fortunately or unfortunately depending on your look at it, affini culture has normalized the idea of having a raging fetish for bureaucratic busy work.”_
 > 
-> Fluxom's [_Abscission_](https://archiveofourown.org/works/44917270/chapters/113018647), chapter 32
+> **Fluxom's [_Abscission_](https://archiveofourown.org/works/44917270/chapters/113018647), chapter 32**
 
 The Bureaucracy is nothing less than the heart of the Affini Compact. Behind all the committees and councils and votes, behind all the domestication armadas, behind everything the Compact does, the clerks and record keepers go about their appointed tasks making sure it all performs like a well-oiled machine. The Bureaucracy holds the Compact together, and the Bureaucracy drives it ever onward. The Bureaucracy is the preferred vehicle of choice for inter-Affini flirtation and the formal stamp of approval on each and every domestication. The Bureaucracy is _everything._
 

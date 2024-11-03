@@ -7,7 +7,7 @@ description: Dinosaur-like ultraviolet swamp xenos.
 ---
 > _"'I think you mean **I** get **you** all to **my**self.' With an impish grin that made Jess's stomach turn over, Layla slipped her fingertips underneath Brrdtbdak's feather ruff and began to scritch. Almost immediately, the Vreeüt shuddered, sat back on her haunches, and extended her neck, baring the soft, smooth feathers of her underbelly. Her neck swelled, wobbling visibly as Jess felt rather than heard the sound she was making. ‘Look at you,’ Layla purred, 'you filthy Brrd, sitting on your keelbone in public. And don't think I can't tell you're making a mating call, either!'"_
 > 
-> Kanagen's [_The Floret in the Mirror_](https://archiveofourown.org/works/50435179/chapters/132731302), chapter 13
+> **Kanagen's [_The Floret in the Mirror_](https://archiveofourown.org/works/50435179/chapters/132731302), chapter 13**
 
 The vreeüt are a domesticated xenosophont species hailing from the Milky Way galaxy which share many similarities in appearance to the extinct [utahraptors](https://en.wikipedia.org/wiki/Utahraptor) and similar species of prehistoric Terra. Unlike their earthling counterparts, they sport an excellent range of vision thanks to several additional pairs of eyes, ultraviolet plumage, an extra pair of limbs, and the intelligence and social structures to create an industrial society.
 ### Quick Info

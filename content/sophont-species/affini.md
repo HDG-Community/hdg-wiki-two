@@ -58,6 +58,5 @@ A **floret** is a member of a xenosophont species who has, voluntarily or otherw
 ### The Compact 
 The **Affini Compact** is the greatest creation of the Affini, a self-sustaining non-hierarchical civilization connected by a bureaucracy that observes, records, coordinates, but does not control the lives of everyone and everything it touches. The Compact is nothing less than the manifestation of the collective wish of the Affini to make the universe a better place for all the adorable little xenosophonts that live within it.
 #### Credits
-Article by Kanagen.
-
+Article by Kanagen.  
 The affini were created by GlitchyRobo for her story [_Human Domestication Guide_](https://archiveofourown.org/works/45190954/), which you may have heard of.
