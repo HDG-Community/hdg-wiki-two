@@ -12,7 +12,9 @@ params:
 description: A test post by skoof!
 ---
 Hello! My name is skoof! I am typing up a blog page, bleep bloop!
+Below, I'm going to try add a partial that grabs the `decoration` field of this page, which should be "accord":
 
+{{ partial "decoration" .Params}}
 So, I wonder what happens when I add more body text! 
 
 # What do the different headings look like! 
