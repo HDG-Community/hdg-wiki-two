@@ -43,13 +43,13 @@ The Affini might rest on occasion, but the Compact never does, reaching out furt
 
 For further details, read SapphicSounds' [_For a Better Universe_](https://archiveofourown.org/works/47826115/chapters/120569920). 
 ## Government
-> _"Wing gestured around at the entire ship. 'We took a vote. Two thousand four hundred and five for, three hundred two against. We take this stuff really seriously, Katie.'
+> "Wing gestured around at the entire ship. 'We took a vote. Two thousand four hundred and five for, three hundred two against. We take this stuff really seriously, Katie.'
 > 
 > \[…\]
 > 
 > 'So when you say we, you mean… everyone?'
 > 
-> 'Everyone who gets a vote, yes,' Wing scratched. 'The florets get a separate vote, but it’s just for fun. They do check up on things if it’s ever a different result from the real vote, though. I voted yes in it, for what it’s worth.'"_
+> 'Everyone who gets a vote, yes,' Wing scratched. 'The florets get a separate vote, but it’s just for fun. They do check up on things if it’s ever a different result from the real vote, though. I voted yes in it, for what it’s worth.'"
 > 
 > anna//bool's [_Divaricated_](https://archiveofourown.org/works/41618376/chapters/112724392), chapter 34
 
