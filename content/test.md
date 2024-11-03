@@ -9,4 +9,4 @@ description: A test post by Annabelle
 
 test content woo
 
-let's go to [[high maintenance houseplant]]
+let's go to high maintenance houseplant (I broke the link here and the site wouldn't build without it -teagan)
