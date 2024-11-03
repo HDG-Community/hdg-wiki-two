@@ -1,5 +1,5 @@
 ---
-title: A bluebelle test post!
+title: A skoof test post!
 date: 2024-09-01T14:33:03+00:00
 tags: [skoof]
 authors: 
@@ -7,9 +7,14 @@ authors:
       link: https://skoof.ca
       image: /img/doe_plush.png
 draft: false
-description: A test post by bluebelle!
+keywords:
+- bunny
+- skoof
+- beep
+- deer
+description: A test post by skoof!
 ---
-Hello! My name is bluebelle! I am typing up a blog page, bleep bloop!
+Hello! My name is skoof! I am typing up a blog page, bleep bloop!
 
 So, I wonder what happens when I add more body text! 
 
