@@ -1,7 +1,10 @@
 ---
 title: A New Flag
 date: 2024-09-02T00:00:00+00:00
-authors: [teagan]
+tags:
+  - blog
+authors:
+  - teagan
 draft: false
 description: A diagetic look at the history of the flag of the Terran Accord.
 ---

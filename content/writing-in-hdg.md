@@ -5,8 +5,7 @@ author: The Lorets
 draft: false
 description: Guidelines for writing HDG according to pre-established setting requirements, out-of-narrative rules, and lore-based precedent.
 ---
-
-# Writing Guidelines for HDG
+## Writing Guidelines for HDG
 Human Domestication Guide, as a collective project, began as a small community of a few writers engaging in collaborative worldbuilding, checking in with each other and ensuring that everyone's fics aligned to create a kind of metacontinuity where everything was interconnected or *could* interconnect with everything else. This is what created the "vibes" that ultimately make HDG what it is, and that are so crucial to the overall feel and tone of the setting. 
 
 But HDG has grown exponentially since those early days. It's no longer really possible to write in the mainline HDG universe and reasonably expect to be in active conversation with every other writer working in the setting. At the same time, a "fanfic standard" anything-goes approach would see HDG quickly lose that essential element that made it so unique and so attractive in the first place. Somewhere between strict canon and total chaos, we need to find a place of flexibility and adaptability, to ensure that HDG can continue to grow as a unified setting *and* community while still retaining the qualities that drew so many of us to it. 
@@ -19,7 +18,7 @@ The following Axioms & Rules are intended to clarify the nature of what makes an
 
 > Be sure to also check out the [Foundational Works](/FoundationalWorks) page, as the stories on there we very much recommend you read if you want to write in the setting, as there is no replacement for getting a handle on the themes and feel of the setting than reading the stories themselves.
 
-# Axioms
+## Axioms
 An axiom is a statement that is taken to be true as a foundation for further argument or logic. Here, we use “axiom” to refer to essential core traits of HDG. If you change these principles, the story that emerges is not going to fit with the general tenor, themes, and ideas of HDG. Consequently, if a story concept you're nurturing runs up against or even contradicts one of these axioms, we politely ask that you either adjust your story to fit or develop your own setting to write the story in. 
 
 The following are HDG axioms: 
@@ -31,7 +30,6 @@ The Affini want to help you, and they will do everything in their power to do so
 If you give the Affini a surface-level examination, they look pretty awful, but when an abusive human says "it's for your own good," it's an excuse. It's a deflection. It's a way to justify what they're doing to you. When the Affini say it, ***it’s true***. They make it true, sometimes through bizarre and even unethical means (by human standards), but you *will* be better off when they’re done. The Affini value other sophonts so highly that they have built their entire culture, an entire multiple-galaxy-spanning empire, not just around helping the ones they co-evolved with, but helping every sophont, everywhere. Affini will (and frequently do!) risk their lives to protect sophonts that are trying to kill them. 
 
 Not every affini will use methods like these. Some affini are, in fact, quite gentle. Some sophonts don't need (from the Affini perspective) such strong influence to bend them to their will. The degree to which affini do questionable things (from the human perspective) to their florets will vary from author to author (largely based on what they find hot/want to write about), but regardless of the affini's behavior, their ultimate goal is always, *always*, to help the sophont in question, to leave them in a better place than the affini found them, and to make them happy. While this means a floret can get a lot of mileage out of pleading in an adorable manner, it doesn’t mean that the affini will do literally anything a floret asks of them. Sometimes pets don’t know what’s good for them, after all.
-
 ### The Affini Are Imperialist 
 What if you feel okay on your own? What if you don't *want* the Affini Compact running the show? What if you're already a communist society and are doing your level best to ensure everyone gets what they need? 
 
@@ -54,7 +52,7 @@ The long answer is, well, longer. Most sophonts who claim that material accumula
 Those rare sophonts who, even in a post-scarcity society, still obsess over and pursue material wealth for its own sake may require therapy and possibly a wardship, both of which the Affini will happily provide, until such a time as they're able to unclench from the trauma of having lived under capitalism. Sophonts upset that their former wealth and stature in society no longer affords them special privileges will likely end up in the same boat. Those who truly cannot adapt will be domesticated, and the problem will be solved to everyone's satisfaction — the Affini will make sure the new floret agrees wholeheartedly.
 
 Games or simulated economies are, potentially, permissible under the Compact, but these will be strictly controlled, especially in the context of a culture, like Terrans, still recovering from capitalism. Essentially, any economy game the Affini tolerate will have about as much social meaning as your score in Cookie Clicker — just because the computer _says_ you have fifteen quadrillion cookies does not mean you get fifteen quadrillion actual cookies.
-# Rules
+## Rules
 Unlike narrative axioms, the HDG Rules exist for out of universe reasons. They're in place not because transgressing them would result in a story that doesn't mesh with the themes of HDG, but because transgressing them is unhealthy or even dangerous for the community. If you have a story concept or a lore question that runs up against the Rules, please reconsider what you're doing. 
 ### Don't Discuss Children, Reproduction, or Anything Related to Them 
 The HDG universe is unavoidably immersed in kink. Even if you write a story that's totally free from onscreen sex, there's no avoiding the inherent kink dynamic that the Affini bring to literally everything they do — it's baked into the structure of their society. It's for this reason that we disallow the discussion of reproduction, children in the context of affini, and topics related to these issues. This applies not only to human reproduction, but to xenosophont reproduction and even Affini reproduction. 
@@ -67,7 +65,7 @@ We understand that, given the overwhelmingly transfem nature of our community, s
 
 **Do not break this rule. Do not test its boundaries. Do not tiptoe up to it and insist you aren't touching it. It exists for a reason, and it will not be removed, watered down, or otherwise reduced in scope.** 
 
-(Note that this rule does *not* rule out forms of kink like oviposition, etc, as long as no actual reproduction takes place, nor does it rule out forms of kink like [CG/L](/blog/001-children-and-cgl)).
+(Note that this rule does *not* rule out forms of kink like oviposition, etc., as long as no actual reproduction takes place, nor does it rule out forms of kink like [CG/l](/blog/001-children-and-cgl)).
 ### No Targeted Fics
 HDG touches on some very sensitive topics, and writers are frequently exploring personal experiences through the lens of fiction (this is not unusual; a lot of fiction is writers airing their dirty laundry in print in one way or another). For this reason, we ask members of the community to be considerate when interacting with stories, lore, and *especially* writers, and to not use those stories as a vehicle for grudges, a roundabout way of winning an argument, etc. We especially ask that you not write stories specifically targeting other stories; 'fixfic' is a common occurrence in other fandoms, but those fandoms are very unlikely to find the author of the source material in question reading said 'fixfics.' We want to ensure HDG remains a healthy, vibrant, and safe creative community. 
 
@@ -76,7 +74,7 @@ Part of what made the original HDG setting what it is in the first place is that
 But HDG isn't some franchised IP owned by a megacorp or notorious bigot. It all started from a group of friends trying to make something together, elevating each others' ideas and bouncing ideas back and forth. Writing out from an antagonistic position towards another author's ideas and hard work creates a much more hostile and inconsiderate community, compared to the spirit of mutual understanding, compassion and earnest enthusiasm which led to most of the foundational works and influential concepts.
 
 This rule does not include satire, though if you’re going to rope a specific fic or characters into that satire, it’s best to check with the author first to make sure what you’re writing won’t be hurtful or cause any problems — this is generally a good practice if you plan to tie your story into someone else’s, satire or otherwise. 
-# Lore
+## Lore
 Lore is all the little details about the setting; if the Axioms are what makes HDG what it is, Lore is what makes the Terran Pacification Campaign of 2550 what it is. In short, it's all the recognizable signposts that a story is working within the shared core setting of Human Domestication Guide.
 
 Back when the setting was a small group of authors collaborating, they established the canon lore of HDG together, and other authors have added to it since. Not every story written since then has fit neatly or at all into the collaborative shared setting, but a great many authors have taken the time to read through HDG stories and the wiki to share in this collaborative worldbuilding project.
@@ -87,7 +85,6 @@ We encourage authors to write stories in the core HDG setting, though out of res
 
 **To emphasize: none of these lists are intended to be an exhaustive or full treatment, and there are absolutely things that don’t appear in the examples given below that you may run into!** Lore categories serve first and foremost as a shorthand for us to help explain why some ideas work in Lore and others don't. If you’re uncertain what category an aspect of Lore fits into, ask a Loret on the HDG Discord!
 ### Hard Lore
-
 Hard Lore are those things about the setting that are set in stone, because changing them upsets continuity across the shared setting so badly that it's functionally kicking over everyone else's sand castle to make your own. Hard Lore isn't quite an Axiom, but it's the next best thing - if you want to fiddle around with something in Hard Lore, you should consider an Alternate Universe, or AU, that completely changes the setup and premise of the setting. (See below for details on AUs in HDG.)
 
 **Examples of Hard Lore include, but are not limited to:**
@@ -99,7 +96,6 @@ Hard Lore are those things about the setting that are set in stone, because chan
 + Florets cannot be un-floreted once given the haustoric implant.
 + The Affini, at least as of the 2550s, have not worked out how to make humans biologically immortal. 
 ### Firm Lore
-
 Firm Lore consists of those things that are general rules that ought to be followed in most cases, but might be shiftable with a good excuse or a clever premise. Things in this category can still cause widespread issues, so tread carefully and ask the Lorets before plunging in (and please, listen to the Lorets’ suggestions on how you can shift things to work!). We strongly recommend reading the Foundational Works at a minimum, and ideally having already written a fic or two, before trying to change things up or push the boundaries of Lore. In the list below, we include examples for how one might bend Firm Lore without breaking it in the service of a story as a way to illustrate what we mean. 
 
 **Examples of Firm Lore include, but are not limited to:**
@@ -108,16 +104,13 @@ Firm Lore consists of those things that are general rules that ought to be follo
 + It can take anywhere from 4-6 weeks for a modern Terran starship, circa 2550, to make a journey from Earth to the fringes of Terran space, roughly on par with travel times (and safety numbers!) of the Terran Age of Sail when sailing from one side of the planet to the other was a significant and still quite dangerous undertaking; *but*, if one were in a packet or courier ship with priority clearance, ready access to refueling along the way, and the ability to vent heat and replenish coolant in short order, one might be able to do it in 3 weeks or even a bit less - though this would be very expensive in the Accord!
 + Affini usually get nutrients through mineralized nutrient water or similar sources that don't match human conceptions of eating; but they can also absolutely have physiology that allows or even requires them to eat in a more 'humanlike' (or some other xeno-like) manner if your story needs them to; see [*Abscission*](https://archiveofourown.org/works/44917270/chapters/113017723) for an example.
 ### Soft Lore
-
 Soft Lore represents setting detail that is established but not firmly set, and can therefore be played around with a bit more - as always, writers should be careful not to make hard and fast pronouncements that make sweeping alterations to the setting. Rather, Soft Lore represents gray areas or places where space is intentionally left for writers to add their own little bit to the setting.
 
 **Examples of Soft Lore include, but are not limited to:**
-
 + While the Terran Accord is a fascist state and the day-to-day life in the colonies is often run by corporations, as a government its structure is purposely left undefined. It's easy to write your own take on how a locality or a particular sector of the Accord is governed; for example, you want to write about a planet where the corporate failsons of yore decided they wanted to bring back monarchy, but this time it's on the *blockchain*!
 + Terran starships must rely on a spinning section to generate gravity (except under thrust, but they can't burn all the time), and even the Affini do so in almost all applications. That said, no one's going to get on your case about how you depict free-fall or criticize you for not including a detailed description of a Hohmann Transfer, especially if it's incidental to the story and you just don't want to deal with physics and math for the five minutes of prologue before the Affini break in and capture everyone.
 + An Affini reblooming usually takes no more than a day or so, but it can be rushed in emergency situations or can take longer (up to years!) in certain cases. The oft repeated line is, ‘it happens as fast as plot demands it!’
 ### Local Lore
-
 Along with the three levels of Lore discussed above, there's a fourth, special category of Local Lore. This is Lore tied to a specific place in the setting (a planet, a ship, etc) and usually to a specific story - for example, the history of Solstice (from [*No Gods, No Masters*](https://archiveofourown.org/works/44810131/chapters/112743301)) or Kevera (from [*Courtship*](https://archiveofourown.org/works/48043465/chapters/121139263)). While Local Lore is subordinate to the other levels of Lore, in that those take precedence (Local Lore doesn’t let you, for example, make a planet in the core setting where magic is real), Local Lore is otherwise precisely as Hard, Firm, or Soft as the original creator says it is. If you want to write something that touches on or even takes place in a defined part of the setting, please get in touch with the author who created that part of the setting and ask them if what you'd like to do aligns with Local Lore before you commit to anything in your story!
 ### Alternate Universes
 While most authors have focused on the core HDG setting, many have added their own unique takes on HDG that depart from the shared story universe. Examples include the Bioimmortal AU, (one of the earliest AUs to develop), in which the haustoric implant makes florets immortal to remove the possibility of floret death entirely from narrative consideration; the HDG72 AU, in which (as you might have guessed from the name) the Affini arrive around Earth in 1972 rather than 2554; and the Fantasy AU, where the Affini are extraplanar fey-like entities bent on, well, much the same as their sci-fi counterparts.
