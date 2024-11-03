@@ -6,12 +6,12 @@ draft: false
 description: Powerful shapeshifting plant xenos and the self-appointed caretakers of all sophont life.
 ---
 ### Quick Info 
-**Homeworld:** Unknown
-**Home System**: The Core Worlds (Triangulum Galaxy)
+**Homeworld:** Unknown  
+**Home System**: The Core Worlds (Triangulum Galaxy)  
 **Native Gravity:** Roughly 0.3g
 
-**Circadian Rhythm:** Variable
-**Lifespan:** Potential infinite; reblooms every 100-300 years on average
+**Circadian Rhythm:** Variable  
+**Lifespan:** Potential infinite; reblooms every 100-300 years on average  
 **Domesticated:** Occasionally
 
 **Names:** Highly variable; typically drawn from local terminology for flora
