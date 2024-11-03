@@ -1,7 +1,7 @@
 ---
 title: Glossary
 date: 2024-10-30T00:00:00+00:00
-author: The Coordinators
+authors: The Coordinators
 draft: false
 description: A glossary of terms relating to the HDG setting and community.
 ---

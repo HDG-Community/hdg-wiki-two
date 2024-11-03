@@ -1,7 +1,7 @@
 ---
 title: Writing in HDG
 date: 2024-10-30T00:00:00+00:00
-author: The Lorets
+authors: The Lorets
 draft: false
 description: Guidelines for writing HDG according to pre-established setting requirements, out-of-narrative rules, and lore-based precedent.
 ---

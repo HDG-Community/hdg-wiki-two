@@ -1,9 +1,10 @@
 ---
 title: Kanaposting
-tags: [Kanagen]
-author: Kanagen
+tags:
+  - Kanagen
+authors: Kanagen
 draft: false
-description: Kanaposting for testing Hugo (HUGO!) 
+description: Kanaposting for testing Hugo (HUGO!)
 ---
 and then one day you find
 

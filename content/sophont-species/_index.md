@@ -1,7 +1,7 @@
 ---
 title: Sophont Species
 date: 2024-11-03T00:00:00+00:00
-author: The Lorets
+authors: The Lorets
 draft: false
 description: The many different species who live in the universe.
 ---

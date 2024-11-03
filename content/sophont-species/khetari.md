@@ -1,7 +1,7 @@
 ---
 title: Khetari
 date: 2024-11-03T00:00:00+00:00
-author: Promilie
+authors: Promilie
 draft: false
 description: Feathered, high-gravity cat xenos.
 ---

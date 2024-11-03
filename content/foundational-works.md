@@ -1,7 +1,7 @@
 ---
 title: Foundational works
 date: 2024-11-02T00:00:00+00:00
-author: The Lorets
+authors: The Lorets
 draft: false
 description: A collection of works intended to give a solid overview of the setting and its themes.
 ---

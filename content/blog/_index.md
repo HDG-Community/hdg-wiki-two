@@ -1,11 +1,11 @@
 ---
 title: Blog
 date: 2024-09-01T14:33:03+00:00
-author: multiple
+authors: multiple
 draft: false
 description: All of our blog posts
 cascade:
-    type: blog
+  type: blog
 ---
 
 Look below for the whole list of blog posts! 
