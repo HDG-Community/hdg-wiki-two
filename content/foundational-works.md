@@ -32,7 +32,7 @@ Fluxom - [Archive of Our Own](https://archiveofourown.org/works/44917270/)
 
 One of the earliest stories in the setting, *Abscission* took everything the original introduced and ran with it. From wardships to cotyledons to the xenodrug classification system as we know it to many other of the setting’s hallmark elements, there is a strong argument to be made that this is as much the *Abscission* setting as it is the *Human Domestication Guide* one.
 ### Divaricated
-annabool - [Archive of Our Own](https://archiveofourown.org/works/41618376/)
+anna//bool - [Archive of Our Own](https://archiveofourown.org/works/41618376/)
 
 > *After Katie detonates her ship’s jump drive in a desperate attempt to stop an Affini boarding operation, she and the troubled Thatch Aquae are flung through hyperspace and stranded on a seemingly uninhabited planet, lightyears from home. With no one to save them but each other, the two unlikely compatriots find themselves growing into something new and all the more beautiful together without even realizing it.*
 
