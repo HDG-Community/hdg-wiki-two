@@ -7,11 +7,8 @@ authors:
       link: https://skoof.ca
       image: /img/doe_plush.png
 draft: false
-keywords:
-- bunny
-- skoof
-- beep
-- deer
+params:
+  decoration: accord
 description: A test post by skoof!
 ---
 Hello! My name is skoof! I am typing up a blog page, bleep bloop!
