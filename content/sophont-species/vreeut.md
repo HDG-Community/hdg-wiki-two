@@ -32,9 +32,9 @@ Examples: Brrdbtdak, Tekshtmaret, Tothtarri, Driknatht
 > 
 > All Vreeüti words in this article are transliterated based on the Rrrrchktüma language (in other words, Terransong Rrrrchktüma), which has the largest number of extant speakers. Terrans familiar with other Vreeüti languages (such as Rrrrtkaat or especially Rrrraü'ek, popularized by the program _Sabine and Selenipedium_) or their Terransong equivalents may adopt other conventions of transliteration.
 ## Appearance & Physiology
-{{< aside vreeut_uncouth_promilie "A detailed digital painting of a vreeüt. They have a speech bubble saying 'How uncouth!'" >}}
+{{< image vreeut_uncouth_promilie "A detailed digital painting of a vreeüt. They have a speech bubble saying 'How uncouth!'" >}}
     Art by Promilie.
-{{< /aside >}}
+{{< /image >}}
 
 Vreeüt are hexapedal [dromaeosaurid](https://en.wikipedia.org/wiki/Dromaeosauridae) analogues from a star in the [Centaurus Arm](https://en.wikipedia.org/wiki/Scutum%E2%80%93Centaurus_Arm) of the Milky Way. They’re large, heavily built, ground-dwelling omnivores (preferring a heavily fish-or-meat based diet), averaging 4-5 meters in length from head to tail with hips roughly 1.5-1.8 meters in height, massing roughly 280-350 kilograms. Females are larger than males, with a shaggier coat of feather analogues. Both males and females appear relatively drab to humans, as their coloration is primarily in the ultraviolet part of the visible light spectrum.
 
