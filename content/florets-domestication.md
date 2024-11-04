@@ -29,19 +29,19 @@ A _wardship_ is essentially a temporary domestication; an affini takes charge of
 
 Involuntary domestications may also happen directly, without the wardship pipeline. This is most common early on in domestication campaigns, when some xenosophont species choose to resist domestication when the Affini arrive. However, even after cultural domestication, a xenosophont who resorts to violence (especially against affini, and _especially_ especially against florets!) will often be summarily domesticated. Other feral behaviors, such as spreading anti-Affini propaganda or attempting to subvert organs of bureaucracy, may have the same result. The conditions for when xenosophonts can be summarily domesticated are spelled out in that xenosophont's relevant Domestication Treaty. 
 ### Domestication Contracts
-The Affini are culturally obsessed with bureaucracy and paperwork, so it should come as no surprise that one of the central features of taking a floret involves a contract spelling out in exact terms what the relationship between the floret and their owner will be. While each contract is unique and lovingly drawn up by a floret-to-be's affini, there are several standard terms that virtually all such contracts contain. This example is drawn from Chapter 7 of [Human Domestication Guide](https://archiveofourown.org/works/45190954/chapters/134224312#workskin). 
+The Affini are culturally obsessed with bureaucracy and paperwork, so it should come as no surprise that one of the central features of taking a floret involves a contract spelling out in exact terms what the relationship between the floret and their owner will be. While each contract is unique and lovingly drawn up by a floret-to-be's affini, there are several standard terms that virtually all such contracts contain. This example is drawn from chapter 7 of [_Human Domestication Guide_](https://archiveofourown.org/works/45190954/chapters/134224312). 
 
-- Above all else, you, \[floret's first name here\], must obey your Guardian, \[Affini name here\] in all things. This is for your safety, wellbeing, and care. 
-- Your Guardian, \[Affini name here\], owns you. You are her property. You do not have political rights in the Affini Compact. 
-- You do have a guarantee of your wellbeing, as defined in § 57 of the Human Domestication Treaty. 
-- This guarantee of wellbeing does not preclude your Guardian from disciplining you, as outlined in § 61 of the HUman Domestication Treaty. 
-- As the property of your Guardian, she may add, remove, or modify conditions your wardship at any time for any reason within the limits established by the Human Domestication Treaty. 
-- Your full name is \[floret's full name here\] from this moment forward. 
+> - Above all else, you, \[floret's first name here\], must obey your Guardian, \[Affini name here\] in all things. This is for your safety, wellbeing, and care. 
+> - Your Guardian, \[Affini name here\], owns you. You are her property. You do not have political rights in the Affini Compact. 
+> - You do have a guarantee of your wellbeing, as defined in § 57 of the Human Domestication Treaty. 
+> - This guarantee of wellbeing does not preclude your Guardian from disciplining you, as outlined in § 61 of the HUman Domestication Treaty. 
+> - As the property of your Guardian, she may add, remove, or modify conditions your wardship at any time for any reason within the limits established by the Human Domestication Treaty. 
+> - Your full name is \[floret's full name here\] from this moment forward. 
 
 Other terms may be added as the affini taking the floret desires. If the floret has volunteered, they often have a great deal of leeway to negotiate stipulations of their own. 
 
 > The "political rights" that florets give up are nebulous at best. While florets do get a vote (for fun!), that vote doesn't count; however, if a substantial proportion of florets vote against something, the affini don't simply ignore it. These are _florets_ we're talking about, after all! 
-### Florets of all Kinds 
+### Florets of All Kinds 
 There are several modifiers one may encounter after a floret's name, such as "Pinnate" or "Pluribus." These are terms that further specify conditions relating to, or further identify, a floret. These terms are considered so central to the floret's identity that they are formally encoded in their name. 
 #### Connivents
 Connivents are florets belonging to the same affini. For example, if Kasey Abronia is Thrysiflora Abronia's Third Floret, her First and Second Florets are Kasey's connivents. There is no further implied relationship between connivents, and so this term is not added to a floret's name; it's simply an umbrella category. 

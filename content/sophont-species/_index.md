@@ -5,4 +5,11 @@ authors: The Lorets
 draft: false
 description: The many different species who live in the universe.
 ---
-wow there sure are a lot of cuties out there (teagan is just getting this temporarily in place as the index for the species articles we do have)
+## Under Construction!
+The Lorets and the rest of the folks working on the Guide are working hard on getting everything up and into tip-top shape, but we haven't reached here yet!
+
+For more information on the HDG Site Rework, check out this blog post!
+
+{{< image under_construction_promilie "An illustration of a terran, rinan, and khetari in hard hats and high-vis vests. The terran and rinan are looking at a blueprint while the khetari is carrying a steel beam." >}}
+    Art by Promilie.
+{{< /image >}}
