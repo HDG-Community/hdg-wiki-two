@@ -48,5 +48,6 @@ With all the love of the Everbloom,
 teagan & the rest of the Lorets
 
 {{< image terran_and_xaa_reading_teagan "A digital painting of an older terran and a xa'a-ackétøth smiling at each other while reading books." >}}
-    Don't think too hard about how the Xa'a is breathing. They've got biomods or something. Art by teagan.
+    Don't think too hard about how the Xa'a is breathing. They've got biomods or something.
+    Art by teagan.
 {{< /image >}}
