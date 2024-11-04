@@ -5,6 +5,11 @@ authors: Kanagen
 draft: false
 description: Dinosaur-like ultraviolet swamp xenos.
 ---
+{{< aside vreeut_stylized_promilie "A stylized illustration of a vreeüt looking at the viewer." >}}
+    A friendly vreeüt.
+    Art by Promilie.
+{{< /aside >}}
+
 > _"'I think you mean **I** get **you** all to **my**self.' With an impish grin that made Jess's stomach turn over, Layla slipped her fingertips underneath Brrdtbdak's feather ruff and began to scritch. Almost immediately, the Vreeüt shuddered, sat back on her haunches, and extended her neck, baring the soft, smooth feathers of her underbelly. Her neck swelled, wobbling visibly as Jess felt rather than heard the sound she was making. ‘Look at you,’ Layla purred, 'you filthy Brrd, sitting on your keelbone in public. And don't think I can't tell you're making a mating call, either!'"_
 > 
 > **Kanagen's [_The Floret in the Mirror_](https://archiveofourown.org/works/50435179/chapters/132731302), chapter 13**
@@ -27,6 +32,10 @@ Examples: Brrdbtdak, Tekshtmaret, Tothtarri, Driknatht
 > 
 > All Vreeüti words in this article are transliterated based on the Rrrrchktüma language (in other words, Terransong Rrrrchktüma), which has the largest number of extant speakers. Terrans familiar with other Vreeüti languages (such as Rrrrtkaat or especially Rrrraü'ek, popularized by the program _Sabine and Selenipedium_) or their Terransong equivalents may adopt other conventions of transliteration.
 ## Appearance & Physiology
+{{< aside vreeut_uncouth_promilie "A detailed digital painting of a vreeüt. They have a speech bubble saying 'How uncouth!'" >}}
+    Art by Promilie.
+{{< /aside >}}
+
 Vreeüt are hexapedal [dromaeosaurid](https://en.wikipedia.org/wiki/Dromaeosauridae) analogues from a star in the [Centaurus Arm](https://en.wikipedia.org/wiki/Scutum%E2%80%93Centaurus_Arm) of the Milky Way. They’re large, heavily built, ground-dwelling omnivores (preferring a heavily fish-or-meat based diet), averaging 4-5 meters in length from head to tail with hips roughly 1.5-1.8 meters in height, massing roughly 280-350 kilograms. Females are larger than males, with a shaggier coat of feather analogues. Both males and females appear relatively drab to humans, as their coloration is primarily in the ultraviolet part of the visible light spectrum.
 
 They have four pairs of eyes, two of which line their flanks and two of which sit on their head, one on the nasal ridge on top of their cranium, the other lower on their skull — only this last pair is arranged for binocular vision, while the rest provide a nearly 360 arc of peripheral vision (albeit at lower resolution than the binocular pair). All eyes possess nictitating membranes.
@@ -35,6 +44,10 @@ The ancestor species of the vreeüt were semiaquatic opportunistic carnivores, p
 
 Vreeüt possess a structure analogous to a gular sac, which they use to greatly amplify the volume of their calls. A fully grown vreeüt can generate sounds in excess of 130 decibels, though with little vocal finesse; such calls are only used for long-distance infrasonic signaling, or in some Vreeüti forms of performance art. While they lack a larynx per se, the Vreeüti pharynx is extremely flexible; like some Terran avians, Vreeüt are natural mimics, able to reproduce many sounds, and so most vreeüt find it quite easy to speak other languages, even ones that ordinarily require different anatomy to do so.
 ## Culture & History
+{{< aside vreeut_swamp_promilie "A digital painting of a vreeüt slashing their way through a swamp, with a vreeüti city in the background." >}}
+    Art by Promilie.
+{{< /aside >}}
+
 Most vreeüt ancestor species were largely solitary hunters, who reared their young before sending them off to establish their own territories. Their immediate ancestor species, however, developed the practice of limited familial association and cooperative hunting beyond adolescence; as family units stuck together and applied their knack for problem-solving to survival, they became more successful, and rapidly proliferated. Within a hundred thousand years, they went from regional apex predator to dominant species on their homeworld of Aü'tkcha.
 
 Paleovreeütology has placed the development of language after this point; however, there is some evidence that earlier species may have had limited capacity for language and abstract problem-solving as well. Since these species are long-extinct, however (the closest relative of the vreeüt is a tree-dwelling omnivore not unlike a feathered flying squirrel), and since these species did not develop any form of writing, it's impossible to say for certain.
