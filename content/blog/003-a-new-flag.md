@@ -26,7 +26,7 @@ Edwardo Terrizzi was the admiral's nephew and he had dreams to become an artist 
 
 The Accord's existing flag dated back to the mid 2200s, where it was originally created as a banner for just the Sol System. The discussion of a new flag would routinely pop up every so often, but it seldom garnered much proper attention, mostly as the domain of insignificant rookie politicians. The younger Terrizzi had nonetheless drawn up a design and put it onto the desk of an actually important figure in Accord politics. Furthermore, the design had an ardent supporter - the renowned admiral himself, who was not just doing this as a family favor - he wanted to see this flag adopted.
 
-{{< image accord_flag_teagan "A reddish-purple flag with the image of Earth in gold flanked by a wolf and an eagle. Behind the figures in gold is laurels in green and stars in each of the cardinal directions. Along the bottom is text which reads "Spiritus Invictus Terra per Astra Lucebit Aeterna." >}}
+{{< image accord_flag_teagan "A reddish-purple flag with the image of Earth in gold flanked by a wolf and an eagle. Behind the figures in gold is laurels in green and stars in each of the cardinal directions. Along the bottom is text which reads 'Spiritus Invictus Terra per Astra Lucebit Aeterna.' >}}
     Edwardo Terrizzi's flag for the Accord. Design by teagan.
 {{< /image >}}
 
