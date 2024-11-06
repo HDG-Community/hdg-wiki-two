@@ -2,7 +2,7 @@
 title: A New Flag
 date: 2024-09-02T00:00:00+00:00
 tags:
-  - blog
+  - skoof
 authors:
   - teagan
 draft: false
