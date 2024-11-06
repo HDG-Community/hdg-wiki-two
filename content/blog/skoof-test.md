@@ -10,6 +10,7 @@ draft: false
 params:
   decoration: accord
 description: A test post by skoof!
+type: page
 ---
 Hello! My name is skoof! I am typing up a blog page, bleep bloop!
 This the is the page I use to test things when I don't want them to disturb the rest of the site, although inevitably I end up disturbing the site *anyways* which is a pain. 
