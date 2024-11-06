@@ -1,21 +1,19 @@
 ---
 title: The Canon is Dead, Long Live the Canon
 date: 2024-09-15T00:00:00+00:00
-tags:
-  - blog
-authors:
-  - teagan
+tags: blog
+authors: teagan & the Lorets
 draft: false
 description: Changes to the Lorets' approach to the curation of the HDG setting.
 ---
 
 _Coordinators' Notes - This article was originally published to the [old wiki](https://humandomestication.guide/en/blog/CanonIsDead) and makes references to that version of the sight, to clear up any confusion._
 ### The Story Thus Far
-In April of the far off, distant year of 2021, GlitchyRobo posted the first parts of *Human Domestication Guide* to ReadOnlyMind as a standalone sci-fi horror kink story. In the following months, a handful of stories expanding on the setting of the original appeared on ROM, notably Fluxom’s *Abscission* and Wayril’s *Hospitable Takeover* being the earliest. Behind the scenes, these and more early authors were talking to each other, and, as more stories got published, more folks got interested in writing in and contributing to the development of the setting.
+In April of the far off, distant year of 2021, GlitchyRobo posted the first parts of *Human Domestication Guide* to ReadOnlyMind as a standalone sci-fi horror kink story. In the following months, a handful of stories expanding on the setting of the original appeared on ROM, notably Wayril’s[ _Hospitable Takeover_](https://readonlymind.com/@Wayril/HospitableTakeover/) and Fluxom’s [_Abscission_](https://archiveofourown.org/works/44917270/) being the earliest. Behind the scenes, these and more early authors were talking to each other, and, as more stories got published, more folks got interested in writing in and contributing to the development of the setting.
 
 Eventually, the HDG wiki was created, primarily as a resource for authors to check established conventions and setting information, lest various details be lost to the sands of Discord conversation backlogs and the ever-growing number of published stories (before long there were *dozens* of them!). On the wiki, a page was created to gather and list all the stories and other media created for the setting - if someone made something, it got linked there.
 
-This worked fine for a while, but as the community of authors continued to grow and more and more works began to be created, some did not mesh with the setting as well as others did. So, the list of stories was tweaked to become what is now known as the [Verified Canon Works](/other-works) page – a list of the stories which the early authors considered to be part of the setting and generally, well, part of the *canon* of the setting. Works already on the list were generally grandfathered in, but new works were first discussed among the early authors (a group which eventually became the Lorets) to see if they fit within the larger body of work in the setting before being added as a canon work.
+This worked fine for a while, but as the community of authors continued to grow and more and more works began to be created, some did not mesh with the setting as well as others did. So, the list of stories was tweaked to become what is now known as the [Verified Canon Works](https://humandomestication.guide/other-works) page – a list of the stories which the early authors considered to be part of the setting and generally, well, part of the *canon* of the setting. Works already on the list were generally grandfathered in, but new works were first discussed among the early authors (a group which eventually became the Lorets) to see if they fit within the larger body of work in the setting before being added as a canon work.
 ### The Issues
 Those of you who have been around for a little bit have probably noticed that the Verified Canon Works page has been fairly… stagnant for well over a year now, apart from the occasional addition, which have been the exception rather than the rule. Originally, every work which was written was reviewed and discussed, but as the setting and the community continued ever more to grow and grow, that task quickly outstripped the scope of what the Lorets could handle.
 
@@ -33,7 +31,7 @@ To that end, we have several plans ongoing. Firstly, is the fabled Wiki Rework. 
 
 While we are no longer designating stories as “canon” anymore, we want to use these places we’re working on to highlight stories we love in the setting. Throughout this site, we’re working to include pointers to stories relating to the topics at hand and pulling excerpts in order to contextualize information. Additionally, we want to use the blog to recommend new stories that have caught our eye as well as old gems which newcomers might easily miss, not to mention the many amazing non-writing projects in the setting which are often overlooked by the spotlight.
 ### Foundational Works
-The first of these efforts to call attention to stories we find important to the setting is the new [Foundational Works page](/FoundationalWorks). These seven stories were chosen by the Lorets due to their representation of the setting, as well as their role in forming what HDG has become today.
+The first of these efforts to call attention to stories we find important to the setting is the new [[foundational-works|Foundational Works page]]. These seven stories were chosen by the Lorets due to their representation of the setting, as well as their role in forming what HDG has become today.
 
 This is not meant to be a collection of “the most important stories” - we’re not doing away with the Canon Works page only to introduce a “super canon” list. Rather, this is meant as a selection of early stories which together provide a solid understanding of what the setting is. Similarly, this isn’t meant as a guide for introducing someone to HDG (although it absolutely could be!), but rather as a reading guide for someone who wants to elevate their understanding of the setting and where many elements came from. We *strongly* recommend folks who want to write their own stories to read these first to gain a good grasp of the setting and its themes which the community have been building for the past three years.
 ### So, What's Next?

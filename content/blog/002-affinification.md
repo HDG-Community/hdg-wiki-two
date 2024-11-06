@@ -4,12 +4,12 @@ date: 2024-04-29T00:00:00+00:00
 tags: [blog]
 authors: [Kanagen]
 draft: false
-description: <em>Sui Generis</em> author Kanagen talks about affinification.
+description: A discussion of the subject of affinification in HDG stories - the transformation of a non-affini sophont into an affini - and things which should be considered in that arena.
 ---
 ## Introduction
 What we have here is a failure to communicate. 
 
-From the perspective of Clerks and Lorets, we have generally worked to discourage fics dealing with the subject of affinification — that is, a non-affini sophont becoming, through whatever means may be relevant to the fic in question, an affini. We have _not_, as popular understanding would have it, banned the subject entirely, as we have with our very hardline rules about the inclusion of minors in HDG works. Again, **writing affinification will not get you banned from the HDG Discord, and never would have**. 
+From the perspective of Clerks and Lorets, we have generally worked to discourage fics dealing with the subject of affinification — that is, a non-affini sophont becoming, through whatever means may be relevant to the fic in question, an [[affini]]. We have _not_, as popular understanding would have it, banned the subject entirely, as we have with our very hardline rules about the inclusion of minors in HDG works. Again, **writing affinification will not get you banned from the HDG Discord, and never would have**. 
 
 But it's come to our attention that, from the perspective of a lot of folks in the community, we functionally _have_ banned affinification. This has led to a lot of ill feeling and tension that, in the absence of this newfound clarity, resulted in a lot of confusion and unhappiness on both sides. It goes without saying that we don't want that. 
 
@@ -20,9 +20,9 @@ Before we start, we need to define the term "affinification" itself.
 > + affinification (n.): 
 > 	1)  the process by which a non-affini sophont is physically transformed into an affini. 
 
-Right? Well, no, it's not just that simple. If this were the case — if all it took to become an Affini was to replace one's body and mind with phytotech — then every case of Aster-style ship-of-Theseus digitization would technically be a case of affinification as well. Hot plant mommy TF is certainly part and parcel of the affinification experience, and I think a big part of the draw, but we're just getting started. 
+Right? Well, no, it's not just that simple. If this were the case — if all it took to become an Affini was to replace one's body and mind with phytotech — then every case of Aster-style ship-of-Theseus [[digitization]] would technically be a case of affinification as well. Hot plant mommy TF is certainly part and parcel of the affinification experience, and I think a big part of the draw, but we're just getting started. 
 
-> * affinification (n.):
+> + affinification (n.):
 > 	1) the process by which a non-affini sophont is physically transformed into an affini. 
 > 	2) being recognized as an affini by other affini. 
 
@@ -32,10 +32,9 @@ It's one thing to *look* like an affini, but it's quite another to be understood
 > 	1) the process by which a non-affini sophont is physically transformed into an affini. 
 > 	2) being recognized as an affini by other affini. 
 > 	3) being taken seriously as a peer and gaining sufficient political and social standing to be respected as a decision maker, an authority, or someone who can take on serious responsibility.
-{.is-info}
 
 
-Being Affini is more than just being hot plant mommy — it's about being part of a culture-wide Great Work, one that consumes not just lifetimes but eternity itself. The Affini made themselves immortal not for its own sake but because it was a necessary stepping stone. To be an Affini is to play a role in this Great Work, and to spend your entire immortal life doing so in one way or another. Whether that takes the form, in the immediate sense, of building a supermassive black hole jumpgate in a new galaxy or spending a century or two making one specific sophont's life absolutely perfect, _it's all part of the plan._ 
+Being Affini is more than just being hot plant mommy — it's about being part of a culture-wide Great Work, one that consumes not just lifetimes but eternity itself. The Affini made themselves immortal not for its own sake but because it was a necessary stepping stone. To be an affini is to play a role in this Great Work, and to spend your entire immortal life doing so in one way or another. Whether that takes the form, in the immediate sense, of building a supermassive black hole jumpgate in a new galaxy or spending a century or two making one specific sophont's life absolutely perfect, _it's all part of the plan._ 
 
 Speaking of which: 
 
@@ -43,17 +42,15 @@ Speaking of which:
 > 	1) the process by which a non-affini sophont is physically transformed into an affini. 
 > 	2) being recognized as an affini by other affini. 
 > 	3) being taken seriously as a peer and gaining sufficient political and social standing to be respected as a decision maker, an authority, or someone who can take on serious responsibility.
-> 	4) being allowed to take a floret.
+> 	4) being allowed to take a [[florets-domestication|floret]].
 
-
-
-Now we're into the really thorny issue, both narratively and metatextually. Florets are central to the Compact's existence, and one could argue that the Compact functionally exists to ensure that florets specifically are taken care of. They are the primary resource extracted by the ever-expanding empire that is the Compact (oh, yes, we'll discuss this more in just a moment!) and they're the primary focus of the stories we're all writing, because, well, it's Human Domestication Guide. It's stories about humans being domesticated. Florets are the single most important thing, both to us as writers and readers and to the Compact itself, and you don't let someone you aren't _absolutely_ certain knows what they're doing take care of the most important thing you have. 
+Now we're into the really thorny issue, both narratively and metatextually. Florets are central to the [[affini-compact|Compact's]] existence, and one could argue that the Compact functionally exists to ensure that florets specifically are taken care of. They are the primary resource extracted by the ever-expanding empire that is the Compact (oh, yes, we'll discuss this more in just a moment!) and they're the primary focus of the stories we're all writing, because, well, it's Human Domestication Guide. It's stories about [[terrans|humans]] being domesticated. Florets are the single most important thing, both to us as writers and readers and to the Compact itself, and you don't let someone you aren't _absolutely_ certain knows what they're doing take care of the most important thing you have. 
 
 So, possessed of a full definition of affinification, let's take stock of where we stand. It's not just to become _an_ affini, but to become _Affini_, culturally as well as physically. Stories may (and, again, frequently do) make great tension and drama of the difficulty in crossing one or all of these boundaries we've outlined, but we need to be very aware that, in attempting to cross one of these, even the most prosaic (namely, hot plant mommy TF), one is functionally attempting, or at least threatening, to cross _all_ of them.
 
 This poses a problem for the Compact. 
 ## Benevolent Imperialism: or, How I Learned to Stop Worrying and Love the Plampt
-The Affini are imperialist. It's right there in the Axioms, so it's not like we should act surprised by it. The Compact is a constantly-growing machine, built to expand and fold other cultures into itself, regardless of whether those cultures want to be folded into it. The Compact is a machine for turning stressed-out sophonts into cute pets, again whether they want it or not. Consent is not a concern — at best, it's a bonus. 
+The Affini are imperialist. It's right there in the [[writing-in-hdg|Axioms]], so it's not like we should act surprised by it. The Compact is a constantly-growing machine, built to expand and fold other cultures into itself, regardless of whether those cultures want to be folded into it. The Compact is a machine for turning stressed-out sophonts into cute pets, again whether they want it or not. Consent is not a concern — at best, it's a bonus. 
 
 **This is not a bug. It is a feature.** 
 
@@ -87,7 +84,7 @@ See where I'm going?
 
 The problem with affinification from _this_ perspective is that it can very, very easily upend that disability narrative. Functionally, it's kind of like saying, "Hmm, that's a good idea, why didn't I think of that?" to someone asking "Have you tried _not_ being disabled?" Now, this is _far_ from the only theme Human Domestication Guide has as a setting, especially now with so many stories having built upon the original, but it's such a key part of the setting's DNA that extreme care should be taken whenever you're writing something that might affect it — and affinification does. 
 
-Not every affinification story runs headlong into this, of course; for example, there's a reason that Tam in _Sui Generis_ goes through years of what is, functionally, extremely grueling physical therapy and repeated surgical interventions. Did you notice the Sixth Toe prosthetic she needed to move around in Earth gravity because she's from Mars? Did you notice how long it took her to stop using it? How long it took her to learn to walk again once she had vines that could do the job instead?
+Not every affinification story runs headlong into this, of course; for example, there's a reason that Tam in [_Sui Generis_](https://archiveofourown.org/works/45474064/) goes through years of what is, functionally, extremely grueling physical therapy and repeated surgical interventions. Did you notice the Sixth Toe prosthetic she needed to move around in Earth gravity because she's from Mars? Did you notice how long it took her to stop using it? How long it took her to learn to walk again once she had vines that could do the job instead?
 ## The Trans Narrative 
 But there's another metatextual narrative we need to examine, isn't there? Let's not mince words: a good chunk of the HDG community is some flavor of transgender. I don't think I need to explain how powerful a feeling affinification might provoke for those of us who don't or didn't feel comfortable in our own skin. As a metaphor, it's pretty obvious — shed that skin. Shed the muscle and bone, too. Leave everything you were behind and embrace plampt. Gain power you didn't have before. Be free in a way you never were. 
 
@@ -99,9 +96,9 @@ This blog post in a first step in ensuring that, going forward, we're all on the
 ## I've Run Out of Clever Title Energy, Can You Tell? Anyway this is the section about writing affinification good 
 So, you see the problem, and we've acknowledged the problem with the problem. Where does this leave us? 
 
-We're not going to tell you not to write affinification. If your heart is truly set on it, and you have an idea that's screaming to get out of you and onto the page, by all means, write it. That's how _Sui Generis_ happened — out of the same discussion that spawned _Affini Domestication Guide_, I had my own little idea, and I sat on it for about six months carefully refining it, writing key scenes, rewriting them, shopping them around to beta readers (something I very, very rarely do), and generally working as hard as I could to ensure that, even if I was writing something non-canon, I was doing it in a way that respected canon as much as possible. 
+We're not going to tell you not to write affinification. If your heart is truly set on it, and you have an idea that's screaming to get out of you and onto the page, by all means, write it. That's how _Sui Generis_ happened — out of the same discussion that spawned [_Affini Domestication Guide_](https://archiveofourown.org/works/44880088/), I had my own little idea, and I sat on it for about six months carefully refining it, writing key scenes, rewriting them, shopping them around to beta readers (something I very, very rarely do), and generally working as hard as I could to ensure that, even if I was writing something non-canon, I was doing it in a way that respected canon as much as possible. 
 
-Of course, the community is in a very different place now than it was then. We don't really _have_ a canon anymore — maintaining it in a community this size is functionally impossible. Instead, we have foundational stories, the Axioms and Rules, and Lorets to help answer questions and guide writers when there's ambiguities or uncertainties. And you'll note that there's nothing in the Axioms or Rules about affinification. President Goku can demand that affinification be legalized (dude!!), but joke's on him: it's already legal. You can go and write an affinification fic right now. 
+Of course, the community is in a very different place now than it was then. [[004-the-canon-is-dead|We don't really _have_ a canon anymore]] — maintaining it in a community this size is functionally impossible. Instead, we have [[foundational-works|foundational stories]], the Axioms and Rules, and Lorets to help answer questions and guide writers when there's ambiguities or uncertainties. And you'll note that there's nothing in the Axioms or Rules about affinification. President Goku can demand that affinification be legalized (dude!!), but joke's on him: it's already legal. You can go and write an affinification fic right now. 
 
 You probably shouldn't, mind. 
 

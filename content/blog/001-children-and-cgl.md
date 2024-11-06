@@ -7,11 +7,11 @@ draft: false
 description: A more detailed explanation of the "No Children in HDG" rule, why it matters, and what sort of content is and isn't prohibited by the policy.
 ---
 ## Background
-> _“Do Not Mention Children”_ - Canon Guidelines
+> _“Do Not Mention Children”_ - [[writing-in-hdg|Canon Guidelines]]
 ### Basic Facts
 **Children exist in the Affini Compact.**
 
-Terrans can have parents, siblings, even children of their own. The Affini, too, have something analogous to childhoods, though they don't have the same 'blood' relationships as terrans and various other sexually reproducing species. 
+Terrans can have parents, siblings, even children of their own. The affini, too, have something analogous to childhoods, though they don't have the same "blood" relationships as terrans and various other sexually reproducing species. 
 
 Your writing can therefore talk about familial relationships, and you can explore kinks which rely heavily on that cultural context (more on that later).
 
@@ -27,7 +27,7 @@ Unlike traditional science fiction, the HDG setting is a collaborative writing u
 
 We can't have a discussion of multi-generation domestication and the way that affects those who experience it sitting side by side with the mean plant petplay smutaganza. 
 
-We can't have people sexualizing society-scale eugenics; we value maintaining a safe space for marginalised folks to explore their own questions and express themselves within the universe.
+We can't have people sexualizing society-scale eugenics; we value maintaining a safe space for marginalized folks to explore their own questions and express themselves within the universe.
 
 Likewise, we cannot have people kinking off of children.
 
@@ -42,26 +42,26 @@ In the past, there have been instances where individuals acting in bad faith hav
 This is partially a moderation decision, because nobody wants to deal with the fallout of the inevitable consequences of trying to pin this stuff down. It's partially a pragmatic decision, because we're a pile of marginalized queers and our work will not be viewed in the most generous light by the people who want to hurt us. It's partially a decision taken for the health of the community, because there are some differences of opinion that can be waved away with "idk, bond canon?" and there are some which fundamentally alter the fabric of what we are working with.
 ## Clarifications and Examples
 ### Childhoods, Families, and Flashbacks
-The policy does not mean that familial relationships spontaneously dissolve when the Affini arrive, or that Terrans within the Compact literally spontaneously appear out of the quantum foam, fully mature and pre-traumatized. These rules exist for out-of-universe reasons, and don't need to be justified in-universe. An adult meeting their mother is fine. An adult meeting their adult child is fine. An adult meeting their adult siblings is fine. 
+The policy does not mean that familial relationships spontaneously dissolve when the Affini arrive, or that terrans within the Compact literally spontaneously appear out of the quantum foam, fully mature and pre-traumatized. These rules exist for out-of-universe reasons, and don't need to be justified in-universe. An adult meeting their mother is fine. An adult meeting their adult child is fine. An adult meeting their adult siblings is fine. 
 
 **A child existing on-screen, or being clearly referenced, in parts of a story which are not clearly set meaningfully pre-Affini is not fine.** Showing flashbacks to the childhoods of characters born before the arrival of the Affini, who are adults by the time they meet the Affini, is perfectly fine.
 
-When assessing if a situation falls into a prohibited category, please do your best to apply reasonable suspension of disbelief and narrative discretion based on the intent of this policy. For example: you can set a story 200 years after the Affini took over Terran space, featuring a 30 year old floret who brings his owner over to weekly dinner at his 60 year old biological parents' house. This is fine, even though such a situation would logically require the existence of children cotemporaneously with the Affini, so long as you don't explicitly present scenarios which raise the question of how Affini and children would coexist. It would cross the line to have the parents have been florets during the son's childhood, having mom pull out baby photos with Affini present, or mention the floret's seventh birthday party in Mx. Chrysanthemum's class.
+When assessing if a situation falls into a prohibited category, please do your best to apply reasonable suspension of disbelief and narrative discretion based on the intent of this policy. For example: you can set a story 200 years after the Affini took over Terran space, featuring a 30 year old floret who brings his owner over to weekly dinner at his 60 year old biological parents' house. This is fine, even though such a situation would logically require the existence of children contemporaneously with the Affini, so long as you don't explicitly present scenarios which raise the question of how affini and children would coexist. It would cross the line to have the parents have been florets during the son's childhood, having mom pull out baby photos with affini present, or mention the floret's seventh birthday party in Mx. Chrysanthemum's class.
 
-To draw a parallel, it's like the inverse of content ratings In traditional media. In a typical TV show, introducing a baby character is fine, but showing the act of procreation would exceed the rating criteria. When it comes to HDG, sexuality and kink are the norm, and you can introduce adult characters which logically would have had to have been raised around Affini, but any content which requires asking or answering the question “what would childhoods be like in the Compact” exceeds the acceptability criteria, as it forces the kind of ethical implications and discussions we aren't equipped as a community to handle.
+To draw a parallel, it's like the inverse of content ratings in traditional media. In a typical TV show, introducing a baby character is fine, but showing the act of procreation would exceed the rating criteria. When it comes to HDG, sexuality and kink are the norm, and you can introduce adult characters which logically would have had to have been raised around Affini, but any content which requires asking or answering the question “what would childhoods be like in the Compact” exceeds the acceptability criteria, as it forces the kind of ethical implications and discussions we aren't equipped as a community to handle.
 ### Regression and CG/l Dynamics
 The policy is not intended to disallow people to explore kinks which draw heavily from childhood or childhood trauma. For example, the following scenarios are allowed under the policy:
 
-- An affini/floret pair who call each other by familiar terms such as mother and daughter (or variants thereof, such as "mommy")
-- A sophont - otherwise mature - who exists in a (temporary or permanent) less mature/childlike headspace
-- A sophont getting "identity deathed" (e.g. memory erasure with optional regression of psychological development) who is subsequently taken care of and effectively raised from scratch
+- An affini/floret pair who call each other by familiar terms such as mother and daughter (or variants thereof, such as "mommy").
+- A sophont - otherwise mature - who exists in a (temporary or permanent) less mature/childlike headspace.
+- A sophont getting "identity deathed" (e.g. memory erasure with optional regression of psychological development) who is subsequently taken care of and effectively raised from scratch.
 
 These situations involve physiologically and neurologically mature adults, despite variances in terminology or behavior from what is culturally normative for those situations. Psychological regression (sometimes referred to "age regression", in which a sophont experiences a mental state or exhibits behavior consistent with an earlier stage of development) as part of a trauma response, coping mechanism or dynamic falls within this allowed space. CG/l dynamics (caregiver/little, a kink/relationship dynamic involving partners taking on caregiving and dependent roles which may or may not involve age regression play) also fall within this allowed space.
 ### De-Aging/Underage
 This policy prohibits the following scenarios for multiple reasons, and applies equally to alien species as well as digitized or artificial sophonts:
 
 - A sophont getting physically de-aged below maturity into physical childhood.
-- A sophont who is physically or mentally¹ a child or otherwise not yet mature².
+- A sophont who is physically or mentally¹ a child or otherwise not yet mature.²
 - A child who has been artificially age-progressed to physically or mentally resemble an adult.
 - Generally speaking, any kinks, scenes or dynamics which involve a physically immature sophont at any point during the process.
 
