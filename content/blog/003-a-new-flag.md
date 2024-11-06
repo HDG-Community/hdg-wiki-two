@@ -7,6 +7,7 @@ authors:
   - teagan
 draft: false
 description: A diagetic look at the history of the flag of the Terran Accord.
+type: page
 ---
 *Excerpt from **Prelude to Protectorate: The Rise & Fall of the Final Terran Accord** (Sillinvalina and Chelsie Porax, 132 DE):*
 
