@@ -37,7 +37,7 @@
 }
 /* Import Custom Colors */
 @import { 
-  url("custom-colors.css")
+  custom-colors.css
 }
 .content {
     font-family: "Atkinson Hyperlegible", Roboto;
