@@ -5,12 +5,14 @@ authors: The Lorets
 draft: false
 description: A collection of works intended to give a solid overview of the setting and its themes.
 ---
-## Foundational Works
+
+(TODO - Opening quote. Probably should be something from one of these works.)
+
 Like many things, the Human Domestication Guide setting didn’t start as anything grand - just a small group of early authors collaborating with each other, building off of Glitchy’s original story. They worked closely, writing their own stories parallel to each other, talking and fleshing out the lore and themes of the world they were creating together. At first, there were only a handful of stories in conversation with each other, but that number only continued to grow and grow.
 
 These days, you may have noticed that there are more than a handful of HDG stories around. There are hundreds and hundreds now, more by the day, not to mention the vast amount of art and other projects exploring and illuminating the setting which have been made in the past few years. While this has produced an abundance of material to read, it does raise a concern: As the setting continues to grow and reach beyond its original audience, how can the community best maintain the setting’s unique identity, the themes and ideas which drew so many of us to it in the first place?
 
-The pillars of the setting's identity are, of course, its Axioms and Rules (FIX LINK), which define the general shape and borders of what the setting is and can be. Beyond that, this site offers reference information as to the specifics of how certain things in the lore operate, but these are not well suited to convey the themes and tone core to HDG - the best place for that lies, as always, in the stories themselves.
+The pillars of the setting's identity are, of course, its [[writing-in-hdg|Axioms and Rules]], which define the general shape and borders of what the setting is and can be. Beyond that, this site offers reference information as to the specifics of how certain things in the lore operate, but these are not well suited to convey the themes and tone core to HDG - the best place for that lies, as always, in the stories themselves.
 
 This page is a collection of seven stories that the Lorets have compiled which together illustrate the core of the setting. Some of these are among the literal first works, establishing many of the setting’s elements themselves and paving the way for everything that followed, while others are early works which encapsulate parts of the lore and themes present throughout the setting.
 
@@ -26,12 +28,20 @@ The original *Human Domestication Guide* wasn’t created with a wider setting i
 
 > It should be noted that the original story is currently undergoing a revision in its migration from ROM over to AO3. This leads to differences between the two, with the AO3 version being adapted to fit with the current setting better and more cleanly integrate the early-setting weirdness.
 ### Abscission
+{{< aside dawn_hesplex_meanderling "A digital illustration of a terran woman and two humanoid affini. The terran is riding on the shoulders of one of the affini while the other kisses the terran on the cheek." >}}
+    Hesplex and the adorable Dawn.
+    Art by Meanderling.
+{{< /aside >}}
 Fluxom - [Archive of Our Own](https://archiveofourown.org/works/44917270/)
 
 > *During a paranoid episode, Autumn, a rebel comms officer, betrays her ship to the Affini and meets Solanum Vitis, the affini vet who cares for her after her capture. As their relationship develops, Autumn realizes that the affini won’t hollow out her brain, but they will make sure she loves them.*
 
 One of the earliest stories in the setting, *Abscission* took everything the original introduced and ran with it. From wardships to cotyledons to the xenodrug classification system as we know it to many other of the setting’s hallmark elements, there is a strong argument to be made that this is as much the *Abscission* setting as it is the *Human Domestication Guide* one.
 ### Divaricated
+{{< aside divaricated_promilie "Digital illustration of a terran woman and a humanoid affini in an alien forest. The terran is wearing a military spacesuit and is climbing a tree, looking over her should at the affini. The affini is standing in the light while looking at the terran and gesturing towards her." >}}
+    Katie and Thatch together on an unfamiliar world.
+    Art by Promilie.
+{{< /aside >}}
 anna//bool - [Archive of Our Own](https://archiveofourown.org/works/41618376/)
 
 > *After Katie detonates her ship’s jump drive in a desperate attempt to stop an Affini boarding operation, she and the troubled Thatch Aquae are flung through hyperspace and stranded on a seemingly uninhabited planet, lightyears from home. With no one to save them but each other, the two unlikely compatriots find themselves growing into something new and all the more beautiful together without even realizing it.*
