@@ -1,4 +1,4 @@
-@import url("custom-colors.css")
+
 /* Set Fonts */
 /* atkinson-hyperlegible-regular - latin */
 @font-face {
@@ -35,7 +35,10 @@
   font-weight: 700;
   src: url('../fonts/atkinson-hyperlegible-v11-latin-700italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
-
+/* Import Custom Colors */
+@import { 
+  url("custom-colors.css")
+}
 .content {
     font-family: "Atkinson Hyperlegible", Roboto;
   }
