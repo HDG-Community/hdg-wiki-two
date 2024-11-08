@@ -108,7 +108,7 @@ description: A glossary of terms relating to the HDG setting and community.
 - **Sophont** - A sentient being, regardless of biology or lack thereof. See [Sophont](https://en.wiktionary.org/wiki/sophont).
 - **Spectrum Jelly** - Species of jellyfish-like individuals who come from the edge of terran space, although the Accord never made contact. See [[sophont-species|Sophont Species]].
 - **Spool** - Process of charging or readying a jump drive to jump.
-- **Synthcube** - Intentionally bland and unappetizing terran rations. See [[terran-technology|Terran Technology]].
+- **Synthcube** - Intentionally bland and unappetizing terran rations. See [[terran-tech|Terran Technology]].
 - **Seed** - Someone who hasn’t figured out they desire to be a floret yet.
 - **Spin Gravity** - Artificial gravity created by the rotation of a cylindrical structure. See [Artificial Gravity](https://en.wikipedia.org/wiki/Artificial_gravity).
 ### T
@@ -136,3 +136,5 @@ description: A glossary of terms relating to the HDG setting and community.
 - **Xenodrug** - Pharmaceuticals designed by affini for use on xenosophonts. See [[xenodrugs|Xenodrugs]].
 - **Xenodrug Class** - Categorical grouping of xenodrugs by purpose.
 - **Xenrani** - Species of digitigrade xenos which resemble Terran foxes, domesticated two thousand years before humanity. See [[sophont-species|Sophont Species]].
+#### Credits
+Article organized by Stimulacrum & teagan, and maintained by the Lorets as a whole.
