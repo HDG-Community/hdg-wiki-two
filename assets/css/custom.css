@@ -1,3 +1,24 @@
+/* Define Custom Colours */
+/* ***********************/
+:root {
+  --hdg-text-dark-pri: #f1f1f1;
+  --hdg-text-dark-sec: #B5BABA;
+  --hdg-text-dark-ter:#B5BABA;
+  --hdg-text-light-pri:#171515;
+  --hdg-text-light-sec:#383638;
+  --hdg-text-light-ter:#383638;
+  --hdg-compactred:#DA1C5C;
+  --hdg-affinirose:#b72650;
+  --hdg-protectoratepink:#ff80aa;
+  --hdg-haustoricgreen:#017239;
+  --hdg-floretgreen:#00C26E;
+  --hdg-pinnatepurple:#4d2c91;
+  --hdg-sproutpurple:#b999ff;
+  --hdg-clerkyellow:#fff792;
+  --hdg-accordorange:#FD8726;
+  --hdg-exeterorange:#eb350c;
+  --hdg-bluestripe:#0fc8ff;
+}
 
 /* Set Fonts */
 /* atkinson-hyperlegible-regular - latin */
@@ -37,6 +58,9 @@
 }
 .content {
     font-family: "Atkinson Hyperlegible", Roboto;
+  }
+  .hx-font-mono {
+    font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace
   }
 /* Set Accent Colours */
   :root {
@@ -221,4 +245,86 @@ div .img-aside img {
   .img-aside {
     max-width: 100%;
   }
+}
+
+/* Overwrite Tailwind-Defined Colours*/
+/*************************************/
+/* LIGHT THEME */
+.hx-text-\[color\:hsl\(var\(--primary-hue\)\,100\%\,50\%\)\] {
+  --tw-text-opacity:1;
+  color:hsl(var(--primary-hue) 100% 50%/var(--tw-text-opacity))
+}
+.hx-text-blue-900 {
+  --tw-text-opacity:1;
+  color:var(--hdg-bluestripe)
+}
+.hx-text-current {
+  color:currentColor
+}
+.hx-text-gray-100 {
+  --tw-text-opacity:1;
+  color:var(--hdg-text-light-sec)
+}
+.hx-text-gray-500 { /* Used in sidebars*/
+  --tw-text-opacity:1;
+  color:var(--hdg-text-light-pri)
+}
+.hx-text-gray-600 { /* Used in top bar*/
+  --tw-text-opacity:1;
+  color:var(--hdg-text-light-pri)
+}
+.hx-text-gray-700 {
+  --tw-text-opacity:1;
+  color:var(--hdg-text-light-pri)
+}
+.hx-text-gray-800 {
+  --tw-text-opacity:1;
+  color:var(--hdg-text-light-pri)
+}
+.hx-text-gray-900 {
+  --tw-text-opacity:1;
+  color:var(--hdg-text-light-pri)
+}
+.hx-text-orange-800 {
+  --tw-text-opacity:1;
+  color:var(--hdg-exeterorange)
+}
+.hx-text-primary-800 {
+  --tw-text-opacity:1;
+  color:var(--hdg-text-light-pri)
+}
+.hx-text-red-900 {
+  --tw-text-opacity:1;
+  color:rgb(127 29 29/var(--tw-text-opacity))
+}
+.hx-text-slate-900 {
+  --tw-text-opacity:1;
+  color:var(--hdg-text-light-pri)
+}
+.hx-text-transparent {
+  color:transparent
+}
+.hx-text-white {
+  --tw-text-opacity:1;
+  color:rgb(255 255 255/var(--tw-text-opacity))
+}
+.hx-text-yellow-900 {
+  --tw-text-opacity:1;
+  color:rgb(113 63 18/var(--tw-text-opacity))
+}
+/* Asides Light */
+.content :where(figure):not(:where([class~=not-prose],
+[class~=not-prose] *)) figcaption {
+  margin-top:.5rem;
+  display:block;
+  text-align:center;
+  font-size:.875rem;
+  --tw-text-opacity:1;
+  color:var(--hdg-text-light-sec)
+}
+/* Quoteblocks Text Light */
+.content :where(p):not(:where([class~=not-prose],
+[class~=not-prose] *)):first-child {
+  margin-top:0;
+  color: var(--hdg-text-light-sec)
 }
