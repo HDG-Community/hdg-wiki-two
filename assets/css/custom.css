@@ -269,10 +269,6 @@ div .img-aside img {
   --tw-text-opacity:1;
   color:var(--hdg-text-light-pri);
 }
-.hx-text-gray-500:is(html[class~=dark] *) { /* Used in search shortcut in dark theme*/
-  --tw-text-opacity:1;
-  color:var(--hdg-text-dark-pri);
-}
 .hx-text-gray-600 { /* Used in top bar*/
   --tw-text-opacity:1;
   color:var(--hdg-text-light-pri);
@@ -331,4 +327,11 @@ div .img-aside img {
 [class~=not-prose] *)):first-child {
   margin-top:0;
   color: var(--hdg-text-light-sec)
+}
+/* Overwrite Tailwind-Defined Colours*/
+/*************************************/
+/* DARK THEME */
+.hx-text-gray-500:is(html[class~=dark] *) { /* Used in search shortcut in dark theme*/
+  --tw-text-opacity:1;
+  color:var(--hdg-text-dark-pri);
 }
