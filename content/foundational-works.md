@@ -18,7 +18,7 @@ This page is a collection of seven stories that the Lorets have compiled which t
 
 This isn’t meant as an introductory guide for the setting (although it definitely can be if you want the early HDG experience). However, if you want to write and contribute, we highly recommend you read these before starting. This site can only illuminate so much of what makes HDG what it is - it is crucial to go back to the source material.
 
-For more information on the history of the setting and its current approach to the overall canon, see this blog post (FIX LINK).
+For more information on the history of the setting and its current approach to the overall canon, see this [[004-the-canon-is-dead|blog post]].
 ### Human Domestication Guide
 GlitchyRobo - [Archive of Our Own](https://archiveofourown.org/works/45190954/) (revised) | [ReadOnlyMind](https://readonlymind.com/@GlitchyRobo/HumanDomesticationGuide/) (original)
 
