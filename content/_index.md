@@ -1,4 +1,5 @@
 ---
+title: "Welcome to the Guide!"
 date: 2024-09-02
 ---
 Welcome to the new and improved HDG guide, nerd! We've been working very hard on improving every asepct of the site, including a complete port to a much more suitable *Static Site Generator* model instead of WikiJS! We're still ironing out the kinks, but in the mean time, you can look at some of our pages: 
