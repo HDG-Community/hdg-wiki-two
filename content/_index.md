@@ -1,35 +1,31 @@
 ---
 date: 2024-09-02
 ---
-# Welcome to the Wiki
+Welcome to the new and improved HDG guide, nerd! We've been working very hard on improving every asepct of the site, including a complete port to a much more suitable *Static Site Generator* model instead of WikiJS! We're still ironing out the kinks, but in the mean time, you can look at some of our pages: 
 
 {{< aside doe_plush "A skoof, doing skoof things" >}}
     Pictured: One skoof, *skoofing it*. Colourised, 1782. Honk honk honk honk!
 {{< /aside >}}
-# Welcome!!!
-welcome to the hdg wiki, nerd. Go see the [[Foundational Works]] page, or look at [[Test]].
 
-You can also look at our [[Archives]]!! Which we might want to rename "timeline" but idk. 
+Go see the [[Foundational Works]] page, or look at [[Test]]. Those are both pages that exist! You could also look at [[Frequently Asked Questions| our Frequently Asked Questions]], or maybe learn about [[Sophont Species|some sophont species! ]]
 
-You can also link to pages with [[Archives|custom text]]! And with [[Foundational Works#human-domestication-guide|anchors!]]
+We can  link to pages with `[[Archives|custom text]]!`, which will render as [[Archives|custom text]]!. We can also use page anchors like this `[[Foundational Works#human-domestication-guide|anchors!]]` which will render as such: [[Foundational Works#human-domestication-guide|anchors!]]
 
+## Yup, we have headings too! 
+In fact we have everything! We have quote blocks!
+> Yup, this sure is a quote! 
+> - skoof, 2556
+and we can also have code blocks! `beep boop I am a code block!`
+Ideally, some of these things will get different colours! 
 
----
-## Heading 2 
-Here, let me test if the colours apply to quote blocks:
-
-> They sure might!
+## We can also have full-page images:
 
 {{< image doe_plush "A skoof, doing skoof things" >}}
-    Pictured: One skoof, *skoofing it*. Colourised, 1782. Honk honk honk honk!
+    Pictured: One skoof, continuing to *skoof it*. Colourized, 1992.
 {{< /image >}}
 
-``` also look! a code block!```
-[Does it apply to links?](https://humandomestication.guide)
-
-> blockquote!
-> quooote
-### Heading 3
+### Can we get the nice stylized alerts we had on the old site?
 > [!ALERT] 
 > alerttttt
 
+Not yet, but hopefully one day soon!
