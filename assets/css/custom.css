@@ -68,7 +68,7 @@
   }
 /* Set Accent Colours */
   :root {
-    --primary-hue: #c63c62;
+    --primary-hue: var(--hdg-compactred);
     --primary-saturation: 100%;
     --navbar-height: 4rem;
     --menu-height: 3.75rem;
@@ -77,7 +77,7 @@
   }
   
   .dark {
-    --primary-hue: #e56588;
+    --primary-hue: var(--hdg-protectoratepink);
     --primary-saturation: 100%;
 
     --secondary-bg: #222222;
@@ -124,46 +124,24 @@ body {
 .content :where(a):not(:where([class~=not-prose], [class~=not-prose] *)):is(html[class~=dark] *) {
   --tw-text-opacity: 1;
   color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-text-opacity));
-  color: #00C26E;
+  color: var(--hdg-floretgreen);
 }
 /* Change the colour of links in Light Theme */
 .content :where(a):not(:where([class~=not-prose], [class~=not-prose] *)) {
   --tw-text-opacity: 1;
   color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-text-opacity));
-  color: #017239;
+  color: var(--hdg-haustoricgreen);
 }
 
-/* Change the Colour of Light Grey Elements to conform to WCAG2*/
-/* Left Sidebar Light*/
-.hx-text-gray-500 {
-  --tw-text-opacity:1;
-  color:#383638/var(--tw-text-opacity)
-}
-
-/* Top Navbar Light */
-.hx-text-gray-600 {
-  --tw-text-opacity:1;
-  color:#383638/var(--tw-text-opacity)
-}
-/* Sidebars Dark */
-.hx-text-gray-500 {
-  --tw-text-opacity:1;
-  color:#383638/var(--tw-text-opacity)
-}
-.hx-text-gray-600 {
-  --tw-text-opacity:1;
-  color:#383638/var(--tw-text-opacity)
-}
-
-/* Make bold text Protectorate Pink in Dark Mode */
+/* Bold Text, Dark Theme*/
 strong:is(html[class~=dark] *){
   font-weight:bolder;
-  color: #ff80aa;
+  color: var(--hdg-text-dark-pri);
 }
-/* Make bold text Affini Rose in Light */
+/* Bold Text, Light Theme */
 strong {
   font-weight:bolder;
-  color: #b72650;
+  color: var(--hdg-text-light-pri);
 }
 
 /* Move the Start of the Content Closer to the title on single pages */
