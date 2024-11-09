@@ -17,7 +17,7 @@ description: A glossary of terms relating to the HDG setting and community.
 - **Bloom** - Single phase of the affini life cycle usually lasting up to 200-300 Terran years.
 - **Body Mod** - Body Modification. Advanced surgical alterations available to members of the Compact.
 - **Break** - Point at which a floret allows themselves to accept and internalize that they are and forever will be a pet.
-- **Bureau of Xenosophont Wellness and Care** (BXWC) - Branch of the Compact’s bureaucracy dedicated to social work. See [[bxwc||BXWC]].
+- **Bureau of Xenosophont Wellness and Care** (BXWC) - Branch of the Compact’s bureaucracy dedicated to social work. See [[bxwc|BXWC]].
 - **By the Everbloom** - Affini oath.
 ### C
 - **Clerk** - Specialist in the workings of the [[compact-bureaucracy|Compact's bureaucracy]]. A quite respected profession in affini society.
@@ -136,5 +136,5 @@ description: A glossary of terms relating to the HDG setting and community.
 - **Xenodrug** - Pharmaceuticals designed by affini for use on xenosophonts. See [[xenodrugs|Xenodrugs]].
 - **Xenodrug Class** - Categorical grouping of xenodrugs by purpose.
 - **Xenrani** - Species of digitigrade xenos which resemble Terran foxes, domesticated two thousand years before humanity. See [[sophont-species|Sophont Species]].
-#### Credits
+## Article Credit
 Article organized by Stimulacrum & teagan, and maintained by the Lorets as a whole.

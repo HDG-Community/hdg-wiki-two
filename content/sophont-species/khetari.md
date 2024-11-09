@@ -13,7 +13,7 @@ description: Feathered, high-gravity cat xenos.
 > 
 > **Promilie's [_Florets of a Feather_](https://archiveofourown.org/works/54477985/chapters/145430536), chapter 4**
 
-The khetari are feathered, cat-like sophonts endemic to the Milky Way galaxy. Though only around over a meter tall, their short stature belies an extraordinary strength and weight. Hailing from a large and unusually dense world called Söen, the khetari are adapted for gravity far higher than that of Terra, making them much tougher and heavier than they look.
+The **khetari** are feathered, cat-like sophonts endemic to the Milky Way galaxy. Though only around over a meter tall, their short stature belies an extraordinary strength and weight. Hailing from a large and unusually dense world called Söen, the khetari are adapted for gravity far higher than that of Terra, making them much tougher and heavier than they look.
 ### Quick Info
 **Homeworld**: Söen, a large and dense world of low mountains, shallow oceans and deep canyons. Most of the planet's land masses are primarily dominated by deserts, grassy plains and dense brushland.  
 **Home System**: Sömar  
@@ -69,3 +69,5 @@ The khetari’s most detrimental cultural vice was their propensity for warfare 
 {{< image khetari_ensemble_promilie "A group of eleven khetari with varying coloration, expressions, and clothing alongside a singular human with pale brown skin. A pale grey khetari with a smug expressions tugs the human along." >}}
     Art by Promilie.
 {{< /image >}}
+## Article Credit
+Article by Promilie, who both created the khetari and is their local lore custodian.

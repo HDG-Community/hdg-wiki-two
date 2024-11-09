@@ -42,7 +42,11 @@ Other terms may be added as the affini taking the floret desires. If the floret 
 
 > The "political rights" that florets give up are nebulous at best. While florets do get a vote (for fun!), that vote doesn't count; however, if a substantial proportion of florets vote against something, the affini don't simply ignore it. These are _florets_ we're talking about, after all! 
 ### Florets of All Kinds 
-There are several modifiers one may encounter after a floret's name, such as "Pinnate" or "Pluribus." These are terms that further specify conditions relating to, or further identify, a floret. These terms are considered so central to the floret's identity that they are formally encoded in their name. 
+There are several modifiers one may encounter after a floret's name, such as "Pinnate" or "Pluribus." These are terms that further specify conditions relating to, or further identify, a floret. These terms are considered so central to the floret's identity that they are formally encoded in their name.
+### Cotyledons
+Cotyledons are very special florets, the very first that the Affini take as part of the process of learning about a new sophont species. Most cotyledons are rescues, taken from failed colonies, damaged ships, and similar life-threatening situations, but some are simply quietly abducted if there's no ready source of accidental cotyledons. 
+
+As part of a species' cotyledon program, a cotyledon is a medical test subject, and while the Affini are very good and very practiced at adapting phytotechnology to new species, undesirable and unanticipated outcomes do happen. Haustoric implant testing in particular can result in neurological issues in the resulting floret. Some cases even require the application of class-O xenodrugs to ensure that the cotyledon isn't suffering; they may be test subjects, but cotyledons are still florets, and affini will stop at nothing (perhaps even more so than for ordinary florets) to ensure that a cotyledon is cared for and loved. 
 #### Connivents
 Connivents are florets belonging to the same affini. For example, if Kasey Abronia is Thrysiflora Abronia's Third Floret, her First and Second Florets are Kasey's connivents. There is no further implied relationship between connivents, and so this term is not added to a floret's name; it's simply an umbrella category. 
 #### Pinnates
@@ -75,5 +79,5 @@ Part of the process of cultural domestication is the assimilation of all of a cu
 *Feralism* is post-domestication behavior opposing the Affini Compact and the affini mission of universal domestication. Since the affini define "domestication" as taking place the moment they make first contact, any negative behavior towards the affini that a xenosophont shows is considered feral behavior. Every species displays some degree of feralism, even the ones that join willingly, and so the Compact is extremely practiced at culling feral ideologies and behaviors (though the work can take some time, especially for species more culturally primed for feral behaviors such as terrans). 
 ### Domestication Treaties 
 A domestication treaty is functionally a domestication contract for an entire xenosophont species and culture. It serves as a framework for the domesticated civilization to understand their role in the universe (which is to say, subordinate to the affini, who care for them). For the affini, it has a very different purpose. Each treaty's provisions and stipulations form a resource for the affini when dealing with that species on a cultural and individual level. Each treaty is, therefore, a guidebook to the domestication of the species it concerns. 
-#### Credits
+## Article Credit
 Article by Kanagen.
