@@ -6,7 +6,7 @@
 {{ $linkregex := "^([^#]*?)(#(.*?))?$" }}
 {{ $page := .Page }}
 
-{{ $wikilinks := .Content | findRE $wikiregex }}
+{{ $wikilinks := .RawContent | findRE $wikiregex }}
 
 {{ $.Scratch.Add "content" .RawContent }}
 
