@@ -7,7 +7,7 @@ Welcome to the new and improved HDG guide, nerd! We've been working very hard on
     Pictured: One skoof, *skoofing it*. Colourised, 1782. Honk honk honk honk!
 {{< /aside >}}
 
-Go see the [[Foundational Works]] page, or look at [[Test]]. Those are both pages that exist! You could also look at [[Frequently Asked Questions| our Frequently Asked Questions]], or maybe learn about [[Sophont Species|some sophont species! ]]
+Go see the [[Foundational Works]] page, or look at [[Test]]. Those are both pages that exist! You could also look at [[faq|our Frequently Asked Questions]], or maybe learn about [[Sophont Species|some sophont species! ]]
 
 We can  link to pages with `[[Archives|custom text]]!`, which will render as [[Archives|custom text]]!. We can also use page anchors like this `[[Foundational Works#human-domestication-guide|anchors!]]` which will render as such: [[Foundational Works#human-domestication-guide|anchors!]]
 
