@@ -4,7 +4,7 @@
   {{- warnf "Value of .$decoration: %s" $decoration }}
   {{- if hugo.IsProduction -}}
     {{- $decoration = $decoration | minify | fingerprint }}
-    <link href="{{ $decorationCss.RelPermalink }}" rel="stylesheet" integrity="{{ $custom.Data.Integrity }}" />
+    <link href="{{ $decorationCss.RelPermalink }}" rel="stylesheet" />
   {{- else }}
     <link href="{{ $decorationCss.RelPermalink }}" rel="stylesheet" />
   {{- end }}
