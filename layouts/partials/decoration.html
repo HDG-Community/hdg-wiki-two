@@ -1,9 +1,8 @@
   <!-- Decoration CSS -->
-  {{- $decoration := .decoration | default "accord" }}  <!-- Get decoration from current page's params -->
+  {{- $decoration := .decoration | default "nodecoration" }}  <!-- Get decoration from current page's params -->
   {{- $decorationCss := resources.Get (printf "css/%s.css" $decoration) }}  
   {{- warnf "Value of .$decoration: %s" $decoration }}
   {{- if hugo.IsProduction -}}
-
     <link href="{{ $decorationCss.RelPermalink }}" rel="stylesheet" />
   {{- else }}
     <link href="{{ $decorationCss.RelPermalink }}" rel="stylesheet" />
