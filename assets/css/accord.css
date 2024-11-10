@@ -1,0 +1,36 @@
+/* Define Custom Colours */
+/* ***********************/
+:root {
+    --hdg-bg-light-pri:#f1f1f1;
+    --hdg-bg-light-sec:#dddddd;
+    --hdg-bg-dark-pri:#1d1b1b;
+    --hdg-bg-dark-sec:#222222;
+    --hdg-text-dark-pri: #f1f1f1;
+    --hdg-text-dark-sec: #B5BABA;
+    --hdg-text-dark-ter:#B5BABA;
+    --hdg-text-light-pri:#171515;
+    --hdg-text-light-sec:#383638;
+    --hdg-text-light-ter:#383638;
+    --hdg-compactred:#DA1C5C;
+    --hdg-affinirose:#b72650;
+    --hdg-protectoratepink:#ff80aa;
+    --hdg-haustoricgreen:#017239;
+    --hdg-floretgreen:#00C26E;
+    --hdg-pinnatepurple:#4d2c91;
+    --hdg-sproutpurple:#b999ff;
+    --hdg-clerkyellow:#fff792;
+    --hdg-accordorange:#FD8726;
+    --hdg-exeterorange:#eb350c;
+    --hdg-bluestripe:#0fc8ff;
+  }
+  
+  /* Bold Text, Dark Theme*/
+strong:is(html[class~=dark] *){
+    font-weight:bolder;
+    color: var(--hdg-accordorange!important);
+  }
+  /* Bold Text, Light Theme */
+  strong {
+    font-weight:bolder;
+    color: var(--hdg-exeterorange)!important;
+  }

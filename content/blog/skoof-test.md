@@ -7,8 +7,8 @@ authors:
       link: https://skoof.ca
       image: /img/doe_plush.png
 draft: false
-params:
-  decoration: accord
+Params:
+  decoration: affini
 description: A test post by skoof!
 type: page
 ---
