@@ -34,3 +34,15 @@ strong:is(html[class~=dark] *){
     font-weight:bolder;
     color: var(--hdg-exeterorange)!important;
   }
+/* Change the colour of links in Dark Theme */
+.content :where(a):not(:where([class~=not-prose], [class~=not-prose] *)):is(html[class~=dark] *) {
+  --tw-text-opacity: 1;
+  color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-text-opacity));
+  color: var(--hdg-accordorange);
+}
+/* Change the colour of links in Light Theme */
+.content :where(a):not(:where([class~=not-prose], [class~=not-prose] *)) {
+  --tw-text-opacity: 1;
+  color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-text-opacity));
+  color: var(--hdg-exeterorange);
+}
