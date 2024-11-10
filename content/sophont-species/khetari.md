@@ -65,9 +65,9 @@ The peoples of Söen kept livestock in the form of large beetle-like animals, bu
 The khetari were formidable combatants on the ground, but they had no response to the Compact’s orbital spaceships and vastly superior technology. Within the space of a year and a half the entire planet was pacified and domesticated.
 
 The khetari’s most detrimental cultural vice was their propensity for warfare and violent domination, which the Compact put strong emphasis on dismantling. In the absence of violence and dominance, the khetari found other outlets for their competitive nature, leading to a cultural boom in fields like the arts, crafts and nonviolent sports. With the aid of affini technology and infrastructure they gained the opportunity to explore the galaxy, and in the modern day khetari can be found alongside their affini wardens even as far out as Rinan-Terran space.
+## Article Credit
+Article by Promilie, who both created the khetari and is their local lore custodian.
 
 {{< image khetari_ensemble_promilie "A group of eleven khetari with varying coloration, expressions, and clothing alongside a singular human with pale brown skin. A pale grey khetari with a smug expressions tugs the human along." >}}
     Art by Promilie.
 {{< /image >}}
-## Article Credit
-Article by Promilie, who both created the khetari and is their local lore custodian.

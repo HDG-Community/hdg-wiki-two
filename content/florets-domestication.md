@@ -43,7 +43,7 @@ Other terms may be added as the affini taking the floret desires. If the floret 
 > The "political rights" that florets give up are nebulous at best. While florets do get a vote (for fun!), that vote doesn't count; however, if a substantial proportion of florets vote against something, the affini don't simply ignore it. These are _florets_ we're talking about, after all! 
 ### Florets of All Kinds 
 There are several modifiers one may encounter after a floret's name, such as "Pinnate" or "Pluribus." These are terms that further specify conditions relating to, or further identify, a floret. These terms are considered so central to the floret's identity that they are formally encoded in their name.
-### Cotyledons
+#### Cotyledons
 Cotyledons are very special florets, the very first that the Affini take as part of the process of learning about a new sophont species. Most cotyledons are rescues, taken from failed colonies, damaged ships, and similar life-threatening situations, but some are simply quietly abducted if there's no ready source of accidental cotyledons. 
 
 As part of a species' cotyledon program, a cotyledon is a medical test subject, and while the Affini are very good and very practiced at adapting phytotechnology to new species, undesirable and unanticipated outcomes do happen. Haustoric implant testing in particular can result in neurological issues in the resulting floret. Some cases even require the application of class-O xenodrugs to ensure that the cotyledon isn't suffering; they may be test subjects, but cotyledons are still florets, and affini will stop at nothing (perhaps even more so than for ordinary florets) to ensure that a cotyledon is cared for and loved. 
