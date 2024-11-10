@@ -5,13 +5,15 @@ authors: The Lorets
 draft: false
 description: Guidelines for writing HDG according to pre-established setting requirements, out-of-narrative rules, and lore-based precedent.
 ---
+(TODO - opening quote)
+
+(TODO - opening summoning)
+## Writing Guidelines for HDG
 {{< aside affini_puppeting_writing_promilie "A digitial illustration of a female terran floret and an affini at a desk. The terran is sitting at a desk with a laptop while their arms and fingers are being puppeted to write by the affini's vines. The affini is petting the terran and caressing their face while they whisper into the terran's ear." >}}
     We cannot guarantee this will happen to you.
     Art by Promilie.
 {{< /aside >}}
 
-(TODO - opening quote)
-## Writing Guidelines for HDG
 Human Domestication Guide, as a collective project, began as a small community of a few writers engaging in collaborative worldbuilding, checking in with each other and ensuring that everyone's fics aligned to create a kind of metacontinuity where everything was interconnected or *could* interconnect with everything else. This is what created the "vibes" that ultimately make HDG what it is, and that are so crucial to the overall feel and tone of the setting. 
 
 But HDG has grown exponentially since those early days. It's no longer really possible to write in the mainline HDG universe and reasonably expect to be in active conversation with every other writer working in the setting. At the same time, a "fanfic standard" anything-goes approach would see HDG quickly lose that essential element that made it so unique and so attractive in the first place. Somewhere between strict canon and total chaos, we need to find a place of flexibility and adaptability, to ensure that HDG can continue to grow as a unified setting *and* community while still retaining the qualities that drew so many of us to it. 
