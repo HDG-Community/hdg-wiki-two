@@ -3,7 +3,6 @@
   {{- $decorationCss := resources.Get (printf "css/%s.css" $decoration) }}  
   {{- warnf "Value of .$decoration: %s" $decoration }}
   {{- if hugo.IsProduction -}}
-    {{- $custom = $decoration | minify | fingerprint }}
     <link href="{{ $decorationCss.RelPermalink }}" rel="stylesheet" integrity="{{ $custom.Data.Integrity }}" />
   {{- else }}
     <link href="{{ $decorationCss.RelPermalink }}" rel="stylesheet" />
