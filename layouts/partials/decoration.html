@@ -1,1 +1,10 @@
-<h1>{{.decoration}}</h1>>
+  <!-- Decoration CSS -->
+  {{- $decoration := .decoration | default "nodecoration" }}  <!-- Get decoration from current page's params -->
+  {{- $decorationCss := resources.Get (printf "css/%s.css" $decoration) }}  
+  {{- warnf "Value of .$decoration: %s" $decoration }}
+  {{- if hugo.IsProduction -}}
+    {{- $custom = $custom | minify | fingerprint }}
+    <link href="{{ $decorationCss.RelPermalink }}" rel="stylesheet" integrity="{{ $custom.Data.Integrity }}" />
+  {{- else }}
+    <link href="{{ $decorationCss.RelPermalink }}" rel="stylesheet" />
+  {{- end }}

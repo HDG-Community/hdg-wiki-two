@@ -4,6 +4,8 @@ date: 2024-11-03T00:00:00+00:00
 authors: Kanagen
 draft: false
 description: The galaxies-spanning society of the affini working towards the goal of caring for the entire universe.
+Params:
+  decoration: affini
 ---
 The Affini Compact is a trans-galactic civilization originating in the Triangulum Galaxy, the primary cultural objective of which is the subordination and conservation of all sophont life in the universe under Affini care. With over 100,000 years of history and a territory spanning not only the Andromeda supergalaxy but also its galactic satellites, the Affini Compact has in recent years (roughly 500 years ago) begun the long-awaited process of bringing the Milky Way supergalaxy and its galactic satellites into the fold. 
 ## Introduction
