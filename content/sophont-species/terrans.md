@@ -7,19 +7,19 @@ description: tbd
 ---
 _Not to be confused by the primary polity terrans lived under at the time of their domestication, the [[terran-accord|Terran Accord]]._
 
-_“'So, you’re a Terran. What’s that like?' The xeno asked, still crunching away at the leg. Astrid had no idea how to respond to that, so she didn’t say anything. 'Done annyyyyyy… persistence hunting lately? Pack-bonded with any interesting inanimate objects?'"_
+> _“'So, you’re a Terran. What’s that like?' The xeno asked, still crunching away at the leg. Astrid had no idea how to respond to that, so she didn’t say anything. 'Done annyyyyyy… persistence hunting lately? Pack-bonded with any interesting inanimate objects?'"_
 > 
 > **Promilie's [_Florets of a Feather_](https://archiveofourown.org/works/54477985/chapters/138449368), chapter 2**
 
 **Terrans** (also known as **humans**) are bipedal primates from the Orion Spur of the Milky Way. Generally, they stand between 1.5 and 2 meters, although those adapted for lower gravities are known to exceed this. Terrans are notable for their overland endurance, throwing abilities, their distinctive hair on their head, and their bonding instincts.
 ### Quick Info
-**Homeworld**: Terra, historically known as Earth
-**Home System**: [[sol|Sol]]
-**Native Gravity:** 1.0g
+**Homeworld**: Terra, historically known as Earth  
+**Home System**: [[sol|Sol]]  
+**Native Gravity:** 1.0g  
 **Year Length:** 365 Terran standard days
 
-**Lifespan:** Wild terrans lived on average 70-80 years, but independents in the Terran Protectorate can live to twice that. [[florets-domestication|Florets]] can potentially live as long as three centuries.
-**Circadian Rhythm:** ~24 hours
+**Lifespan:** Wild terrans lived on average 70-80 years, but independents in the Terran Protectorate can live to twice that. [[florets-domestication|Florets]] can potentially live as long as three centuries.  
+**Circadian Rhythm:** ~24 hours  
 **Domesticated:** 2554 CE (0 BD)
 
 **Names:** TODO
