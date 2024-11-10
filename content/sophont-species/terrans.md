@@ -24,6 +24,11 @@ _Not to be confused by the primary polity terrans lived under at the time of the
 
 **Names:** TODO
 ## Appearance & Physiology
+{{< aside catgirl_n_fini_lise "Digital illustration of a female terran floret and an affini. The terran has cat ears and a tail and is wearing a floral dress and collar. The affini has a vine wrapped around the terran and the two's faces are close to one another as they look into each others' eyes." >}}
+    Many terrans in the Compact get biomods to give them features of other creatures from their homeworld and beyond.
+    Art by lise-lemonade.
+{{< /aside >}}
+
 Terrans are omnivorous bipedal primates with long limbs and expressive, flattened faces. Though otherwise largely hairless, one of the most immediately distinguishing features among terrans is the fur that grows on the top of their heads, which come in a variety of colors, lengths and textures. Terrans style, groom and color their head-fur according to countless unique cultural practices, as well as personal preference. Their relatively thin, smooth skin comes in warm earth tones, ranging anywhere from shades of dark brown to pale beige. Male terrans are on average somewhat larger than females, and tend to grow additional fur around the mouth and jaw, which is also styled and groomed.
 
 Terrans have an excellent sense of balance despite their lack of a tail. Their upright bipedal gait, as well as their ability to shed excess body heat through sweating, allowed their ancestors to specialize as persistence hunters, and terrans therefore have excellent overland endurance. Their forelimbs are also highly adapted for throwing objects accurately over long distances. Both of these advantages were crucial to early humans and their extinct evolutionary relatives, seeing as they do not have any natural armor or weaponry to defend themselves. Their teeth are short and blunt, and their claws almost entirely vestigial.
@@ -36,6 +41,10 @@ Terrans have a powerful packbonding instinct, known to them as anthropomorphism,
 (go over culture and general state of terrans of the 2550s)
 (for history just do something real quick and simple and link to the timeline article)
 ### The Terran Accord
+{{< aside john_terra_promilie "Digital illustration of a male terran in a scifi military uniform holding a smoking gun." >}}
+    John Terra, hero of the Accord and champion of the Cosmic Navy.
+    Art by Promilie.
+{{< /aside >}}
 _Main Article: [[terran-accord|Terran Accord]]_
 
 (TODO - short section leading into the Terran Accord article.)

@@ -5,6 +5,9 @@ authors: Kanagen
 draft: false
 description: Powerful shapeshifting plant xenos and the self-appointed caretakers of all sophont life.
 ---
+(TODO - opening quote)
+
+(TODO - opening summary)
 ### Quick Info 
 **Homeworld:** Unknown  
 **Home System**: The Core Worlds (Triangulum Galaxy)  
@@ -26,6 +29,10 @@ As engineered plant-like organisms, Affini are able to graft most other plant-li
 
 Grafts may have many purposes. Some are purely for fashion, with flowers or other visually distinctive plants added to the affini. Others will have a specific purpose; they may be a phytotech augmentation, extending the affini's capabilities beyond the norm (such as adding a digestive tract allowing them to digest food, for example). The most common example of this latter type of graft is a **xenodrug*** graft, which gives the affini a built-in means of delivering an appropriate dose of xenodrugs to a sophont. 
 ### Biorhythm & Hypnotics
+{{< aside pladdy_promilie "Digital painting of a terran with leopard biomods being held by a masculine affini with curled horns and armor-like bark. The terran is clutching at some foliage on the affini's chest while he pets behind her feline ears." >}}
+    Art by Promilie.
+{{< /aside >}}
+
 All organisms have a biorhythm, the sum total of all the little motions of living: breathing, heartbeats, small movements, and so on. Affini are no different, and also have a biorhythm; however, unlike most organisms, the affini evolved a hypnotic biorhythm, and their engineered nature has augmented that natural hypnotic ability to extreme levels. As a result, all Affini are naturally hypnotic, a trait they use to great effect in their **domestication** of other sophont species. 
 
 An affini's eyes are a common focal point for this hypnosis, but it is far from the only tool in their arsenal. Their voices, which are polyphonic and highly musical, are also intrinsically hypnotic, and can easily entrance an unsuspecting xenosophont. 
@@ -50,12 +57,21 @@ That said, their day-to-day lives are as varied as any sophont culture's are. Th
 
 The main commonality shared by all affini is a dedication to the common task of universal domestication. Every affini is encouraged and expected to do their part, even if their part is simply ensuring that the ship they live on has a healthy environmental subsystem. Many affini, however, go beyond simply doing their part, and actively participate in individual, personal domestication — in other words, they claim a floret.
 ### Florets
+{{< aside affini_floret_pond_lise "Digital illustration of an affini holding a female terran in her lap. The affini is sitting in a pool of water scattered with lily pads and other plants and the terran is wearing a flower crown and a cozy sweater while she snuggles into the affini." >}}
+    An affini and their floret.
+    Art by lise-lemonade.
+{{< /aside >}}
+
+*Main Article: [[florets-domestication|Florets & Domestication]]*
+
 As discussed above, Affini co-evolved with beeple. This symbiosis grew beyond mere biological need and into a cultural tie as the two species reached sophonce, as affini bonded with beeple beyond the mere necessities of reproduction. They came to love their beeple as companions, as pets, whom they doted upon and spared no expense in lavishing praise and affection upon. The beeple were subordinate, yes, but they were given everything they could possibly desire. 
 
 And then, when the Affini looked out into the broader universe and discovered that there were _other_ sophonts out there, they decided that they loved these new sophonts enough to treat them just the same.
 
 A **floret** is a member of a xenosophont species who has, voluntarily or otherwise, ceded their right to legal personhood in the Compact. They are the property of an affini, who is responsible for their care and wellbeing. They cannot vote (at least, not in a formal way), but their desires and needs are central to their owner's world. It is in no way an exaggeration to say that florets are considered the most important individuals in the entire Affini Compact, because an affini will do anything to make their florets' lives better.
-### The Compact 
+### The Compact
+*Main Article: [[affini-compact|Affini Compact]]*
+
 The **Affini Compact** is the greatest creation of the Affini, a self-sustaining non-hierarchical civilization connected by a bureaucracy that observes, records, coordinates, but does not control the lives of everyone and everything it touches. The Compact is nothing less than the manifestation of the collective wish of the Affini to make the universe a better place for all the adorable little xenosophonts that live within it.
 ## Article Credit
 Article by Kanagen.  

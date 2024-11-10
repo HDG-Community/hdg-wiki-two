@@ -5,8 +5,15 @@ authors: Kanagen
 draft: false
 description: The processes by which the Affini care for sophont life, both on the level of an individual and the level of a culture.
 ---
+(TODO - opening quote)
+
 Domestication is a complex topic, befitting the central unpinning motivation and reason for the Affini Compact's existence. It can refer both to the domestication of individuals as well as to the domestication of entire sophont cultures. In both cases, the central purpose of domestication is to improve the lives of the xenosophonts in question, a task for which the Affini are happily very well suited. 
 ## Domestication of Sophonts
+{{< aside scaryfini_head_tilt_promilie "Digital illustration of a female terran and an affini. The terran is wrapped in the affini's vines and her head is being tilted up to stare into the affini's glowing eyes. Injector flowers are positioned threateningly around the terran's bound form." >}}
+    Not to worry, she doesn't bite unless you ask very politely.
+    Art by Promilie.
+{{< /aside >}}
+
 > "Exactly as the term would indicate, Ms. Gale. Domestication is the primary purpose of the Affini Compact. To be explicit about it, in broad terms, we take in adorable sophont species who struggle to care for themselves, like humans, and use our overwhelming technological and resource advantages to eliminate resistance to Affini control in order to ensure they are properly cared for. But most importantly, on an individual basis, domestication refers to the process by which we use our expertise in biomedical engineering and xenodrug development to turn sophonts into happy, docile and loving pets for their Affini owners."
 > 
 > **AsphodelVeil's [_Nurture & Acquisitions_](https://archiveofourown.org/works/48096388/chapters/121280206), chapter 6**
