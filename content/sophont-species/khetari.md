@@ -71,6 +71,6 @@ The khetari’s most detrimental cultural vice was their propensity for warfare 
 Article by Promilie, who both created the khetari and is their local lore custodian.
 
 {{< image khetari_ensemble_promilie "A group of eleven khetari with varying coloration, expressions, and clothing alongside a singular human with pale brown skin. A pale grey khetari with a smug expressions tugs the human along." >}}
-	A collection of khetari from both before and after Söen's domestication.
+    A collection of khetari from both before and after Söen's domestication.
     Art by Promilie.
 {{< /image >}}
