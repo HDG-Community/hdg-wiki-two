@@ -162,6 +162,10 @@ strong {
   margin-top: 1.2rem;
 }
 
+blockquote {
+  font-style: normal !important;
+}
+
 /*
  * Image Asides
 */
