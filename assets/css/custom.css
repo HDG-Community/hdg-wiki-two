@@ -394,11 +394,10 @@ div .img-aside img {
   border-color: var(--hdg-text-dark-sec);
   
 }
-/* Change the quoteblocks to be regular text instead of italic *.hx-bg-black\/\[\.05\] *.hx-bg-black\/\[\.05\]*/
-.content :where(blockquote):not(:where([class~=not-prose],
-[class~=not-prose] *)):where([dir=ltr],
-[dir=ltr] *) {
-  border-left-width:2px;
-  padding-left:1.5rem;
+.content :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)):where([dir="ltr"], [dir="ltr"] *) {
+  border-left-width: 2.5rem;
+  padding-left: 1.5rem;
   font-style: normal;
+  radius: 5px;
+  border-radius: 15px;
 }
