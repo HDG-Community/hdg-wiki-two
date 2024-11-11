@@ -14,7 +14,7 @@ Domestication is a complex topic, befitting the central unpinning motivation and
     Art by Promilie.
 {{< /aside >}}
 
-> "Exactly as the term would indicate, Ms. Gale. Domestication is the primary purpose of the Affini Compact. To be explicit about it, in broad terms, we take in adorable sophont species who struggle to care for themselves, like humans, and use our overwhelming technological and resource advantages to eliminate resistance to Affini control in order to ensure they are properly cared for. But most importantly, on an individual basis, domestication refers to the process by which we use our expertise in biomedical engineering and xenodrug development to turn sophonts into happy, docile and loving pets for their Affini owners."
+> _"Exactly as the term would indicate, Ms. Gale. Domestication is the primary purpose of the Affini Compact. To be explicit about it, in broad terms, we take in adorable sophont species who struggle to care for themselves, like humans, and use our overwhelming technological and resource advantages to eliminate resistance to Affini control in order to ensure they are properly cared for. But most importantly, on an individual basis, domestication refers to the process by which we use our expertise in biomedical engineering and xenodrug development to turn sophonts into happy, docile and loving pets for their Affini owners."_
 > 
 > **AsphodelVeil's [_Nurture & Acquisitions_](https://archiveofourown.org/works/48096388/chapters/121280206), chapter 6**
 
@@ -65,9 +65,9 @@ Pluribus is the term the Affini use to describe multiple sophonts sharing a sing
 #### Digital Florets
 Not all florets are biological in origin! Some xenosophonts originate from artificial substrates, while others were converted to such a substrate through **digitization**. Digital florets may exist entirely as information, or may interact with the physical world through a variety of drone shells, which may be obviously artificial or indistinguishable from the biological. 
 ## Domestication of Cultures 
-> _She had completely underestimated how powerful the Affini obsession with florets was, how all-encompassing. It wasn’t just preventing extinctions and taking as many florets as they felt like — it included all potential florets as well, regardless of whether they wanted to be florets or not. They believe that it’s their responsibility to make every living being in the universe happy, one way or another. How had she not seen it? All the details were there. Her brain simply hadn’t joined them up properly._
+> _"She had completely underestimated how powerful the Affini obsession with florets was, how all-encompassing. It wasn’t just preventing extinctions and taking as many florets as they felt like — it included all potential florets as well, regardless of whether they wanted to be florets or not. They believe that it’s their responsibility to make every living being in the universe happy, one way or another. How had she not seen it? All the details were there. Her brain simply hadn’t joined them up properly._
 > 
-> _There was no way out of this. There was never any negotiation possible beyond a polite fiction, because the Affini would never settle for anything else than absolute power to spoil Solstice rotten._
+> _"There was no way out of this. There was never any negotiation possible beyond a polite fiction, because the Affini would never settle for anything else than absolute power to spoil Solstice rotten."_
 > 
 > **Kanagen's [_No Gods, No Masters_](https://archiveofourown.org/works/44810131/chapters/112743343), chapter 15**
 
