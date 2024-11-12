@@ -1,0 +1,22 @@
+{{ $emoji := dict
+    "caution" "caution blockquote"
+    "important" "Important information blockquote"
+    "note" "Note Blockquote"
+    "tip" ":Tip Quote"
+    "warning" "Warning Quote"
+    "affini" "Block quote from the affini"
+    "loret" "Block quote from the lorets"
+    "skoof" "Block quote from skoof" 
+  }}
+  
+  {{ if eq .Type "alert" }}
+    <blockquote class="alert alert-{{ .AlertType }}" aria-label="{{ (index $emoji .AlertType) }}">
+      {{ .Text }}
+    </blockquote>
+  {{ else }}
+    <blockquote>
+      {{ .Text }}
+    </blockquote>
+  {{ end }}
+  
+  

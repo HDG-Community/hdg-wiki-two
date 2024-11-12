@@ -29,7 +29,21 @@ Ideally, some of these things will get different colours!
 {{< /image >}}
 
 ### Can we get the nice stylized alerts we had on the old site?
-> [!ALERT] 
-> alerttttt
 
-Not yet, but hopefully one day soon!
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+Well! We can use the baked-in ones (Note, Warning, Information) but not yet custom ones, seemingly! 
+
+> [!AFFINI]
+> This one is for information and I'm going to make it purple!
+
+Aha!! So I CAN add custom quoteblocks!! Behold! 
+
+>[!LORET]
+> I think that Sweet like Cocoa is pretty hot, actually
+
+That's a good take! 
+
+>[!SKOOF]
+> Wow lorets, you are so right! Also, you are so yellow! Whereas I am, of course, green!

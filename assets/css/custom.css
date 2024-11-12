@@ -401,3 +401,22 @@ div .img-aside img {
   radius: 5px;
   border-radius: 15px;
 }
+
+/* Custom Blockquote Styling */
+.alert-note {
+  border-color: var(--hdg-exeterorange);
+    background-color: rgba(236, 52, 12,0.05);
+}
+.alert-affini {
+  border-color: var(--hdg-compactred);
+  background-color: rgba(218, 28, 92,0.05);
+}
+.alert-loret {
+  border-color: var(--hdg-pinnatepurple);
+  background-color: rgba(78, 44, 144,0.05);
+}
+
+.alert-skoof {
+  border-color: var(--hdg-haustoricgreen);
+  background-color: rgba(0, 114, 57,0.03);
+}

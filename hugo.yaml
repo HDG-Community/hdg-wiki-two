@@ -94,7 +94,12 @@ params:
   footer:
     displayPoweredBy: false
 markup:
+  defaultMarkdownHandler: goldmark
   goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true
     renderHooks:
       link:
         enableDefault: true
