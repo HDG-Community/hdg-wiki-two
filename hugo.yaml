@@ -98,7 +98,7 @@ markup:
   goldmark:
     parser:
       attribute:
-        block: true
+        block: false
         title: true
     renderHooks:
       link:
