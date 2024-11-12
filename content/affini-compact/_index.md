@@ -45,7 +45,7 @@ The running joke among affini is that the great project of universal domesticati
 
 From Triangulum, the Affini eventually spread to Andromeda, and from there to Andromeda's satellite galaxies. They finally arrived in the Milky Way, after a journey of two and a half million light years, circa 2000 CE (~550 BT), and began constructing a trans-galactic jumpgate to enable fast travel between Andromeda and the Milky Way. From there, they continued their common task of universal domestication, eventually reaching Terran space around 2547 C.E. 
 ### Future History 
-An affini might rest on occasion, but the Compact never does, reaching out further and further into the stars, domesticating more and more of the galaxy for the next 400,00 years. This campaign comes to an end not because it fails, but because it succeeds beyond its wildest dreams - in the end, the Affini domesticate space-time itself, reprogramming the universe itself to create a new one in its place, one where every sophont who has ever lived finally achieves the peace, stability, and plenty that comes of domestication. 
+An affini might rest on occasion, but the Compact never does, reaching out further and further into the stars, domesticating more and more of the galaxy for the next 400,000 years. This campaign comes to an end not because it fails, but because it succeeds beyond its wildest dreams - in the end, the Affini domesticate space-time itself, reprogramming the universe itself to create a new one in its place, one where every sophont who has ever lived finally achieves the peace, stability, and plenty that comes of domestication. 
 
 For further details, read SapphicSounds' [_For a Better Universe_](https://archiveofourown.org/works/47826115/chapters/120569920). 
 ## Government
