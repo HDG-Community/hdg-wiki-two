@@ -22,6 +22,7 @@ A sophont who has been domesticated is referred to as a *floret*. Most florets a
 
 Florets take the surname of their owner (or the closest equivalent, should a culture not have a concept directly analogous to the surname), and add a numerical quantifier to their name identifying in what order they were taken as a floret by that affini; for example, if Kasey Connor is domesticated by Thyrsiflora Abronia, Third Bloom, who has taken two florets already, they would become Kasey Abronia, Third Floret. 
 
+> [!AFFINI]
 > Floret counts are a personal matter, and many affini do them differently. An affini might maintain a constant floret count, and just deal with the fact that, at some point in their future, they'll have a 25th floret, and a 47th floret, and a 108th floret, and so on. Others reset their floret counts when they rebloom, or at regular intervals. Some only count the florets they currently have, resetting whenever they have none. In other words, whatever works, works. 
 
 Florets are the beloved pets of their affini, who will stop at nothing to ensure that they are happy, but this is a responsiblity all affini feel toward all florets. If a floret is in danger, or even just a little sad, _any_ affini will prioritize solving the problem above all else. However, florets are also the property of their affini; therefore, said affini has the ultimate say in every part of a floret's life. They will alter the floret however they believe necessary to achieve their goal of allowing them to be their best self, regardless of whether the floret _wants_ those alterations beforehand. 
@@ -32,6 +33,7 @@ One such route is the _wellness check_; if a xenosophont is not thriving, is una
 
 A _wardship_ is essentially a temporary domestication; an affini takes charge of the xenosophont in question and acts as their guardian for the duration of the wardship, evaluating their needs, their capacity to fulfill those needs, and whether they're likely to develop those capacities with assistance or not. Xenosophonts in wardships are often given collars or cuffs that track their vital signs and are capable of delivering preloaded doses of xenodrugs in emergency situations. 
 
+> [!LORET]
 > It's a common joke that wardships are just an excuse for domestication, and to be sure that sort of thing does happen; an affini sees a xenosophont they like and arranges for them to be wellness checked, placed in a wardship under them, and subsequently domesticates them. This is less common than one might think, though, and many wardships do in fact end with the xenosophont remaining independent. The frequency of wardship-to-floret events seen in Human Domestication Guide is simply a factor of writers knowing what they want to see, and writing it. 
 
 Involuntary domestications may also happen directly, without the wardship pipeline. This is most common early on in domestication campaigns, when some xenosophont species choose to resist domestication when the Affini arrive. However, even after cultural domestication, a xenosophont who resorts to violence (especially against affini, and _especially_ especially against florets!) will often be summarily domesticated. Other feral behaviors, such as spreading anti-Affini propaganda or attempting to subvert organs of bureaucracy, may have the same result. The conditions for when xenosophonts can be summarily domesticated are spelled out in that xenosophont's relevant Domestication Treaty. 
@@ -47,6 +49,7 @@ The Affini are culturally obsessed with bureaucracy and paperwork, so it should 
 
 Other terms may be added as the affini taking the floret desires. If the floret has volunteered, they often have a great deal of leeway to negotiate stipulations of their own. 
 
+> [!AFFINI]
 > The "political rights" that florets give up are nebulous at best. While florets do get a vote (for fun!), that vote doesn't count; however, if a substantial proportion of florets vote against something, the affini don't simply ignore it. These are _florets_ we're talking about, after all! 
 ### Florets of All Kinds 
 There are several modifiers one may encounter after a floret's name, such as "Pinnate" or "Pluribus." These are terms that further specify conditions relating to, or further identify, a floret. These terms are considered so central to the floret's identity that they are formally encoded in their name.

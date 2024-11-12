@@ -26,6 +26,7 @@ GlitchyRobo - [Archive of Our Own](https://archiveofourown.org/works/45190954/) 
 
 The original *Human Domestication Guide* wasn’t created with a wider setting in mind - it was just its own alien abduction kinky horror story. In the original release, the affini were just a mysterious invading force with unknown true intent and little is known about the Terrans beyond that they lost. While the story itself did not delve into the exact details of the setting, it did provide the foundation upon which *Abscission*, *Divaricated*, and others built upon.
 
+> [!NOTE]
 > It should be noted that the original story is currently undergoing a revision in its migration from ROM over to AO3. This leads to differences between the two, with the AO3 version being adapted to fit with the current setting better and more cleanly integrate the early-setting weirdness.
 ### Abscission
 {{< aside dawn_hesplex_meanderling "A digital illustration of a terran woman and two humanoid affini. The terran is riding on the shoulders of one of the affini while the other kisses the terran on the cheek." >}}

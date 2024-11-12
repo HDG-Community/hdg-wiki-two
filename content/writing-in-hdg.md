@@ -24,6 +24,7 @@ But we're trying to do something a little different here, because HDG began not 
 
 The following Axioms & Rules are intended to clarify the nature of what makes an HDG story, and what elements of those stories can be bent, changed, or omitted while still retaining the essential character of Human Domestication Guide. Keep the Axioms and follow the Rules, and you'll grok the HDG vibe in no time.
 
+> [!LORET]
 > Be sure to also check out the [[foundational-works|Foundational Works]] page, as the stories on there we very much recommend you read if you want to write in the setting, as there is no replacement for getting a handle on the themes and feel of the setting than reading the stories themselves.
 
 ## Axioms
@@ -133,6 +134,7 @@ The kind of AU you should avoid, using the same theme as an example, might creat
 
 The good news is, as long as you create a sufficient separation between your AU and the core setting, and as long as you stick to the Axioms and Rules, you can write your own Lore for your own AU without causing anyone any grief. It's easier for you, it's easier for the Lorets, and it's easier for your readers. If you have any questions, concerns, or confusion around what a sufficient separation is, please don't hesitate to get in touch with the Lorets and ask!
 
+> [!LORET]
 > If our stance on AUs is too restrictive for you, or if you feel you can’t adjust your concept to fit into the core setting or even an AU based on it, we suggest you try to write your concept as a standalone piece of fiction, unrelated to HDG. The wonderful thing about being a community of writers is that we love to read all kinds of stories, not just ones about communist space plants making pets of humanity, and there’s a thriving non-HDG-fiction scene on our [Discord](http://discord.humandomestication.guide/)!
 ## Article Credit
 Article written and maintained by the Lorets.
