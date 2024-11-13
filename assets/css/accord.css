@@ -34,8 +34,8 @@ strong:is(html[class~=dark] *){
     45deg,
     transparent,
     transparent 10px,
-    #6a8380 5px,
-    #6a8380 25px
+    rgb(var(--hdg-cosmicnavygrey)) 5px,
+    rgb(var(--hdg-cosmicnavygrey)) 25px
   );
   height:2rem;
 }
