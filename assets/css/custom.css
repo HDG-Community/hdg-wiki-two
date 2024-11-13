@@ -1,27 +1,27 @@
 /* Define Custom Colours */
 /* ***********************/
 :root {
-  --hdg-bg-light-pri:#f1f1f1;
-  --hdg-bg-light-sec:#dddddd;
-  --hdg-bg-dark-pri:#1d1b1b;
-  --hdg-bg-dark-sec:#222222;
-  --hdg-text-dark-pri: #f1f1f1;
-  --hdg-text-dark-sec: #B5BABA;
-  --hdg-text-dark-ter:#B5BABA;
-  --hdg-text-light-pri:#171515;
-  --hdg-text-light-sec:#383638;
-  --hdg-text-light-ter:#383638;
-  --hdg-compactred:#DA1C5C;
-  --hdg-affinirose:#b72650;
-  --hdg-protectoratepink:#ff80aa;
-  --hdg-haustoricgreen:#017239;
-  --hdg-floretgreen:#00C26E;
-  --hdg-pinnatepurple:#4d2c91;
-  --hdg-sproutpurple:#b999ff;
-  --hdg-clerkyellow:#fff792;
-  --hdg-accordorange:#FD8726;
-  --hdg-exeterorange:#eb350c;
-  --hdg-bluestripe:#0fc8ff;
+  --hdg-bg-light-pri: 241, 241, 241;
+  --hdg-bg-light-sec: 221, 221, 221;
+  --hdg-bg-dark-pri: 29, 27 27;
+  --hdg-bg-dark-sec: 34, 34 34;
+  --hdg-text-dark-pri: 241, 241, 241;
+  --hdg-text-dark-sec: 181, 186, 186;
+  --hdg-text-dark-ter: 181, 186, 186;
+  --hdg-text-light-pri: 23, 21, 21;
+  --hdg-text-light-sec: 56, 54, 56;
+  --hdg-text-light-ter: 56, 54, 56;
+  --hdg-compactred: 218, 28, 92;
+  --hdg-affinirose: 183, 38, 80;
+  --hdg-protectoratepink: 255, 128, 170;
+  --hdg-haustoricgreen: 1, 114, 57;
+  --hdg-floretgreen: 0, 194, 110;
+  --hdg-pinnatepurple: 77, 44, 145;
+  --hdg-sproutpurple:185, 153 255;
+  --hdg-clerkyellow:255, 247, 146;
+  --hdg-accordorange:253, 135, 38;
+  --hdg-exeterorange: 235, 53, 12;
+  --hdg-bluestripe: 15, 200, 255;
 }
 
 /* Set Fonts */
@@ -423,17 +423,17 @@ div .img-aside img {
 }
 
 blockquote {
-  display: flex;
+  display: block;
   margin: 0; /* Optional: Remove default blockquote margin */
   flex-grow: 1;
-  border-radius: 0px 10px 10px 0px;
+  border-radius: 0px 10px 10px 10px;
 }
 .content :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
   margin-top: 0;
 }
 /* Per-Type Styles */
 .quoteContent-note {
-    background-color: rgba(236, 52, 12,0.05);
+    background-color: rgba(var(--hdg-exeterorange),0.05);
 }
 .note-Border {
   color: var(--hdg-bg-light-pri);

@@ -49,6 +49,7 @@ An affini might rest on occasion, but the Compact never does, reaching out furth
 
 For further details, read SapphicSounds' [_For a Better Universe_](https://archiveofourown.org/works/47826115/chapters/120569920). 
 ## Government
+>[!SKOOF]
 > _"Wing gestured around at the entire ship. 'We took a vote. Two thousand four hundred and five for, three hundred two against. We take this stuff really seriously, Katie.'_
 > 
 > \[…\]
