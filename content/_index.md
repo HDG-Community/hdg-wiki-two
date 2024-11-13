@@ -46,10 +46,4 @@ Aha!! So I CAN add custom quoteblocks!! Behold!
 That's a good take! 
 
 >[!SKOOF]
-<<<<<<< HEAD
 > Wow lorets, you are so right! Also, you are so yellow! Whereas I am, of course, green!
-
-Huh, and at the end of the page things seem to just keep repeating. That's annoying. 
-=======
-> Wow lorets, you are so right! Also, you are so purple! Whereas I am, of course, green!
->>>>>>> 5ca0793d4fae6a2ebe8e9a89f3bce68ff6421b55

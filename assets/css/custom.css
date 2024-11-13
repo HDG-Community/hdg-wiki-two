@@ -17,11 +17,12 @@
   --hdg-haustoricgreen: 1, 114, 57;
   --hdg-floretgreen: 0, 194, 110;
   --hdg-pinnatepurple: 77, 44, 145;
-  --hdg-sproutpurple:185, 153 255;
-  --hdg-clerkyellow:255, 247, 146;
-  --hdg-accordorange:253, 135, 38;
-  --hdg-exeterorange: 235, 53, 12;
+  --hdg-sproutpurple: 185, 153 255;
+  --hdg-clerkyellow: 255, 247, 146;
+  --hdg-accordorange: 253, 135, 38;
+  --hdg-shiporange: 235, 53, 12;
   --hdg-bluestripe: 15, 200, 255;
+
 }
 
 /* Set Fonts */
@@ -400,6 +401,7 @@ div .img-aside img {
 /*****************************/ 
 /* All Quoteblocks */
 .content :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)):where([dir="ltr"], [dir="ltr"] *) {
+  font-style:normal;
   border-left-width: 0px;
   padding-left: 1.5rem;
 }
@@ -427,13 +429,17 @@ blockquote {
   margin: 0; /* Optional: Remove default blockquote margin */
   flex-grow: 1;
   border-radius: 0px 10px 10px 10px;
+  font-style: regular;
 }
 .content :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
   margin-top: 0;
 }
+.quoteText {
+  position: relative;
+}
 /* Per-Type Styles */
 .quoteContent-note {
-    background-color: rgba(var(--hdg-exeterorange),0.05);
+  background-color: rgba(var(--hdg-shiporange),0.05);
 }
 .note-Border {
   color: var(--hdg-bg-light-pri);
@@ -444,7 +450,7 @@ blockquote {
 }
 .affini-Border {
   color: var(--hdg-bg-light-pri);
-  background-color: var(--hdg-affinirose);
+  background-color: var(--hdg-compactred);
 }
 .quoteContent-loret {
   background-color: rgba(78, 44, 144,0.05);

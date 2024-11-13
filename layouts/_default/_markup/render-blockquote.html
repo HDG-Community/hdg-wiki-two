@@ -1,5 +1,4 @@
 {{ $aria := dict
-    "caution" "caution blockquote"
     "important" "Important information blockquote"
     "note" "Note Blockquote"
     "tip" ":Tip Quote"
@@ -9,7 +8,6 @@
     "skoof" "Block quote from skoof" 
   }}
   {{ $mdi := dict
-    "caution" "\uf014"
     "important" "\ue645"
     "note" "\ue873"
     "tip" "\ue0f0"
@@ -24,7 +22,7 @@
       {{ (index $mdi .AlertType)}}  
     </div>
     <blockquote class="quoteContent-{{ .AlertType }}" aria-label="{{ (index $aria .AlertType) }}">
-      {{ .Text }}
+      <span class="quoteText">{{ .Text }}</span>
     </blockquote>
   </div>
 {{ else }}
