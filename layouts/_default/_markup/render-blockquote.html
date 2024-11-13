@@ -1,4 +1,4 @@
-{{ $emoji := dict
+{{ $aria := dict
     "caution" "caution blockquote"
     "important" "Important information blockquote"
     "note" "Note Blockquote"
@@ -8,15 +8,28 @@
     "loret" "Block quote from the lorets"
     "skoof" "Block quote from skoof" 
   }}
-  
+  {{ $mdi := dict
+    "caution" "\uf014"
+    "important" "\ue645"
+    "note" "\ue873"
+    "tip" "\ue0f0"
+    "warning" "\ue002"
+    "affini" "\uea99"
+    "loret" "\uea19"
+    "skoof" "\ue88a" 
+  }}
   {{ if eq .Type "alert" }}
-    <blockquote class="alert alert-{{ .AlertType }}" aria-label="{{ (index $emoji .AlertType) }}">
+  <div class="quote-Block">
+    <div class="quote-Border {{ .AlertType }}-Border">
+      {{ (index $mdi .AlertType)}}  
+    </div>
+    <blockquote class="quoteContent-{{ .AlertType }}" aria-label="{{ (index $aria .AlertType) }}">
       {{ .Text }}
     </blockquote>
-  {{ else }}
-    <blockquote>
-      {{ .Text }}
-    </blockquote>
-  {{ end }}
-  
+  </div>
+{{ else }}
+  <blockquote>
+    {{ .Text }}
+  </blockquote>
+{{ end }}
   

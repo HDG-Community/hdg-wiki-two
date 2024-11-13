@@ -47,3 +47,5 @@ That's a good take!
 
 >[!SKOOF]
 > Wow lorets, you are so right! Also, you are so yellow! Whereas I am, of course, green!
+
+Huh, and at the end of the page things seem to just keep repeating. That's annoying. 

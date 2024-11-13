@@ -394,29 +394,70 @@ div .img-aside img {
   border-color: var(--hdg-text-dark-sec);
   
 }
-.content :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)):where([dir="ltr"], [dir="ltr"] *) {
-  border-left-width: 2.5rem;
-  padding-left: 1.5rem;
-  font-style: normal;
-  radius: 5px;
-  border-radius: 15px;
-}
+
 
 /* Custom Blockquote Styling */
-.alert-note {
-  border-color: var(--hdg-exeterorange);
+/*****************************/ 
+/* All Quoteblocks */
+.content :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)):where([dir="ltr"], [dir="ltr"] *) {
+  border-left-width: 0px;
+  padding-left: 1.5rem;
+}
+.quote-Block {
+  display: flex;
+  align-items: stretch; /* Aligns the items to the top */
+  margin-top: 1rem;
+  margin-bottom: 1rem; 
+}
+
+.quote-Border {
+  background-color: transparent; 
+  font-size: 2.5rem; 
+  font-family: "Material Icons";
+  color: var(--hdg-text-dark-pri);
+  width: fit-content; 
+  height: 100%; 
+  padding-left:7px;
+  padding-right: 7px; 
+  border-radius: 10px 0px 0px 10px;
+}
+
+blockquote {
+  display: flex;
+  margin: 0; /* Optional: Remove default blockquote margin */
+  flex-grow: 1;
+  border-radius: 0px 10px 10px 0px;
+}
+.content :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  margin-top: 0;
+}
+/* Per-Type Styles */
+.quoteContent-note {
     background-color: rgba(236, 52, 12,0.05);
 }
-.alert-affini {
-  border-color: var(--hdg-compactred);
+.note-Border {
+  color: var(--hdg-bg-light-pri);
+  background-color: var(--hdg-exeterorange);
+}
+.quoteContent-affini {
   background-color: rgba(218, 28, 92,0.05);
 }
-.alert-loret {
-  border-color: var(--hdg-pinnatepurple);
+.affini-Border {
+  color: var(--hdg-bg-light-pri);
+  background-color: var(--hdg-affinirose);
+}
+.quoteContent-loret {
   background-color: rgba(78, 44, 144,0.05);
 }
 
-.alert-skoof {
-  border-color: var(--hdg-haustoricgreen);
+.loret-Border {
+  color: var(--hdg-bg-light-pri);
+  background-color: var(--hdg-pinnatepurple);
+}
+.quoteContent-skoof {
   background-color: rgba(0, 114, 57,0.03);
+}
+.skoof-Border {
+  color: var(--hdg-bg-light-pri);
+  background-color: var(--hdg-haustoricgreen);
 }
