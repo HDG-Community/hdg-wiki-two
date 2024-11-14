@@ -1,5 +1,5 @@
 ---
-title: World & Locations
+title: Worlds & Locations
 date: 2024-11-05T00:00:00+00:00
 authors: tbd
 draft: false
