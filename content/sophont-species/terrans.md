@@ -6,7 +6,7 @@ draft: false
 description: tbd
 ---
 _Not to be confused by the primary polity terrans lived under at the time of their domestication, the [[terran-accord|Terran Accord]]._
-
+<br>
 {{< aside terrans_stylized_promilie "Digital illustration of two terrans, one a floret dressed in clothing made to look like leaves, the other a marine dressed in a futuristic military uniform holding a large gun." >}}
     A terran floret (left) and a Terran Cosmic Navy marine (right).
     Art by Promilie.
