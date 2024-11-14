@@ -1,12 +1,14 @@
 ---
-title: Foundational works
+title: Foundational Works
 date: 2024-11-02T00:00:00+00:00
 authors: The Lorets
 draft: false
 description: A collection of works intended to give a solid overview of the setting and its themes.
 ---
 
-(TODO - Opening quote. Probably should be something from one of these works.)
+> _“In a scifi space future, humanity has just lost a war to the Affini, a civilization of highly advanced plant aliens who really want to make cute, drugged up pets of their subjects..."_
+> 
+> **GlitchyRobo's [_Human Domestication Guide_](https://readonlymind.com/@GlitchyRobo/HumanDomesticationGuide/), original description**
 
 Like many things, the Human Domestication Guide setting didn’t start as anything grand - just a small group of early authors collaborating with each other, building off of Glitchy’s original story. They worked closely, writing their own stories parallel to each other, talking and fleshing out the lore and themes of the world they were creating together. At first, there were only a handful of stories in conversation with each other, but that number only continued to grow and grow.
 

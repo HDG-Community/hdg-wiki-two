@@ -19,13 +19,18 @@ description: Powerful shapeshifting plant xenos and the self-appointed caretaker
 
 **Names:** Highly variable; typically drawn from local terminology for flora
 (TODO - more in-depth info on names in terran space)
-## Appearance and Physiology
+## Appearance & Physiology
 Affini are a morphologically-variable species of sophont plant-analogue organisms. They are heavily engineered and bear little resemblance, if any, to their ancestral form (discussed below); a modern affini is essentially a **phytotech** (plant-tech) cyborg consisting of a central core surrounded by vines, bark, and other foliage, all of which can be controlled and reshaped by the affini at any time. As a result, affini are functionally shapeshifters, able to remodel themselves however they wish. In practice, they often use this ability to mimic whatever sophont species they are interacting with, though some affini find a shape they particularly like and stick with it regardless of the local [[sophont-species|sophont]] population. 
 
 As a necessity of their physiology, affini are exceptional multitaskers. In addition, being so heavily engineered, they are almost always stronger, faster, and tougher than naturally evolved sophont species. On rare occasions, xenosophonts will be the physical equal of the average affini in one way or another; for occasions such as this, some affini augment their capabilities well beyond the standing norm. Most affini are able to sustain themselves on only nutritionally enhanced water, but some affini do consume plant or animal matter to sustain themselves as well. 
 
 Affini senses are extremely sharp. While they commonly shape eyes that appear to be made out of a kind of hammered metal, and which shine in a number of colors that vary with the affini's emotional state, these eyes are not their primary visual organs, and instead serve as fascinators used to attract and hypnotize other sophonts (see **Biorhythms & Hypnotics**, below). Affini vision is instead a function of ancestral photosynthesis. Every vine and every leaf an affini has is sensitive to light, and so they effectively see with their entire body. Their vines are also sensitive to vibrations, and therefore sound, as well as tactile stimulation. Affini often host many other senses through grafts (see below). 
 ### Grafts
+{{< aside xenodrug_grafts_lise "Digital illustration of a trio of xenodrug grafts, which look like botanical elements. Around the illustrations is some unintelligible alien script." left >}}
+    A collection of xenodrug grafts.
+    Art by lise-lemonade.
+{{< /aside >}}
+
 As engineered plant-like organisms, affini are able to graft most other plant-like organisms to themselves. This is typically an outpatient operation, and functions much like grafting in terran plants; a vine is cut, the new graft is put in place and bound to the vine, and the two grow together. The affini integrates the new graft into their body and is able to manipulate it much like they do the rest of their body. 
 
 Grafts may have many purposes. Some are purely for fashion, with flowers or other visually distinctive plants added to the affini. Others will have a specific purpose; they may be a phytotech augmentation, extending the affini's capabilities beyond the norm (such as adding a digestive tract allowing them to digest food, for example). The most common example of this latter type of graft is a [[xenodrugs|xenodrug]] graft, which gives the affini a built-in means of delivering an appropriate dose of xenodrugs to a sophont. 
