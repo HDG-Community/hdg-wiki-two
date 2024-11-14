@@ -8,7 +8,7 @@ authors:
       image: /img/doe_plush.png
 draft: false
 Params:
-  decoration: accord
+  decoration: affini
 description: A test post by skoof!
 type: page
 ---
@@ -38,4 +38,4 @@ What other kinds of markdown formatting are there... hmmmmmm. I dunno. Probably 
 
 ![skoof!](/img/doe_plush.png?height=100px)
 
-
+![affini!](/css/affini-divisor-repeat.svg?height=100px)

@@ -15,3 +15,9 @@ strong:is(html[class~=dark] *){
     font-weight:bolder;
     color: rgb(var(--hdg-haustoricgreen))!important;
   }
+
+  /* Fun Title Decoration */
+  .hdg-title-decoration {
+    height: 25px;
+    background-image: url(affini-divisor-repeat.45c9516c9c055a20165165313161e9c2.svg);
+  }
