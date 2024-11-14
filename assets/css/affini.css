@@ -8,14 +8,25 @@
   /* Bold Text, Dark Theme*/
 strong:is(html[class~=dark] *){
     font-weight:bolder;
-    color: rgb(var(--hdg-floretgreen!important));
+    color: rgba(var(--hdg-protectoratepink))!important;
   }
   /* Bold Text, Light Theme */
   strong {
     font-weight:bolder;
-    color: rgb(var(--hdg-haustoricgreen))!important;
+    color: rgb(var(--hdg-affinirose))!important;
   }
-
+/* Change the colour of links in Dark Theme */
+.content :where(a):not(:where([class~=not-prose], [class~=not-prose] *)):is(html[class~=dark] *) {
+  --tw-text-opacity: 1;
+  color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-text-opacity));
+  color: rgb(var(--hdg-protectoratepink));
+}
+/* Change the colour of links in Light Theme */
+.content :where(a):not(:where([class~=not-prose], [class~=not-prose] *)) {
+  --tw-text-opacity: 1;
+  color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-text-opacity));
+  color: rgb(var(--hdg-affinirose));
+}
   /* Fun Title Decoration */
   .hdg-title-decoration {
     height: 25px;

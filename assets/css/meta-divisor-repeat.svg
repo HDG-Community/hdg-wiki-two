@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60" height="25" version="1.1" viewBox="0 0 60 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<linearGradient id="linearGradient9" x1="60.763" x2="110.76" y1="10.763" y2="10.763" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#b999ff" offset="0"/>
+		</linearGradient>
+	</defs>
+	<rect y="10" width="60" height="5" fill="url(#linearGradient9)" fill-rule="evenodd" stroke-linecap="round" stroke-width="10" style="paint-order:fill markers stroke"/>
+</svg>

@@ -4,6 +4,8 @@ date: 2024-11-03T00:00:00+00:00
 authors: Kanagen
 draft: false
 description: The processes by which the Affini care for sophont life, both on the level of an individual and the level of a culture.
+Params:
+  decoration: affini
 ---
 (TODO - opening quote)
 

@@ -5,6 +5,8 @@ tags: blog
 authors: [teagan and the Lorets]
 draft: false
 description: Changes to the Lorets' approach to the curation of the HDG setting.
+Params:
+  decoration: meta
 ---
 
 _Coordinators' Notes - This article was originally published to the [old wiki](https://humandomestication.guide/en/blog/CanonIsDead) and makes references to that version of the sight, to clear up any confusion._
