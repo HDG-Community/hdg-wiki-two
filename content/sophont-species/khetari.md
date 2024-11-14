@@ -32,7 +32,6 @@ Examples in the most commonly spoken languages: Yobai, Keeni, Toi-na, Gäraf, Ju
     A pair of female and male khetari showing off their differences in plumage.
     Art by Promilie.
 {{< /aside >}}
-
 Khetari have broad feline heads with long, triangular ears. Their powerful jaws and conical teeth are designed to crush the tough chitin of the insects and crustaceans that make up their diet. They have relatively long, thick necks and sloped shoulders, with wide arms ending in four paw-like fingers, tipped with non-retractable talon-like claws. Relative to terran cats, their torsos are short and wide, ending in a long, thick and somewhat stiffened tail with a feathered fan at its tip. The tail fan is heavily used to convey body language, such as quivering when the khetari feels joy or held high and fanned out when they feel threatened. Khetari lack eyebrows and use their ears to emote in their stead. They have digitigrade hind legs and are equally comfortable with bipedal or quadrupedal locomotion.
 
 Khetari display sexual dimorphism through the coloration of their plumage. Males are more colorful than females, and bright colors are often culturally associated with masculinity. Females come in countershaded tawny browns, reds or grays, with white teardrop-shaped spots running down their backs. Males have a countershaded bluish or purplish gray- to black coat with bright cyan spots. Both sexes have an iridescent sheen in the ultraviolet spectrum, though it is much more apparent in males. They have full color vision, can see into the ultraviolet spectrum and have excellent night vision.
@@ -47,7 +46,6 @@ Their dense bodies do not handle low gravity environments well in the long term 
     A playful male khetari.
     Art by Rae.
 {{< /aside >}}
-
 Khetari are highly social, competitive and rambunctious sophonts. They evolved to live in competitive social dominance hierarchies, with a constant drive to establish and maintain pecking orders. Once a hierarchy has been established, khetari are known to pack-bond very tightly within their immediate social groups, but remain neutral or even aloof to those outside of it. Because of this, affini owners sometimes maintain groups of up to ten pinnate khetari florets, though smaller groups of three to six are more common.  
 Forced grooming of lower rank individuals is a common way for khetari to maintain dominance and reinforce social bonds, which is a behavior that affini delight in indulging.
 
@@ -59,7 +57,6 @@ Prior to their [[florets-domestication|domestication]], the khetari homeworld wa
     A khetari warlord cornered by an affini.
     Art by teagan.
 {{< /aside >}}
-
 Eventually, the khetari as a species achieved a level of technological advancement that surpassed that of the [[terran-accord|Terran Accord]] at the time of the Terran-Affini conflict. However, because of the deep gravity well of Söen they could not easily reach space with chemical rockets and were almost entirely confined to their homeworld. Around the 2230s, the khetari began to experiment with hypermetric technology, including weaponry, which inadvertently alerted the [[affini-compact|Affini Compact]] to their existence, leading to a quick and somewhat dramatic pacification campaign.
 
 The peoples of Söen kept livestock in the form of large beetle-like animals, but they were kept purely for consumption and labor. The concept of keeping animals as pets was wholly foreign to them, so when the Affini Compact announced their intent to domesticate them they considered it an existential threat. Despite this, most of the nations of Söen did not band together against their common foe, choosing instead to opportunistically attack each other over real or perceived weaknesses presented by the alien invasion.

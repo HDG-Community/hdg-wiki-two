@@ -52,25 +52,25 @@ anna//bool - [Archive of Our Own](https://archiveofourown.org/works/41618376/)
 Much like other foundational stories, *Divaricated* established huge swaths of the setting’s lore, from hyperspace to body modification to biorhythms. It expanded on and established much of Affini ship culture, and illustrated the diversity of florethood - once you’ve met one floret, you’ve met one floret.
 ### Nurture & Acquisitions
 AsphodelVeil - [Archive of Our Own](https://archiveofourown.org/works/48096388/)
-
+<br>
 > *When the Affini reach the Terran resort planet of Xenia, they are met with a very different reaction from its workers than they had expected, doubly so from one Gale Rossings. Guided by her resourcefulness and keen sense of right and wrong, she holds a mirror up to affini and humanity alike.*
 
 *Nurture & Acquisitions* offers a perspective on life within both the Terran Accord and the Affini Compact. It provided a glimpse into the remnants of Terran corporate capitalism in the wake of the arrival of the Affini and contrasted that with what relative independence within the Compact could look like. It explored civilian life before and after societal domestication, highlighting how the affini interact with their floret species on a wider scale.
 ### Wellness Check
 Darkfalli - [Archive of Our Own](https://archiveofourown.org/works/41249283/)
-
+<br>
 > *Genius hacker Aster has had her life torn from her by the arrival of the Affini Compact. From her obsessively obfuscated personal servers to her emotional support orbital space cannon, the Affini took it all, but worst of all, now they want to help her.*
 
 *Wellness Check* introduced the more common “ship-of-theseus” method of digitization, as well as was the first story to consider digitization as a focus. It is the archetypal wellness check, demonstrating that no matter how hard one struggles against the loving vines of the Affini Compact, *no one* slips through the cracks.
 ### No Gods, No Masters
 Kanagen - [Archive of Our Own](https://archiveofourown.org/works/44810131/)
-
+<br>
 > *Cass Hope, an anarchist who turned a prison colony into a revolutionary army, hopes that agreeing with 99% of the Affini program will be enough - alas, the Affini won't compromise when it comes to sophont wellness.*
 
 *No Gods, No Masters* explored the setting through the lens of a different kind of feralism, taking an in-depth look at the *why* of the Affini Compact on a philosophical level and how they react to feralists who aren't raving fascists. It showed how the Compact responds to a polity who would otherwise be willing to work with them, and that no concessions are sufficient to prevent the Affini from enforcing their care.
 ### For a Better Universe
 SapphicSounds - [Archive of Our Own](https://archiveofourown.org/works/47826115/)
-
+<br>
 > *Over her long life, Alcea Pallis sees the best and worst which the universe and its inhabitants have to offer. In the end, she sets out to build something better, and, with the help of her loved ones, forgives herself for falling just short of absolute perfection.*
 
 *For a Better Universe* took a contemplative look at the Affini, the society that they created, and the passage of time through the eyes of a single affini. It conveyed the ultimate utopian goal of the Compact, asked and answered the question of what does “the Affini always win” mean on a cosmic timescale, and showed how the Affini interact with the broader universe, even long after Terran Pacification.

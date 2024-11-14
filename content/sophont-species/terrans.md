@@ -33,7 +33,6 @@ _Not to be confused by the primary polity terrans lived under at the time of the
     Many terrans in the Compact get biomods to give them features of other creatures from their homeworld and beyond.
     Art by lise-lemonade.
 {{< /aside >}}
-
 Terrans are omnivorous bipedal primates with long limbs and expressive, flattened faces. Though otherwise largely hairless, one of the most immediately distinguishing features among terrans is the fur that grows on the top of their heads, which come in a variety of colors, lengths and textures. Terrans style, groom and color their head-fur according to countless unique cultural practices, as well as personal preference. Their relatively thin, smooth skin comes in warm earth tones, ranging anywhere from shades of dark brown to pale beige. Male terrans are on average somewhat larger than females, and tend to grow additional fur around the mouth and jaw, which is also styled and groomed.
 
 Terrans have an excellent sense of balance despite their lack of a tail. Their upright bipedal gait, as well as their ability to shed excess body heat through sweating, allowed their ancestors to specialize as persistence hunters, and terrans therefore have excellent overland endurance. Their forelimbs are also highly adapted for throwing objects accurately over long distances. Both of these advantages were crucial to early humans and their extinct evolutionary relatives, seeing as they do not have any natural armor or weaponry to defend themselves. Their teeth are short and blunt, and their claws almost entirely vestigial.

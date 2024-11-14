@@ -37,7 +37,6 @@ Grafts may have many purposes. Some are purely for fashion, with flowers or othe
 {{< aside pladdy_promilie "Digital painting of a terran with leopard biomods being held by a masculine affini with curled horns and armor-like bark. The terran is clutching at some foliage on the affini's chest while he pets behind her feline ears." >}}
     Art by Promilie.
 {{< /aside >}}
-
 All organisms have a biorhythm, the sum total of all the little motions of living: breathing, heartbeats, small movements, and so on. Affini are no different, and also have a biorhythm; however, unlike most organisms, the affini evolved a hypnotic biorhythm, and their engineered nature has augmented that natural hypnotic ability to extreme levels. As a result, all affini are naturally hypnotic, a trait they use to great effect in their [[florets-domestication|domestication]] of other sophont species. 
 
 An affini's eyes are a common focal point for this hypnosis, but it is far from the only tool in their arsenal. Their voices, which are polyphonic and highly musical, are also intrinsically hypnotic, and can easily entrance an unsuspecting xenosophont. 

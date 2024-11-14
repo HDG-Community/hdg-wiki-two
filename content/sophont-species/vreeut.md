@@ -47,7 +47,6 @@ Vreeüt possess a structure analogous to a gular sac, which they use to greatly 
 {{< aside vreeut_swamp_promilie "A digital painting of a vreeüt slashing their way through a swamp, with a vreeüti city in the background." left >}}
     A vreeüt splashing through the swamps of Aü'tkcha. Art by Promilie.
 {{< /aside >}}
-
 Most vreeüt ancestor species were largely solitary hunters, who reared their young before sending them off to establish their own territories. Their immediate ancestor species, however, developed the practice of limited familial association and cooperative hunting beyond adolescence; as family units stuck together and applied their knack for problem-solving to survival, they became more successful, and rapidly proliferated. Within a hundred thousand years, they went from regional apex predator to dominant species on their homeworld of Aü'tkcha.
 
 Paleovreeütology has placed the development of language after this point; however, there is some evidence that earlier species may have had limited capacity for language and abstract problem-solving as well. Since these species are long-extinct, however (the closest relative of the vreeüt is a tree-dwelling omnivore not unlike a feathered flying squirrel), and since these species did not develop any form of writing, it's impossible to say for certain.
