@@ -27,7 +27,16 @@
   --hdg-quotecontent-alpha: 0.05;
 }
 
-/* Set Fonts */
+/* Load Fonts */
+/* Fantastique Mono Sans */
+@font-face{ 
+	font-family: 'MyWebFont';
+	src: url('WebFont.eot');
+	src: url('WebFont.eot?iefix') format('eot'),
+	     url('WebFont.woff') format('woff'),
+	     url('WebFont.ttf') format('truetype'),
+	     url('WebFont.svg#webfont') format('svg');
+}
 /* atkinson-hyperlegible-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
@@ -35,7 +44,8 @@
   font-style: normal;
   font-weight: 400;
   src: url('../fonts/atkinson-hyperlegible-v11-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
+} 
+
 
 /* atkinson-hyperlegible-italic - latin */
 @font-face {
@@ -63,7 +73,18 @@
   font-weight: 700;
   src: url('../fonts/atkinson-hyperlegible-v11-latin-700italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
-
+html,
+:host {
+  line-height: 1.5; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+  -moz-tab-size: 4; /* 3 */
+  -o-tab-size: 4;
+     tab-size: 4; /* 3 */
+  font-family: "Fantastique Sans"; /* 4 */
+  font-feature-settings: normal; /* 5 */
+  font-variation-settings: normal; /* 6 */
+  -webkit-tap-highlight-color: transparent; /* 7 */
+}
 
 .content {
     font-family: "Atkinson Hyperlegible", Roboto, sans-serif;
@@ -89,7 +110,6 @@
 
   --secondary-bg: #222222;
 }
-
 
 /* Set the Background in Dark Theme */
 body:is(html[class~=dark] *) {

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'fantasque_sans_monoregular';
+    src: url('fantasquesansmono-regular-webfont.eot');
+    src: url('fantasquesansmono-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fantasquesansmono-regular-webfont.woff2') format('woff2'),
+         url('fantasquesansmono-regular-webfont.woff') format('woff'),
+         url('fantasquesansmono-regular-webfont.ttf') format('truetype'),
+         url('fantasquesansmono-regular-webfont.svg#fantasque_sans_monoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
