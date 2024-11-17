@@ -110,7 +110,34 @@ html,
 
   --secondary-bg: #222222;
 }
-
+/* Set the Font Sizes */ 
+.hx-text-2xl {
+  font-size: 1.5rem;
+}
+.hx-text-4xl {
+  font-size: 2.25rem;
+}
+.hx-text-\[\.65rem\] {
+  font-size: .65rem;
+}
+.hx-text-\[10px\] {
+  font-size: 10px;
+}
+.hx-text-base {
+  font-size: 1rem;
+}
+.hx-text-lg {
+  font-size: 1.2rem;
+}
+.hx-text-sm {
+  font-size: 1rem;
+}
+.hx-text-xl {
+  font-size: 1.4rem;
+}
+.hx-text-xs {
+  font-size: .75rem;
+}
 /* Set the Background in Dark Theme */
 body:is(html[class~=dark] *) {
   --tw-bg-opacity:1;
