@@ -38,13 +38,15 @@
 	     url('../fonts/') format('truetype'),
 	     url('../fontsWebFont.svg#webfont') format('svg');
 }
+
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Fantastique Sans';
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/fantasquesansmono-regular-webfont.woff2') format('woff'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('../fonts/fantasquesansmono-regular-webfont.woff') format('woff'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 } 
+
 /* atkinson-hyperlegible-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
@@ -53,7 +55,6 @@
   font-weight: 400;
   src: url('../fonts/atkinson-hyperlegible-v11-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 } 
-
 
 /* atkinson-hyperlegible-italic - latin */
 @font-face {
@@ -81,6 +82,8 @@
   font-weight: 700;
   src: url('../fonts/atkinson-hyperlegible-v11-latin-700italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
+
+
 html,
 :host {
   line-height: 1.5; /* 1 */
@@ -116,34 +119,46 @@ html,
   --primary-saturation: 100%;
   --secondary-bg: #222222;
 }
+
+
 /* Set the Font Sizes */ 
 .hx-text-2xl {
   font-size: 1.5rem;
 }
+
 .hx-text-4xl {
   font-size: 2.25rem;
 }
+
 .hx-text-\[\.65rem\] {
   font-size: .65rem;
 }
+
 .hx-text-\[10px\] {
   font-size: 10px;
 }
+
 .hx-text-base {
   font-size: 1rem;
 }
+
 .hx-text-lg {
   font-size: 1.2rem;
 }
+
 .hx-text-sm {
   font-size: 1rem;
 }
+
 .hx-text-xl {
   font-size: 1.4rem;
 }
+
 .hx-text-xs {
   font-size: .75rem;
 }
+
+
 /* Set the Background in Dark Theme */
 body:is(html[class~=dark] *) {
   --tw-bg-opacity:1;
@@ -568,6 +583,7 @@ blockquote {
   color: rgb(var(--hdg-bg-light-pri));
   background-color: rgb(var(--hdg-accordorange));
 }
+
 .quoteContent-note {
   background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
 }
@@ -576,6 +592,7 @@ blockquote {
   color: rgb(var(--hdg-bg-light-pri));
   background-color: rgb(var(--hdg-cosmicnavy));
 }
+
 .quoteContent-warning {
   background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
 }
@@ -584,6 +601,7 @@ blockquote {
   color: rgb(var(--hdg-bg-light-pri));
   background-color: rgb(var(--hdg-cosmicnavy));
 }
+
 .quoteContent-quotation {
   background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
 }
@@ -592,9 +610,11 @@ blockquote {
   color: rgb(var(--hdg-bg-light-pri));
   background-color: rgb(var(--hdg-exeterorange));
 }
+
 .quoteContent-warning {
   background-color: rgba(var(--hdg-exeterorange), var(--hdg-quotecontent-alpha));
 }
+
 .quoteContent-affini {
   background-color: rgba(var(--hdg-compactred), var(--hdg-quotecontent-alpha));
 }
@@ -622,6 +642,7 @@ blockquote {
   background-color: rgb(var(--hdg-haustoricgreen));
 }
 
+
 /* DARK THEME*/
 .quoteContent-note {
   background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
@@ -631,6 +652,7 @@ blockquote {
   color: rgb(var(--hdg-bg-light-pri));
   background-color: rgb(var(--hdg-cosmicnavy));
 }
+
 .quoteContent-warning {
   background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
 }
@@ -639,6 +661,7 @@ blockquote {
   color: rgb(var(--hdg-bg-light-pri));
   background-color: rgb(var(--hdg-cosmicnavy));
 }
+
 .quoteContent-tip {
   background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
 }
@@ -647,9 +670,11 @@ blockquote {
   color: rgb(var(--hdg-bg-light-pri));
   background-color: rgb(var(--hdg-exeterorange));
 }
+
 .quoteContent-warning {
   background-color: rgba(var(--hdg-exeterorange), var(--hdg-quotecontent-alpha));
 }
+
 .quoteContent-affini {
   background-color: rgba(var(--hdg-compactred), var(--hdg-quotecontent-alpha));
 }
