@@ -31,12 +31,20 @@
 /* Fantastique Mono Sans */
 @font-face{ 
 	font-family: 'MyWebFont';
-	src: url('WebFont.eot');
-	src: url('WebFont.eot?iefix') format('eot'),
-	     url('WebFont.woff') format('woff'),
-	     url('WebFont.ttf') format('truetype'),
-	     url('WebFont.svg#webfont') format('svg');
+  font-display:swap;
+	src: url('../fonts/');
+	src: url('../fonts/') format('eot'),
+	     url('../fonts/') format('woff'),
+	     url('../fonts/') format('truetype'),
+	     url('../fontsWebFont.svg#webfont') format('svg');
 }
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Fantastique Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/fantasquesansmono-regular-webfont.woff2') format('woff'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+} 
 /* atkinson-hyperlegible-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
@@ -80,7 +88,7 @@ html,
   -moz-tab-size: 4; /* 3 */
   -o-tab-size: 4;
      tab-size: 4; /* 3 */
-  font-family: "Fantastique Sans","B612 Mono"; /* 4 */
+  font-family: "Fantastique Sans","B612 Mono",ui-monospace; /* 4 */
   font-feature-settings: normal; /* 5 */
   font-variation-settings: normal; /* 6 */
   -webkit-tap-highlight-color: transparent; /* 7 */
@@ -91,7 +99,7 @@ html,
 }
 
 .hx-font-mono {
-  font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace
+  font-family:"Fantastique Sans",ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace
 }
 
 /* Set Accent Colours */
