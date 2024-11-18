@@ -2,6 +2,7 @@
 title: "Welcome to the Guide!"
 date: 2024-09-02
 ---
+
 Welcome to the new and improved HDG guide, nerd! We've been working very hard on improving every asepct of the site, including a complete port to a much more suitable *Static Site Generator* model instead of WikiJS! We're still ironing out the kinks, but in the mean time, you can look at some of our pages: 
 
 {{< aside doe_plush "A skoof, doing skoof things" >}}
@@ -28,15 +29,15 @@ Ideally, some of these things will get different colours!
 
 ### Can we get the nice stylized alerts we had on the old site?
 
-> [!NOTE]
+> [!IMPORTANT]
 > Useful information that users should know, even when skimming content.
 
-Well! We can use the baked-in ones (Note, Warning, Information) but not yet custom ones, seemingly! 
+Well would you look at that! Let's try them all! 
 
 > [!AFFINI]
-> This one is for information and I'm going to make it red!
+> This one is for the affini and I'm going to make it red!
 
-Aha!! So I CAN add custom quoteblocks!! Behold! 
+Wow, so red! Look at that!
 
 >[!LORET]
 > I think that Sweet like Cocoa is pretty hot, actually
@@ -44,4 +45,15 @@ Aha!! So I CAN add custom quoteblocks!! Behold!
 That's a good take! 
 
 >[!SKOOF]
-> Wow lorets, you are so right! Also, you are so yellow! Whereas I am, of course, green!
+> Wow lorets, you are so right! Also, you are so purple! Whereas I am, of course, green!
+
+Skoof is so green,,,
+>[!QUOTATION]
+> I am a quote
+
+You are a note! 
+
+>[!WARNING]
+> I am a warning
+
+You are a warning

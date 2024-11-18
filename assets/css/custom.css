@@ -80,7 +80,7 @@ html,
   -moz-tab-size: 4; /* 3 */
   -o-tab-size: 4;
      tab-size: 4; /* 3 */
-  font-family: "Fantastique Sans"; /* 4 */
+  font-family: "Fantastique Sans","B612 Mono"; /* 4 */
   font-feature-settings: normal; /* 5 */
   font-variation-settings: normal; /* 6 */
   -webkit-tap-highlight-color: transparent; /* 7 */
@@ -100,14 +100,12 @@ html,
   --primary-saturation: 100%;
   --navbar-height: 4rem;
   --menu-height: 3.75rem;
-
   --secondary-bg: #DDDDDD;
 }
 
 .dark {
   --primary-hue: rgb(var(--hdg-protectoratepink));
   --primary-saturation: 100%;
-
   --secondary-bg: #222222;
 }
 /* Set the Font Sizes */ 
@@ -510,7 +508,7 @@ div .img-aside img {
 .content :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)):where([dir="ltr"], [dir="ltr"] *) {
   font-style:normal;
   border-left-width: 0px;
-  padding-left: 1.5rem;
+  padding-left: 0.7rem;
 }
 
 .quote-Block {
@@ -521,15 +519,18 @@ div .img-aside img {
 }
 
 .quote-Border {
+  display: flex;
   background-color: transparent; 
-  font-size: 2.5rem; 
+  font-size: 2.4rem; 
   font-family: "Material Icons";
   color: rgb(var(--hdg-text-dark-pri));
-  width: fit-content; 
+  width: fit-content;
+  max-width:3rem; 
   height: 100%; 
   padding-left:7px;
   padding-right: 7px; 
   border-radius: 10px 0px 0px 10px;
+  flex-grow: 1;
 }
 
 blockquote {
@@ -537,7 +538,7 @@ blockquote {
   margin: 0; /* Optional: Remove default blockquote margin */
   flex-grow: 1;
   border-radius: 0px 10px 10px 10px;
-  font-style: regular;
+  font-style: normal;
 }
 
 .content :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
@@ -550,15 +551,42 @@ blockquote {
 
 
 /* Per-Type Styles */
+/* LIGHT THEME */
+.quoteContent-important {
+  background-color: rgba(var(--hdg-accordorange), var(--hdg-quotecontent-alpha));
+}
+
+.important-Border {
+  color: rgb(var(--hdg-bg-light-pri));
+  background-color: rgb(var(--hdg-accordorange));
+}
 .quoteContent-note {
-  background-color: rgba(var(--hdg-exeterorange), var(--hdg-quotecontent-alpha));
+  background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
 }
 
 .note-Border {
   color: rgb(var(--hdg-bg-light-pri));
-  background-color: rgb(var(--hdg-exeterorange));
+  background-color: rgb(var(--hdg-cosmicnavy));
+}
+.quoteContent-warning {
+  background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
 }
 
+.quotation-Border {
+  color: rgb(var(--hdg-bg-light-pri));
+  background-color: rgb(var(--hdg-cosmicnavy));
+}
+.quoteContent-quotation {
+  background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
+}
+
+.warning-Border {
+  color: rgb(var(--hdg-bg-light-pri));
+  background-color: rgb(var(--hdg-exeterorange));
+}
+.quoteContent-warning {
+  background-color: rgba(var(--hdg-exeterorange), var(--hdg-quotecontent-alpha));
+}
 .quoteContent-affini {
   background-color: rgba(var(--hdg-compactred), var(--hdg-quotecontent-alpha));
 }
@@ -586,3 +614,57 @@ blockquote {
   background-color: rgb(var(--hdg-haustoricgreen));
 }
 
+/* DARK THEME*/
+.quoteContent-note {
+  background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
+}
+
+.note-Border {
+  color: rgb(var(--hdg-bg-light-pri));
+  background-color: rgb(var(--hdg-cosmicnavy));
+}
+.quoteContent-warning {
+  background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
+}
+
+.tip-Border {
+  color: rgb(var(--hdg-bg-light-pri));
+  background-color: rgb(var(--hdg-cosmicnavy));
+}
+.quoteContent-tip {
+  background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
+}
+
+.warning-Border {
+  color: rgb(var(--hdg-bg-light-pri));
+  background-color: rgb(var(--hdg-exeterorange));
+}
+.quoteContent-warning {
+  background-color: rgba(var(--hdg-exeterorange), var(--hdg-quotecontent-alpha));
+}
+.quoteContent-affini {
+  background-color: rgba(var(--hdg-compactred), var(--hdg-quotecontent-alpha));
+}
+
+.affini-Border {
+  color: rgb(var(--hdg-bg-light-pri));
+  background-color: rgb(var(--hdg-compactred));
+}
+
+.quoteContent-loret:is(html[class~=dark] *) {
+  background-color: rgba(var(--hdg-sproutpurple), var(--hdg-quotecontent-alpha));
+}
+
+.loret-Border:is(html[class~=dark] *) {
+  color: rgb(var(--hdg-bg-light-pri));
+  background-color: rgb(var(--hdg-sproutpurple));
+}
+
+.quoteContent-skoof:is(html[class~=dark] *) {
+  background-color: rgba(var(--hdg-floretgreen), var(--hdg-quotecontent-alpha));
+}
+
+.skoof-Border:is(html[class~=dark] *) {
+  color: rgb(var(--hdg-bg-light-pri));
+  background-color: rgb(var(--hdg-floretgreen));
+}
