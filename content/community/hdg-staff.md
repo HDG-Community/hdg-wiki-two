@@ -213,7 +213,7 @@ she/her
 
 Alleged botany enthusiast. Return to enclosure if sighted.
 
-<br><hr>
+<br><br><hr>
 
 {{< aside staff_moistegg "Moist Eggs' profile picture." >}}
     Profile by ARTIST.
@@ -236,7 +236,7 @@ she/her, it/its
 
 Doll is doll and Artist. many arts have been made for plamts!
 
-<br><hr>
+<br><br><hr>
 
 {{< aside staff_nimapode "Nimapode's profile picture." >}}
     Profile by ARTIST.
