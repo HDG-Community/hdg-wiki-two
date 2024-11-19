@@ -27,7 +27,6 @@ description: A glossary of terms relating to the HDG setting and community.
 - **Clerk** (meta) - Community members who lead the management of the [HDG Community Server](http://discord.humandomestication.guide/). See [[hdg-staff|Staff & Guide Contributors]].
 - **CNS** - Ship prefix for TCN ships, standing for "Cosmic Navy Ship."
 - **Comm Unit** - Handheld communication device, similar as a mobile phone.
-- **Community Gardener** (meta) - Community members who assist the Clerks with the day-to-day moderation and operations of the [HDG Community Server](http://discord.humandomestication.guide/). See [[hdg-staff|Staff & Guide Contributors]]. 
 - **Compact** - Affini Compact (see above).
 - **Companionism** - Ideology among xenosophonts supporting the affini's care for themselves and the universe. The opposite of feralism.
 - **Compiler** - Atomic compiler (see above).
@@ -66,12 +65,12 @@ description: A glossary of terms relating to the HDG setting and community.
 - **Free Terranism** - Terran supremacist ideology resisting the Compact’s control over terran space.
 - **Frost** - Affini curse.
 ### G
-- **Gardener** (meta) - Community Gardener (see above).
+- **Gardener** (meta) - Community members who assist the Clerks with the day-to-day moderation and operations of the [HDG Community Server](http://discord.humandomestication.guide/). See [[hdg-staff|Staff & Guide Contributors]]. 
 ### H
 - **Habitation Ring** / Hab Ring - Rotating ring as part of a spaceship or space station used to simulate gravity in microgravity environments. See both [[affini-ships|Affini Ships]] and [[terran-ships|Terran Ships]].
 - **Habitation Unit** / Hab - Home for a sophont or sophonts, such as a house or apartment.
 - **Hard Lore** (meta) - Elements of the setting's lore which are strongly set in stone and cannot be crossed without going into the territory of an alternate universe. See [[writing-in-hdg|Writing in HDG]].
-- **Haustoric Implant** - Biotech implant given to florets to ensure physical and mental wellness, and longevity. See [[haustoric-implant|Haustoric Implant]].
+- **Haustoric Implant** - Biotech implant given to florets to ensure physical and mental wellness. See [[haustoric-implant|Haustoric Implant]].
 - **Human** - Sophont species originating from Terra. See [[terrans|Terrans]].
 - **Human Domestication Treaty** - Treaty signed by the Terran Accord surrendering to the Affini Compact.
 - **Hyperlight Ansible Network** - Faster than light network upon which the overnet runs, among other tools, sensors, and more. See [[affini-tech|Affini Technology]].
