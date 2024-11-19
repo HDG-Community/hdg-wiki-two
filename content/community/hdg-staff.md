@@ -45,13 +45,14 @@ The early writers who created the original wiki from which the Guide is based.
 
 The many, many authors, artists, and other creatives who have brought the Human Domestication Guide setting to life and have shaped what it has become over the past few years.</center>
 ## The HDG Team
-### teagan
-Loret, Coordinator, Guide Artist  
-it/its, she/her  
-[AO3](https://archiveofourown.org/users/teagan_the_doll/) | [Tumblr](https://www.tumblr.com/teagan-the-doll)
 {{< aside staff_teagan "teagan's profile picture." left >}}
     Profile by herself.
 {{< /aside >}}
+**teagan**  
+Loret, Coordinator, Guide Artist  
+it/its, she/her  
+[AO3](https://archiveofourown.org/users/teagan_the_doll/) | [Tumblr](https://www.tumblr.com/teagan-the-doll)
+
 teagan is the main organizer of the content of this site - if a word is in the Guide, it's gone through teagan's desk. It has been reading since the original story showed up on ROM and is most known for its work as a Loret and its romance novel [*Courtship*](https://archiveofourown.org/works/48043465/).
 ## Article Credit
 Article managed by the Coordinators, staff blurbs written by the staff themselves.
