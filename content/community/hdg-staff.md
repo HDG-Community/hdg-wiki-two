@@ -24,7 +24,8 @@ The **Clerks** are the team who are in charge of the operations of the community
 
 Finally, the most recent team to join the staff are the **Gardeners**, who assist the Clerks in the day-to-day moderation and management of the server. They are the backbone of keeping the Community Server a safe and vibrant place for the the community.
 ## Guide Credits
-<center>
+<center><br>
+
 **Coordinators**  
 anna//bool  
 skoof!  
@@ -48,7 +49,7 @@ The many, many authors, artists, and other creatives who have brought the Human 
 </center>
 
 ## The HDG Team
-{{< aside staff_amberoth "Amberoth's profile picture." left >}}
+{{< aside staff_amberoth "Amberoth's profile picture." >}}
     Profile by ARTIST.
 {{< /aside >}}
 **Amberoth**  
@@ -57,7 +58,7 @@ she/her
 
 Amberoth joined the community early 2023 and has persisted as the bratty fox that she is since then. Seen pouncing unsuspecting rule breakers or staring at the wall lost in another day dream of plommies or other stories ideas that she swears her ADHD will let her finish one day.
 
-{{< aside staff_amee "Amee's profile picture." left >}}
+{{< aside staff_amee "Amee's profile picture." >}}
     Profile by ARTIST.
 {{< /aside >}}
 **Amee**  
@@ -67,7 +68,7 @@ she/her, they/them, it/its
 
 Shortly after discovering HDG in early 2021, Amee realized that we loved this setting so much that she wanted to contribute. So she decided to write [_Germination_](https://archiveofourown.org/works/35972959/), and she haven't stopped. She really enjoys creating xenodruggies, medical procedures, and answering questions about said medical things. And useless lesbians. Those are fun too.
 
-{{< aside staff_annabool "annabool's profile picture." left >}}
+{{< aside staff_annabool "annabool's profile picture." >}}
     Profile by lise-lemonade.
 {{< /aside >}}
 **anna//bool**  
@@ -77,7 +78,7 @@ she/her, it/its
 
 Wiki-sceptic yet helps run a wiki; fandom-averse yet accidentally helped build a fandom. Helplessly verbose chronic worldbuilder who was trying to write for a smaller audience this time around and failed. Hates writing her own bios, yet here she is.
 
-{{< aside staff_asphodel "AsphodelVeil's profile picture." left >}}
+{{< aside staff_asphodel "AsphodelVeil's profile picture." >}}
     Profile by Meanderling.
 {{< /aside >}}
 **AsphodelVeil**  
@@ -89,7 +90,7 @@ AsphodelVeil got entranced by the first couple chapters of the original HDG post
 
 Many years passed, and some say she's still wandering the woods, searching for the executive function to finish the next [*Nurture & Acquisitions*](https://archiveofourown.org/works/48096388/) chapter.
 
-{{< aside staff_birdlovely "Birdlovely's profile picture." left >}}
+{{< aside staff_birdlovely "Birdlovely's profile picture." >}}
     Profile by ARTIST.
 {{< /aside >}}
 **Birdlovely**  
@@ -99,7 +100,7 @@ she/her
 
 Birdlovely is a musician and writer who discovered Human Domestication Guide in early 2021. Having a background in furry sizeplay fiction, Human Domestication Guide was the first piece of prose to spark her interest in hypnosis and drugplay. Birdlovely was inspired by Glitchy's setting and branched out into hypnosis fiction with her first HDG story, [Flotsam Heart](https://archiveofourown.org/works/44762863/), in 2022.
 
-{{< aside staff_callisto "Callisto's profile picture." left >}}
+{{< aside staff_callisto "Callisto's profile picture." >}}
     Profile by Zelda.
 {{< /aside >}}
 **Callisto**  
@@ -109,7 +110,7 @@ it/its, they/them, she/her
 
 Callisto is HDG's resident keeper of Rinan lore, having adopted the xeno species as their own immediately upon joining the HDG writer-sphere in its early days in 2021. They are not a published author of any works (yet), though they can often be found advising other writers in the community who have Rinan-related questions.
 
-{{< aside staff_darkfalli "Darkfalli's profile picture." left >}}
+{{< aside staff_darkfalli "Darkfalli's profile picture." >}}
     Profile by Fluxom.
 {{< /aside >}}
 **Darkfalli**  
@@ -119,7 +120,7 @@ it/its, she/her
 
 Darkfalli is authoress of the Foundational Work [*Wellness Check*](https://archiveofourown.org/works/41249283), alongside many other wonderful works in the setting. It was the main organizer and contributor for the original HDG Wiki which laid the groundwork which was immensely helpful in the creation of this site.
 
-{{< aside staff_eriana "Eriana's profile picture." left >}}
+{{< aside staff_eriana "Eriana's profile picture." >}}
     Profile by ARTIST.
 {{< /aside >}}
 **Eriana (FoxgirlEriana)**  
@@ -129,7 +130,7 @@ she/her, it/its, ve/ver, they/them
 
 Eriana has been here since September of 2023 and is the co-author of [*Risk of Entanglement*](https://archiveofourown.org/works/52980271/). She has a lot of very strong opinions about the setting and related that she vocalizes often.
 
-{{< aside staff_ufo "UFO's profile picture." left >}}
+{{< aside staff_ufo "UFO's profile picture." >}}
     Profile by lise-lemonade.
 {{< /aside >}}
 **Friend Shaped Object / UFO**  
@@ -139,7 +140,7 @@ it/its, they/them
 
 UFO has been part of the HDG community since its earliest months, reading and writing a few short stories, most notably [*The last Meal*](https://archiveofourown.org/works/46417333), now a gardener helping the Clerks and other staff with managing the community.
 
-{{< aside staff_glitcher "GlichyRobo's profile picture." left >}}
+{{< aside staff_glitcher "GlichyRobo's profile picture." >}}
     Profile by herself.
 {{< /aside >}}
 **GlitchyRobo**  
@@ -149,7 +150,7 @@ she/her
 
 GlitchyRobo is an artist who's spent most of her time in the setting modelling spaceships. She also wrote a plant story or two, some of which you may've heard of before.
 
-{{< aside staff_kanagen "Kanagen's profile picture." left >}}
+{{< aside staff_kanagen "Kanagen's profile picture." >}}
     Profile by teagan (it's coming).
 {{< /aside >}}
 **Kanagen**  
@@ -159,7 +160,7 @@ she/her
 
 Kanagen joined the community in mid-2022, and is best known for the Foundational Work [*No Gods, No Masters*](https://archiveofourown.org/works/44810131/chapters/112743301) and the doll-based cognitohazard [*Mainspring*](https://archiveofourown.org/works/45125701). She is a writer of fiction and nonfiction, a huge nerd about space in general, and everyone's favorite weird queer auntie. Mention _Terminator_ or _Alien_ around her at your own peril.
 
-{{< aside staff_leafstone "Leafstone's profile picture." left >}}
+{{< aside staff_leafstone "Leafstone's profile picture." >}}
     Profile by teagan (it's coming).
 {{< /aside >}}
 **Leafstone**  
@@ -169,7 +170,7 @@ she/her, they/them, it/its
 
 Leafstone has been a part of the HDG community since its early days, and is often found on the discord server helping out and answering questions.
 
-{{< aside staff_lexi "Lex'i's profile picture." left >}}
+{{< aside staff_lexi "Lex'i's profile picture." >}}
     Profile by ARTIST.
 {{< /aside >}}
 **Lex'i / ResolutelyQuixotic**  
@@ -179,7 +180,7 @@ fae/faer
 
 Lex’i was introduced to hdg at the tail end of 2022, and immediately felt seen by it in ways she never had before. She has grown less active and stepped down as a clerk as the community has shifted and changed, but can still often be found writing long and carefully crafted explanations about the setting when a question catches her interest, and is always excited to share the joy of writing.
 
-{{< aside staff_lise "Lise's profile picture." left >}}
+{{< aside staff_lise "Lise's profile picture." >}}
     Profile by herself.
 {{< /aside >}}
 **lise-lemonade**  
@@ -189,7 +190,7 @@ she/her
 
 Alleged botany enthusiast. Return to enclosure if sighted.
 
-{{< aside staff_moistegg "Moist Eggs' profile picture." left >}}
+{{< aside staff_moistegg "Moist Eggs' profile picture." >}}
     Profile by ARTIST.
 {{< /aside >}}
 **Moist Eggs**  
@@ -198,7 +199,7 @@ she/her
 
 Moist Eggs found HDG around mid-2023 and spends far too much time lurking through Discord between work tickets and meetings. She has not actually created anything since words don't word too good and hands don't hand too good, but that doesn't stop her from voraciously consuming what others make.
 
-{{< aside staff_mimickingdoll "Doll's profile picture." left >}}
+{{< aside staff_mimickingdoll "Doll's profile picture." >}}
     Profile by herself.
 {{< /aside >}}
 **Mimicking doll**  
@@ -208,7 +209,7 @@ she/her, it/its
 
 Doll is doll and Artist. many arts have been made for plamts!
 
-{{< aside staff_nimapode "Nimapode's profile picture." left >}}
+{{< aside staff_nimapode "Nimapode's profile picture." >}}
     Profile by ARTIST.
 {{< /aside >}}
 **Nimapode**  
@@ -218,7 +219,7 @@ she/her, it/its
 
 Since joining the HDG server in mid-2023, Nimapode has been mildly obsessed with the setting. She wrote and published her first ever story, [*Collar Me, Now*](https://archiveofourown.org/works/48824134/chapters/123165343), soon after. When given the opportunity to take on the role of a Community Gardener, she jumped at the chance, excited to do what she could to ensure other sophonts felt as welcomed to the server as her.
 
-{{< aside staff_promilie "Promilie's profile picture." left >}}
+{{< aside staff_promilie "Promilie's profile picture." >}}
     Profile by herself.
 {{< /aside >}}
 **Promilie**  
@@ -227,7 +228,7 @@ she/her
 
 Promilie is a hobby artist, fledgling writer and dinosaur enthusiast who joined the community in early 2024. She is best known for her many, many HDG artworks, the creation of the khetari species, and [*Florets of a Feather*](https://archiveofourown.org/works/54477985/chapters/138012469).
 
-{{< aside staff_rae "Rae's profile picture." left >}}
+{{< aside staff_rae "Rae's profile picture." >}}
     Profile by herself.
 {{< /aside >}}
 **Rae**  
@@ -237,7 +238,7 @@ she/her
 
 Rae joined HDG relatively recently in May 2024 after falling in love with the works of talented authors in HDG. She enjoys drawing & writing in the community, as well as discussing the setting in general with others!
 
-{{< aside staff_rocketmermaid "RocketMermaid's profile picture." left >}}
+{{< aside staff_rocketmermaid "RocketMermaid's profile picture." >}}
     Profile by ARTIST.
 {{< /aside >}}
 **RocketMermaid**  
@@ -247,7 +248,7 @@ she/her, they/them, it/its
 
 RocketMermaid makes beer, music, HDG stories and bad jokes. She joined the HDG Community Server in mid-2024 after discovering the setting. HDG revived her long-dormant love for writing, most notably in the form of the story [_Irregular Orbits_](https://archiveofourown.org/works/57397966/). As a Gardener, she hopes to give something back to the community she considers home.
 
-{{< aside staff_selene "selene's profile picture." left >}}
+{{< aside staff_selene "selene's profile picture." >}}
     Profile by teagan (it's coming).
 {{< /aside >}}
 **selene**  
@@ -256,7 +257,7 @@ she/her, it/its
 
 selene is a recovering programmer, musician, and gamedev enthusiast. She first discovered the setting in early 2022 and joined the community proper the following year. It immediately reignited her passion for fiction, and gave her the itch to write something of her own, though she has yet to act on it. She is found helping out with various background and technical tasks on the community server.
 
-{{< aside staff_skoof "skoof's profile picture." left >}}
+{{< aside staff_skoof "skoof's profile picture." >}}
     Profile by teagan (it's coming).
 {{< /aside >}}
 **skoof!**  
@@ -266,7 +267,7 @@ she/her
 
 When skoof first read *Divaricated* in 2022, she thought it was a stand-alone story. Then she found the "Join Discord" link on the old wiki and knew that she may never be the same again. Two years and a deerplushification later, she gets to offer this same opportunity to new visitors of the guide as she wields the powers of css and javascript for good and domestication.
 
-{{< aside staff_stim "Stimulacrum's profile picture." left >}}
+{{< aside staff_stim "Stimulacrum's profile picture." >}}
     Profile by lise-lemonade.
 {{< /aside >}}
 **Stimulacrum**  
@@ -276,7 +277,7 @@ she/her, it/its
 
 Doing her best with server safety and occasionally answering setting-important medical questions.
 
-{{< aside staff_stormy "Stormy's profile picture." left >}}
+{{< aside staff_stormy "Stormy's profile picture." >}}
     Profile by ARTIST.
 {{< /aside >}}
 **StormyDayParade**  
@@ -286,7 +287,7 @@ it/its, she/her
 
 Stormy is an academic puppy poet who first discovered HDG in early 2022 and has doggedly followed its growth since. She is best known for her multimedia works such as [*Comet’s Tail*](https://archiveofourown.org/works/54742123), being helpful on the discord server, and her totally normal feelings around plommies.
 
-{{< aside staff_teagan "teagan's profile picture." left >}}
+{{< aside staff_teagan "teagan's profile picture." >}}
     Profile by itself.
 {{< /aside >}}
 **teagan**  
@@ -296,7 +297,7 @@ it/its, she/her
 
 Vector joined the HDG Community Server in early 2024 and now considers the community its home and family online! It makes a few things here and there, but is currently focusing on its story [*A Piece of Eden*](https://archiveofourown.org/works/58149067/chapters/148053448). When given the chance to join the staff, Vector was keen to agree and with the aim of helping other sophonts find the same security and community it found.
 
-{{< aside staff_vector "Vector's profile picture." left >}}
+{{< aside staff_vector "Vector's profile picture." >}}
     Profile by ARTIST.
 {{< /aside >}}
 **VectorGlitch**  
