@@ -38,7 +38,8 @@ teagan
 
 **Guide Writers**  
 The Lorets  
-Darkfalli
+Darkfalli  
+Stimulacrum
 
 **Special Thanks**  
 The early writers who created the original wiki from which the Guide is based.
@@ -47,7 +48,7 @@ The many, many authors, artists, and other creatives who have brought the Human 
 
 ## The HDG Team
 {{< aside staff_amberoth "Amberoth's profile picture." >}}
-    Profile by ARTIST.
+    Profile by eveepup.
 {{< /aside >}}
 **Amberoth**  
 Gardener  
@@ -58,7 +59,7 @@ Amberoth joined the community early 2023 and has persisted as the bratty fox tha
 <br><hr>
 
 {{< aside staff_amee "Amee's profile picture." >}}
-    Profile by ARTIST.
+    Profile by [iromonik_art](https://www.instagram.com/iromonik_art).
 {{< /aside >}}
 **Amee**  
 Loret  
@@ -96,7 +97,7 @@ Many years passed, and some say she's still wandering the woods, searching for t
 <br><hr>
 
 {{< aside staff_birdlovely "Birdlovely's profile picture." >}}
-    Profile by ARTIST.
+    Profile by Dynaghoul.
 {{< /aside >}}
 **Birdlovely**  
 Clerk, Loret  
@@ -215,8 +216,8 @@ Alleged botany enthusiast. Return to enclosure if sighted.
 
 <br><br><br><hr>
 
-{{< aside staff_moistegg "Moist Eggs' profile picture." >}}
-    Profile by ARTIST.
+{{< aside staff_moisteggs "Moist Eggs' profile picture." >}}
+    Profile by [Faelions](https://faelions.carrd.co/).
 {{< /aside >}}
 **Moist Eggs**  
 Gardener  
@@ -321,7 +322,7 @@ Doing her best with server safety and occasionally answering setting-important m
 <br><hr>
 
 {{< aside staff_stormy "Stormy's profile picture." >}}
-    Profile by ARTIST.
+    Profile by Mimicking doll.
 {{< /aside >}}
 **StormyDayParade**  
 Gardener  
@@ -345,7 +346,7 @@ teagan is the main organizer of the content of this site - if a word is in the G
 <br><hr>
 
 {{< aside staff_vector "Vector's profile picture." >}}
-    Profile by ARTIST.
+    Profile by [@NoisyNaranja](https://x.com/NoisyNaranja).
 {{< /aside >}}
 **VectorGlitch**  
 Gardener  
