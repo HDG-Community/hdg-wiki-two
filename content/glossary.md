@@ -157,4 +157,4 @@ description: A glossary of terms relating to the HDG setting and community.
 - **Xenodrug Class** - Categorical grouping of xenodrugs by purpose.
 - **Xenra** / Xenrani (plural) - Species of digitigrade xenos which resemble Terran foxes, domesticated two thousand years before humanity. See [[sophont-species|Sophont Species]].
 ## Article Credit
-Article organized by Stimulacrum & teagan, and maintained by the Lorets as a whole.
+Article organized by Stimulacrum & teagan, and is maintained by the Lorets as a whole.

@@ -23,7 +23,7 @@ The **Lorets** are the setting's guides and curators, maintaining the [[writing-
 The **Clerks** are the team who are in charge of the operations of the community server, helping manage its hundreds of users active every day and keeping it a lovely space for folks to discuss the setting and the stories within. They handle the high-level policy decisions like the rules and channel layouts, as well as a variety of general moderation responsibilities.
 
 Finally, the most recent team to join the staff are the **Gardeners**, who assist the Clerks in the day-to-day moderation and management of the server. They are the backbone of keeping the Community Server a safe and vibrant place for the the community.
-## Guide Credits
+### Guide Credits
 **Coordinators**  
 anna//bool  
 skoof!  
@@ -46,7 +46,7 @@ The early writers who created the original wiki from which the Guide is based.
 
 The many, many authors, artists, and other creatives who have brought the Human Domestication Guide setting to life and have shaped what it has become over the past few years.
 
-## The HDG Team
+### The HDG Team
 {{< aside staff_amberoth "Amberoth's profile picture." >}}
     Profile by eveepup.
 {{< /aside >}}
@@ -133,7 +133,7 @@ Darkfalli is authoress of the Foundational Work [*Wellness Check*](https://archi
 <br><hr>
 
 {{< aside staff_eriana "Eriana's profile picture." >}}
-    Profile by ARTIST.
+    Profile made in a [Picrew by hellosunnycore](https://picrew.me/en/image_maker/1469769).
 {{< /aside >}}
 **Eriana (FoxgirlEriana)**  
 Gardener  
@@ -169,7 +169,7 @@ GlitchyRobo is an artist who's spent most of her time in the setting modelling s
 <br><hr>
 
 {{< aside staff_kanagen "Kanagen's profile picture." >}}
-    Profile by teagan (it's coming).
+    Profile by teagan.
 {{< /aside >}}
 **Kanagen**  
 Clerk, Loret  
@@ -181,7 +181,7 @@ Kanagen joined the community in mid-2022, and is best known for the Foundational
 <br><hr>
 
 {{< aside staff_leafstone "Leafstone's profile picture." >}}
-    Profile by teagan (it's coming).
+    Profile by teagan.
 {{< /aside >}}
 **Leafstone**  
 Clerk  
@@ -193,7 +193,7 @@ Leafstone has been a part of the HDG community since its early days, and is ofte
 <br><hr>
 
 {{< aside staff_lexi "Lex'i's profile picture." >}}
-    Profile by ARTIST.
+    Profile by teagan.
 {{< /aside >}}
 **Lex'i / ResolutelyQuixotic**  
 Loret  
@@ -275,7 +275,7 @@ Rae joined HDG relatively recently in May 2024 after falling in love with the wo
 <br><hr>
 
 {{< aside staff_rocketmermaid "RocketMermaid's profile picture." >}}
-    Profile by ARTIST.
+    Profile made in [Casual Icon Maker](https://meiker.io/play/15327/online.html).
 {{< /aside >}}
 **RocketMermaid**  
 Gardener  
@@ -287,7 +287,7 @@ RocketMermaid makes beer, music, HDG stories and bad jokes. She joined the HDG C
 <br><hr>
 
 {{< aside staff_selene "selene's profile picture." >}}
-    Profile by teagan (it's coming).
+    Profile by teagan.
 {{< /aside >}}
 **selene**  
 Clerk  
@@ -298,7 +298,7 @@ selene is a recovering programmer, musician, and gamedev enthusiast. She first d
 <br><hr>
 
 {{< aside staff_skoof "skoof's profile picture." >}}
-    Profile by teagan (it's coming).
+    Profile by teagan.
 {{< /aside >}}
 **skoof!**  
 Clerk, Coordinator, Loret  
