@@ -5,6 +5,8 @@ tags: [blog]
 authors: [Kanagen]
 draft: false
 description: A discussion of the subject of affinification in HDG stories - the transformation of a non-affini sophont into an affini - and things which should be considered in that arena.
+Params:
+  decoration: meta
 ---
 ## Introduction
 What we have here is a failure to communicate. 

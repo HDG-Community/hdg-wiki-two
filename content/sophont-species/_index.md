@@ -4,6 +4,7 @@ date: 2024-11-03T00:00:00+00:00
 authors: The Lorets
 draft: false
 description: The many different species who live in the universe.
+weight: 14
 ---
 ## Under Construction!
 The Lorets and the rest of the folks working on the Guide are working hard on getting everything up and into tip-top shape, but we haven't reached here yet!

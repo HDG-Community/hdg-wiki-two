@@ -105,6 +105,10 @@ html,
   font-family:"Fantastique Sans",ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace
 }
 
+/* Set the title of pages to also be Atkinson */
+.hdg-title {
+  font-family: "Atkinson Hyperlegible", Roboto;
+}
 /* Set Accent Colours */
 :root {
   --primary-hue: rgb(var(--hdg-compactred));
@@ -700,4 +704,31 @@ blockquote {
 .skoof-Border:is(html[class~=dark] *) {
   color: rgb(var(--hdg-bg-light-pri));
   background-color: rgb(var(--hdg-floretgreen));
+}
+
+/* Make the Heading 2 Divisors Wider LIGHT */
+.content :where(h2):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  border-bottom-width: 3px;
+  border-color: rgba(var(--hdg-text-light-ter),0.1);
+  border-radius: 3px;
+}
+
+/* Make the Heading 3 Divisors Wider  LIGHT*/
+.content :where(h3):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  border-bottom-width: 2px;
+  border-color: rgba(var(--hdg-text-light-ter),0.1);
+  border-radius: 1px;
+}
+/* Make the Heading 2 Divisors Wider DARK */
+.content :is(html[class~=dark] *):where(h2):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  border-bottom-width: 3px;
+  border-color: rgba(var(--hdg-text-light-ter),0.1);
+  border-radius: 3px;
+}
+
+/* Make the Heading 3 Divisors Wider  DARK*/
+.content :is(html[class~=dark] *):where(h3):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  border-bottom-width: 2px;
+  border-color: rgba(var(--hdg-text-dark-ter),0.1);
+  border-radius: 1px;
 }

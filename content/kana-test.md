@@ -5,6 +5,7 @@ tags:
 authors: Kanagen
 draft: false
 description: Kanaposting for testing Hugo (HUGO!)
+weight: 20
 ---
 and then one day you find
 

@@ -34,20 +34,27 @@ languages:
             type: search
           weight: 1
         - name: Blog
-          url: /blog
+          pageRef: /blog
           weight: 2
-        - name: Guide
-          url: archives
+        - name: FAQ
+          pageRef: faq
           weight: 3
-        - name: Consent
-          url: archives
+        - name: Community
+          pageRef: community
           weight: 4
         - name: About HDG
-          url: archives
+          pageRef: archives
           weight: 5 
         - name: Foundational Works
-          url: /foundational-works
+          pageRef: /foundational-works
           weight: 6
+      sidebar:
+        - name: More
+          params:
+          weight: 1
+        - name: skoof! 
+          weight: 2
+          pageRef: /blog/skoof-test
 
 outputs:
   home:

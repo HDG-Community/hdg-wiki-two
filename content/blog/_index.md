@@ -6,6 +6,9 @@ draft: false
 description: All of our blog posts
 cascade:
   type: blog
+weight: 10
+sidebar: 
+  exclude: true
 ---
 
 Look below for the whole list of blog posts! 

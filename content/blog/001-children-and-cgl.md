@@ -5,6 +5,8 @@ tags: [blog]
 authors: [The Lorets]
 draft: false
 description: A more detailed explanation of the "No Children in HDG" rule, why it matters, and what sort of content is and isn't prohibited by the policy.
+Params:
+  decoration: meta
 ---
 ## Background
 > _“Do Not Mention Children”_ - [[writing-in-hdg|Canon Guidelines]]
