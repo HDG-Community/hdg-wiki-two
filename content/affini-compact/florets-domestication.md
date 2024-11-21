@@ -16,6 +16,7 @@ Params:
     Art by Promilie.
 {{< /aside >}}
 
+> [!QUOTATION]
 > _"Exactly as the term would indicate, Ms. Gale. Domestication is the primary purpose of the Affini Compact. To be explicit about it, in broad terms, we take in adorable sophont species who struggle to care for themselves, like humans, and use our overwhelming technological and resource advantages to eliminate resistance to Affini control in order to ensure they are properly cared for. But most importantly, on an individual basis, domestication refers to the process by which we use our expertise in biomedical engineering and xenodrug development to turn sophonts into happy, docile and loving pets for their Affini owners."_
 > 
 > **AsphodelVeil's [_Nurture & Acquisitions_](https://archiveofourown.org/works/48096388/chapters/121280206), chapter 6**
@@ -42,10 +43,11 @@ Involuntary domestications may also happen directly, without the wardship pipeli
 ### Domestication Contracts
 The Affini are culturally obsessed with bureaucracy and paperwork, so it should come as no surprise that one of the central features of taking a floret involves a contract spelling out in exact terms what the relationship between the floret and their owner will be. While each contract is unique and lovingly drawn up by a floret-to-be's affini, there are several standard terms that virtually all such contracts contain. This example is drawn from chapter 7 of [_Human Domestication Guide_](https://archiveofourown.org/works/45190954/chapters/134224312). 
 
+> [!QUOTATION]
 > - Above all else, you, \[floret's first name here\], must obey your Guardian, \[Affini name here\] in all things. This is for your safety, wellbeing, and care. 
 > - Your Guardian, \[Affini name here\], owns you. You are her property. You do not have political rights in the Affini Compact. 
 > - You do have a guarantee of your wellbeing, as defined in § 57 of the Human Domestication Treaty. 
-> - This guarantee of wellbeing does not preclude your Guardian from disciplining you, as outlined in § 61 of the HUman Domestication Treaty. 
+> - This guarantee of wellbeing does not preclude your Guardian from disciplining you, as outlined in § 61 of the Human Domestication Treaty. 
 > - As the property of your Guardian, she may add, remove, or modify conditions your wardship at any time for any reason within the limits established by the Human Domestication Treaty. 
 > - Your full name is \[floret's full name here\] from this moment forward. 
 
@@ -69,7 +71,8 @@ If two florets belonging to two different affini fall in love or otherwise becom
 **Pluribus** is the term the Affini use to describe multiple sophonts sharing a single body. This is another term that applies both to florets and non-florets, and which is encoded in a floret's name. There is no standard, since every pluribus system is unique, and consequently the way their name is encoded must be unique as well. However, it usually follows the same formula as "Pinnate," being applied following a floret's numerical identifier. 
 #### Digital Florets
 Not all florets are biological in origin! Some xenosophonts originate from artificial substrates, while others were converted to such a substrate through [[digitization|digitization]]. Digital florets may exist entirely as information, or may interact with the physical world through a variety of drone shells, which may be obviously artificial or indistinguishable from the biological. 
-## Domestication of Cultures 
+## Domestication of Cultures
+> [!QUOTATION]
 > _"She had completely underestimated how powerful the Affini obsession with florets was, how all-encompassing. It wasn’t just preventing extinctions and taking as many florets as they felt like — it included all potential florets as well, regardless of whether they wanted to be florets or not. They believe that it’s their responsibility to make every living being in the universe happy, one way or another. How had she not seen it? All the details were there. Her brain simply hadn’t joined them up properly._
 > 
 > _"There was no way out of this. There was never any negotiation possible beyond a polite fiction, because the Affini would never settle for anything else than absolute power to spoil Solstice rotten."_

@@ -32,6 +32,8 @@ Affini senses are extremely sharp. While they commonly shape eyes that appear to
 {{< /aside >}}
 As engineered plant-like organisms, affini are able to graft most other plant-like organisms to themselves. This is typically an outpatient operation, and functions much like grafting in terran plants; a vine is cut, the new graft is put in place and bound to the vine, and the two grow together. The affini integrates the new graft into their body and is able to manipulate it much like they do the rest of their body. 
 
+{{< aside xenodrug_grafts_2_lise "Digital illustration of another trio of xenodrug grafts, which look like botanical elements. Around the illustrations is some unintelligible alien script." >}}
+{{< /aside >}}
 Grafts may have many purposes. Some are purely for fashion, with flowers or other visually distinctive plants added to the affini. Others will have a specific purpose; they may be a phytotech augmentation, extending the affini's capabilities beyond the norm (such as adding a digestive tract allowing them to digest food, for example). The most common example of this latter type of graft is a [[xenodrugs|xenodrug]] graft, which gives the affini a built-in means of delivering an appropriate dose of xenodrugs to a sophont. 
 ### Biorhythm & Hypnotics
 {{< aside pladdy_promilie "Digital painting of a terran with leopard biomods being held by a masculine affini with curled horns and armor-like bark. The terran is clutching at some foliage on the affini's chest while he pets behind her feline ears." >}}
@@ -47,6 +49,7 @@ Modern affini are typically created through a process of uplifting nonsophont pl
 
 Regardless of origin, the standard affini life cycle is a presentient "zeroth" Bloom, which eventually reblooms (see below) into a sophont affini's First Bloom. This affini is then cared for and educated, and is considered an adolescent for roughly the next 40-80 years, at which point they begin to take up their role in [[affini-compact|Compact]] society.
 
+> [!NOTE]
 > The community's rules prohibit children and adolescents onscreen in any HDG work; consequently, depicting affini in their adolescent stage of life is also prohibited. Please don't do it! 
 
 The affini core is extremely durable and difficult to injure, but the rest of their body is susceptible to damage and injury from a variety of sources. A sufficient amount of damage will "kill" an affini, in that it will render their unable to maintain their body in a coherent form. When this happens, an affini *reblooms*, a process that may take as little as an hour and as much as several years. During this time, the core regenerates any injuries it may have sustained and constructed a new body for itself out of locally available foliage. The process is strenuous and requires focus and concentration, so the affini is functionally sessile for the duration. Occasionally, reblooming may cause gaps in memory, changes in personality, or other differences. Thanks to the core's durability, this makes it extremely difficult to actually permanently kill an affini.

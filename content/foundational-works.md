@@ -5,7 +5,7 @@ authors: The Lorets
 draft: false
 description: A collection of works intended to give a solid overview of the setting and its themes.
 ---
-
+> [!QUOTATION]
 > _“In a scifi space future, humanity has just lost a war to the Affini, a civilization of highly advanced plant aliens who really want to make cute, drugged up pets of their subjects..."_
 > 
 > **GlitchyRobo's [_Human Domestication Guide_](https://readonlymind.com/@GlitchyRobo/HumanDomesticationGuide/), original description**
@@ -24,6 +24,7 @@ For more information on the history of the setting and its current approach to t
 ### Human Domestication Guide
 GlitchyRobo - [Archive of Our Own](https://archiveofourown.org/works/45190954/) (revised) | [ReadOnlyMind](https://readonlymind.com/@GlitchyRobo/HumanDomesticationGuide/) (original)
 
+> [!LORET]
 > *Despite a valiant effort, a brave pilot of the Cosmic Navy has at last been captured by the imperialist forces which conquered her home. She awakens to find herself in the clutches of one of the treacherous xenos, who is all too ready to illuminate our hero’s position in the new society all terrans find themselves in…*
 
 The original *Human Domestication Guide* wasn’t created with a wider setting in mind - it was just its own alien abduction kinky horror story. In the original release, the affini were just a mysterious invading force with unknown true intent and little is known about the Terrans beyond that they lost. While the story itself did not delve into the exact details of the setting, it did provide the foundation upon which *Abscission*, *Divaricated*, and others built upon.
@@ -37,6 +38,7 @@ The original *Human Domestication Guide* wasn’t created with a wider setting i
 {{< /aside >}}
 Fluxom - [Archive of Our Own](https://archiveofourown.org/works/44917270/)
 
+> [!LORET]
 > *During a paranoid episode, Autumn, a rebel comms officer, betrays her ship to the Affini and meets Solanum Vitis, the affini vet who cares for her after her capture. As their relationship develops, Autumn realizes that the affini won’t hollow out her brain, but they will make sure she loves them.*
 
 One of the earliest stories in the setting, *Abscission* took everything the original introduced and ran with it. From wardships to cotyledons to the xenodrug classification system as we know it to many other of the setting’s hallmark elements, there is a strong argument to be made that this is as much the *Abscission* setting as it is the *Human Domestication Guide* one.
@@ -47,30 +49,38 @@ One of the earliest stories in the setting, *Abscission* took everything the ori
 {{< /aside >}}
 anna//bool - [Archive of Our Own](https://archiveofourown.org/works/41618376/)
 
+> [!LORET]
 > *After Katie detonates her ship’s jump drive in a desperate attempt to stop an Affini boarding operation, she and the troubled Thatch Aquae are flung through hyperspace and stranded on a seemingly uninhabited planet, lightyears from home. With no one to save them but each other, the two unlikely compatriots find themselves growing into something new and all the more beautiful together without even realizing it.*
 
 Much like other foundational stories, *Divaricated* established huge swaths of the setting’s lore, from hyperspace to body modification to biorhythms. It expanded on and established much of Affini ship culture, and illustrated the diversity of florethood - once you’ve met one floret, you’ve met one floret.
 ### Nurture & Acquisitions
 AsphodelVeil - [Archive of Our Own](https://archiveofourown.org/works/48096388/)
 <br>
+> [!LORET]
 > *When the Affini reach the Terran resort planet of Xenia, they are met with a very different reaction from its workers than they had expected, doubly so from one Gale Rossings. Guided by her resourcefulness and keen sense of right and wrong, she holds a mirror up to affini and humanity alike.*
 
 *Nurture & Acquisitions* offers a perspective on life within both the Terran Accord and the Affini Compact. It provided a glimpse into the remnants of Terran corporate capitalism in the wake of the arrival of the Affini and contrasted that with what relative independence within the Compact could look like. It explored civilian life before and after societal domestication, highlighting how the affini interact with their floret species on a wider scale.
 ### Wellness Check
 Darkfalli - [Archive of Our Own](https://archiveofourown.org/works/41249283/)
 <br>
+> [!LORET]
 > *Genius hacker Aster has had her life torn from her by the arrival of the Affini Compact. From her obsessively obfuscated personal servers to her emotional support orbital space cannon, the Affini took it all, but worst of all, now they want to help her.*
 
 *Wellness Check* introduced the more common “ship-of-theseus” method of digitization, as well as was the first story to consider digitization as a focus. It is the archetypal wellness check, demonstrating that no matter how hard one struggles against the loving vines of the Affini Compact, *no one* slips through the cracks.
 ### No Gods, No Masters
+{{< aside ngnm_promilie "A stylized graphic depicting the main characters from No Gods No Masters. Five terrans stand shoulder to shoulder as four affini tower above and behind them." >}}
+    Art by Promilie.
+{{< /aside >}}
 Kanagen - [Archive of Our Own](https://archiveofourown.org/works/44810131/)
-<br>
+
+> [!LORET]
 > *Cass Hope, an anarchist who turned a prison colony into a revolutionary army, hopes that agreeing with 99% of the Affini program will be enough - alas, the Affini won't compromise when it comes to sophont wellness.*
 
 *No Gods, No Masters* explored the setting through the lens of a different kind of feralism, taking an in-depth look at the *why* of the Affini Compact on a philosophical level and how they react to feralists who aren't raving fascists. It showed how the Compact responds to a polity who would otherwise be willing to work with them, and that no concessions are sufficient to prevent the Affini from enforcing their care.
 ### For a Better Universe
 SapphicSounds - [Archive of Our Own](https://archiveofourown.org/works/47826115/)
 <br>
+> [!LORET]
 > *Over her long life, Alcea Pallis sees the best and worst which the universe and its inhabitants have to offer. In the end, she sets out to build something better, and, with the help of her loved ones, forgives herself for falling just short of absolute perfection.*
 
 *For a Better Universe* took a contemplative look at the Affini, the society that they created, and the passage of time through the eyes of a single affini. It conveyed the ultimate utopian goal of the Compact, asked and answered the question of what does “the Affini always win” mean on a cosmic timescale, and showed how the Affini interact with the broader universe, even long after Terran Pacification.

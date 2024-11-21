@@ -36,6 +36,7 @@ The Accord's existing flag dated back to the mid 2200s, where it was originally 
 
 Among the documents detailing the designs and letters to various political officials, Edwardo explained his vision for the new flag:[^2]
 
+> [!QUOTATION]
 > I present to you a flag of four colors:
 <br><br>The first: a field of a rich imperial purple. Just as the Accord stands upon the foundations laid by the great empires of Terran history, the flag bases itself in that noble heritage. Still, while we respect the great powers of our past, the Accord has accomplished what even the Romans could have only dreamed of: Never[^3] before has all[^4] of mankind been united under a single banner.[^5]
 <br><br>The boundless prosperity of the Terran Accord[^6] is indisputable, which brings us to the second: the gold. At the flag's center, the face of Mother Terra, the now-spent womb[^7] from which our mighty peoples sprung. Around again, a second circle represents our beloved Luna, whose inspiration lifted our forefathers to take the steps to our rightful place among the stars. Flanking Terra on its left, the majestic wolf of Mars, whose strength guides and protects the Terran peoples across the Accord. To its right, the noble eagle of Jupiter, along with its wings of the Great Moons, whose constant vigilance reminds us of the highest Terran ideals: Loyalty, Perseverance, and Freedom.

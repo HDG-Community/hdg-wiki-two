@@ -51,7 +51,7 @@ An affini might rest on occasion, but the Compact never does, reaching out furth
 
 For further details, read SapphicSounds' [_For a Better Universe_](https://archiveofourown.org/works/47826115/chapters/120569920). 
 ## Government
->[!SKOOF]
+>[!QUOTATION]
 > _"Wing gestured around at the entire ship. 'We took a vote. Two thousand four hundred and five for, three hundred two against. We take this stuff really seriously, Katie.'_
 > 
 > \[…\]
@@ -71,7 +71,8 @@ Larger groups of sophonts, naturally, struggle to organize with fully demarchic 
 Sophont cultures domesticated by the Affini are organized into Protectorates covering their general area of space. Governance in a Protectorate varies largely based on how cooperative the sophont culture was when the Affini arrived. If they were fully cooperative, and easily internalized Compact ethics, they may be permitted to maintain some semblance of self-government; if they resisted, they will be directly managed by the Affini until they can be trusted to run even basic decision-making processes by themselves. The details of a Protectorate's governance are always spelled out in that sophont culture's domestication treaty. 
 
 It should be noted that, even in Protectorates that are permitted self-government, the Affini are ultimately still in charge; if they see a sophont culture drifting away from the Affini vision for them, they will swiftly correct it. 
-### The Bureaucracy 
+### The Bureaucracy
+> [!QUOTATION]
 > _“Fortunately or unfortunately depending on your look at it, affini culture has normalized the idea of having a raging fetish for bureaucratic busy work.”_
 > 
 > **Fluxom's [_Abscission_](https://archiveofourown.org/works/44917270/chapters/113018647), chapter 32**

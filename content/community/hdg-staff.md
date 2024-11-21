@@ -5,6 +5,7 @@ authors: The Coordinators
 draft: false
 description: The organizational structure of how the setting is managed and the folks behind it!
 ---
+> [!QUOTATION]
 > _“Look I don’t mean to critique the mods decisions, but it really feels like you’re all just trying to destroy this community. Like every thing you change has been for the worst. I’ve been on the internet for years. You really suck at this. I’m not offering to help of course, just trying to undermine your free labor."_
 > 
 > **The Floret Propagandist's [_From Loret to Floret_](https://archiveofourown.org/works/58870534)**

@@ -9,6 +9,7 @@ Params:
   decoration: meta
 ---
 ## Background
+> [!QUOTATION]
 > _“Do Not Mention Children”_ - [[writing-in-hdg|Canon Guidelines]]
 ### Basic Facts
 **Children exist in the Affini Compact.**

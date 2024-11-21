@@ -61,6 +61,11 @@ Those rare sophonts who, even in a post-scarcity society, still obsess over and 
 
 Games or simulated economies are, potentially, permissible under the Compact, but these will be strictly controlled, especially in the context of a culture, like Terrans, still recovering from capitalism. Essentially, any economy game the Affini tolerate will have about as much social meaning as your score in Cookie Clicker — just because the computer _says_ you have fifteen quadrillion cookies does not mean you get fifteen quadrillion actual cookies.
 ## Rules
+{{< aside bigfini_lise "A floret embraces their affini as they gaze into each other's eyes. The affini is colossal, and the floret is only about as tall as the affini's face." >}}
+    Just so you know, there isn't a rule against making your 'fini really really big and tall.
+    Art by lise-lemonade.
+{{< /aside >}}
+
 Unlike narrative axioms, the HDG Rules exist for out of universe reasons. They're in place not because transgressing them would result in a story that doesn't mesh with the themes of HDG, but because transgressing them is unhealthy or even dangerous for the community. If you have a story concept or a lore question that runs up against the Rules, please reconsider what you're doing. 
 ### Don't Discuss Children, Reproduction, or Anything Related to Them 
 The HDG universe is unavoidably immersed in kink. Even if you write a story that's totally free from onscreen sex, there's no avoiding the inherent kink dynamic that the Affini bring to literally everything they do — it's baked into the structure of their society. It's for this reason that we disallow the discussion of reproduction, children in the context of affini, and topics related to these issues. This applies not only to human reproduction, but to xenosophont reproduction and even Affini reproduction. 
