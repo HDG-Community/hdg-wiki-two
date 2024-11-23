@@ -26,16 +26,14 @@ As a necessity of their physiology, affini are exceptional multitaskers. In addi
 
 Affini senses are extremely sharp. While they commonly shape eyes that appear to be made out of a kind of hammered metal, and which shine in a number of colors that vary with the affini's emotional state, these eyes are not their primary visual organs, and instead serve as fascinators used to attract and hypnotize other sophonts (see **Biorhythms & Hypnotics**, below). Affini vision is instead a function of ancestral photosynthesis. Every vine and every leaf an affini has is sensitive to light, and so they effectively see with their entire body. Their vines are also sensitive to vibrations, and therefore sound, as well as tactile stimulation. Affini often host many other senses through grafts (see below). 
 ### Grafts
-{{< aside xenodrug_grafts_lise "Digital illustration of a trio of xenodrug grafts, which look like botanical elements. Around the illustrations is some unintelligible alien script." left >}}
+{{< aside xenodrug_grafts_lise "Digital illustration of a trio of xenodrug grafts, which look like botanical elements. Around the illustrations is some unintelligible alien script." >}}
     A collection of xenodrug grafts.
     Art by lise-lemonade.
 {{< /aside >}}
 As engineered plant-like organisms, affini are able to graft most other plant-like organisms to themselves. This is typically an outpatient operation, and functions much like grafting in terran plants; a vine is cut, the new graft is put in place and bound to the vine, and the two grow together. The affini integrates the new graft into their body and is able to manipulate it much like they do the rest of their body. 
+
 Grafts may have many purposes. Some are purely for fashion, with flowers or other visually distinctive plants added to the affini. Others will have a specific purpose; they may be a phytotech augmentation, extending the affini's capabilities beyond the norm (such as adding a digestive tract allowing them to digest food, for example). The most common example of this latter type of graft is a [[xenodrugs|xenodrug]] graft, which gives the affini a built-in means of delivering an appropriate dose of xenodrugs to a sophont. 
 ### Biorhythm & Hypnotics
-{{< aside pladdy_promilie "Digital painting of a terran with leopard biomods being held by a masculine affini with curled horns and armor-like bark. The terran is clutching at some foliage on the affini's chest while he pets behind her feline ears." >}}
-    Art by Promilie.
-{{< /aside >}}
 All organisms have a biorhythm, the sum total of all the little motions of living: breathing, heartbeats, small movements, and so on. Affini are no different, and also have a biorhythm; however, unlike most organisms, the affini evolved a hypnotic biorhythm, and their engineered nature has augmented that natural hypnotic ability to extreme levels. As a result, all affini are naturally hypnotic, a trait they use to great effect in their [[florets-domestication|domestication]] of other sophont species. 
 
 An affini's eyes are a common focal point for this hypnosis, but it is far from the only tool in their arsenal. Their voices, which are polyphonic and highly musical, are also intrinsically hypnotic, and can easily entrance an unsuspecting xenosophont. 
@@ -55,6 +53,9 @@ Reblooming may also occur due to age; eventually an affini's phytotech body is u
 
 Because they are otherwise functionally immortal, and because timekeeping is highly variable both due to differences in local calendars and the issues caused by relativity, affini measure their lives in Blooms. First through Third Blooms are extremely common on the front lines of the domestication effort, with older Blooms becoming progressively rarer as the Bloom count rises.
 ## Culture & History 
+{{< aside pladdy_promilie "Digital painting of a terran with leopard biomods being held by a masculine affini with curled horns and armor-like bark. The terran is clutching at some foliage on the affini's chest while he pets behind her feline ears." >}}
+    Art by Promilie.
+{{< /aside >}}
 Affini society is synonymous with the [[affini-compact|Affini Compact]] — they are the animating force behind the Compact, and the culture in ultimate control of it. Their viewpoint defines reality within the Compact, and they exemplify the Compact's virtues.
 
 That said, their day-to-day lives are as varied as any sophont culture's are. There are affini artists, affini technicians, affini florists, affini physicians, affini clerks (there are a _lot_ of clerks in particular), and so on. Affini are highly communal and, thanks to their advanced technology, are able to automate virtually anything they don't want to actually do themselves — and there's almost always someone interested in doing one task or another. 
