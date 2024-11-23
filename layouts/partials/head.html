@@ -1,11 +1,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    {{ if hugo.IsProduction -}}
-      <meta name="robots" content="index, follow" />
-    {{ else -}}
-      <meta name="robots" content="noindex, nofollow" />
-    {{ end -}}
+    <meta name="robots" content="noindex, nofollow" />
     {{ partialCached "favicons.html" . -}}
     <title>
       {{- if .IsHome -}}
