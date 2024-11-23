@@ -31,9 +31,6 @@ Affini senses are extremely sharp. While they commonly shape eyes that appear to
     Art by lise-lemonade.
 {{< /aside >}}
 As engineered plant-like organisms, affini are able to graft most other plant-like organisms to themselves. This is typically an outpatient operation, and functions much like grafting in terran plants; a vine is cut, the new graft is put in place and bound to the vine, and the two grow together. The affini integrates the new graft into their body and is able to manipulate it much like they do the rest of their body. 
-
-{{< aside xenodrug_grafts_2_lise "Digital illustration of another trio of xenodrug grafts, which look like botanical elements. Around the illustrations is some unintelligible alien script." >}}
-{{< /aside >}}
 Grafts may have many purposes. Some are purely for fashion, with flowers or other visually distinctive plants added to the affini. Others will have a specific purpose; they may be a phytotech augmentation, extending the affini's capabilities beyond the norm (such as adding a digestive tract allowing them to digest food, for example). The most common example of this latter type of graft is a [[xenodrugs|xenodrug]] graft, which gives the affini a built-in means of delivering an appropriate dose of xenodrugs to a sophont. 
 ### Biorhythm & Hypnotics
 {{< aside pladdy_promilie "Digital painting of a terran with leopard biomods being held by a masculine affini with curled horns and armor-like bark. The terran is clutching at some foliage on the affini's chest while he pets behind her feline ears." >}}
