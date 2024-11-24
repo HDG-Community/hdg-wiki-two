@@ -732,3 +732,8 @@ blockquote {
   border-color: rgba(var(--hdg-text-dark-ter),0.1);
   border-radius: 1px;
 }
+
+/* A quick hack to make sure very short staff bios or short sections won't cause overlapping images  */
+hr {
+  clear:both;
+}
