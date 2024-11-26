@@ -26,7 +26,7 @@ As a necessity of their physiology, affini are exceptional multitaskers. In addi
 
 Affini senses are extremely sharp. While they commonly shape eyes that appear to be made out of a kind of hammered metal, and which shine in a number of colors that vary with the affini's emotional state, these eyes are not their primary visual organs, and instead serve as fascinators used to attract and hypnotize other sophonts (see **Biorhythms & Hypnotics**, below). Affini vision is instead a function of ancestral photosynthesis. Every vine and every leaf an affini has is sensitive to light, and so they effectively see with their entire body. Their vines are also sensitive to vibrations, and therefore sound, as well as tactile stimulation. Affini often host many other senses through grafts (see below). 
 ### Grafts
-{{< aside xenodrug_grafts_lise "Digital illustration of a trio of xenodrug grafts, which look like botanical elements. Around the illustrations is some unintelligible alien script." >}}
+{{< aside xenodrug_grafts_lise "Digital illustration of a collection of six xenodrug grafts, which look like botanical elements. Around the illustrations is some unintelligible alien script." >}}
     A collection of xenodrug grafts.
     Art by lise-lemonade.
 {{< /aside >}}
@@ -52,6 +52,11 @@ The affini core is extremely durable and difficult to injure, but the rest of th
 Reblooming may also occur due to age; eventually an affini's phytotech body is unable to repair itself, and the regenerative process of reblooming allows them to effectively reset themselves to zero physiologically. Barring serious injury, this occurs roughly every 300 years.
 
 Because they are otherwise functionally immortal, and because timekeeping is highly variable both due to differences in local calendars and the issues caused by relativity, affini measure their lives in Blooms. First through Third Blooms are extremely common on the front lines of the domestication effort, with older Blooms becoming progressively rarer as the Bloom count rises.
+
+{{< image reblooming_sheepwave "A side-by-size timelapse of an affini reblooming, split across five depictions of the same affini. The first is ragged-looking, shedding yellowing leaves. The second has collapsed onto the ground and whose leaves have turned to brown decay. The third has reverted to just their core with their shed dead plant matter around them. The forth shows the core sprouting vines and other foliage as it regrows. Finally the fifth shows the new bloom of the affini walking alive, looking vibrant and healthy." >}}
+    The reblooming cycle of an affini.
+    Art by Sheepwave.
+{{< /image >}}
 ## Culture & History 
 {{< aside pladdy_promilie "Digital painting of a terran with leopard biomods being held by a masculine affini with curled horns and armor-like bark. The terran is clutching at some foliage on the affini's chest while he pets behind her feline ears." >}}
     Art by Promilie.

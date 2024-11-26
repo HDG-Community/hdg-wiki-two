@@ -7,7 +7,6 @@ description: Answers to common questions folks have about the setting!
 weight: 1
 ---
 {{< aside faq_rinan_rae "Digital illustration of a rinan, a squirrel-like alien, wearing glasses and holding a book while standing on top of precariously stacked other books." >}}
-    Caption (optional).
     Art by Rae.
 {{< /aside >}}
 (TODO - opening quote)
@@ -17,7 +16,7 @@ HDG is not always the most straightforward of things at times, and the Lorets ha
 If you can't find the answers you are seeking here, you can check out the rest of the Guide, as many articles have more topical FAQs on their respective pages. If you still have inquires, you can always head on over to the [HDG Community Server](http://discord.humandomestication.guide/) and ask the Lorets over in the setting questions channel.
 
 (TODO - A lot of these questions are missing answers - if you wanna write up a response for one, ping me with it and I'll add it on here. I tried to make the ones which still need answering by having them start with @)
-## General
+## General Setting
 ### @Human Domestication Guide? What's that?
 (TODO)
 ### Why does every story seem to end with domestication?
@@ -28,7 +27,7 @@ No, seriously, that's it. This is a kink setting and we think it's hot. That's w
 (TODO)
 ### Why do so many sophonts become florets? Where are all the independents?
 (TODO)
-## Writing in HDG
+## Creating HDG
 {{< aside flort_lap_lise "Digital illustration of a terran floret sitting on her affini's lap, looking up adoringly while her affini plays with her hair." >}}
     Art by lise lemonade.
 {{< /aside >}}
@@ -57,6 +56,8 @@ Be sure to also check out the [[affini-tech|Affini Technology]] and [[terran-tec
 ### @FTL
 (TODO)
 (include both the types they *do* have, as well as the things that don't exist like warp drive)
+### @Mechs
+(TODO)
 ### @Psionics / Supernatural Powers
 (TODO)
 (including direct mind control/mind reading without technology to facilitate it)
