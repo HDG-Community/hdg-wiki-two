@@ -6,7 +6,7 @@ draft: false
 description: todo
 Params:
   decoration: accord
-weight: 13
+weight: 3
 ---
 ## Under Construction!
 The Lorets and the rest of the folks working on the Guide are working hard on getting everything up and into tip-top shape, but we haven't reached here yet!

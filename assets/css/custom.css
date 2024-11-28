@@ -29,21 +29,12 @@
 
 /* Load Fonts */
 /* Fantastique Mono Sans */
-@font-face{ 
-	font-family: 'MyWebFont';
-  font-display:swap;
-	src: url('../fonts/');
-	src: url('../fonts/') format('eot'),
-	     url('../fonts/') format('woff'),
-	     url('../fonts/') format('truetype'),
-	     url('../fontsWebFont.svg#webfont') format('svg');
-}
-
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Fantastique Sans';
   font-style: normal;
   font-weight: 400;
+  size-adjust: 115%;
   src: url('../fonts/fantasquesansmono-regular-webfont.woff') format('woff'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 } 
 
@@ -53,6 +44,7 @@
   font-family: 'Atkinson Hyperlegible';
   font-style: normal;
   font-weight: 400;
+  size-adjust: 105%;
   src: url('../fonts/atkinson-hyperlegible-v11-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 } 
 
@@ -62,6 +54,7 @@
   font-family: 'Atkinson Hyperlegible';
   font-style: italic;
   font-weight: 400;
+  size-adjust: 105%;
   src: url('../fonts/atkinson-hyperlegible-v11-latin-italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
@@ -71,6 +64,7 @@
   font-family: 'Atkinson Hyperlegible';
   font-style: normal;
   font-weight: 700;
+  size-adjust: 105%;
   src: url('../fonts/atkinson-hyperlegible-v11-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
@@ -80,6 +74,7 @@
   font-family: 'Atkinson Hyperlegible';
   font-style: italic;
   font-weight: 700;
+  size-adjust: 105%;
   src: url('../fonts/atkinson-hyperlegible-v11-latin-700italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
@@ -91,7 +86,7 @@ html,
   -moz-tab-size: 4; /* 3 */
   -o-tab-size: 4;
      tab-size: 4; /* 3 */
-  font-family: "Fantastique Sans","B612 Mono",ui-monospace; /* 4 */
+  font-family: "Atkinson Hyperlegible",sans-serif; /* 4 */
   font-feature-settings: normal; /* 5 */
   font-variation-settings: normal; /* 6 */
   -webkit-tap-highlight-color: transparent; /* 7 */
@@ -105,26 +100,19 @@ html,
   font-family:"Fantastique Sans",ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace
 }
 
+code {
+  font-family: "Fantastique Sans", ui-monospace;
+}
 /* Set the title of pages to also be Atkinson */
 .hdg-title {
   font-family: "Atkinson Hyperlegible", Roboto;
 }
-/* Set Accent Colours */
-:root {
-  --primary-hue: rgb(var(--hdg-compactred));
-  --primary-saturation: 100%;
-  --navbar-height: 4rem;
-  --menu-height: 3.75rem;
-  --secondary-bg: #DDDDDD;
+.hdg-search {
+  font-family: "Fantastique Sans", ui-monospace;
 }
-
-.dark {
-  --primary-hue: rgb(var(--hdg-protectoratepink));
-  --primary-saturation: 100%;
-  --secondary-bg: #222222;
+.quote-Border {
+  font-family: "Material Icons"
 }
-
-
 /* Set the Font Sizes */ 
 .hx-text-2xl {
   font-size: 1.5rem;
@@ -161,7 +149,25 @@ html,
 .hx-text-xs {
   font-size: .75rem;
 }
+/************************/
+/*******END FONTS********/
+/************************/
 
+
+/* Set Accent Colours */
+:root {
+  --primary-hue: rgb(var(--hdg-compactred));
+  --primary-saturation: 100%;
+  --navbar-height: 4rem;
+  --menu-height: 3.75rem;
+  --secondary-bg: #DDDDDD;
+}
+
+.dark {
+  --primary-hue: rgb(var(--hdg-protectoratepink));
+  --primary-saturation: 100%;
+  --secondary-bg: #222222;
+}
 
 /* Set the Background in Dark Theme */
 body:is(html[class~=dark] *) {
@@ -179,6 +185,13 @@ body:is(html[class~=dark] *) {
   box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)
 }
 
+/* Set on hover colours */
+a:hover {
+  color:rgb(var(--hdg-haustoricgreen))!important;
+  }
+  a:hover:is(html[class~=dark] *) {
+    color:rgb(var(--hdg-floretgreen))!important;
+    }
 
 /* Set the Background in Light Theme */
 body {
@@ -532,20 +545,28 @@ div .img-aside img {
 /* Custom Blockquote Styling */
 /*****************************/ 
 /* All Quoteblocks */
+blockquote {
+  display: flex;
+  align-items: stretch; /* Aligns the items to the top */
+  margin-top: 1rem;
+  margin-bottom: 1rem; 
+  margin: 0; /* Optional: Remove default blockquote margin */
+  flex-grow: 1;
+  border-radius: 0px 10px 10px 10px;
+  font-style: normal;
+}
+
 .content :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)):where([dir="ltr"], [dir="ltr"] *) {
   font-style:normal;
   border-left-width: 0px;
   padding-left: 0.7rem;
 }
 
-.quote-Block {
-  display: flex;
-  align-items: stretch; /* Aligns the items to the top */
-  margin-top: 1rem;
-  margin-bottom: 1rem; 
+.quoteBlock {
+
 }
 
-.quote-Border {
+.quoteBorder {
   display: flex;
   background-color: transparent; 
   font-size: 2.4rem; 
@@ -560,19 +581,12 @@ div .img-aside img {
   flex-grow: 1;
 }
 
-blockquote {
-  display: block;
-  margin: 0; /* Optional: Remove default blockquote margin */
-  flex-grow: 1;
-  border-radius: 0px 10px 10px 10px;
-  font-style: normal;
-}
 
 .content :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
   margin-top: 0;
 }
 
-.quoteText {
+.quoteContent {
   position: relative;
 }
 
@@ -731,9 +745,4 @@ blockquote {
   border-bottom-width: 2px;
   border-color: rgba(var(--hdg-text-dark-ter),0.1);
   border-radius: 1px;
-}
-
-/* A quick hack to make sure very short staff bios or short sections won't cause overlapping images  */
-hr {
-  clear:both;
 }

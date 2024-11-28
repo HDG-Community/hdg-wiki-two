@@ -41,3 +41,10 @@ strong:is(html[class~=dark] *){
 .content :is(html[class~=dark] *):where(h2):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
   border-color: rbga(var(--hdg-sproutpurple),0.1);
 }
+/* Set on hover colours */
+a:hover {
+  color:rgb(var(--hdg-pinnatepurple))!important;
+  }
+  a:hover:is(html[class~=dark] *) {
+    color:rgb(var(--hdg-sproutpurple))!important;
+    }

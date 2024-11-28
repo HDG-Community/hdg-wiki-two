@@ -36,18 +36,21 @@ languages:
         - name: Blog
           pageRef: /blog
           weight: 2
-        - name: FAQ
-          pageRef: faq
-          weight: 3
         - name: Community
           pageRef: community
+          weight: 3
+        - name: FAQ
+          pageRef: faq
           weight: 4
         - name: About HDG
           pageRef: archives
           weight: 5 
+        - name: Glossary
+          pageRef: archives
+          weight: 6
         - name: Foundational Works
           pageRef: /foundational-works
-          weight: 6
+          weight: 7
       sidebar:
         - name: More
           params:

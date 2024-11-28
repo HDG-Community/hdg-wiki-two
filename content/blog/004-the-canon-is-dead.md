@@ -9,7 +9,7 @@ Params:
   decoration: meta
 ---
 
-_Coordinators' Notes - This article was originally published to the [old wiki](https://humandomestication.guide/en/blog/CanonIsDead) and makes references to that version of the sight, to clear up any confusion._
+_Coordinators' Notes - This article was originally published to the [old wiki](https://humandomestication.guide/en/blog/CanonIsDead) and makes references to that version of the site, to clear up any confusion._
 ## The Story Thus Far
 In April of the far off, distant year of 2021, GlitchyRobo posted the first parts of *Human Domestication Guide* to ReadOnlyMind as a standalone sci-fi horror kink story. In the following months, a handful of stories expanding on the setting of the original appeared on ROM, notably Wayril’s[ _Hospitable Takeover_](https://readonlymind.com/@Wayril/HospitableTakeover/) and Fluxom’s [_Abscission_](https://archiveofourown.org/works/44917270/) being the earliest. Behind the scenes, these and more early authors were talking to each other, and, as more stories got published, more folks got interested in writing in and contributing to the development of the setting.
 

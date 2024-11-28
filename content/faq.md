@@ -4,7 +4,7 @@ date: 2024-11-05T00:00:00+00:00
 authors: The Lorets
 draft: false
 description: Answers to common questions folks have about the setting!
-weight: 1
+weight: 10
 ---
 {{< aside faq_rinan_rae "Digital illustration of a rinan, a squirrel-like alien, wearing glasses and holding a book while standing on top of precariously stacked other books." >}}
     Art by Rae.
