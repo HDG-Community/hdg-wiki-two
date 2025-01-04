@@ -18,18 +18,19 @@ But it's come to our attention that, from the perspective of a lot of folks in t
 To be clear, we have historically discouraged affinification for several reasons, which I'll go into in depth below. We still do discourage it, not because we think it's inherently bad but because it's _really really hard to write_, a literary minefield where one wrong step can blow up not just your fic, but a lot of others. We discourage it not just to spare you the heartache of writing yourself into a corner, but to help uphold the overall themes of HDG as a setting. Let's talk about what that means, and why we originally took and still hold that position. 
 ## What Even is Affinification
 Before we start, we need to define the term "affinification" itself. 
-
+> [!QUOTATION]
 > + affinification (n.): 
 > 	1)  the process by which a non-affini sophont is physically transformed into an affini. 
 
 Right? Well, no, it's not just that simple. If this were the case — if all it took to become an Affini was to replace one's body and mind with phytotech — then every case of Aster-style ship-of-Theseus [[digitization]] would technically be a case of affinification as well. Hot plant mommy TF is certainly part and parcel of the affinification experience, and I think a big part of the draw, but we're just getting started. 
 
+> [!QUOTATION]
 > + affinification (n.):
 > 	1) the process by which a non-affini sophont is physically transformed into an affini. 
 > 	2) being recognized as an affini by other affini. 
 
 It's one thing to *look* like an affini, but it's quite another to be understood to _be_ one. This is a point of contention, in fact, in several affinification stories! Where is the line drawn between affini and xenosophont? What does it mean to cross that line? Is that even allowed? This, too, is part of the draw; it's free dramatic tension. But here's the thing — it's not just a social recognition. With "being recognized as an affini" comes two very important markers of structural power. These are big enough and important enough that we really should mark and discuss them separately. 
-
+> [!QUOTATION]
 > + affinification (n.): 
 > 	1) the process by which a non-affini sophont is physically transformed into an affini. 
 > 	2) being recognized as an affini by other affini. 
@@ -39,7 +40,7 @@ It's one thing to *look* like an affini, but it's quite another to be understood
 Being Affini is more than just being hot plant mommy — it's about being part of a culture-wide Great Work, one that consumes not just lifetimes but eternity itself. The Affini made themselves immortal not for its own sake but because it was a necessary stepping stone. To be an affini is to play a role in this Great Work, and to spend your entire immortal life doing so in one way or another. Whether that takes the form, in the immediate sense, of building a supermassive black hole jumpgate in a new galaxy or spending a century or two making one specific sophont's life absolutely perfect, _it's all part of the plan._ 
 
 Speaking of which: 
-
+> [!QUOTATION]
 > + affinification (n.): 
 > 	1) the process by which a non-affini sophont is physically transformed into an affini. 
 > 	2) being recognized as an affini by other affini. 

@@ -8,8 +8,7 @@ weight: 11
 ---
 > [!QUOTATION]
 > _“In a scifi space future, humanity has just lost a war to the Affini, a civilization of highly advanced plant aliens who really want to make cute, drugged up pets of their subjects..."_
-> 
-> **GlitchyRobo's [_Human Domestication Guide_](https://readonlymind.com/@GlitchyRobo/HumanDomesticationGuide/), original description**
+{title="" cite="https://readonlymind.com/@GlitchyRobo/HumanDomesticationGuide/" caption="- GlitchyRobo's Human Domestication Guide, original description"}
 
 Like many things, the Human Domestication Guide setting didn’t start as anything grand - just a small group of early authors collaborating with each other, building off of Glitchy’s original story. They worked closely, writing their own stories parallel to each other, talking and fleshing out the lore and themes of the world they were creating together. At first, there were only a handful of stories in conversation with each other, but that number only continued to grow and grow.
 

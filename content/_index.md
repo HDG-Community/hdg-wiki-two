@@ -16,8 +16,7 @@ We can  link to pages with `((Archives|custom text))!` using square brackets ins
 
 ## Yup, we have headings too! 
 In fact we have everything! We have quote blocks!
-> Yup, this sure is a quote! 
-> - skoof, 2556
+
 
 and we can also have code blocks! `beep boop I am a code block!`
 Ideally, some of these things will get different colours! 
@@ -30,10 +29,22 @@ Ideally, some of these things will get different colours!
 
 ### Can we get the nice stylized alerts we had on the old site?
 
+
+> [!QUOTATION]
+> I think that the best story in HDG is Courtship because it respects Everly's consent. Miss Adriss would never lead Everly astray!
+{link="https://archiveofourown.org" caption="- Courtship Chapter 2"}
+
+Yeah!!! 100% 
+
 > [!IMPORTANT]
 > Useful information that users should know, even when skimming content.
 
 Well would you look at that! Let's try them all! 
+
+> [!NOTE]
+> Useful things to know I guess
+
+Yeah I don't know when we would use notes
 
 > [!AFFINI]
 > This one is for the affini and I'm going to make it red!
@@ -45,16 +56,9 @@ Wow, so red! Look at that!
 
 That's a good take! 
 
->[!SKOOF]
-> Wow lorets, you are so right! Also, you are so purple! Whereas I am, of course, green!
+>[!QUESTION]
+> I am asking a question!!! What if the affini weren't so big?? Like, what if they were really really small? 
 
-Skoof is so green,,,
->[!QUOTATION]
-> I am a quote
-
-You are a note! 
-
->[!WARNING]
-> I am a warning
-
-You are a warning
+>[!ANSWER]
+> The affini are big. They could be little too but like. they're usually big! 
+{link="https://google.com" caption=" - bigffini"}

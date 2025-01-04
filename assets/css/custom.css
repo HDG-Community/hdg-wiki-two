@@ -110,9 +110,7 @@ code {
 .hdg-search {
   font-family: "Fantastique Sans", ui-monospace;
 }
-.quote-Border {
-  font-family: "Material Icons"
-}
+
 /* Set the Font Sizes */ 
 .hx-text-2xl {
   font-size: 1.5rem;
@@ -546,7 +544,7 @@ div .img-aside img {
 /*****************************/ 
 /* All Quoteblocks */
 blockquote {
-  display: flex;
+  display: block;
   align-items: stretch; /* Aligns the items to the top */
   margin-top: 1rem;
   margin-bottom: 1rem; 
@@ -562,87 +560,123 @@ blockquote {
   padding-left: 0.7rem;
 }
 
-.quoteBlock {
-
+.quote-Block {
+  border-radius: 10px 10px 10px 10px;
+  min-height: 2.6rem;
+  margin-top:0.5rem;
 }
 
-.quoteBorder {
+.quote-Border {
+  font-family: "Material Icons";
   display: flex;
   background-color: transparent; 
-  font-size: 2.4rem; 
+  font-size: 1.7rem; 
   font-family: "Material Icons";
-  color: rgb(var(--hdg-text-dark-pri));
   width: fit-content;
   max-width:3rem; 
-  height: 100%; 
   padding-left:7px;
   padding-right: 7px; 
-  border-radius: 10px 0px 0px 10px;
-  flex-grow: 1;
+  border-radius: 10px 0px 10px 0px;
+  align-items: center;
+  float: left;
+  margin-right: 1rem;
 }
 
+.quote-Title {
+  position: relative;
+  width: fit-content;  
+  padding-left: 1rem;
+  padding-top: 0.5rem;
+  font-weight: 600;
+  font-size: larger;
+  font-family: inherit;
+}
+.quote-Type {
+  width: fit-content;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top:0.5rem;
+  font-family: "fantastique sans";
+  margin-left: auto;
+}
 
 .content :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
   margin-top: 0;
 }
 
 .quoteContent {
-  position: relative;
+margin-right:1rem;
+padding-bottom: 0.5rem;
 }
 
+.quote-Header{
+  display: block;
+}
 
+.blockquote-caption {
+  display: flex;
+  width: fit-content;
+  align-self: end;
+  padding-right: 2rem;
+  padding-bottom: 0.5rem;
+  margin-left:auto;
+}
 /* Per-Type Styles */
 /* LIGHT THEME */
-.quoteContent-important {
-  background-color: rgba(var(--hdg-accordorange), var(--hdg-quotecontent-alpha));
+.important-quoteblock {
+  background-color: rgba(var(--hdg-compactred), var(--hdg-quotecontent-alpha));
 }
 
 .important-Border {
   color: rgb(var(--hdg-bg-light-pri));
-  background-color: rgb(var(--hdg-accordorange));
+  background-color: rgb(var(--hdg-compactred));
 }
 
-.quoteContent-note {
-  background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
+.note-quoteblock {
+  background-color: rgba(var(--hdg-sproutpurple), var(--hdg-quotecontent-alpha));
 }
 
 .note-Border {
   color: rgb(var(--hdg-bg-light-pri));
-  background-color: rgb(var(--hdg-cosmicnavy));
+  background-color: rgb(var(--hdg-sproutpurple));
 }
 
-.quoteContent-warning {
-  background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
+.question-quoteblock {
+  background-color: rgba(var(--hdg-exeterorange), var(--hdg-quotecontent-alpha));
 }
 
+.question-Border {
+  color: rgb(var(--hdg-bg-light-pri));
+  background-color: rgb(var(--hdg-exeterorange));
+}
+.answer-quoteblock {
+  background-color: rgba(var(--hdg-accordorange), var(--hdg-quotecontent-alpha));
+}
+
+.answer-Border {
+  color: rgb(var(--hdg-bg-light-pri));
+  background-color: rgb(var(--hdg-accordorange));
+}
 .quotation-Border {
   color: rgb(var(--hdg-bg-light-pri));
   background-color: rgb(var(--hdg-cosmicnavy));
 }
 
-.quoteContent-quotation {
+.quotation-quoteblock {
   background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
 }
 
-.warning-Border {
-  color: rgb(var(--hdg-bg-light-pri));
-  background-color: rgb(var(--hdg-exeterorange));
-}
 
-.quoteContent-warning {
-  background-color: rgba(var(--hdg-exeterorange), var(--hdg-quotecontent-alpha));
-}
-
-.quoteContent-affini {
-  background-color: rgba(var(--hdg-compactred), var(--hdg-quotecontent-alpha));
+.affini-quoteblock {
+  background-color: rgba(var(--hdg-haustoricgreen), var(--hdg-quotecontent-alpha));
 }
 
 .affini-Border {
   color: rgb(var(--hdg-bg-light-pri));
-  background-color: rgb(var(--hdg-compactred));
+  background-color: rgb(var(--hdg-haustoricgreen));
 }
 
-.quoteContent-loret {
+.loret-quoteblock {
   background-color: rgba(var(--hdg-pinnatepurple), var(--hdg-quotecontent-alpha));
 }
 
@@ -651,58 +685,40 @@ blockquote {
   background-color: rgb(var(--hdg-pinnatepurple));
 }
 
-.quoteContent-skoof {
-  background-color: rgba(var(--hdg-haustoricgreen), var(--hdg-quotecontent-alpha));
-}
-
-.skoof-Border {
-  color: rgb(var(--hdg-bg-light-pri));
-  background-color: rgb(var(--hdg-haustoricgreen));
-}
-
-
 /* DARK THEME*/
-.quoteContent-note {
+.note-quoteblock:is(html[class~=dark] *) {
   background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
 }
 
-.note-Border {
+.note-Border:is(html[class~=dark] *) {
   color: rgb(var(--hdg-bg-light-pri));
-  background-color: rgb(var(--hdg-cosmicnavy));
+  background-color: rgb(var(--hdg-bluestripe));
 }
 
-.quoteContent-warning {
-  background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
+.question-quoteblock:is(html[class~=dark] *) {
+  background-color: rgba(var(--hdg-exeterorange), var(--hdg-quotecontent-alpha));
+}
+.question-Border:is(html[class~=dark] *) {
+  color: rgb(var(--hdg-bg-light-pri));
+  background-color: rgb(var(--hdg-exeterorange));
+}
+.answer-quoteblock:is(html[class~=dark] *) {
+  background-color: rgba(var(--hdg-accordorange), var(--hdg-quotecontent-alpha));
 }
 
+.answer-Border:is(html[class~=dark] *) {
+  color: rgb(var(--hdg-bg-light-pri));
+  background-color: rgb(var(--hdg-accordorange));
+}
 .tip-Border {
   color: rgb(var(--hdg-bg-light-pri));
   background-color: rgb(var(--hdg-cosmicnavy));
 }
 
-.quoteContent-tip {
+.tip-quoteblock {
   background-color: rgba(var(--hdg-cosmicnavy), var(--hdg-quotecontent-alpha));
 }
-
-.warning-Border {
-  color: rgb(var(--hdg-bg-light-pri));
-  background-color: rgb(var(--hdg-exeterorange));
-}
-
-.quoteContent-warning {
-  background-color: rgba(var(--hdg-exeterorange), var(--hdg-quotecontent-alpha));
-}
-
-.quoteContent-affini {
-  background-color: rgba(var(--hdg-compactred), var(--hdg-quotecontent-alpha));
-}
-
-.affini-Border {
-  color: rgb(var(--hdg-bg-light-pri));
-  background-color: rgb(var(--hdg-compactred));
-}
-
-.quoteContent-loret:is(html[class~=dark] *) {
+.loret-quoteblock:is(html[class~=dark] *) {
   background-color: rgba(var(--hdg-sproutpurple), var(--hdg-quotecontent-alpha));
 }
 
@@ -710,16 +726,17 @@ blockquote {
   color: rgb(var(--hdg-bg-light-pri));
   background-color: rgb(var(--hdg-sproutpurple));
 }
-
-.quoteContent-skoof:is(html[class~=dark] *) {
+.affini-quoteblock:is(html[class~=dark] *) {
   background-color: rgba(var(--hdg-floretgreen), var(--hdg-quotecontent-alpha));
 }
 
-.skoof-Border:is(html[class~=dark] *) {
+.affini-Border:is(html[class~=dark] *) {
   color: rgb(var(--hdg-bg-light-pri));
   background-color: rgb(var(--hdg-floretgreen));
 }
 
+
+/*******************************************/
 /* Make the Heading 2 Divisors Wider LIGHT */
 .content :where(h2):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
   border-bottom-width: 3px;

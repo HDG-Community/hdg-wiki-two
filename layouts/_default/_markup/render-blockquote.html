@@ -1,33 +1,50 @@
+<!-- Initialize the $link variable with a safe default value if it is not set in markdown -->
+{{ $link := "https://humandomestication.guide"}}
+<!-- Grab the citation from markdown and assign it to $link-->
+{{with .Attributes.link}}
+  {{ $link = . }}
+{{end}}
+<!-- Aria Labels-->
 {{ $aria := dict
     "important" "Important information blockquote"
     "note" "Note Blockquote"
-    "tip" ":Tip Quote"
-    "warning" "Warning Quote"
+    "quotation" "Story quotation"
     "affini" "Block quote from the affini"
     "loret" "Block quote from the lorets"
-    "skoof" "Block quote from skoof" 
+    "question" "question" 
+    "answer" "answer"
   }}
+  <!-- MDI Icons for Border-->
   {{ $mdi := dict
     "important" "\ue645"
     "note" "\ue873"
     "quotation" "\ue244"
-    "warning" "\ue002"
     "affini" "\uea99"
     "loret" "\uea19"
-    "skoof" "\ue545" 
+    "question" "\ueb8b"
+    "answer" "\uea11" 
   }}
+   <!-- Quoteblock -->
   {{ if eq .Type "alert" }}
-  <div class="quote-Block">
+  <div class="quote-Block {{ .AlertType }}-quoteblock">
+  <!-- Header (Icon, Title, and Type) -->
+   <div class="quote-Header">
     <div class="quote-Border {{ .AlertType }}-Border">
       {{ (index $mdi .AlertType)}}  
     </div>
-    <blockquote class="quoteContent-{{ .AlertType }}" aria-label="{{ (index $aria .AlertType) }}">
-      <span class="quoteText">{{ .Text }}</span>
+  </div>
+    <blockquote class="quoteContent quoteContent-{{ .AlertType }}" aria-label="{{ (index $aria .AlertType) }}">
+      <span>{{ .Text }}</span>
     </blockquote>
+  </blockquote>
+  {{ with .Attributes.caption }}
+    <figcaption class="blockquote-caption">
+      <a href="{{ $link }}">{{ . | safeHTML }}</a>
+    </figcaption>
+    {{ end }}
   </div>
 {{ else }}
   <blockquote>
     {{ .Text }}
-  </blockquote>
 {{ end }}
   
