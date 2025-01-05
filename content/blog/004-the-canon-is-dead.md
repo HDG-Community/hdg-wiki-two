@@ -2,7 +2,10 @@
 title: The Canon is Dead, Long Live the Canon
 date: 2024-09-15T00:00:00+00:00
 tags: blog
-authors: [teagan and the Lorets]
+authors: 
+    - name: Teagan and the Lorets
+      link: 
+      image: /img/staff/staff_teagan.png
 draft: false
 description: Changes to the Lorets' approach to the curation of the HDG setting.
 Params:

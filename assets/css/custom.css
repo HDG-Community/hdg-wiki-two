@@ -248,7 +248,7 @@ strong {
 
 /* Move the Start of the Content Closer to the title on single pages */
 .hx-mb-16 {
-  margin-bottom:2rem;
+  margin-bottom:0.5rem;
 }
 
 /* Move the Right sidebar down to be in line with the page title text */

@@ -2,7 +2,10 @@
 title: Kanaposting
 tags:
   - Kanagen
-authors: Kanagen
+authors: 
+    - name: kanagen
+      link: 
+      image: /img/staff/staff_kanagen.png
 draft: false
 description: Kanaposting for testing Hugo (HUGO!)
 weight: 20

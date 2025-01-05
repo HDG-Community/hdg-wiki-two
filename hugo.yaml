@@ -43,21 +43,18 @@ languages:
           pageRef: faq
           weight: 4
         - name: About HDG
-          pageRef: archives
+          pageRef: /
           weight: 5 
         - name: Glossary
-          pageRef: archives
+          pageRef: /
           weight: 6
         - name: Foundational Works
           pageRef: /foundational-works
           weight: 7
       sidebar:
-        - name: More
-          params:
-          weight: 1
-        - name: skoof! 
-          weight: 2
-          pageRef: /blog/skoof-test
+        - name: Persistent 1
+          pageRef: /
+          weight: 4
 
 outputs:
   home:

@@ -2,7 +2,10 @@
 title: What We Talk about when We Talk about Affinification
 date: 2024-04-29T00:00:00+00:00
 tags: [blog]
-authors: [Kanagen]
+authors: 
+    - name: kanagen
+      link: 
+      image: /img/staff/staff_kanagen.png
 draft: false
 description: A discussion of the subject of affinification in HDG stories - the transformation of a non-affini sophont into an affini - and things which should be considered in that arena.
 Params:

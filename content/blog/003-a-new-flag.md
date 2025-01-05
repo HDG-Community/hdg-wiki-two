@@ -2,9 +2,11 @@
 title: A New Flag
 date: 2024-09-02T00:00:00+00:00
 tags:
-  - skoof
-authors:
-  - teagan
+  - meta
+authors: 
+    - name: Teagan
+      link: 
+      image: /img/staff/staff_teagan.png
 draft: false
 description: A diagetic look at the history of the flag of the Terran Accord.
 type: blog

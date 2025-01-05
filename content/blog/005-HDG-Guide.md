@@ -3,8 +3,10 @@ title: The Human Domestication Guide Guide
 date: 2024-11-03T00:00:00+00:00
 tags:
   - blog
-authors:
-  - teagan
+authors: 
+    - name: Teagan
+      link: 
+      image: /img/staff/staff_teagan.png
 draft: false
 description: Exciting things coming down the line for the HDG website!
 Params:

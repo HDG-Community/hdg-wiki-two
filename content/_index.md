@@ -12,53 +12,8 @@ Welcome to the new and improved HDG guide, nerd! We've been working very hard on
 
 Go see the [[Foundational Works]] page, or look at the [[Timeline]]. Those are both pages that exist! You could also look at [[faq|our Frequently Asked Questions]], or maybe learn about [[Sophont Species|some sophont species! ]]
 
-We can  link to pages with `((Archives|custom text))!` using square brackets instead of round (lol I can't use square or the parser will grab it even if I use an escape character, maybe that should be a todo!), which will render as [[Archives|custom text]]!. We can also use page anchors like this `((Foundational Works#human-domestication-guide|anchors!))` which will render as such: [[Foundational Works#human-domestication-guide|anchors!]]
-
-## Yup, we have headings too! 
-In fact we have everything! We have quote blocks!
-
-
-and we can also have code blocks! `beep boop I am a code block!`
-Ideally, some of these things will get different colours! 
-
 ## We can also have full-page images:
 
 {{< image doe_plush "A skoof, doing skoof things" >}}
     Pictured: One skoof, continuing to *skoof it*. Colourized, 1992.
 {{< /image >}}
-
-### Can we get the nice stylized alerts we had on the old site?
-
-
-> [!QUOTATION]
-> I think that the best story in HDG is Courtship because it respects Everly's consent. Miss Adriss would never lead Everly astray!
-{link="https://archiveofourown.org" caption="- Courtship Chapter 2"}
-
-Yeah!!! 100% 
-
-> [!IMPORTANT]
-> Useful information that users should know, even when skimming content.
-
-Well would you look at that! Let's try them all! 
-
-> [!NOTE]
-> Useful things to know I guess
-
-Yeah I don't know when we would use notes
-
-> [!AFFINI]
-> This one is for the affini and I'm going to make it red!
-
-Wow, so red! Look at that!
-
->[!LORET]
-> I think that Sweet like Cocoa is pretty hot, actually
-
-That's a good take! 
-
->[!QUESTION]
-> I am asking a question!!! What if the affini weren't so big?? Like, what if they were really really small? 
-
->[!ANSWER]
-> The affini are big. They could be little too but like. they're usually big! 
-{link="https://google.com" caption=" - bigffini"}
