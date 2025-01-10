@@ -18,6 +18,10 @@
     {{- else -}}
       <link rel="canonical" href="{{ .Permalink }}" itemprop="url" />
     {{- end -}}
+
+    {{ with .OutputFormats.Get "rss" -}}
+      {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+    {{ end }}
   
     {{- partial "opengraph.html" . -}}
     {{- template "_internal/schema.html" . -}}
