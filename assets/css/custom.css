@@ -272,7 +272,7 @@ strong {
   position: relative;
   background-color: var(--secondary-bg);
   border-radius: 0.375rem;
-  padding-bottom: 1rem;
+  padding-bottom: 0.375rem;
   max-width: min(30%, 200px);
 }
 
@@ -320,6 +320,11 @@ div .img-aside img {
 
 .img-aside-main img {
   border-radius: 0;
+}
+
+/* A quick hack to make sure very short staff bios or short sections won't cause overlapping images  */
+hr, h2 {
+  clear:both;
 }
 
 
