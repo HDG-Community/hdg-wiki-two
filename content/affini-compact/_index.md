@@ -6,7 +6,7 @@ draft: false
 description: The galaxies-spanning society of the affini working towards the goal of caring for the entire universe.
 Params:
   decoration: affini
-weight: 10
+weight: 9
 
 ---
 _Not to be confused with the shapeshifting planet aliens themselves, the [[affini|Affini]]._

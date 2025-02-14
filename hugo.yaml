@@ -1,6 +1,6 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "https://florops.github.io/hdg-wiki-two/"
+baseURL: "alpha.humandomestication.guide"
 title: Human Domestication Guide
 copyright: " "
 paginate: 5
@@ -52,8 +52,8 @@ languages:
           pageRef: /foundational-works
           weight: 7
       sidebar:
-        - name: Persistent 1
-          pageRef: /
+        - name: Back
+          pageRef: ../
           weight: 4
 
 outputs:
