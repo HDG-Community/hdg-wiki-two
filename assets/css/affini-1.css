@@ -8,59 +8,43 @@
   /* Bold Text, Dark Theme*/
 strong:is(html[class~=dark] *){
     font-weight:bolder;
-    color: rgb(var(--hdg-accordorange!important));
+    color: rgba(var(--hdg-protectoratepink))!important;
   }
   /* Bold Text, Light Theme */
   strong {
     font-weight:bolder;
-    color: rgb(var(--hdg-exeterorange))!important;
+    color: rgb(var(--hdg-affinirose))!important;
   }
 /* Change the colour of links in Dark Theme */
 .content :where(a):not(:where([class~=not-prose], [class~=not-prose] *)):is(html[class~=dark] *) {
   --tw-text-opacity: 1;
   color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-text-opacity));
-  color: rgb(var(--hdg-accordorange));
+  color: rgb(var(--hdg-protectoratepink));
 }
 /* Change the colour of links in Light Theme */
 .content :where(a):not(:where([class~=not-prose], [class~=not-prose] *)) {
   --tw-text-opacity: 1;
   color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-text-opacity));
-  color: rgb(var(--hdg-exeterorange));
+  color: rgb(var(--hdg-affinirose));
 }
+  /* Fun Title Decoration */
+  .hdg-title-decoration {
+    height: 25px;
+    background-image: url(affini-divisor-repeat.45c9516c9c055a20165165313161e9c2.svg);
+  }
 
-/* Fun Title Decoration */
-.hdg-title-decoration {
-  background: repeating-linear-gradient(
-    45deg,
-    transparent,
-    transparent 10px,
-    rgb(var(--hdg-cosmicnavy)) 5px,
-    rgb(var(--hdg-cosmicnavy)) 25px
-  );
-  height:25px;
-}
-.hdg-title-decoration:is(html[class~=dark] *) {
-  background: repeating-linear-gradient(
-    45deg,
-    transparent,
-    transparent 10px,
-    rgb(var(--hdg-accordorange)) 5px,
-    rgb(var(--hdg-accordorange)) 25px
-  );
-  height:25px;
-}
 /*  Heading 2 Divisor Color Light Theme */
 .content :where(h2):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
-  border-color: rgba(var(--hdg-cosmicnavy));
+  border-color: rgb(var(--hdg-affinirose));
 }
 /*  Heading 2 Divisor Color Dark Theme */
 .content :is(html[class~=dark] *):where(h2):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
-  border-color: rgb(var(--hdg-accordorange));
+  border-color: rgb(var(--hdg-protectoratepink));
 }
- /* Set on hover colours */
+/* Set on hover colours */
 a:hover {
-  color:rgb(var(--hdg-exeterorange))!important;
+  color:rgb(var(--hdg-affinirose))!important;
   }
   a:hover:is(html[class~=dark] *) {
-    color:rgb(var(--hdg-accordorange))!important;
+    color:rgb(var(--hdg-protectoratepink))!important;
     }

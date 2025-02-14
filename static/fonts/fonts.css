@@ -1,0 +1,87 @@
+/* Load Fonts */
+/* Atkinson Hyperlegible Next*/
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
+
+
+/* Fantastique Mono Sans */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Fantastique Sans';
+  font-style: normal;
+  font-weight: 400;
+  size-adjust: 115%;
+  src: url('../fonts/fantasquesansmono-regular-webfont.woff') format('woff'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+} 
+
+
+html,
+:host {
+  line-height: 1.5; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+  -moz-tab-size: 4; /* 3 */
+  -o-tab-size: 4;
+     tab-size: 4; /* 3 */
+  font-family: "Atkinson Hyperlegible",sans-serif; /* 4 */
+  font-feature-settings: normal; /* 5 */
+  font-variation-settings: normal; /* 6 */
+  -webkit-tap-highlight-color: transparent; /* 7 */
+}
+
+.content {
+    font-family: "Atkinson Hyperlegible Next", "Atkinson Hyperlegible" Roboto, sans-serif;
+}
+
+.hx-font-mono {
+  font-family:"Fantastique Sans",ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace
+}
+
+code {
+  font-family: "Fantastique Sans", ui-monospace;
+}
+/* Set the title of pages to also be Atkinson */
+.hdg-title {
+  font-family: "Atkinson Hyperlegible Next", "Atkinson Hyperlegible" Roboto;
+}
+.hdg-search {
+  font-family: "Fantastique Sans", ui-monospace;
+}
+
+/* Set the Font Sizes */ 
+.hx-text-2xl {
+  font-size: 1.5rem;
+}
+
+.hx-text-4xl {
+  font-size: 2.25rem;
+}
+
+.hx-text-\[\.65rem\] {
+  font-size: .65rem;
+}
+
+.hx-text-\[10px\] {
+  font-size: 10px;
+}
+
+.hx-text-base {
+  font-size: 1rem;
+}
+
+.hx-text-lg {
+  font-size: 1.2rem;
+}
+
+.hx-text-sm {
+  font-size: 1rem;
+}
+
+.hx-text-xl {
+  font-size: 1.4rem;
+}
+
+.hx-text-xs {
+  font-size: .75rem;
+}
+/************************/
+/*******END FONTS********/
+/************************/
