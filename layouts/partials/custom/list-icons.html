@@ -1,0 +1,20 @@
+<!-- Initialize the $link variable with a safe default value if it is not set in markdown -->
+{{ $icon := "default"}}
+<!-- Grab the citation from markdown and assign it to $link-->
+{{with .context.Params.icon}}
+  {{ $icon = . }}
+{{end}}
+{{ warnf $icon }}
+
+{{ $mdi := dict
+    "default" "\uea35"
+    "leaf" "\uea35"
+    "tree" "\uea63"
+    "book" "\uea19"
+    "question" "\ue887"
+    "pen" "\ue3c9"
+    "world" "\ue80b"
+    "accord" "\uea3f"
+    "back" "\ue166"
+  }}
+  <span class="hdg-list-icons"> {{ (index $mdi $icon)}}   </span>

@@ -1,0 +1,9 @@
+  <!-- Decoration CSS -->
+  {{- $decoration := .decoration | default "nodecoration" }}  <!-- Get decoration from current page's params -->
+  {{- $decorationCss := resources.Get (printf "css/%s.css" $decoration) }}  
+  {{- if hugo.IsProduction -}}
+    {{- $decorationCss = $decorationCss | minify | fingerprint }}
+    <link href="{{ $decorationCss.RelPermalink }}" rel="stylesheet" integrity="{{ $decorationCss.Data.Integrity }}" />
+  {{- else }}
+    <link href="{{ $decorationCss.RelPermalink }}" rel="stylesheet" />
+  {{- end }}
