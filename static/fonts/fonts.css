@@ -9,7 +9,7 @@
   font-family: 'Atkinson Hyperlegible';
   font-style: normal;
   font-weight: 400;
-  size-adjust: 105%;
+  size-adjust: 100%;
   src: url('../fonts/atkinson-hyperlegible-v11-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 } 
 
@@ -19,7 +19,7 @@
   font-family: 'Atkinson Hyperlegible';
   font-style: italic;
   font-weight: 400;
-  size-adjust: 105%;
+  size-adjust: 100%;
   src: url('../fonts/atkinson-hyperlegible-v11-latin-italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
@@ -29,7 +29,7 @@
   font-family: 'Atkinson Hyperlegible';
   font-style: normal;
   font-weight: 700;
-  size-adjust: 105%;
+  size-adjust: 100%;
   src: url('../fonts/atkinson-hyperlegible-v11-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
@@ -39,7 +39,7 @@
   font-family: 'Atkinson Hyperlegible';
   font-style: italic;
   font-weight: 700;
-  size-adjust: 105%;
+  size-adjust: 100%;
   src: url('../fonts/atkinson-hyperlegible-v11-latin-700italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 /* Fantastique Mono Sans */
@@ -55,20 +55,21 @@
 
 html,
 :host {
-  line-height: 1.5; /* 1 */
-  -webkit-text-size-adjust: 100%; /* 2 */
-  -moz-tab-size: 4; /* 3 */
+  line-height: 1.5; 
+  -webkit-text-size-adjust: 100%; 
+  -moz-tab-size: 4; 
   -o-tab-size: 4;
-     tab-size: 4; /* 3 */
-  font-family: "Atkinson Hyperlegible Next","Atkinson Hyperlegible",sans-serif; /* 4 */
-  font-feature-settings: normal; /* 5 */
-  font-variation-settings: normal; /* 6 */
-  -webkit-tap-highlight-color: transparent; /* 7 */
+     tab-size: 4; 
+  font-family: "Atkinson Hyperlegible Next","Atkinson Hyperlegible",Roboto,sans-serif; 
+  font-feature-settings: normal; 
+  font-variation-settings: normal; 
+  -webkit-tap-highlight-color: transparent; 
 }
 
 .content {
-    font-family: "Atkinson Hyperlegible Next", "Atkinson Hyperlegible" Roboto, sans-serif;
-    font-weight: 400;
+    font-family: Atkinson Hyperlegible Next, Atkinson Hyperlegible Roboto, sans-serif;
+    font-weight: 425;
+    size-adjust: 115%;
 }
 
 .hx-font-mono {
@@ -79,14 +80,45 @@ code {
   font-family: "Fantastique Sans", ui-monospace;
 }
 /* Set the title of pages to also be Atkinson */
+.hdg-sitename {
+  font-family: "Fantastique Sans"
+}
 .hdg-title {
   font-family: "Atkinson Hyperlegible Next", "Atkinson Hyperlegible" Roboto;
 }
 .hdg-search {
   font-family: "Fantastique Sans", ui-monospace;
+  font-size: 16px!important;
+}
+.hdg-sidebar {
+  font-weight: 275;
 }
 
+/**********************/
 /* Set the Font Sizes */ 
+/**********************/
+
+.hx-text-base {
+  font-size: 18px;
+}
+
+.hx-text-xs {
+  font-size: .75rem;
+  font-weight: 300;
+}
+
+.hx-text-sm {
+  font-size: 1rem;
+}
+
+.hx-text-lg {
+  font-size: 1.2rem;
+}
+
+.hx-text-xl {
+  font-size: 1.4rem;
+}
+
 .hx-text-2xl {
   font-size: 1.5rem;
 }
@@ -95,32 +127,13 @@ code {
   font-size: 2.25rem;
 }
 
+
 .hx-text-\[\.65rem\] {
   font-size: .65rem;
 }
 
 .hx-text-\[10px\] {
   font-size: 10px;
-}
-
-.hx-text-base {
-  font-size: 1rem;
-}
-
-.hx-text-lg {
-  font-size: 1.2rem;
-}
-
-.hx-text-sm {
-  font-size: 1rem;
-}
-
-.hx-text-xl {
-  font-size: 1.4rem;
-}
-
-.hx-text-xs {
-  font-size: .75rem;
 }
 /************************/
 /*******END FONTS********/
