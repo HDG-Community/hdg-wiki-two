@@ -1,3 +1,8 @@
+:root {
+  --hdg-text-thin: 325;
+  --hdg-text-normal: 425;
+  --hdg-text-thick: 550;
+}
 /* Load Fonts */
 /* Atkinson Hyperlegible Next*/
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
@@ -68,8 +73,7 @@ html,
 
 .content {
     font-family: Atkinson Hyperlegible Next, Atkinson Hyperlegible Roboto, sans-serif;
-    font-weight: 425;
-    size-adjust: 115%;
+    font-weight: var(--hdg-text-normal);
 }
 
 .hx-font-mono {
@@ -84,14 +88,26 @@ code {
   font-family: "Fantastique Sans"
 }
 .hdg-title {
-  font-family: "Atkinson Hyperlegible Next", "Atkinson Hyperlegible" Roboto;
+  font-family: Atkinson Hyperlegible Next, Atkinson Hyperlegible, Roboto;
+  font-weight: var(--hdg-text-thick);
+}
+.hdg-heading {
+  font-family: Atkinson Hyperlegible Next, Atkinson Hyperlegible, Roboto;
+  font-weight: var(--hdg-text-thick)!important;
 }
 .hdg-search {
   font-family: "Fantastique Sans", ui-monospace;
   font-size: 16px!important;
 }
+.hdg-navbar-links {
+  font-family: Atkinson Hyperlegible Next, Atkinson Hyperlegible, Roboto;
+  font-weight: var(--hdg-text-thin);
+}
 .hdg-sidebar {
-  font-weight: 275;
+  font-weight: var(--hdg-text-thin);
+}
+.hdg-toc {
+  font-weight: var(--hdg-text-thin);
 }
 
 /**********************/
@@ -104,7 +120,7 @@ code {
 
 .hx-text-xs {
   font-size: .75rem;
-  font-weight: 300;
+  font-weight: 350;
 }
 
 .hx-text-sm {
