@@ -6,6 +6,7 @@ draft: false
 description: The galaxies-spanning society of the affini working towards the goal of caring for the entire universe.
 Params:
   decoration: affini
+  icon: tree
 weight: 9
 
 ---

@@ -85,6 +85,7 @@
         {{- else -}}
           {{- $active := eq $pageURL .RelPermalink -}}
           {{- $shouldOpen := or (.Params.sidebar.open) (.IsAncestor $page) $active | default true }}
+           <!--This is where an individual list item goes-->
           <li class="{{ if $shouldOpen }}open{{ end }}">
             {{- $linkTitle := partial "utils/title" . -}}
             {{- template "sidebar-item-link" dict "context" . "active" $active "title" $linkTitle "link" .RelPermalink -}}
@@ -150,12 +151,12 @@
     {{ end }}
   {{- end -}}
 {{- end -}}
-
+<!-- Sidebar title link is here-->
 {{- define "sidebar-item-link" -}}
   {{- $external := strings.HasPrefix .link "http" -}}
   {{- $open := .open | default true -}}
   <a
-    class="hx-flex hx-items-center hx-justify-between hx-gap-2 hx-cursor-pointer hx-rounded hx-px-2 hx-py-1.5 hx-text-sm hx-transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+    class="hx-flex hx-items-center hx-justify-flex-start hx-gap-2 hx-cursor-pointer hx-rounded hx-px-2 hx-py-1.5 hx-text-sm hx-transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
     {{- if .active }}
       sidebar-active-item hx-bg-primary-100 hx-font-semibold hx-text-primary-800 contrast-more:hx-border contrast-more:hx-border-primary-500 dark:hx-bg-primary-400/10 dark:hx-text-primary-600 contrast-more:dark:hx-border-primary-500
     {{- else }}
@@ -164,6 +165,7 @@
     href="{{ .link }}"
     {{ if $external }}target="_blank" rel="noreferrer"{{ end }}
   >
+  {{- partial "custom/list-icons.html" . }}
     {{- .title -}}
     {{- with .context }}
       {{- if or .RegularPages .Sections }}
@@ -172,7 +174,7 @@
         </span>
       {{- end }}
     {{ end -}}
-  </a>
+      </a>
 {{- end -}}
 
 {{- define "sidebar-collapsible-button" -}}

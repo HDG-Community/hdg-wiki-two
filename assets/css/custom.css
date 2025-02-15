@@ -260,7 +260,7 @@ strong {
 
 /* Move the left sidebar down to be in line with the page title text */
 .hx-p-4 {
-  padding:1.5rem;
+  padding-right:1.5rem;
   margin-top: 1.2rem;
 }
 
@@ -767,4 +767,11 @@ padding-bottom: 0.5rem;
   border-bottom-width: 2px;
   border-color: rgba(var(--hdg-text-dark-ter),0.1);
   border-radius: 1px;
+}
+
+
+/* SIDEBAR LIST ICONS */
+.hdg-list-icons {
+  font-family: Material Icons;
+  font-size: 1.5rem;
 }

@@ -7,6 +7,8 @@ description: All of our blog posts
 cascade:
   type: blog
 weight: 2
+Params:
+  icon: "book"
 ---
 
 Look below for the whole list of blog posts! 

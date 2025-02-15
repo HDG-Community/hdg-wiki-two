@@ -7,6 +7,7 @@ description: How to contribute to this website, including formatting information
 weight: 10
 params:
   decoration: meta
+  icon: pen
   sidebar:
     exclude: false
 ---
