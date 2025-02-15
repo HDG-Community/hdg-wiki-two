@@ -3,11 +3,18 @@
   --hdg-text-normal: 425;
   --hdg-text-thick: 550;
 }
-/* Load Fonts */
+/**********************/
+/* Load Fontss */ 
+/**********************/
 /* Atkinson Hyperlegible Next*/
-@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
-
-/* Atkinson Hyperlegible */
+/* atkinson-hyperlegible-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Atkinson Hyperlegible Next';
+  font-style: normal;
+  size-adjust: 100%;
+  src: url('../fonts/AtkinsonHyperlegibleNext-Variable.woff2') format('woff2')
+} 
 /* atkinson-hyperlegible-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
@@ -65,42 +72,40 @@ html,
   -moz-tab-size: 4; 
   -o-tab-size: 4;
      tab-size: 4; 
-  font-family: "Atkinson Hyperlegible Next","Atkinson Hyperlegible",Roboto,sans-serif; 
-  font-feature-settings: normal; 
-  font-variation-settings: normal; 
+  font-family: Atkinson Hyperlegible Next,Roboto,sans-serif; 
   -webkit-tap-highlight-color: transparent; 
 }
 
 .content {
-    font-family: Atkinson Hyperlegible Next, Atkinson Hyperlegible Roboto, sans-serif;
+    font-family: Atkinson Hyperlegible Next, Roboto, sans-serif;
     font-weight: var(--hdg-text-normal);
 }
 
 .hx-font-mono {
-  font-family:"Fantastique Sans",ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace
+  font-family:Fantastique Sans,ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace
 }
 
 code {
-  font-family: "Fantastique Sans", ui-monospace;
+  font-family: Fantastique Sans, ui-monospace;
 }
 /* Set the title of pages to also be Atkinson */
 .hdg-sitename {
-  font-family: "Fantastique Sans"
+  font-family: Fantastique Sans;
 }
 .hdg-title {
-  font-family: Atkinson Hyperlegible Next, Atkinson Hyperlegible, Roboto;
+  font-family: Atkinson Hyperlegible Next, Roboto;
   font-weight: var(--hdg-text-thick);
 }
 .hdg-heading {
-  font-family: Atkinson Hyperlegible Next, Atkinson Hyperlegible, Roboto;
+  font-family: Atkinson Hyperlegible Next,Roboto, sans-serif; 
   font-weight: var(--hdg-text-thick)!important;
 }
 .hdg-search {
-  font-family: "Fantastique Sans", ui-monospace;
+  font-family: Fantastique Sans, ui-monospace;
   font-size: 16px!important;
 }
 .hdg-navbar-links {
-  font-family: Atkinson Hyperlegible Next, Atkinson Hyperlegible, Roboto;
+  font-family: Atkinson Hyperlegible Next, Roboto, sans-serif; 
   font-weight: var(--hdg-text-thin);
 }
 .hdg-sidebar {
@@ -113,9 +118,11 @@ code {
 /* Set Defaults */ 
 /**********************/
 strong {
-  font-family: Atkinson Hyperlegible Next, Atkinson Hyperlegible;
   font-weight: 550;
   color: rgb(var(--hdg-text-light-pri));
+}
+.hx-font-semibold {
+  font-weight: var(--hdg-text-thick);
 }
 /**********************/
 /* Set the Font Sizes */ 
