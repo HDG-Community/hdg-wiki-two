@@ -1,0 +1,170 @@
+:root {
+  --hdg-text-thin: 325;
+  --hdg-text-normal: 425;
+  --hdg-text-thick: 550;
+}
+/**********************/
+/* Load Fontss */ 
+/**********************/
+/* Atkinson Hyperlegible Next*/
+/* atkinson-hyperlegible-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Atkinson Hyperlegible Next';
+  font-style: normal;
+  size-adjust: 100%;
+  src: url('../fonts/AtkinsonHyperlegibleNext-Variable.woff2') format('woff2')
+} 
+/* atkinson-hyperlegible-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Atkinson Hyperlegible';
+  font-style: normal;
+  font-weight: 400;
+  size-adjust: 100%;
+  src: url('../fonts/atkinson-hyperlegible-v11-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+} 
+
+/* atkinson-hyperlegible-italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Atkinson Hyperlegible';
+  font-style: italic;
+  font-weight: 400;
+  size-adjust: 100%;
+  src: url('../fonts/atkinson-hyperlegible-v11-latin-italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* atkinson-hyperlegible-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Atkinson Hyperlegible';
+  font-style: normal;
+  font-weight: 700;
+  size-adjust: 100%;
+  src: url('../fonts/atkinson-hyperlegible-v11-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* atkinson-hyperlegible-700italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Atkinson Hyperlegible';
+  font-style: italic;
+  font-weight: 700;
+  size-adjust: 100%;
+  src: url('../fonts/atkinson-hyperlegible-v11-latin-700italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* Fantastique Mono Sans */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Fantastique Sans';
+  font-style: normal;
+  font-weight: 400;
+  size-adjust: 115%;
+  src: url('../fonts/fantasquesansmono-regular-webfont.woff') format('woff'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+} 
+
+/* SET FONTS */
+html,
+:host {
+  line-height: 1.5; 
+  -webkit-text-size-adjust: 100%; 
+  -moz-tab-size: 4; 
+  -o-tab-size: 4;
+     tab-size: 4; 
+  font-family: Atkinson Hyperlegible Next,Roboto,sans-serif; 
+  -webkit-tap-highlight-color: transparent; 
+}
+
+.content {
+    font-family: Atkinson Hyperlegible Next, Roboto, sans-serif;
+    font-weight: var(--hdg-text-normal);
+}
+
+.hx-font-mono {
+  font-family:Fantastique Sans,ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace
+}
+
+code {
+  font-family: Fantastique Sans, ui-monospace;
+}
+/* Set the title of pages to also be Atkinson */
+.hdg-sitename {
+  font-family: Fantastique Sans;
+}
+.hdg-title {
+  font-family: Atkinson Hyperlegible Next, Roboto;
+  font-weight: var(--hdg-text-thick);
+}
+.hdg-heading {
+  font-family: Atkinson Hyperlegible Next,Roboto, sans-serif; 
+  font-weight: var(--hdg-text-thick)!important;
+}
+.hdg-search {
+  font-family: Fantastique Sans, ui-monospace;
+  font-size: 16px!important;
+}
+.hdg-navbar-links {
+  font-family: Atkinson Hyperlegible Next, Roboto, sans-serif; 
+  font-weight: var(--hdg-text-thin);
+}
+.hdg-sidebar {
+  font-weight: var(--hdg-text-thin);
+}
+.hdg-toc {
+  font-weight: var(--hdg-text-thin);
+}
+/**********************/
+/* Set Defaults */ 
+/**********************/
+strong {
+  font-weight: 550;
+  color: rgb(var(--hdg-text-light-pri));
+}
+.hx-font-semibold {
+  font-weight: var(--hdg-text-thick);
+}
+/**********************/
+/* Set the Font Sizes */ 
+/**********************/
+
+.hx-text-base {
+  font-size: 18px;
+}
+
+.hx-text-xs {
+  font-size: .75rem;
+  font-weight: 350;
+}
+
+.hx-text-sm {
+  font-size: 1rem;
+}
+
+.hx-text-lg {
+  font-size: 1.2rem;
+}
+
+.hx-text-xl {
+  font-size: 1.4rem;
+}
+
+.hx-text-2xl {
+  font-size: 1.5rem;
+}
+
+.hx-text-4xl {
+  font-size: 2.25rem;
+}
+
+
+.hx-text-\[\.65rem\] {
+  font-size: .65rem;
+}
+
+.hx-text-\[10px\] {
+  font-size: 10px;
+}
+/************************/
+/*******END FONTS********/
+/************************/

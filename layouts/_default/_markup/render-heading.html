@@ -1,4 +1,4 @@
-<h{{ .Level }}>
+<h{{ .Level }} class="hdg-heading">
   {{- .Text | safeHTML -}}
   {{- if gt .Level 1 -}}
     <span class="hx-absolute -hx-mt-20 hdg-heading-1" id="{{ .Anchor | safeURL }}"></span>
