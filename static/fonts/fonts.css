@@ -57,7 +57,7 @@
   src: url('../fonts/fantasquesansmono-regular-webfont.woff') format('woff'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 } 
 
-
+/* SET FONTS */
 html,
 :host {
   line-height: 1.5; 
@@ -109,7 +109,14 @@ code {
 .hdg-toc {
   font-weight: var(--hdg-text-thin);
 }
-
+/**********************/
+/* Set Defaults */ 
+/**********************/
+strong {
+  font-family: Atkinson Hyperlegible Next, Atkinson Hyperlegible;
+  font-weight: 550;
+  color: rgb(var(--hdg-text-light-pri));
+}
 /**********************/
 /* Set the Font Sizes */ 
 /**********************/
