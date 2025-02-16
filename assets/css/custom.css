@@ -149,7 +149,7 @@ strong {
   background-color: var(--secondary-bg);
   border-radius: 0.375rem;
   padding-bottom: 0.375rem;
-  max-width: min(30%, 200px);
+  max-width: min(35%, 200px);
 }
 
 .img-aside img {
