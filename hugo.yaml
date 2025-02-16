@@ -51,10 +51,7 @@ languages:
         - name: Foundational Works
           pageRef: /foundational-works
           weight: 7
-      sidebar:
-        - name: Back
-          pageRef: ../
-          weight: 4
+
 
 outputs:
   home:

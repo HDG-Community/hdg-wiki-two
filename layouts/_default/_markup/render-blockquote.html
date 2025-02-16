@@ -39,6 +39,7 @@
   </blockquote>
   {{ with .Attributes.caption }}
     <figcaption class="blockquote-caption">
+      <p> - </p>
       <a href="{{ $link }}">{{ . | safeHTML }}</a>
     </figcaption>
     {{ end }}

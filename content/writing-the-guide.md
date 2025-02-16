@@ -23,7 +23,7 @@ Headings are denoted with a `#` chracter. So, an H1 (heading level one) is `#`, 
 Quoteblocks are handled in a little bit of a special way. Their format is as follows:
 >[!LORET]
 > This is the content of a quoteblock! As you can see, it comes with a fancy banner on the side! There are actually a few types of fancy banner, which is why the markdown formatting for these are special! 
-{link="https://gohugo.io" caption="- Caption"}
+{link="https://gohugo.io" caption="Caption"}
 
 The markdown for the above quoteblock is as follows:
 ```
@@ -69,25 +69,55 @@ We have the following "types" of decorated quoteblocks:
 > [!ANSWER]
 > `![ANSWER]` for the matching answer! 
 
+# The Sidebar
+The collection of page names on the left of the screen (or in the hamburger menu on mobile) is reffered to as the "sidebar." Generally speaking, it is an automatically-populated list of all pages beneath the current page in the file tree. On the hoome page, this is every page, unless `sidebar: exclude: false` is set in the frontmatter ( see 'Hiding Items From the Sidebar'). 
+## Adding Items to the Sidebar
+New pages are automatically added to the sidebar upon creation. To add a persistent item (visible on every page) onto the sidebar, add 
+```yaml
+      sidebar:
+        - name: "Page Name"
+          pageRef: "/url" 
+          weight: [NUMBER]
+```
 
-## Image Asides
+to the `hugo.yaml` file. This will add the link persistently on every page. The "weight" value only pertains to other persistent links, and these links always appear above the automatically generated links for content. 
+
+## Hiding Items from the Sidebar:
+To hide a page from the sidebar, you must add 
+```yaml
+params:
+  decoration: meta
+  sidebar:
+    exclude: false
+```
+to the frontmatter of the page.
+
+## Sidebar Icons
+Sidebar icons are also defined in the frontmatter of pages. When not specified, a default icon is used. The following icons are currently implemented: 
+
+**TODO**
+
+To set a page icon, add 
+```yaml
+params:
+  icon: iconName
+```
+to the page's frontmatter. 
+
+
+# Image Asides
 Image asides are handled with custom shortcodes in Hugo. The syntax is as follows:
 
 ### Asides:
-```< aside doe_plush "A skoof, doing skoof things" >
+```
+< aside doe_plush "A skoof, doing skoof things" >
     Pictured: One skoof, *skoofing it*. Colourised, 1782. Honk honk honk honk!
-< /aside >```
-
+< /aside >
+```
 
 ### Full-page images:
-```{{< image doe_plush "A skoof, doing skoof things" >}}
+```go
+{{< image doe_plush "A skoof, doing skoof things" >}}
     Pictured: One skoof, continuing to *skoof it*. Colourized, 1992.
-{{< /image >}}```
-
-
-# Hiding Pages in the sidebar
-
-``` params:
-  decoration: meta
-  sidebar:
-    exclude: false```
+{{< /image >}}
+```
