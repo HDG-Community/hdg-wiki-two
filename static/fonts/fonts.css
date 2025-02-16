@@ -1,7 +1,8 @@
 :root {
   --hdg-text-thin: 325;
-  --hdg-text-normal: 400;
-  --hdg-text-thick: 550;
+  --hdg-text-normal: 375;
+  --hdg-text-thick: 600;
+  --hdg-text-thicker: 700;
 }
 /**********************/
 /* Load Fontss */ 
@@ -118,7 +119,7 @@ code {
 /* Set Defaults */ 
 /**********************/
 strong {
-  font-weight: 550;
+  font-weight: var(--hdg-text-thicker);
   color: rgb(var(--hdg-text-light-pri));
 }
 .hx-font-semibold {
