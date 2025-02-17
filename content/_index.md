@@ -1,5 +1,5 @@
 ---
-title: "The Guide to Human Domestication Guide"
+title: "Human Domestication Guide"
 date: 2024-09-02
 type: page
 ---
@@ -11,15 +11,17 @@ Before we go any further, you should be aware of two things:
 
 Right now, we are soft-launching the site to creators in the community, which while it's not exactly a _secret_, we do ask that folks avoiding sharing this site's link, both because we want to make sure its up to our standards when it takes over as the main official site, as well as this site's URL isn't going to stay the same.
 ## What is HDG?
+
 > [!QUESTION]
 > TODO - Give a brief overview, will probably link to the Community Page and like the foundational works page, and probably that new article Kana wrote about explaining the setting to normies.
 ## Useful Articles
 - [[community|Community]] - Information on the HDG community.
 - [[foundational-works|Foundational Works]] - A selection of seven early works which provide a solid base understanding of the setting.
 - [[faq|Frequently Asked Questions]] - Answers to common questions about HDG.
-- [[glossary|Glossary]] - Terms you might come across in the setting.<br>
+- [[glossary|Glossary]] - Terms you might come across in the setting.<br><br>
+- [[timeline|Timeline]] - An overview of the chronology of the setting.
 - [[sophont-species|Sophont Species]] - The many adorable creatures found across the Compact.
-- [[worlds-locations|Worlds & Locations]] - The settings of the setting.<br>
+- [[worlds-locations|Worlds & Locations]] - The settings of the setting.<br><br>
 - [[affini-compact|Affini Compact]] - The intergalactic conquerors on a quest to make pets of the universe.
 - [[terran-accord|Terran Accord]] - The hypercapitalist human government of the 26th century.
 - [[florets-domestication|Florets & Domestication]] - Information on the affini's adorable pets.

@@ -9,6 +9,8 @@ authors:
 draft: false
 Params:
   decoration: meta
+  sidebar:
+    exclude: true
 description: A test post by skoof!
 type: blog
 ---

@@ -9,6 +9,9 @@ authors:
 draft: false
 description: Kanaposting for testing Hugo (HUGO!)
 weight: 20
+params:
+  sidebar:
+    exclude: true
 ---
 and then one day you find
 
