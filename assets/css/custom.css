@@ -657,3 +657,14 @@ padding-bottom: 0.5rem;
 .hdg-breadcrumbs {
   font-family: Fantastique Sans;
 }
+
+
+/* Home Page Blogs Section */
+.hdg-home-blogs {
+background-color: rgba(var(--hdg-bg-light-sec));
+  border-radius: 12px;
+  }
+.hdg-home-blogs:hover {
+background-color: rgba(var(--hdg-clerkyellow));
+  border-radius: 12px;
+  }

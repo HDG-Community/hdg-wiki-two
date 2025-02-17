@@ -1,6 +1,7 @@
 ---
 title: "The Guide to Human Domestication Guide"
 date: 2024-09-02
+layout: home
 type: page
 ---
 Welcome to the official site for the Human Domestication Guide setting!
@@ -29,14 +30,3 @@ Right now, we are soft-launching the site to creators in the community, which wh
 ## HDG Blog
 In addition to the site's main articles, the HDG blog hosts a number of articles delving deeper in to particular parts of the lore and insights into the staff and community. Down the line we are planning on opening the possibility for folks in the community to write their own thoughts to put on the blog, so stay tuned on the [community Discord](http://discord.humandomestication.guide/) if you might be interested in that!
 
-> ![QUESTION]
-> TODO - Is there a way we can have these automatically populate like the 3 latest blog posts, potentially even just with the same formatting as the blog home?
-#### The Human Domestication Guide Guide
-Exciting things coming down the line for the HDG website!
-[[005-HDG-Guide|Read More >]]
-#### The Canon is Dead, Long Live the Canon
-Changes to the Lorets' approach to the curation of the HDG setting.
-[[004-the-canon-is-dead|Read More >]]
-#### A New Flag
-A diegetic look at the history of the flag of the Terran Accord.
-[[003-a-new-flag|Read More >]]
