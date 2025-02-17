@@ -11,7 +11,7 @@ description: Feathered, high-gravity cat xenos.
 {{< /aside >}}
 
 > [!QUOTATION]
-> _"It is common knowledge that one cannot, for ethical reasons, rise to disturb a cat who sleeps in one’s lap, Astrid knew. The not-quite-cat currently sleeping in her lap, however, had **her** trapped in a much more physical sense. It was simply too heavy to move."_
+> _"It is common knowledge that one cannot, for ethical reasons, rise to disturb a cat who sleeps in one’s lap, Astrid knew. The not-quite-cat currently sleeping in **her** lap, however, had her trapped in a much more physical sense. It was simply too heavy to move."_
 > 
 > **Promilie's [_Florets of a Feather_](https://archiveofourown.org/works/54477985/chapters/145430536), chapter 4**
 

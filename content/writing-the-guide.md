@@ -63,11 +63,11 @@ We have the following "types" of decorated quoteblocks:
 
 
 > [!QUESTION]
-> `![QUESTION]` for questions and 
+> `![QUESTION]` for questions and... 
 
 
 > [!ANSWER]
-> `![ANSWER]` for the matching answer! 
+> `![ANSWER]` ...for the matching answer! 
 
 # The Sidebar
 The collection of page names on the left of the screen (or in the hamburger menu on mobile) is reffered to as the "sidebar." Generally speaking, it is an automatically-populated list of all pages beneath the current page in the file tree. On the hoome page, this is every page, unless `sidebar: exclude: false` is set in the frontmatter ( see 'Hiding Items From the Sidebar'). 
