@@ -14,8 +14,10 @@
           {{ partial "content-wikilinks" . }}
         </div>
         {{- $pages := partial "utils/sort-pages" (dict "page" . "by" site.Params.blog.list.sortBy "order" site.Params.blog.list.sortOrder) -}}
-        {{- range last 3 $pages }}
-          <div class="hdg-home-blogs hx-font-mono hx-mb-10">
+        {{- $blogPosts := where .Site.RegularPages "Section" "blog" }} <!-- This filters to blog section only -->
+        {{- $sortedBlogPosts := sort $blogPosts "Date" "desc" }} <!-- Sorts blog posts by Date in descending order -->
+        {{- range first 3 $sortedBlogPosts }}
+             <div class="hdg-home-blogs hx-font-mono hx-mb-10">
             <h3><a style="color: inherit; text-decoration: none;" class="hdg-title hx-block hx-font-semibold hx-mt-8 hx-text-2xl " href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
             {{- if site.Params.blog.list.displayTags -}}
               {{ with .Params.tags }}
