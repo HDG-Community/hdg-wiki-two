@@ -8,7 +8,7 @@ authors:
       link: 
       image: /img/staff/staff_teagan.png
 draft: false
-description: A diagetic look at the history of the flag of the Terran Accord.
+description: A diegetic look at the history of the flag of the Terran Accord.
 type: blog
 Params:
   decoration: meta
