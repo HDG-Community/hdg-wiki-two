@@ -46,7 +46,7 @@ languages:
           pageRef: /
           weight: 5 
         - name: Glossary
-          pageRef: /
+          pageRef: /glossary
           weight: 6
         - name: Foundational Works
           pageRef: /foundational-works
