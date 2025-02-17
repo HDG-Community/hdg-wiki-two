@@ -11,17 +11,15 @@ Before we go any further, you should be aware of two things:
 
 Right now, we are soft-launching the site to creators in the community, which while it's not exactly a _secret_, we do ask that folks avoiding sharing this site's link, both because we want to make sure its up to our standards when it takes over as the main official site, as well as this site's URL isn't going to stay the same.
 ## What is HDG?
-[!QUESTION]
+> [!QUESTION]
 > TODO - Give a brief overview, will probably link to the Community Page and like the foundational works page, and probably that new article Kana wrote about explaining the setting to normies.
 ## Useful Articles
 - [[community|Community]] - Information on the HDG community.
 - [[foundational-works|Foundational Works]] - A selection of seven early works which provide a solid base understanding of the setting.
 - [[faq|Frequently Asked Questions]] - Answers to common questions about HDG.
-- [[glossary|Glossary]] - Terms you might come across in the setting.
-
+- [[glossary|Glossary]] - Terms you might come across in the setting.<br>
 - [[sophont-species|Sophont Species]] - The many adorable creatures found across the Compact.
-- [[worlds-locations|Worlds & Locations]] - The settings of the setting.
-
+- [[worlds-locations|Worlds & Locations]] - The settings of the setting.<br>
 - [[affini-compact|Affini Compact]] - The intergalactic conquerors on a quest to make pets of the universe.
 - [[terran-accord|Terran Accord]] - The hypercapitalist human government of the 26th century.
 - [[florets-domestication|Florets & Domestication]] - Information on the affini's adorable pets.
@@ -29,14 +27,13 @@ Right now, we are soft-launching the site to creators in the community, which wh
 ## HDG Blog
 In addition to the site's main articles, the HDG blog hosts a number of articles delving deeper in to particular parts of the lore and insights into the staff and community. Down the line we are planning on opening the possibility for folks in the community to write their own thoughts to put on the blog, so stay tuned on the [community Discord](http://discord.humandomestication.guide/) if you might be interested in that!
 
+
 > [!QUESTION]
 > TODO - Is there a way we can have these automatically populate like the 3 latest blog posts, potentially even just with the same formatting as the blog home?
-#### The Human Domestication Guide Guide
-Exciting things coming down the line for the HDG website!
-[[005-HDG-Guide|Read More >]]
-#### The Canon is Dead, Long Live the Canon
-Changes to the Lorets' approach to the curation of the HDG setting.
-[[004-the-canon-is-dead|Read More >]]
-#### A New Flag
-A diegetic look at the history of the flag of the Terran Accord.
-[[003-a-new-flag|Read More >]]
+
+### The Human Domestication Guide Guide
+Exciting things coming down the line for the HDG website!<br>[[005-HDG-Guide|Read More >]]
+### The Canon is Dead, Long Live the Canon
+Changes to the Lorets' approach to the curation of the HDG setting.<br>[[004-the-canon-is-dead|Read More >]]
+### A New Flag
+A diegetic look at the history of the flag of the Terran Accord.<br>[[003-a-new-flag|Read More >]]

@@ -7,7 +7,7 @@ description: tbd
 params:
   decoration: meta
   sidebar:
-    exclude: false
+    exclude: true
 ---
 ## Under Construction!
 The Lorets and the rest of the folks working on the Guide are working hard on getting everything up and into tip-top shape, but we haven't reached here yet!
