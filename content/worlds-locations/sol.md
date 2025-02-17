@@ -4,6 +4,10 @@ date: 2024-11-05T00:00:00+00:00
 authors: tbd
 draft: false
 description: tbd
+params:
+  decoration: meta
+  sidebar:
+    exclude: false
 ---
 ## Under Construction!
 The Lorets and the rest of the folks working on the Guide are working hard on getting everything up and into tip-top shape, but we haven't reached here yet!
