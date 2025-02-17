@@ -86,9 +86,8 @@ to the `hugo.yaml` file. This will add the link persistently on every page. The 
 To hide a page from the sidebar, you must add 
 ```yaml
 params:
-  decoration: meta
   sidebar:
-    exclude: false
+    exclude: true
 ```
 to the frontmatter of the page.
 
