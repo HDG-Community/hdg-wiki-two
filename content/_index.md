@@ -29,4 +29,3 @@ Right now, we are soft-launching the site to creators in the community, which wh
 - [[xenodrugs|Xenodrugs]] - The many fantastical drugs the affini use in their domestication of xenosophonts.
 ## HDG Blog
 In addition to the site's main articles, the HDG blog hosts a number of articles delving deeper in to particular parts of the lore and insights into the staff and community. Down the line we are planning on opening the possibility for folks in the community to write their own thoughts to put on the blog, so stay tuned on the [community Discord](http://discord.humandomestication.guide/) if you might be interested in that!
-
