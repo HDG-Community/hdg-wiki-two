@@ -6,6 +6,10 @@ draft: false
 description: A glossary of terms relating to the HDG setting and community.
 weight: 19
 ---
+
+On this page you can find a wide variety of terms used in their setting and their definitions. Need a term defined that you can't find on here? Let us know over on the [Community Discord](http://discord.humandomestication.guide/)!
+
+Terms followed by (meta) are purely out-of-universe terms used by the community and don't hold the same meaning within the world of HDG.
 ### A
 - **Accord** - [[terran-accord|Terran Accord]] (see below).
 - **Affini** - Species of large, xenophilic, plant-like beings who created the Affini Compact. See [[affini|Affini]].
@@ -32,6 +36,7 @@ weight: 19
 - **Companionism** - Ideology among xenosophonts supporting the affini's care for themselves and the universe. The opposite of feralism.
 - **Compiler** - Atomic compiler (see above).
 - **Connivent** - Two or more florets who share an owner. See [[florets-domestication|Florets & Domestication]].
+- **Coordinator** - Specialist who maintains a wide web of contacts and intimate knowledge of local bureaucratic offices in order to provide services to ease the functions of the Compact's bureaucracy. These services can range from helping individuals navigate the systems to find the office for their needs to resolving inter-office disputes and facilitating inter-office collaboration to overseeing large projects as part of a committee of coordinators, such as the domestication of a planet or the construction of a new city.
 - **Coordinator** (meta) - Small team of Lorets who direct the content and operations of the HDG Guide (the site you're on). See [[hdg-staff|Staff & Guide Contributors]]. 
 - **Core** (affini) - Highly durable central organ of an affini housing all of their necessary cognitive and bodily functions.
 - **Core Cuddles** - Act of directly cuddling an affini's core, greatly increasing the sophont's exposure to the affini's biorhythm and often leaves the sophont in a blissed, dazed state, even for a time after the cuddling has ceased.
@@ -66,7 +71,8 @@ weight: 19
 - **Free Terranism** - Terran supremacist ideology resisting the Compact’s control over terran space.
 - **Frost** - Affini curse.
 ### G
-- **Gardener** (meta) - Community members who assist the Clerks with the day-to-day moderation and operations of the [HDG Community Server](http://discord.humandomestication.guide/). See [[hdg-staff|Staff & Guide Contributors]]. 
+- **Gardener** (meta) - Community members who assist the Clerks with the day-to-day moderation and operations of the [HDG Community Server](http://discord.humandomestication.guide/). See [[hdg-staff|Staff & Guide Contributors]].
+- **Gesture Training** - Common practice of training florets to respond to taps, gestures, or another nonverbal cues to aid in their caregiving for purposes such as dressing and eating.
 ### H
 - **Habitation Ring** / Hab Ring - Rotating ring as part of a spaceship or space station used to simulate gravity in microgravity environments. See both [[affini-ships|Affini Ships]] and [[terran-ships|Terran Ships]].
 - **Habitation Unit** / Hab - Home for a sophont or sophonts, such as a house or apartment.
@@ -99,6 +105,8 @@ weight: 19
 - **Mothtaur** - Moth-like centuar sophonts domesticated some time prior to humanity. See [[sophont-species|Sophont Species]].
 ### N
 - **Nascent Feralism Pollarding Office** / NFPO - Bureaucratic office concerned with large-scale mitigation of feralist leanings in a recently domesticated population. See [[compact-bureaucracy|Compact Bureaucracy]].
+- **Nothoculture** - Translation of an Affini term, meaning "the particular hybridization of Compact culture with that of a given xenosphont species necessary for them to achieve maximum happiness." Determining the ideal nothoculture for a species is part of every cotyledon program, though the process usually lasts for some decades post-domestication as experimentation continues to fine-tune the optimum cultural parameters for a given xenosphont species.
+- **Notice of Intent to Domesticate** / Notice of Intent - One of a number of similar bureaucratic forms an affini can file expressing interest in another sophont, which can range in severity from a general expression of interest of being in consideration as an owner if the sophont is ever domesticated to a statement of "I am domesticated this sophont; do not get in my way."
 - **Nutrient Water** - Mineralized Water (see above).
 - **Nyrina** - The homeworld of the Rinans, annexed by the Terran Accord decades prior to the arrival of the Affini. See [[rinans|Rinans]].
 ### O
@@ -124,6 +132,7 @@ weight: 19
 - **Rules** (meta) - Hard guidelines for creating in the setting instated for out-of-universe reasons for the sake of community safety. See [[writing-in-hdg|Writing in HDG]].
 ### S
 - **Seed** - Someone who hasn’t figured out they desire to be a floret yet.
+- **Sniffles Ward** - Medical facility whose primary purpose is med-kink and related kink activities, because sometimes it's really nice to just let yourself be sick for a little bit and be doted on.
 - **Soft Lore** (meta) - Areas of the setting's lore which are intentionally left open for author interpretation, within general guidelines for how they integrate with the rest of the setting. See [[writing-in-hdg|Writing in HDG]].
 - **Sol** - Star of the human homeworld of Terra. See [[sol|Sol]].
 - **Sol System** - The human home star system. See [[sol|Sol]].
@@ -141,6 +150,7 @@ weight: 19
 - **Terran Pacification Program** - Domestication campaign against the Terran Accord.
 - **Terran Protectorate** - Terran government established by the Affini Compact after the end of the Terran Pacification Program.
 - **Triangulum Galaxy** - Home galaxy of the affini. The third largest galaxy in the [Local Group](https://en.wikipedia.org/wiki/Local_Group). See [[worlds-locations|Worlds & Locations]].
+- **Twin Protectorates** - Informal name for the Rinan and Terran Protectorates, who share a reasonable amount of overlap in their bureaucracies due to their proximity.
 ### U
 - **Universal Domestication** - Ideology of the affini encompassing their goal to spread the Compact to all corners of the universe and bring each and every xenosophont under their care. See [[florets-domestication|Florets & Domestication]].
 - **Universe Ascension** - Event taking place in around three hundred millennia, at which point the Affini will recreate the universe to be free of scarcity, violence, coercion, oppression, death, and entropy. See [*For a Better Universe*](https://archiveofourown.org/works/47826115/chapters/120569920).
