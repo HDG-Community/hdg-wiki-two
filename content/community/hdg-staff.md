@@ -1,5 +1,5 @@
 ---
-title: Staff & Guide Contributors
+title: HDG Staff
 date: 2024-11-18T00:00:00+00:00
 authors: The Coordinators
 draft: false
@@ -24,29 +24,6 @@ The **Lorets** are the setting's guides and curators, maintaining the [[writing-
 The **Clerks** are the team who are in charge of the operations of the community server, helping manage its hundreds of users active every day and keeping it a lovely space for folks to discuss the setting and the stories within. They handle the high-level policy decisions like the rules and channel layouts, as well as a variety of general moderation responsibilities.
 
 Finally, the most recent team to join the staff are the **Gardeners**, who assist the Clerks in the day-to-day moderation and management of the server. They are the backbone of keeping the Community Server a safe and vibrant place for the the community.
-### Guide Credits
-**Coordinators**  
-anna//bool  
-skoof!  
-teagan
-
-**Guide Artists**  
-GlitchyRobo  
-lise-lemonade  
-Promilie  
-Rae  
-Sheepwave  
-teagan
-
-**Guide Writers**  
-The Lorets  
-Darkfalli  
-Stimulacrum
-
-**Special Thanks**  
-The early writers who created the original wiki from which the Guide is based.
-
-The many, many authors, artists, and other creatives who have brought the Human Domestication Guide setting to life and have shaped what it has become over the past few years.
 
 ### The HDG Team
 {{< aside staff_amberoth "Amberoth's profile picture." >}}
@@ -192,19 +169,9 @@ she/her, they/them, it/its
 
 Leafstone has been a part of the HDG community since its early days, and is often found on the discord server helping out and answering questions.
 
-<br><hr>
 
-{{< aside staff_lexi "Lex'i's profile picture." >}}
-    Profile by teagan.
-{{< /aside >}}
-**Lex'i / ResolutelyQuixotic**  
-Loret  
-fae/faer  
-[AO3](https://archiveofourown.org/users/ResolutelyQuixotic/pseuds/ResolutelyQuixotic)
 
-Lex’i was introduced to hdg at the tail end of 2022, and immediately felt seen by it in ways she never had before. She has grown less active and stepped down as a clerk as the community has shifted and changed, but can still often be found writing long and carefully crafted explanations about the setting when a question catches her interest, and is always excited to share the joy of writing.
-
-<br><hr>
+<br><br><hr>
 
 {{< aside staff_lise "Lise's profile picture." >}}
     Profile by herself.
