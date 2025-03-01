@@ -316,15 +316,6 @@ hr, h2 {
   color:rgb(var(--hdg-text-light-sec))
 }
 
-
-/* Quoteblocks Text Light */
-.content :where(p):not(:where([class~=not-prose],
-[class~=not-prose] *)):first-child {
-  margin-top:0;
-  color: rgb(var(--hdg-text-light-sec))
-}
-
-
 /* Overwrite Tailwind-Defined Colours*/
 /*************************************/
 /* DARK THEME */
@@ -408,18 +399,12 @@ hr, h2 {
 
 
 /* Quoteblocks Dark */
-.content :is(html[class~=dark] *):where(p):not(:where([class~=not-prose],
-[class~=not-prose] *)):first-child {
-  margin-top:0;
-  color: rgb(var(--hdg-text-dark-sec));
-}
-
 .content :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)):is(html[class~="dark"] *) {
   --tw-border-opacity: 1;
   border-color: rgb(var(--hdg-text-dark-sec));
+  color: var(--hdg-text-dark-pri)
   
 }
-
 
 /* Custom Blockquote Styling */
 /*****************************/ 
@@ -488,6 +473,7 @@ blockquote {
 .quoteContent {
 margin-right:1rem;
 padding-bottom: 0.5rem;
+color: var(--hdg-text-light-pri);
 }
 
 .quote-Header{
