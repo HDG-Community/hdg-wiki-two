@@ -10,7 +10,7 @@ Params:
 weight: 9
 
 ---
-_Not to be confused with the shapeshifting planet aliens themselves, the [[affini|Affini]]._
+_Not to be confused with the shapeshifting plant aliens themselves, the [[affini|Affini]]._
 
 (TODO - opening quote)
 

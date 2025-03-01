@@ -1,10 +1,9 @@
 ---
-title: Writing Articles for the HDG Guide
+title: Article Formatting
 date: 2024-11-05T00:00:00+00:00
 authors: skoof
 draft: false
-description: How to contribute to this website, including formatting information! 
-weight: 10
+description: Formatting for writing articles in the guide.
 params:
   decoration: meta
   icon: pen
@@ -15,7 +14,7 @@ Our site is based on Markdown, specifically the [Common Mark](https://spec.commo
 
 The basic formatting is as follows: 
 
-Headings are denoted with a `#` chracter. So, an H1 (heading level one) is `#`, an H2 is `##`, an H3 is `###` and so-on until H6 (which is just too many headings, some would argue!)
+Headings are denoted with a `#` character. So, an H1 (heading level one) is `#`, an H2 is `##`, an H3 is `###` and so-on until H6 (which is just too many headings, some would argue!)
 
 **Bold,** *italicized* and ~~strikethrough~~ text is achieved using `** double asterisks**`,`_underscores (or *single asterisks*)_`, and ``~~tildes~~`` respectively. 
 

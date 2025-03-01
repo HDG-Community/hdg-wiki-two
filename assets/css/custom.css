@@ -668,3 +668,12 @@ background-color: rgba(var(--hdg-bg-light-sec));
 background-color: rgba(var(--hdg-clerkyellow));
   border-radius: 12px;
   }
+.hdg-home-blogs:is(html[class~=dark] *) {
+  background-color: rgba(var(--hdg-bg-dark-sec));
+  border-radius: 12px;
+}
+      
+.hdg-home-blogs:hover:is(html[class~=dark] *) {
+  background-color: rgba(var(--hdg-pinnatepurple));
+  border-radius: 12px;
+}
