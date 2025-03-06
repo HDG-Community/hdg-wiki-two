@@ -46,10 +46,6 @@ Terrans have a powerful packbonding instinct, known to them as anthropomorphism,
 (go over culture and general state of terrans of the 2550s)
 (for history just do something real quick and simple and link to the timeline article)
 ### The Terran Accord
-{{< aside john_terra_promilie "Digital illustration of a male terran in a scifi military uniform holding a smoking gun." >}}
-    John Terra, hero of the Accord and champion of the Cosmic Navy.
-    Art by Promilie.
-{{< /aside >}}
 _Main Article: [[terran-accord|Terran Accord]]_
 
 (TODO - short section leading into the Terran Accord article.)

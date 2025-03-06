@@ -17,3 +17,9 @@ For more information on the HDG Site Rework, check out [[005-HDG-Guide|this blog
 {{< image under_construction_promilie "An illustration of a terran, rinan, and khetari in hard hats and high-vis vests. The terran and rinan are looking at a blueprint while the khetari is carrying a steel beam." inline >}}
     Art by Promilie.
 {{< /image >}}
+
+
+{{< aside john_terra_promilie "Digital illustration of a male terran in a scifi military uniform holding a smoking gun." >}}
+    John Terra, hero of the Accord and champion of the Cosmic Navy.
+    Art by Promilie.
+{{< /aside >}}

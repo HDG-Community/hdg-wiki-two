@@ -5,6 +5,8 @@ authors: The Coordinators
 draft: false
 description: A glossary of terms relating to the HDG setting and community.
 weight: 19
+params:
+  decoration: meta
 ---
 
 On this page you can find a wide variety of terms used in their setting and their definitions. Need a term defined that you can't find on here? Let us know over on the [Community Discord](http://discord.humandomestication.guide/)!

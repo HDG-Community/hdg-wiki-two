@@ -41,9 +41,10 @@ A _wardship_ is essentially a temporary domestication; an affini takes charge of
 
 Involuntary domestications may also happen directly, without the wardship pipeline. This is most common early on in domestication campaigns, when some xenosophont species choose to resist domestication when the Affini arrive. However, even after cultural domestication, a xenosophont who resorts to violence (especially against affini, and _especially_ especially against florets!) will often be summarily domesticated. Other feral behaviors, such as spreading anti-Affini propaganda or attempting to subvert organs of bureaucracy, may have the same result. The conditions for when xenosophonts can be summarily domesticated are spelled out in that xenosophont's relevant Domestication Treaty. 
 ### Domestication Contracts
-The Affini are culturally obsessed with bureaucracy and paperwork, so it should come as no surprise that one of the central features of taking a floret involves a contract spelling out in exact terms what the relationship between the floret and their owner will be. While each contract is unique and lovingly drawn up by a floret-to-be's affini, there are several standard terms that virtually all such contracts contain. This example is drawn from chapter 7 of [_Human Domestication Guide_](https://archiveofourown.org/works/45190954/chapters/134224312). 
+The Affini are culturally obsessed with bureaucracy and paperwork, so it should come as no surprise that one of the central features of taking a floret involves a contract spelling out in exact terms what the relationship between the floret and their owner will be. While each contract is unique and lovingly drawn up by a floret-to-be's affini, there are several standard terms that virtually all such contracts contain. This example is drawn from chapter 7 of [_Human Domestication Guide_](https://archiveofourown.org/works/45190954/chapters/134224312): 
 
 > [!QUOTATION]
+> <br><br>
 > - Above all else, you, \[floret's first name here\], must obey your Guardian, \[Affini name here\] in all things. This is for your safety, wellbeing, and care. 
 > - Your Guardian, \[Affini name here\], owns you. You are her property. You do not have political rights in the Affini Compact. 
 > - You do have a guarantee of your wellbeing, as defined in § 57 of the Human Domestication Treaty. 
