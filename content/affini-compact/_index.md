@@ -92,10 +92,10 @@ The Affini fleet is the ever-advancing vine of domestication, thousands upon tho
 ### Survey Fleets
 The forerunners of domestication, survey fleets are small detachments based around a single command ship (for which the Fleet is generally named, such as _Survey Fleet Telonema_). A survey fleet's job is to venture out into unexplored space, looking for new sophont cultures in need of domestication. Once they locate one, standard practice is to report it to other fleets, who can converge and begin the process of cotyledon selection; however, circumstances often result in a survey fleet beginning that process themselves, typically through rescue of an injured or lost sophont. 
 ### Domestication Armadas
-< aside ship_capture_lise "Digital illustration of an affini and her floret on the viewing deck of an affini ship, the floret excitingly pointing at the Terran ship outside in the process of being grappled with the ship's capture vines." >
+{{< aside ship_capture_lise "Digital illustration of an affini and her floret on the viewing deck of an affini ship, the floret excitingly pointing at the Terran ship outside in the process of being grappled with the ship's capture vines." >}}
     Making sure all the cuties stay safe onboard the feral Ceres-class stay nice and safe.
     Art by lise-lemonade.
-< /aside >
+{{< /aside >}}
 
 The Affini do not take domestication lightly, and they leave nothing to chance. When a new sophont culture is discovered, ships will gather from across kiloparsecs and even further. They study the new species through cotyledons, learn everything they can of their culture and needs, and when they have what they need and a sufficiency of affini have gathered, contact is made. If overwhelming force is necessary, they bring it to bear; otherwise, the gathered armada happily engages directly in the work of improving the lives of the locals and bringing them into the Compact as a Protectorate. 
 
