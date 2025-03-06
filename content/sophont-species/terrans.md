@@ -42,9 +42,26 @@ Ancestral terrans clad themselves in animal skins and furs to protect themselves
 ### Bonding
 Terrans have a powerful packbonding instinct, known to them as anthropomorphism, which leads them to project human thoughts, emotions and characteristics on not only other sophonts, but also non-sapient animals and even inanimate objects. This instinct, combined with their natural pattern-recognition behavior, means that terrans will quickly form strong emotional attachments to just about anything by virtue of their natural neurology, where most xenosophonts would require external bonding enhancers. Affini owners are therefore advised to be conservative in their use of class-C xenodrugs on Terrans.
 ## Culture & History
-(TODO)
-(go over culture and general state of terrans of the 2550s)
-(for history just do something real quick and simple and link to the timeline article)
+For much of their history, Terrans lived in small, semi-nomadic bands largely organized along familial lines; however, about 12,500 BD, Terrans began a transition to sedentary, agricultural-based organization. This tendency spread out from several centers of activity concurrently, eventually overtaking the entirety of Terra. 
+
+Roughly 750 years BD, Terrans began to radically alter their environment due to mass adoption of industrialized production without sufficient safety protocols, leading to successive blights, climate change, and eventually mass extinctions and broader ecological collapse. This provided a strong motivation for Terrans to expand into neighboring star systems in the Orion Spur using rudimentary hypermetric displacement engines. 
+
+Terran culture is a veritable cornucopia of diverse ways of life, some rooted in deep traditions, some derived from adaptation to new and challenging conditions. Paradoxically, Terran pack-bonding instincts can also result in a very strong in-group/out-group division; consequently, Terrans in large numbers have a tendency to split and form new groups. Across Terran history, there have been numerous styles of governance, spanning the range from mutualistic to authoritarian. 
+
+Beginning roughly concurrently with the development of industry (c. 700 BD), Terran culture increasingly fell under the sway of a toxic meme-complex known as **capitalism**. The Terran variant of this meme was highly contagious and encouraged anti-social hoarding behavior that allowed a handful of individuals to amass tremendous amounts of **wealth**, which they then used to distort public policy. This generated tremendous selection pressure for vertically-stratified and highly centralized authoritarian modes of government, which are easier for small groups to control. 
+
+> [!AFFINI]
+> (Capitalism is a Type IV cognitohazard; if you want more information on it, please ask a qualified archivist for safe introductory materials. If you think you may have been infected by this meme-complex, please ask the nearest Affini for help.
+
+Between c. 600 and 70 BD, several hegemonic powers successively rose to dominate first Terra, then Terran space, each collapsing in turn due to inescapable contradictions imposed by capitalism. The latest variant, the Terran Accord, was established at the end of this period, and endured until it was formally disbanded during domestication. 
+
+Just prior to domestication, Terrans were living in a region of space roughly one-thousand light years across. Without access to reliable faster-than-light communications beyond directly conveying data with a starship equipped with a hypermetric displacement engine, outlying Terran settlements often experienced rapid cultural drift. However, virtually all were still carrying the capitalism meme-complex, and the vast majority were tied into a system of economic extraction that funneled resources and power to an increasingly powerful stratum of society at the expense of all others. The average Terran, just prior to domestication, experienced dangerous levels of stress, unhappiness, lack of fulfillment, social atomization, and inadequate or no access to health care. Most considered the acquisition of material wealth to be their primary purpose in life, or at the very least a necessary priority to ameliorate the problems caused by capitalism itself. 
+
+More information on Terran history is available [[timeline|here]]. 
+
+> [!AFFINI]
+> Due to Terran development and overuse of generative large language model algorithms, the pool of historical documentation for the period roughly including 500-100 years BD is poisoned with hallucinatory data. The Bureau of Neoxenoveterinary Archeobureaucracy is currently engaged in an intensive effort to identify accurate documentation of the historical record!
+
 ### The Terran Accord
 _Main Article: [[terran-accord|Terran Accord]]_
 
