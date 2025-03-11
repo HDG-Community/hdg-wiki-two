@@ -51,7 +51,7 @@ body:is(html[class~=dark] *) {
 
 .dark\:hx-bg-dark:is(html[class~=dark] *) {
   --tw-bg-opacity:1;
-  background-color:#(1d1b1b/var(--tw-bg-opacity))
+  background-color:#1d1b1b
 }
 
 .dark\:hx-shadow-\[0_-12px_16px_\#111\]:is(html[class~=dark] *) {
