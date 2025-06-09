@@ -1,0 +1,13 @@
+{{- $author := .author }}
+{{- $lazyLoading := .lazy | default true }}
+{{- with $image := $author.image }}
+  {{- $isLocal := not (urls.Parse $image).Scheme -}}
+  {{- if $isLocal }}
+    {{- $path := strings.TrimPrefix "/" $image }}
+    {{- with resources.Get $path }}
+      <img src="{{ .RelPermalink }}" alt="{{ $author.name }}" class="hx-inline-block hx-h-7 hx-w-7 hx-rounded-full" {{ if $lazyLoading }}loading="lazy"{{ end }} />
+    {{ end }}
+  {{ else }}
+    <img src="{{ $image | safeURL }}" alt="{{ $author.name }}" class="hx-inline-block hx-h-7 hx-w-7 hx-rounded-full" {{ if $lazyLoading }}loading="lazy"{{ end }} />
+  {{ end }}
+{{ end }}

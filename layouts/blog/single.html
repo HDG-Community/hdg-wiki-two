@@ -19,14 +19,7 @@
                   class="hx-group hx-inline-flex hx-items-center hx-text-current hx-gap-x-1.5 hx-mx-1"
                   {{ with $author.name }}title="{{ . }}"{{ end }}
                 >
-                  {{- with $image := $author.image }}
-                    {{- $isLocal := not (urls.Parse $image).Scheme -}}
-                    {{- $startsWithSlash := hasPrefix $image "/" -}}
-                    {{- if and $isLocal $startsWithSlash }}
-                      {{- $image = (relURL (strings.TrimPrefix "/" $image)) -}}
-                    {{ end -}}
-                    <img src="{{ $image | safeURL }}" alt="{{ $author.name }}" class="hx-inline-block hx-h-4 hx-w-4 hx-rounded-full" {{ if $lazyLoading }}loading="lazy"{{ end }} />
-                  {{ end -}}
+                  {{ partial "author-image.html" (dict "author" $author "lazy" $lazyLoading) }}
                   <div class="group-hover:hx-underline">{{ $author.name }}</div>
                 </a>
               {{- else -}}
