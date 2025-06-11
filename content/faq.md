@@ -15,7 +15,7 @@ weight: 10
 
 HDG is not always the most straightforward of things at times, and the Lorets have received a great many questions we've strived to answer for folks over the past few years. This article is a compilation of many of the most common we receive, especially from newcomers to the setting.
 
-If you can't find the answers you are seeking here, you can check out the rest of the Guide, as many articles have more topical FAQs on their respective pages. If you still have inquires, you can always head on over to the [HDG Community Server](http://discord.humandomestication.guide/) and ask the Lorets over in the setting questions channel.
+If you can't find the answers you are seeking here, you can check out the rest of the Guide, as many articles have more topical FAQs on their respective pages. If you still have inquires, you can always head on over to the [HDG Community Server](https://discord.gg/WgssQ6SR4q) and ask the Lorets over in the setting questions channel.
 
 (TODO - A lot of these questions are missing answers - if you wanna write up a response for one, ping me with it and I'll add it on here. I tried to make the ones which still need answering by having them start with @)
 ## General Setting

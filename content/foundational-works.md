@@ -85,7 +85,7 @@ SapphicSounds - [Archive of Our Own](https://archiveofourown.org/works/47826115/
 
 *For a Better Universe* took a contemplative look at the Affini, the society that they created, and the passage of time through the eyes of a single affini. It conveyed the ultimate utopian goal of the Compact, asked and answered the question of what does “the Affini always win” mean on a cosmic timescale, and showed how the Affini interact with the broader universe, even long after Terran Pacification.
 ## Beyond the Foundation
-If you still have questions about the setting, you can [join the community discord](http://discord.humandomestication.guide/) and ask the Lorets who are happy to help folks understand the setting we’ve built together. If you’re looking for more things to read, the community there can also point you to many more of the fantastic works in the setting.
+If you still have questions about the setting, you can [join the community discord](https://discord.gg/WgssQ6SR4q) and ask the Lorets who are happy to help folks understand the setting we’ve built together. If you’re looking for more things to read, the community there can also point you to many more of the fantastic works in the setting.
 
 To find further works in the setting, the bulk of stories nowadays can be found on [Archive of Our Own](https://archiveofourown.org/tags/Human%20Domestication%20Guide%20-%20GlitchyRobo/works). Many early works can also be found where the setting started over on [ReadOnlyMind](https://readonlymind.com/search/?q=%23Human_Domestication_Guide), although it should be noted that as of early 2023, the site is no longer accepting new works in setting.
 

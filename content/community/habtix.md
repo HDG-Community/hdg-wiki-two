@@ -5,7 +5,7 @@ authors: The Clerks
 draft: false
 description: Information on use of the ticketing system on the HDG community server.
 ---
-_This article covers information regarding the [HDG Community Server](http://discord.humandomestication.guide/)._
+_This article covers information regarding the [HDG Community Server](https://discord.gg/WgssQ6SR4q)._
 ## HabTix Bot for Discord
 We're using an implementation of [Eartharoid's Discord Tickets Bot](https://github.com/discord-tickets/bot) to create private channels between server members and the Clerks/Gardeners. 
 ### Workflow for members creating a ticket: 
