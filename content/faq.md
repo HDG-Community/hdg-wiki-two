@@ -19,16 +19,20 @@ If you can't find the answers you are seeking here, you can check out the rest o
 
 (TODO - A lot of these questions are missing answers - if you wanna write up a response for one, ping me with it and I'll add it on here. I tried to make the ones which still need answering by having them start with @)
 ## General Setting
-### @Human Domestication Guide? What's that?
-(TODO)
+### Human Domestication Guide? What's that?
+Human Domestication Guide is a collaborative storytelling setting based on the original story "Human Domestication Guide" by GlitchyRobo. Stories in this setting typically revolve around a human being taken as a pet (called a floret) by a species of hyper-advanced alien conquerers, the Affini, whose self-assigned mission is to domesticate and care for every living sophont (thinking) being in the universe. The Lore is typically fairly loose, and stories don't often interact directly with one another; we're fond of saying "It's a big Local Group!" and that there's room for everyone's story to blossom in its own way, with its own approach to the central core concepts of Human Domestication Guide. 
 ### Why does every story seem to end with domestication?
 Because it's hot.
 
 No, seriously, that's it. This is a kink setting and we think it's hot. That's why you don't see too many stories where the independent stays independent, and why the ones where that does happen are usually comedic — they're basically the community poking gentle fun at itself.
-### @Why aren't there any stories where the terran wins?!
-(TODO)
+### Why aren't there any stories where the terran wins?!
+Again, because it's hot. 
+
+You'll hear this cited elsewhere, but one of the Axioms of the setting, the unbreakable foundational underpinnings that makes HDG what it is, is that the Affini are inevitable. "We never stood a chance" isn't just a running gag, it's kind of the point. HDG isn't bog-standard sci-fi about the plucky underdog humans fighting off the evil space empire; it's about what happens after the horny space empire wins. Terrans can "win" individual encounters in the sense that they can get away, but this is typically just the Affini allowing them to do so because it's safer (or hotter) to capture them later. 
 ### Why do so many sophonts become florets? Where are all the independents?
-(TODO)
+Say it with me: because it's hot. 
+
+In this case, it's an artifact of what most folks writing in HDG are interested in, namely, humans getting turned into cute pets by sexy alien plants. The actual number of humans who are domesticated is actually somewhere between 25-40%; the majority of humans are independents, off living their best lives in the post-scarcity utopia that's been handed to them! Florets occupy a central role in Human Domestication Guide in the same way that, while the vast majority of people in the Star Wars universe aren't Force users, Jedi keep showing up and being central to almost every story, because lightsaber duels are cool. 
 ## Creating HDG
 {{< aside flort_lap_lise "Digital illustration of a terran floret sitting on her affini's lap, looking up adoringly while her affini plays with her hair." >}}
     Art by lise lemonade.
@@ -52,12 +56,20 @@ Science fiction is a vast genre with a great many hallmark and iconic features, 
 Generally speaking, if anyone has a given technology in the setting, the Affini have it too - if it's possible, they've either developed it or otherwise have proof-of-concepts under development across the Compact. This means that technologies and other features which aren't yet present in the setting don't have a lot of room to be added (for example, if the Affini came across a species with supernatural powers, that would have wide-reaching consequences on the setting as it would not take the Affini long before they engineered themselves to also tap into those powers).
 
 Be sure to also check out the [[affini-tech|Affini Technology]] and [[terran-tech|Terran Technology]] articles for more details on both the general feel of the technologies in the setting as well as information on specific techs.
-### @Artificial Gravity
-(TODO)
-(spinny fake-gravity, yes. artificial actual gravity, in development, but a whiles away. you're not gonna get star trek grav plating for multiple reasons.)
-### @FTL
-(TODO)
-(include both the types they *do* have, as well as the things that don't exist like warp drive)
+### Artificial Gravity
+Artificial gravity essentially doesn't exist in the setting. This is to say, there isn't a magic button you can press on starships to make things fall in an arbitrarily assigned 'down' direction. The Compact is likely working on technology like this, but it's not really practical for use, especially at the frontier (i.e., Terran space). 
+
+What most Affini ships (and some Terran ships!) do, instead, is maintain *spin gravity.* By having a ring-shaped section of a ship spin, objects and sophonts on the inside of that ring are pressed against the inside of the ring by inertia, sometimes called centrifugal force. You can see this in movies like *2001: A Space Odyssey*. Terran gravity drums are usually fairly small and unable to maintain normal Earth gravity (because if the ring is too small, your inner ear can tell you're moving, and this will cause nausea). Affini ships, by contrast, have rings that are kilometers across, and contain everything from parks to cities to large bodies of water; if you want a rough visual reference, think of them like O'Neill Cylinder habitats. 
+
+If you've seen or read *The Expanse*, you're likely thinking 'Why not just burn for gravity?' And it's true, you can absolutely do that — but Terran ships don't have the ability to arbitrarily burn for long durations, as they use nuclear salt water reactors rather than the fictional (and hilariously non-physics-compliant) Epstein drive, and therefore need to be judicious about fuel use. 
+### FTL
+Faster-than-light travel exists, utilizing a parallel/subdimension referred to as hyperspace or (perhaps somewhat confusingly, given the subject matter of the setting) subspace. Within hyperspace, physics operate differently than they do in normal space; most relevant to our purposes, time does not pass in the same manner, so objects that enter hyperspace can cross more or less arbitrary distances more or less instantaneously. This is sometimes referred to, especially by Terrans, as a "jump." 
+
+Terran ships access hyperspace by allowing a mass of strange matter to rise above a certain (extremely low; think absolute zero) temperature threshold, causing it to decay and release a tremendous amount of energy. Since energy is equivalent to mass as far as space-time is concerned, this has the effect of punching a hole in the spacetime metric (the 'fabric' of spacetime), through which the ship "falls." Terran ships pass through hyperspace on a ballistic trajectory, retaining their inertia and vector; in *Portal* terms, speedy thing goes in, speedy thing comes out. As long as this trajectory is sufficiently energetic, the ship will "punch through" the spacetime metric and reemerge in normal space at more or less their desired coordinates. Terrans don't really understand hyperspace on a theoretical level, only how to abuse it on a practical level; as such, they sometimes "miss" their desired destination, sometimes by a short distance, sometimes by a long distance. Sometimes, the ballistic arc is insufficiently energetic, and the ship "bounces" through hyperspace like a stone skipping on a pond, either to never re-emerge or to re-emerge when they encounter a region of space-time with a weak enough metric that they *can* punch through. Strange matter is extremely volatile and uncontrolled decay can easily destroy an entire ship; jump drive accidents are among the worst possible outcomes aboard a Terran ship. 
+
+The Affini, who actually understand the theoretical basis of how hyperspace operates as well as the fifth fundamental force, are able to utilize hyperspace in a much more controlled way. Their ships actually permanently exist both in normal space and in hyperspace; they use this, via a traction engine, to propel the ship in normal space. (To a Terran, this looks like a reactionless drive, but it's not a true reactionless drive because it's just "pushing" against space-time.) Affini hyperspace jumps are surgically precise and do a minimum of damage to the spacetime metric; in addition, Affini ships are able to maneuver while in hyperspace, allowing them to arbitrarily alter vector and inertia upon reentry to normal space. 
+
+So far, no species utilizing another kind of faster-than-light technology has been encountered; "warp drive," for example, is not a thing in HDG (and good thing, too; there's a decent chance any warp drive would generate a horrific cosmic ray front that would irradiate everything in front of it!). 
 ### @Mechs
 (TODO)
 ### @Psionics / Supernatural Powers
