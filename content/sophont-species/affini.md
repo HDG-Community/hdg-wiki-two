@@ -7,7 +7,7 @@ description: Powerful shapeshifting plant xenos and the self-appointed caretaker
 ---
 (TODO - opening quote)
 
-(TODO - opening summary)
+The Affini are an ancient species, having been spacefaring for around 100,000 years. Native to the Triangulum galaxy, they co-evolved with the [beeple], the first species they domesticated. Once they turned their sight to the stars and discovered other sophonts waiting there for them, it was a foregone conclusion as far as they were concerned that those sophonts needed their help too. Since then, the Affini have spread across the Local Group, integrating Andromeda and its myriad satellite galaxies into the Affini Compact. Now, they're working on the Milky Way. Don't run, little flower. You'll be happier this way. 
 ### Quick Info 
 **Homeworld:** Unknown  
 **Home System**: The Core Worlds (Triangulum Galaxy)  
@@ -17,8 +17,9 @@ description: Powerful shapeshifting plant xenos and the self-appointed caretaker
 **Lifespan:** Potentially infinite; reblooms every 100-300 years on average  
 **Domesticated:** Occasionally
 
-**Names:** Highly variable; typically drawn from local terminology for flora
-(TODO - more in-depth info on names in terran space)
+**Names:** Highly variable; typically drawn from local terminology for flora. In Terran space, this usually involves taking aspects of a Latin binomial name for a plant or plants and adjusting as necessary to make a name with a pleasing sound to the Terran ear. Sometimes, other names for plants, such as local colloquial names, are used. Examples include Tsuga Sequi (for *tsuga,* a genus of hemlock pine trees and "sequi" for *sequoiadendron giganteum*, the giant redwood), TODOexample&description, TODOexample&description.
+
+Of course, some Affini are just named things like "Steve." That's fine too. 
 ## Appearance & Physiology
 Affini are a morphologically-variable species of sophont plant-analogue organisms. They are heavily engineered and bear little resemblance, if any, to their ancestral form (discussed below); a modern affini is essentially a **phytotech** (plant-tech) cyborg consisting of a central core surrounded by vines, bark, and other foliage, all of which can be controlled and reshaped by the affini at any time. As a result, affini are functionally shapeshifters, able to remodel themselves however they wish. In practice, they often use this ability to mimic whatever sophont species they are interacting with, though some affini find a shape they particularly like and stick with it regardless of the local [[sophont-species|sophont]] population. 
 
