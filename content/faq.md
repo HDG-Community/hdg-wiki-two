@@ -71,11 +71,18 @@ The Affini, who actually understand the theoretical basis of how hyperspace oper
 
 So far, no species utilizing another kind of faster-than-light technology has been encountered; "warp drive," for example, is not a thing in HDG (and good thing, too; there's a decent chance any warp drive would generate a horrific cosmic ray front that would irradiate everything in front of it!). 
 ### @Mechs
-(TODO)
+In mecha media, mechs are essentially there to distill the experience of war to a comprehensible level; the mech becomes, in the viewer's eyes, the representative for the pilot, and instead of two faceless masses of soldiers or war machines squaring off, you have what is functionally a joust between two knights, which is much more emotionally comprehensible and therefore better for storytelling purposes. 
+
+Mechs are generally not seen in HDG, for the simple reason that, logistically and technically speaking, putting together anything that even vaguely resembles the kinds of mecha seen in, say, Armored Core, Gundam, etc is impractical to impossible. This is for reasons of battery technology, drive motor efficiency, and just plain Giving Your Tank Knees Is A Bad Idea. There is a reason we don't try to build mechs IRL, and it's because generally speaking wheels and/or treads are a far more robust means of transportation for a walking armored gun. It's possible that a quadrillionaire who really really likes Gundam might try to make mecha happen, but it would be a functionally useless boondoggle that would be lucky to produce something out of Patlabor or Gasaraki. Essentially, in additional to Super Robot and Real Robot, I would like to propose that you consider the third category of Actual Physics Robot; that's what the Accord can build.
 ### @Psionics / Supernatural Powers
-(TODO)
-(including direct mind control/mind reading without technology to facilitate it)
-### @Time Travel
-(TODO)
+Psionics and supernatural powers do not exist in the Human Domestication Guide setting. Affini may *seem* psychic sometimes, but they aren't. Technology can replicate some such powers (for example, using a cortical modem to text someone with your brain is functionally telepathy), but no one has that kind of innate superpower. 
+
+If you want to play with supernatural/non-existent weirdness, we humbly suggest an AU centered around it that takes into account all the various knock-on effects that such powers would have on human society, similar to Alfred Bester's *The Stars My Destination*, in which human society was permanently warped by the development of personal teleportation.
+### Time Travel
+Time travel is impossible, except when it isn't. 
+
+For clarity: there are several unique topological conditions in spacetime that, according to relativity, might potentially result in time travel. It's not like hopping into your DeLorean and hitting 88 miles per hour, though; it's more like *Primer*, wherein through bizarre spacetime shenanigans you return to the point of your origin in a closed timeline loop or something similar. Generally speaking, however, you cannot "go back" and alter the past, because that would violate causality, and if causality is violated, spacetime as we know it no longer makes sense according to tested principles. For simplicity's sake, therefore, we suggest avoiding time travel into the past as a plot device altogether. It's a bit of a headache. 
+
+If you want to travel into the *future*, though, that's a lot easier: just go very, very fast. This will cause time dilation, meaning time will pass slower for you than for an observer (i.e., the rest of the universe). You can also do this with a jump drive accident; hyperspace shenanigans are a good excuse for all manner of spacetime weirdness. 
 ## Article Credit
 These and the many FAQs around the site are written and maintained by the Lorets.
