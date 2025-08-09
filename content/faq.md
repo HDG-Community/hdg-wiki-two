@@ -20,7 +20,11 @@ If you can't find the answers you are seeking here, you can check out the rest o
 (TODO - A lot of these questions are missing answers - if you wanna write up a response for one, ping me with it and I'll add it on here. I tried to make the ones which still need answering by having them start with @)
 ## General Setting
 ### Human Domestication Guide? What's that?
-Human Domestication Guide is a collaborative storytelling setting based on the original story "Human Domestication Guide" by GlitchyRobo. Stories in this setting typically revolve around a human being taken as a pet (called a floret) by a species of hyper-advanced alien conquerers, the Affini, whose self-assigned mission is to domesticate and care for every living sophont (thinking) being in the universe. The Lore is typically fairly loose, and stories don't often interact directly with one another; we're fond of saying "It's a big Local Group!" and that there's room for everyone's story to blossom in its own way, with its own approach to the central core concepts of Human Domestication Guide. 
+Human Domestication Guide is a collaborative kink storytelling setting based on the original story "Human Domestication Guide" by GlitchyRobo. Stories in this setting typically revolve around a human being taken as a pet (called a floret) by a species of hyper-advanced alien conquerers, the Affini, whose self-assigned mission is to care for every living sophont (thinking) being in the universe; they call this "domestication," a word that shared with the process of turning a specific sophont being into an Affini's pet. The Lore is typically fairly loose, and stories don't often interact directly with one another; we're fond of saying "It's a big Local Group!" and that there's room for everyone's story to blossom in its own way, with its own approach to the central core concepts of Human Domestication Guide. 
+
+As a setting, HDG centers trans and disabled experiences, with heavy themes of queerness, loss of autonomy, power dynamics like petplay and caregiver/little, and kinks including mind control, hypnosis, intoxication, and especially non-consent. 
+
+That, of course, is a very short description that leaves out a great deal for the sake of brevity; Human Domestication Guide is much more than the sub of its parts, and the best way to understand the setting is to read the stories. 
 ### Why does every story seem to end with domestication?
 Because it's hot.
 
