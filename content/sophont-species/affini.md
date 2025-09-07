@@ -5,7 +5,9 @@ authors: Kanagen
 draft: false
 description: Powerful shapeshifting plant xenos and the self-appointed caretakers of all sophont life.
 ---
-(TODO - opening quote)
+>[!QUOTATION]
+>_“They can’t save everyone. They know they can’t. Even being careful like this isn’t a perfect solution. But they will always try to save everyone. There are no acceptable losses. As soon as they set a goal less than a hundred percent, their rounding error is worth trillions of lives. They have to make it their goal to save everyone. Every single one they lose is a whole lifetime they couldn’t bring joy to. It’s the greatest horror they can imagine.”_
+{title="" cite="https://archiveofourown.org/works/67105741/chapters/174492911" caption="- _No Fate But What They Make_, EldritchAmy}
 
 The Affini are an ancient species, having been spacefaring for around 100,000 years. Native to the Triangulum galaxy, they co-evolved with the [beeple], the first species they domesticated. Once they turned their sight to the stars and discovered other sophonts waiting there for them, it was a foregone conclusion as far as they were concerned that those sophonts needed their help too. Since then, the Affini have spread across the Local Group, integrating Andromeda and its myriad satellite galaxies into the Affini Compact. Now, they're working on the Milky Way. Don't run, little flower. You'll be happier this way. 
 ### Quick Info 
@@ -17,7 +19,7 @@ The Affini are an ancient species, having been spacefaring for around 100,000 ye
 **Lifespan:** Potentially infinite; reblooms every 100-300 years on average  
 **Domesticated:** Occasionally
 
-**Names:** Highly variable; typically drawn from local terminology for flora. In Terran space, this usually involves taking aspects of a Latin binomial name for a plant or plants and adjusting as necessary to make a name with a pleasing sound to the Terran ear. Sometimes, other names for plants, such as local colloquial names, are used. Examples include Tsuga Sequi (for *tsuga,* a genus of hemlock pine trees and "sequi" for *sequoiadendron giganteum*, the giant redwood), TODOexample&description, TODOexample&description.
+**Names:** Highly variable; typically drawn from local terminology for flora. In Terran space, this usually involves taking aspects of a Latin binomial name for a plant or plants and adjusting as necessary to make a name with a pleasing sound to the Terran ear. Sometimes, other names for plants, such as local colloquial names, are used. For example, Tsuga Sequi (for *tsuga,* a genus of hemlock pine trees and "sequi" for *sequoiadendron giganteum*, the giant redwood).
 
 Of course, some Affini are just named things like "Steve." That's fine too. 
 ## Appearance & Physiology
