@@ -51,7 +51,7 @@ Terran culture is a veritable cornucopia of diverse ways of life, some rooted in
 Beginning roughly concurrently with the development of industry (c. 700 BD), Terran culture increasingly fell under the sway of a toxic meme-complex known as **capitalism**. The Terran variant of this meme was highly contagious and encouraged anti-social hoarding behavior that allowed a handful of individuals to amass tremendous amounts of **wealth**, which they then used to distort public policy. This generated tremendous selection pressure for vertically-stratified and highly centralized authoritarian modes of government, which are easier for small groups to control. 
 
 > [!AFFINI]
-> (Capitalism is a Type IV cognitohazard; if you want more information on it, please ask a qualified archivist for safe introductory materials. If you think you may have been infected by this meme-complex, please ask the nearest Affini for help.
+> Capitalism is a Type IV cognitohazard; if you want more information on it, please ask a qualified archivist for safe introductory materials. If you think you may have been infected by this meme-complex, please ask the nearest Affini for help.
 
 Between c. 600 and 70 BD, several hegemonic powers successively rose to dominate first Terra, then Terran space, each collapsing in turn due to inescapable contradictions imposed by capitalism. The latest variant, the Terran Accord, was established at the end of this period, and endured until it was formally disbanded during domestication. 
 
@@ -65,15 +65,16 @@ More information on Terran history is available [[timeline|here]].
 ### The Terran Accord
 _Main Article: [[terran-accord|Terran Accord]]_
 
-(TODO - short section leading into the Terran Accord article.)
-(include here the cultural and political reasons for terran vs. humans)
+The Terran Accord is the most recent (and final) iteration of human self-government. Reaching up to 500 light years away from the homeworld, a small rocky planet orbiting a yellow main-sequence star called Sol, this government projected power through military force, capitalist expansion, and ruthless exploitation of its population.  Limited by the profit-driven nature of its economy, the Accord never developed beyond primitive applications of strange matter, and never fully understood the nature of hyperspace. This minor polity therefore proved relatively simple for the Affini to domesticate.
+
+While many terrans accept the demonym, its adoption as a term is actually fairly recent, and was not uncontroversial. Many populations throughout the Terrand Accord, particularly those who were opposed to the cultural hegemony of the core worlds and its anthrochavinistic outlook on the universe, prefer the older term, "human," so both terms are in common use. While they are generally interchangable, some members of the species will object to being referred to as "terran!"  
+
 ### Domestication
-(TODO - quick rundown of the terran domestication campaign, will eventually be a lead-in for the dedicated article on that)
-## Frequently Asked Questions
-**When does a character use "Terran" and when do you use "Human"?**
-(TODO)
+The Terran Domestication Campaign, as all domestication campaigns do, began with the _Terran Cotyledon Program_, an intensive three-year process of locating isolated terrans or populations of terrans in distress and providing rescue and treatment for them. Through experimentation, the Affini learned how to adapt their phytotech implants to terran tissue, culminating in perfecting the terran version of the haustoric implant, the spinal graft that enables individual domestication. Between the Terran years of 2548 and 2551, many cotyledons were taken, experimented upon, and deeply loved by their Affini, while the Affini learned everything there was to know about terrans. 
+
+> [!LORET] Due to the pivotal nature of the Terran Cotyledon Program, one of the restrictions we ask members of the community to abide by is to avoid making sweeping or exclusive statements about the program; in other words, please don't try to write an absolute first contact story, or lay out a way that cotyledon programs _must_ proceed. The aim here is to make sure that what lore we have, which is fairly loose and easy to fit stories into, remains that way so others can follow in our footsteps! This doesn't mean you can't write about cotyledons — there are many cotyledons in HDG stories — but please don't try to write the _definitive_ cotyledon story. 
+
 ## Related Articles
-(TODO formatting)
-- Terran Accord
+- [terran-accord|Terran Accord]
 ## Article Credit
 Appearance & Physiology section by Promilie.
