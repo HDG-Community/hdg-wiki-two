@@ -91,7 +91,7 @@ Time travel is impossible, except when it isn't.
 For clarity: there are several unique topological conditions in spacetime that, according to relativity, might potentially result in time travel. It's not like hopping into your DeLorean and hitting 88 miles per hour, though; it's more like *Primer*, wherein through bizarre spacetime shenanigans you return to the point of your origin in a closed timeline loop or something similar. Generally speaking, however, you cannot "go back" and alter the past, because that would violate causality, and if causality is violated, spacetime as we know it no longer makes sense according to tested principles. For simplicity's sake, therefore, we suggest avoiding time travel into the past as a plot device altogether. It's a bit of a headache. 
 
 If you want to travel into the *future*, though, that's a lot easier: just go very, very fast. This will cause time dilation, meaning time will pass slower for you than for an observer (i.e., the rest of the universe). You can also do this with a jump drive accident; hyperspace shenanigans are a good excuse for all manner of spacetime weirdness. 
-## @Questions About the Axioms
+## Questions About the Axioms
 ### What about evil Affini? Can Affini be the sinister villains of my story?
 Affini are axiomatically benevolent. That means they are well-meaning and kindly. Affini care about the well-being of others. Because of that, they cannot be truly maliciously evil. But this is a non-con petplay and mind control setting. We’re not going to tell you they can’t take on antagonistic roles in someone’s journey. An affini can absolutely appear villainous to someone until they get with the program. Think “the villain was right all along” cosmic horror narratives.
 As for sadistic behaviors, one does not need to be malicious to be sadistic. Many affini can and do enjoy the thrill of hunting down a scared feral so they can find their forever home, engage in acts of pain play for floret enrichment, deliver villainous monologues, alter their pets in a myriad of ways without consent and more. The key is that they are doing these things for a sophont’s long term wellbeing.
@@ -109,17 +109,31 @@ Nope. They would be domesticated and become an adorable pet to the affini. There
 
 Yes, even that one. No exceptions.
 ## @Questions About Florets 
-- What if an Affini with a floret dies?
-- Can a terran have an Affini floret?
-- What would an Affini do if a terran had a very specific phobia?
-- Would a floret or Independent be allowed to use weapons / fight / gamble recreationally?
-- Would a floret ever be allowed to engage with [violent /capitalist/gritty] media?
-- What about animal pets?
-- I don’t want to be a floret though?
-- Is the haustoric implant required?
-- Do florets have to wear a collar?
-- Can a floret live forever?
-- What if two Affini disagree on how to take care of a sophont?
+### What if an Affini with a floret dies?
+Affini are effectively immortal, reblooming to heal every few centuries. The simple answer is that an affini would not put themself in a position to receive the kind of harm necessary to die while they have a floret in their care.
+If they did die, there are a number of contingencies that could be used ensure they are cared for, from backup digitized affini consciousnesses to new owners adding a sample to the implant.
+But the most important answer is the out-of-universe one. “Why would a setting with a disability and caretaking narrative ever need to show such a thing occurring?” The answer is, it probably wouldn’t. All that to say it’s not off limits, but we don’t recommend touching it without extreme care.
+### Can a terran have an Affini floret?
+No, because the capacity to care for and own a floret is an intrinsically affini quality. Someone must be an affini to own a floret. As a fun and sexy game for enrichment purposes an affini could temporarily roleplay and pretend to be a floret with a Terran though!
+### What would an Affini do if a terran had a very specific phobia?
+That depends on what kind of story you want to tell! If it was a phobia that could be accommodated without contributing negatively to the terrans well-being, for example a fear of scorpions, the affini could simply ensure that the terran was not exposed to the phobia. Alternately, they could simply use the resources at their disposal to get rid of the phobia entirely.
+### Would a floret or Independent be allowed to use weapons / fight / gamble recreationally?
+Under Compact supervision and with creative twists to remove the feralist elements, most behaviors can still be engaged in. For example: Guns can shoot harmless rounds with a side of hypnotics to make them seem real. Florets can fight with extra strong bodies that have quick recovery times. And of course, future-florets can gamble away their independence.
+###
+The restriction of access to media is entirely dictated by their owner. If an affini felt it was appropriate for a floret to access something, they could. The only reason they don’t in some stories is because it’s hot.
+### What about animal pets?
+Sophonts (sentient lifeforms) can absolutely take non-sophont animals as pets as long as an affini has no concerns. Rest assured, puppygirls can take care of dogs and catgirls are allowed to supervise their pet fish in the Affini Compact.
+### I don’t want to be a floret though?
+You don’t need to be. HDG is a fictional setting and you are under no obligation to read it or to write a self-insert character as a floret. In fact, some of the most prolific authors in the setting write from a primarily dominant perspective, seeing themselves reflected more in the actions of the affini than in the actions of the florets.
+### Is the haustoric implant required?
+If someone is a floret, yes. A haustoric implant is required. The implant is the cutting edge of affini medicine. It allows for the monitoring of the floret, extends their lifespan, ensures they do not go into biorhythmic withdrawal, and supports in their care in a thousand little ways. 
+More than that, it represents the absolute promise that the floret will always be loved and cared for. It is biologically impossible to abandon an implanted floret. For the above reasons, it would be cruel and un-benevolent to deprive a floret from having an implant.
+### Do florets have to wear a collar?
+No! It is a common social practice and marker that denotes a status of ownership, but it is not required in the same way as an implant.
+### Can a floret live forever?
+As a default, the simple answer is no. In practice, it’s a bit more complicated. A floret can become digitized, and if that happens they no longer have a body to decay. They are effectively immortal. There are also other side-tangents that approach the topic from different angles; The bioimmortal AU where florets don’t die, and the post-ascension universe in the distant future where everyone comes back.
+### What if two Affini disagree on how to take care of a sophont?
+They work it out! How they resolve the conflict is up to the author. Affini understand each other to be well-meaning, so if a disagreement does pop-up they have many possible approaches for peaceful resolution.
 ## @Questions About Affini 
 - What is Affini adolescence like?
 - How old is an old Affini / what age are Affini considered ‘of age’?
