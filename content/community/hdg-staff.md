@@ -18,9 +18,6 @@ Each member of the HDG staff is part of one (or more) of the three groups which 
 
 The **Lorets** are the setting's guides and curators, maintaining the [[writing-in-hdg|guidelines and lore]] which make HDG what it is. They also are responsible for projects such as this site to help creatives write and create art in the setting, as well as hanging out on the community server answering folks' questions and pointing them to stories which may pique their interest.
 
-> [!LORET]
-> The **Coordinators** are a small team of Lorets created to facilitate the transition from the old HDG Wiki to the new HDG Guide (the site you're on right now!). They are responsible for keeping the operations of the site running, as well as directing and organizing the guide's artists, writers, and other contributors for the creation and expansion of the content on the Guide.
-
 The **Clerks** are the team who are in charge of the operations of the community server, helping manage its hundreds of users active every day and keeping it a lovely space for folks to discuss the setting and the stories within. They handle the high-level policy decisions like the rules and channel layouts, as well as a variety of general moderation responsibilities.
 
 Finally, the most recent team to join the staff are the **Gardeners**, who assist the Clerks in the day-to-day moderation and management of the server. They are the backbone of keeping the Community Server a safe and vibrant place for the the community.
@@ -46,18 +43,6 @@ she/her, they/them, it/its
 [AO3](https://archiveofourown.org/users/Houp_kom_slakgedakru/works)
 
 Shortly after discovering HDG in early 2021, Amee realized that we loved this setting so much that she wanted to contribute. So she decided to write [_Germination_](https://archiveofourown.org/works/35972959/), and she haven't stopped. She really enjoys creating xenodruggies, medical procedures, and answering questions about said medical things. And useless lesbians. Those are fun too.
-
-<br><hr>
-
-{{< aside staff_annabool "annabool's profile picture." >}}
-    Profile by lise-lemonade.
-{{< /aside >}}
-**anna//bool**  
-Loret, Coordinator  
-she/her, it/its  
-[AO3](https://archiveofourown.org/users/annabool/pseuds/annabool)
-
-Wiki-sceptic yet helps run a wiki; fandom-averse yet accidentally helped build a fandom. Helplessly verbose chronic worldbuilder who was trying to write for a smaller audience this time around and failed. Hates writing her own bios, yet here she is.
 
 <br><hr>
 
@@ -139,7 +124,7 @@ UFO has been part of the HDG community since its earliest months, reading and wr
     Profile by herself.
 {{< /aside >}}
 **GlitchyRobo**  
-Loret, Guide Artist, Community Gardener  
+Creator of HDG   
 she/her  
 [AO3](https://archiveofourown.org/users/GlitchyRobo/) | [Tumblr](https://www.tumblr.com/glitchyrobo)
 
@@ -270,7 +255,7 @@ selene is a recovering programmer, musician, and gamedev enthusiast. She first d
     Profile by teagan.
 {{< /aside >}}
 **skoof!**  
-Clerk, Coordinator, Loret  
+Clerk, Loret  
 she/her  
 [AO3](https://archiveofourown.org/users/floof_likes_plants/pseuds/floof_likes_plants) | [Site](https://skoof.ca/)
 
@@ -300,17 +285,6 @@ it/its, she/her
 
 Stormy is an academic puppy poet who first discovered HDG in early 2022 and has doggedly followed its growth since. She is best known for her multimedia works such as [*Comet’s Tail*](https://archiveofourown.org/works/54742123), being helpful on the discord server, and her totally normal feelings around plommies.
 
-<br><hr>
-
-{{< aside staff_teagan "teagan's profile picture." >}}
-    Profile by itself.
-{{< /aside >}}
-**teagan**  
-Loret, Coordinator, Guide Artist  
-it/its, she/her  
-[AO3](https://archiveofourown.org/users/teagan_the_doll/) | [Tumblr](https://www.tumblr.com/teagan-the-doll)
-
-teagan is the main organizer of the content of this site - if a word is in the Guide, it’s gone through teagan’s desk. It has been reading since the original story showed up on ROM and is most known for its work as a Loret and its romance novel [_Courtship_](https://archiveofourown.org/works/48043465/).
 
 <br><hr>
 
