@@ -14,7 +14,7 @@ Right now, we are soft-launching the site to creators in the community, which wh
 ## What is HDG?
 
 > [!QUESTION]
-> TODO - Give a brief overview, will probably link to the Community Page and like the foundational works page, and probably that new article Kana wrote about explaining the setting to normies.
+> Human Domestication Guide is a community storytelling project, inspired by GlitchyRobo's [original work of the same name](https://archiveofourown.org/works/45190954/chapters/113686849). As stated above, this is a kink-centered writing project that plays with themes of non/dubious consent, disability, queerness, and many kinks often considered edgeplay. As such, we wish to emphasize that **HDG is not for everyone**, and that is okay; there's no shame in not being into something! If you'd like to know more, consider checking out the [[community|Community]] page. 
 ## Useful Articles
 - [[community|Community]] - Information on the HDG community.
 - [[foundational-works|Foundational Works]] - A selection of seven early works which provide a solid base understanding of the setting.
