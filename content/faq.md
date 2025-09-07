@@ -11,7 +11,8 @@ weight: 10
 {{< aside faq_rinan_rae "Digital illustration of a rinan, a squirrel-like alien, wearing glasses and holding a book while standing on top of precariously stacked other books." >}}
     Art by Rae.
 {{< /aside >}}
-(TODO - opening quote)
+
+[!QUOTATION] "Chloë, you've accepted some understandable but incorrect ideas about who we are. We are the affini compact, and our goal is to bring abundance to all sophonts everywhere. We took you in because you were being hurt. That's over now." - The Place Where We Can Stop Running" {title="" cite="[https://archiveofourown.org/works/58402522]" caption="- Dame Harmony's _The Place Where We Can Stop Running_"}
 
 HDG is not always the most straightforward of things at times, and the Lorets have received a great many questions we've strived to answer for folks over the past few years. This article is a compilation of many of the most common we receive, especially from newcomers to the setting.
 
