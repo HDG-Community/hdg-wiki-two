@@ -14,7 +14,8 @@ Right now, we are soft-launching the site to creators in the community, which wh
 ## What is HDG?
 
 > [!QUESTION]
-> Human Domestication Guide is a community storytelling project, inspired by GlitchyRobo's [original work of the same name](https://archiveofourown.org/works/45190954/chapters/113686849). As stated above, this is a kink-centered writing project that plays with themes of non/dubious consent, disability, queerness, and many kinks often considered edgeplay. As such, we wish to emphasize that **HDG is not for everyone**, and that is okay; there's no shame in not being into something! If you'd like to know more, consider checking out the [[community|Community]] page. 
+> Human Domestication Guide is a kink storytelling setting, inspired by GlitchyRobo's [original work of the same name](https://archiveofourown.org/works/45190954/chapters/113686849), that centers non-con, queer, and disability narratives. The core premise of HDG is that a species of hyper-advanced aliens, whose self-assigned mission is to care for everyone in the universe, have conquered humanity and is claiming them as pets through a process known as "domestication." If you'd like to know more, check out the articles below! 
+
 ## Useful Articles
 - [[community|Community]] - Information on the HDG community.
 - [[foundational-works|Foundational Works]] - A selection of seven early works which provide a solid base understanding of the setting.
