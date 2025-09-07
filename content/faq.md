@@ -92,11 +92,22 @@ For clarity: there are several unique topological conditions in spacetime that, 
 
 If you want to travel into the *future*, though, that's a lot easier: just go very, very fast. This will cause time dilation, meaning time will pass slower for you than for an observer (i.e., the rest of the universe). You can also do this with a jump drive accident; hyperspace shenanigans are a good excuse for all manner of spacetime weirdness. 
 ## @Questions About the Axioms
-- What about evil Affini?
-- What in-universe structures are stopping Affini from abusing their floret?
-- Can this plot device / weapon / loophole defeat the Affini?
-- What if the Affini met a stronger / more advanced civilization?
-- Can my OG xenosophont and/or special franchise character outwit / escape / beat the Affini?
+### What about evil Affini? Can Affini be the sinister villains of my story?
+Affini are axiomatically benevolent. That means they are well-meaning and kindly. Affini care about the well-being of others. Because of that, they cannot be truly maliciously evil. But this is a non-con petplay and mind control setting. We’re not going to tell you they can’t take on antagonistic roles in someone’s journey. An affini can absolutely appear villainous to someone until they get with the program. Think “the villain was right all along” cosmic horror narratives.
+As for sadistic behaviors, one does not need to be malicious to be sadistic. Many affini can and do enjoy the thrill of hunting down a scared feral so they can find their forever home, engage in acts of pain play for floret enrichment, deliver villainous monologues, alter their pets in a myriad of ways without consent and more. The key is that they are doing these things for a sophont’s long term wellbeing.
+### What in-universe structures are stopping Affini from abusing their floret?
+Affini are simply never going to willfully and genuinely abuse a floret. This setting is founded on a disability narrative that places the affini in the position of cosmic caretakers who ensure that nobody is going to slip through the cracks. To write a story where an affini willfully abuses a floret would violate that core concept. 
+
+But let’s say that an affini is struggling with the care of their floret and requires support to ensure all needs are met. In that circumstance, every resource in the compact would turn to support them. Other affini would step up as co-caretakers. The local community would rally to their aid. Structures, formal and informal would ensure that every need was met.
+### Can this plot device / weapon / loophole defeat the Affini?
+No. Minor or individual setbacks can occur over the course of a plot, but on a collective level, the affini are inevitable. They wear an invincible plot armor. They cannot be defeated.
+### What if the Affini met a stronger / more advanced civilization?
+What if the Affini met a stronger / more advanced civilization?
+They would be domesticated and make for adorable pets. Yes, even that one, whichever civilization you just thought of.
+### Can my OG xenosophont and/or special franchise character outwit / escape / beat the Affini?
+Nope. They would be domesticated and become an adorable pet to the affini. There is no such thing as powerscaling against the affini compact, and this is why we generally discourage true crossovers (in addition to the whole “this is a non-con setting and you don’t want a superhero fan to stumble upon queer non-con smut.”)
+
+Yes, even that one. No exceptions.
 ## @Questions About Florets 
 - What if an Affini with a floret dies?
 - Can a terran have an Affini floret?
