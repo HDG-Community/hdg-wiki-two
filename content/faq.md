@@ -108,7 +108,7 @@ They would be domesticated and make for adorable pets. Yes, even that one, which
 Nope. They would be domesticated and become an adorable pet to the affini. There is no such thing as powerscaling against the affini compact, and this is why we generally discourage true crossovers (in addition to the whole “this is a non-con setting and you don’t want a superhero fan to stumble upon queer non-con smut.”)
 
 Yes, even that one. No exceptions.
-## @Questions About Florets 
+## Questions About Florets 
 ### What if an Affini with a floret dies?
 Affini are effectively immortal, reblooming to heal every few centuries. The simple answer is that an affini would not put themself in a position to receive the kind of harm necessary to die while they have a floret in their care.
 If they did die, there are a number of contingencies that could be used ensure they are cared for, from backup digitized affini consciousnesses to new owners adding a sample to the implant.
@@ -134,14 +134,25 @@ No! It is a common social practice and marker that denotes a status of ownership
 As a default, the simple answer is no. In practice, it’s a bit more complicated. A floret can become digitized, and if that happens they no longer have a body to decay. They are effectively immortal. There are also other side-tangents that approach the topic from different angles; The bioimmortal AU where florets don’t die, and the post-ascension universe in the distant future where everyone comes back.
 ### What if two Affini disagree on how to take care of a sophont?
 They work it out! How they resolve the conflict is up to the author. Affini understand each other to be well-meaning, so if a disagreement does pop-up they have many possible approaches for peaceful resolution.
-## @Questions About Affini 
-- What is Affini adolescence like?
-- How old is an old Affini / what age are Affini considered ‘of age’?
-- How long is an average bloom?
-- Can someone become an Affini?
-- What does it take to kill an Affini?
-- What is the code for Affini eye color?
-- What naming conventions are used for Affini?
+## Questions About Affini 
+### What is Affini adolescence like?
+Affini experience a 0th bloom after being uplifted, but the details of what that looks like are kept deliberately vague for the same reason that all depictions of childhood within the Affini Compact are avoided. For more details check out [writing-in-hdg|Writing in HDG] and [001-children-and-cgl.md|On Children, Age Regression, and CG/L Dynamics].
+### How old is an old Affini / what age are Affini considered ‘of age’?
+An affini is considered to be an adult once it has entered its first bloom. However, they also require training and preparation to take a floret, and this would consume decades at the beginning of the bloom. We tend to call these youngblooms! 
+On the other end of the spectrum you have Oldblooms. Prone to esoteric domestications, eldritch conceptions of self and elaborate meticulous schemes, oldblooms are typically at most 80-100 thousand years old. That would trace their lineage all the way back to the core worlds and make them many hundreds of blooms old.
+### How long is an average bloom?
+Affini rebloom every 200-300 years on average, though this could be dragged out longer with wilting or happen much sooner in the event of an early rebloom.
+### Can someone become an Affini?
+Yes, but actually no, but yes. It’s complicated. The act of becoming an affini, something we call affinification, is theoretically possible. It is also an extremely rare, physically arduous journey and, for out of universe reasons, a very tricky topic to do justice. See the affinification post for more information<link to post>
+### What does it take to kill an Affini?
+A near insurmountable level of damage. If an affini were to die, it would almost always be because they have chosen to die. To give you a sense of scale, affini have been depicted as surviving sonic mine blasts, jump drive explosions, crash landings from space, grenades to the core, and more all without dying, sometimes with a rebloom.
+More importantly though, the Affini represent the immortal cosmic caretakers in our disability narrative. They’re protected by the inevitability axiom and things start to fall apart if they’re depicted in stories as being at risk of death. 
+After all, the kinds of stories we’re telling aren’t typically drawn out sci-fi military incursions where humanity could prevail at any moment. They’re kinky intimate narratives where the affini clean sweep and spend much of the runtime turning the protagonist into a human pet.
+### What is the code for Affini eye color?
+There is no code or lore for affini eye color, feel free to go wild and choose anything you like! Some stories have depicted individual affini as having eyes that change color based on their emotion, but there’s nothing standardized.
+### What naming conventions are used for Affini?
+Prettyword Plantname, nth bloom is the common, conventional way to construct an affini's name. Some use binomial latin names as inspiration for both the first and second; some use existing names that happen to be botanical already; some use different names entirely! 
+A very standard name would be something like Digitalis Lutea, third bloom (Wellness Check). "Digitalis" is the genus that includes foxgloves, and "lutea" is a word that has been applied to some willows, but is also a latin word derived from the word for 'yellow' and in plural, refers to a variance of shades of colour! Also note that by convention, 'third bloom' is usually not capitalized, though this is not always the case: it would be perfectly fine to capitalize the bloom count!
 ## @Questions About Domestication
 What if a person was genuinely better off not domesticated?
 What if a society was genuinely better off not domesticated?
