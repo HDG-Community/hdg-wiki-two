@@ -145,7 +145,7 @@ Affini rebloom every 200-300 years on average, though this could be dragged out 
 ### Can someone become an Affini?
 Yes, but actually no, but yes. It’s complicated. The act of becoming an affini, something we call affinification, is theoretically possible. It is also an extremely rare, physically arduous journey and, for out of universe reasons, a very tricky topic to do justice. See the affinification post for more information<link to post>
 ### What does it take to kill an Affini?
-A near insurmountable level of damage. If an affini were to die, it would almost always be because they have chosen to die. To give you a sense of scale, affini have been depicted as surviving sonic mine blasts, jump drive explosions, crash landings from space, grenades to the core, and more all without dying, sometimes with a rebloom.
+A near insurmountable level of damage. If an affini were to die, it would almost always be because they have chosen to die. To give you a sense of scale, affini have been depicted as surviving sonic mine blasts, jump drive explosions, crash landings from space, grenades to the core, and other equally dangerous scenarios (needing, at most, a rebloom to address the damage).
 More importantly though, the Affini represent the immortal cosmic caretakers in our disability narrative. They’re protected by the inevitability axiom and things start to fall apart if they’re depicted in stories as being at risk of death. 
 After all, the kinds of stories we’re telling aren’t typically drawn out sci-fi military incursions where humanity could prevail at any moment. They’re kinky intimate narratives where the affini clean sweep and spend much of the runtime turning the protagonist into a human pet.
 ### What is the code for Affini eye color?
