@@ -2,7 +2,7 @@
 title: Solstice
 date: 2024-11-05T00:00:00+00:00
 authors: Kanagen
-draft: true
+draft: false
 description: tbd
 params:
   decoration: meta
