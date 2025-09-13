@@ -75,6 +75,6 @@ The Terran Domestication Campaign, as all domestication campaigns do, began with
 > [!LORET] Due to the pivotal nature of the Terran Cotyledon Program, one of the restrictions we ask members of the community to abide by is to avoid making sweeping or exclusive statements about the program; in other words, please don't try to write an absolute first contact story, or lay out a way that cotyledon programs _must_ proceed. The aim here is to make sure that what lore we have, which is fairly loose and easy to fit stories into, remains that way so others can follow in our footsteps! This doesn't mean you can't write about cotyledons — there are many cotyledons in HDG stories — but please don't try to write the _definitive_ cotyledon story. 
 
 ## Related Articles
-- [terran-accord|Terran Accord]
+- [[terran-accord|Terran Accord]]
 ## Article Credit
 Appearance & Physiology section by Promilie.
