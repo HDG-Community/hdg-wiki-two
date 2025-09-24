@@ -1,6 +1,6 @@
 ---
 title: The Human Domestication Guide Guide
-date: 2024-11-03T00:00:00+00:00
+date: 2025-9-024T00:00:00+00:00
 tags:
   - blog
 authors: 
