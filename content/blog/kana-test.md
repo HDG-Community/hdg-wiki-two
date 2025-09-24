@@ -6,7 +6,7 @@ authors:
     - name: kanagen
       link: 
       image: /img/staff/staff_kanagen.png
-draft: false
+draft: true
 description: Kanaposting for testing Hugo (HUGO!)
 weight: 20
 params:

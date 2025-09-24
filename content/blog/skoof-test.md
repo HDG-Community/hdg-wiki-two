@@ -6,7 +6,7 @@ authors:
     - name: skoof!
       link: https://skoof.ca
       image: /img/doe_plush.png
-draft: false
+draft: true
 Params:
   decoration: meta
   sidebar:
