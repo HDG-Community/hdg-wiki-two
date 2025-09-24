@@ -2,7 +2,7 @@
 title: Article Formatting
 date: 2024-11-05T00:00:00+00:00
 authors: skoof
-draft: false
+draft: true
 description: Formatting for writing articles in the guide.
 params:
   decoration: meta

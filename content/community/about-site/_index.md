@@ -2,7 +2,7 @@
 title: About the HDG Guide
 date: 2024-10-30T00:00:00+00:00
 authors: The Coordinators
-draft: false
+draft: true
 description: Credits, attributions, and other information on the site.
 weight: 10
 params:

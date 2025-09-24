@@ -31,15 +31,14 @@ Terms followed by (meta) are purely out-of-universe terms used by the community 
 - **By the Everbloom** - Affini oath.
 ### C
 - **Clerk** - Specialist in the workings of the [[compact-bureaucracy|Compact's bureaucracy]]. A quite respected profession in affini society.
-- **Clerk** (meta) - Community members who lead the management of the [HDG Community Server](https://discord.gg/WgssQ6SR4q). See [[hdg-staff|Staff & Guide Contributors]].
+- **Clerk** (meta) - Community members who lead the management of the [HDG Community Server](https://discord.gg/WgssQ6SR4q).
 - **CNS** - Ship prefix for TCN ships, standing for "Cosmic Navy Ship."
 - **Comm Unit** - Handheld communication device, similar as a mobile phone.
 - **Compact** - Affini Compact (see above).
 - **Companionism** - Ideology among xenosophonts supporting the affini's care for themselves and the universe. The opposite of feralism.
 - **Compiler** - Atomic compiler (see above).
 - **Connivent** - Two or more florets who share an owner. See [[florets-domestication|Florets & Domestication]].
-- **Coordinator** - Specialist who maintains a wide web of contacts and intimate knowledge of local bureaucratic offices in order to provide services to ease the functions of the Compact's bureaucracy. These services can range from helping individuals navigate the systems to find the office for their needs to resolving inter-office disputes and facilitating inter-office collaboration to overseeing large projects as part of a committee of coordinators, such as the domestication of a planet or the construction of a new city.
-- **Coordinator** (meta) - Small team of Lorets who direct the content and operations of the HDG Guide (the site you're on). See [[hdg-staff|Staff & Guide Contributors]]. 
+- **Coordinator** - Specialist who maintains a wide web of contacts and intimate knowledge of local bureaucratic offices in order to provide services to ease the functions of the Compact's bureaucracy. These services can range from helping individuals navigate the systems to find the office for their needs to resolving inter-office disputes and facilitating inter-office collaboration to overseeing large projects as part of a committee of coordinators, such as the domestication of a planet or the construction of a new city. 
 - **Core** (affini) - Highly durable central organ of an affini housing all of their necessary cognitive and bodily functions.
 - **Core Cuddles** - Act of directly cuddling an affini's core, greatly increasing the sophont's exposure to the affini's biorhythm and often leaves the sophont in a blissed, dazed state, even for a time after the cuddling has ceased.
 - **Core Worlds** - The heart of the Compact, located in the Triangulum Galaxy, including the affini homeworld. See [[worlds-locations|Worlds & Locations]].
@@ -73,7 +72,7 @@ Terms followed by (meta) are purely out-of-universe terms used by the community 
 - **Free Terranism** - Terran supremacist ideology resisting the Compact’s control over terran space.
 - **Frost** - Affini curse.
 ### G
-- **Gardener** (meta) - Community members who assist the Clerks with the day-to-day moderation and operations of the [HDG Community Server](https://discord.gg/WgssQ6SR4q). See [[hdg-staff|Staff & Guide Contributors]].
+- **Gardener** (meta) - Community members who assist the Clerks with the day-to-day moderation and operations of the [HDG Community Server](https://discord.gg/WgssQ6SR4q).
 - **Gesture Training** - Common practice of training florets to respond to taps, gestures, or another nonverbal cues to aid in their caregiving for purposes such as dressing and eating.
 ### H
 - **Habitation Ring** / Hab Ring - Rotating ring as part of a spaceship or space station used to simulate gravity in microgravity environments. See both [[affini-ships|Affini Ships]] and [[terran-ships|Terran Ships]].
@@ -98,7 +97,7 @@ Terms followed by (meta) are purely out-of-universe terms used by the community 
 - **Little Sprout** - Sophont (often a floret) who regresses to behaviors and mindsets of younger members of their species, either temporarily or full-time. See [[001-children-and-cgl|"On Children, Age Regression, and CG/l Dynamics"]].
 - **Local Lore** (meta) - Corners of the setting's lore (most often [[sophont-species|xenosophont species]] and [[worlds-locations|locations]]) which are directly managed by a member of the community, usually its creator. See [[writing-in-hdg|Writing in HDG]].
 - **Lore** (meta) - In-universe elements of the setting shared between stories which make HDG recognizably itself. See [[writing-in-hdg|Writing in HDG]].
-- **Loret** (meta) - Group of creators who curate and direct the setting and assist the community in creating in the setting. See [[hdg-staff|Staff & Guide Contributors]].
+- **Loret** (meta) - Group of creators who curate and direct the setting and assist the community in creating in the setting.
 ### M
 - **Megacorp** - Large corporations which dominated Accord politics, exerting monopolies over markets and entire planets prior to human domestication.
 - **Milky Way** - Second largest galaxy in the [Local Group](https://en.wikipedia.org/wiki/Local_Group). The Affini first arrived here around the turn of the 21st century and its domestication is still ongoing. See [[worlds-locations|Worlds & Locations]].

@@ -2,7 +2,7 @@
 title: Editing the Guide
 date: 2024-11-05T00:00:00+00:00
 authors: skoof
-draft: false
+draft: true
 description: Workflow for pushing edits to the HDG Guide
 params:
   decoration: meta
