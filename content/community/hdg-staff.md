@@ -2,7 +2,7 @@
 title: HDG Staff
 date: 2024-11-18T00:00:00+00:00
 authors: The Coordinators
-draft: false
+draft: true
 description: The organizational structure of how the setting is managed and the folks behind it!
 ---
 > [!QUOTATION]
