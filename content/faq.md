@@ -136,7 +136,7 @@ As a default, the simple answer is no. In practice, it’s a bit more complicate
 They work it out! How they resolve the conflict is up to the author. Affini understand each other to be well-meaning, so if a disagreement does pop-up they have many possible approaches for peaceful resolution.
 ## Questions About Affini 
 ### What is Affini adolescence like?
-Affini experience a 0th bloom after being uplifted, but the details of what that looks like are kept deliberately vague for the same reason that all depictions of childhood within the Affini Compact are avoided. For more details check out [writing-in-hdg|Writing in HDG] and [001-children-and-cgl.md|On Children, Age Regression, and CG/L Dynamics].
+Affini experience a 0th bloom after being uplifted, but the details of what that looks like are kept deliberately vague for the same reason that all depictions of childhood within the Affini Compact are avoided. For more details check out [[writing-in-hdg|Writing in HDG]] and [[001-children-and-cgl.md|On Children, Age Regression, and CG/L Dynamics]].
 ### How old is an old Affini / what age are Affini considered ‘of age’?
 An affini is considered to be an adult once it has entered its first bloom. However, they also require training and preparation to take a floret, and this would consume decades at the beginning of the bloom. We tend to call these youngblooms! 
 On the other end of the spectrum you have Oldblooms. Prone to esoteric domestications, eldritch conceptions of self and elaborate meticulous schemes, oldblooms are typically at most 80-100 thousand years old. That would trace their lineage all the way back to the core worlds and make them many hundreds of blooms old.
