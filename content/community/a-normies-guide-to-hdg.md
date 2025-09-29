@@ -6,7 +6,6 @@ draft: false
 description: A short explanation for folks who Just Don't Get It (which is fine)
 weight: 11
 ---
-# A Normie's Guide to HDG 
 So you saw someone, somewhere, talking about Human Domestication Guide and, wondering what the hell it even is, wandered through the GenAI-infested dreck of the search engine of your choice until you found your way here. Or maybe you found your own way, surfing through stories on Archive of Our Own or ScribbleHub or elsewhere, with the same results. Either way, you're here, you're confused, you're maybe a little upset, and you have to know: 
 
 _"How the fuck are people getting off to this?!"_
