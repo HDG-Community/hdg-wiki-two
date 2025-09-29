@@ -7,7 +7,8 @@ description: Powerful shapeshifting plant xenos and the self-appointed caretaker
 ---
 >[!QUOTATION]
 >_“They can’t save everyone. They know they can’t. Even being careful like this isn’t a perfect solution. But they will always try to save everyone. There are no acceptable losses. As soon as they set a goal less than a hundred percent, their rounding error is worth trillions of lives. They have to make it their goal to save everyone. Every single one they lose is a whole lifetime they couldn’t bring joy to. It’s the greatest horror they can imagine.”_
-{title="" cite="https://archiveofourown.org/works/67105741/chapters/174492911" caption="- _No Fate But What They Make_, EldritchAmy}
+>
+>**EldritchAmy's _[No Fate But What They Make](https://archiveofourown.org/works/67105741/chapters/174492911)_, Chapter 3**
 
 The Affini are an ancient species, having been spacefaring for around 100,000 years. Native to the Triangulum galaxy, they co-evolved with the [beeple], the first species they domesticated. Once they turned their sight to the stars and discovered other sophonts waiting there for them, it was a foregone conclusion as far as they were concerned that those sophonts needed their help too. Since then, the Affini have spread across the Local Group, integrating Andromeda and its myriad satellite galaxies into the Affini Compact. Now, they're working on the Milky Way. Don't run, little flower. You'll be happier this way. 
 ### Quick Info 
