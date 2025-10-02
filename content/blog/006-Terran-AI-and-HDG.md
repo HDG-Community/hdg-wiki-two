@@ -5,8 +5,8 @@ tags:
     - blog
 authors:
     - name: TheMothCourt
-    link:
-    image: /img/staff/staff_themothcourt.png
+      link:
+      image: /img/staff/staff_themothcourt.png
 draft: true
 description: A deep dive into changes to our position on AI in the accord.
 Params:
