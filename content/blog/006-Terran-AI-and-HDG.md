@@ -1,16 +1,16 @@
 ---
 title: Terran AI and HDG
-date: 2025-09-30T00:00:00+00:00
+date: 2025-10-03T00:00:00+00:00
 tags:
-	- blog
+    - blog
 authors:
-	- name: TheMothCourt
-	link:
-	image: /img/staff/staff_themothcourt.png
+    - name: TheMothCourt
+    link:
+    image: /img/staff/staff_themothcourt.png
 draft: true
 description: A deep dive into changes to our position on AI in the accord.
 Params:
-	decoration: meta
+    decoration: meta
 ---
 ## Artificial Intelligence and Science Fiction
 
