@@ -7,7 +7,7 @@ authors:
     - name: TheMothCourt
       link:
       image: /img/staff/staff_themothcourt.png
-draft: true
+draft: false
 description: A deep dive into changes to our position on AI in the accord.
 Params:
     decoration: meta
