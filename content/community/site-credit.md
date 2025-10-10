@@ -38,7 +38,7 @@ Wiki-sceptic yet helped run a wiki; fandom-averse yet accidentally helped build 
 **teagan**  
 Inital Article Writing | Site Design Coordinator  
 it/its, she/her  
-[AO3](https://archiveofourown.org/users/teagan_the_doll/) | [Tumblr](https://www.tumblr.com/teagan-the-doll)
+[AO3](https://archiveofourown.org/users/teagan_the_doll/) | [Tumblr](https://www.tumblr.com/teagan-of-kevera)
 
 teagan was the main organizer of the content of this site in it's original conception. It has been reading since the original story showed up on ROM and is most known for its work as a Loret and its romance novel [_Courtship_](https://archiveofourown.org/works/48043465/).
 
