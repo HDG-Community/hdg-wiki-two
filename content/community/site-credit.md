@@ -12,7 +12,7 @@ description: The folks behind the magic!
     Profile by herself.
 {{< /aside >}}
 **GlitchyRobo**  
-Creator of HDG | Technical Contributor   
+Creator of HDG | Former Technical Contributor  
 she/her  
 [AO3](https://archiveofourown.org/users/GlitchyRobo/) | [Tumblr](https://www.tumblr.com/glitchyrobo)
 
@@ -24,7 +24,7 @@ GlitchyRobo is an artist who's spent most of her time in the setting modelling s
     Profile by lise-lemonade.
 {{< /aside >}}
 **anna//bool**  
-Technical Contributor  
+Former Technical Contributor  
 she/her, it/its  
 [AO3](https://archiveofourown.org/users/annabool/pseuds/annabool)
 
@@ -36,7 +36,7 @@ Wiki-sceptic yet helped run a wiki; fandom-averse yet accidentally helped build 
     Profile by itself.
 {{< /aside >}}
 **teagan**  
-Inital Article Writing | Site Design Coordinator  
+Inital Article Writing | Former Site Design Coordinator  
 it/its, she/her  
 [AO3](https://archiveofourown.org/users/teagan_the_doll/) | [Tumblr](https://www.tumblr.com/teagan-of-kevera)
 
@@ -48,7 +48,7 @@ teagan was the main organizer of the content of this site in it's original conce
     Profile by teagan.
 {{< /aside >}}
 **skoof!**  
-Technical Contributor  
+Former Technical Contributor  
 she/her  
 [AO3](https://archiveofourown.org/users/floof_likes_plants/pseuds/floof_likes_plants) | [Site](https://skoof.ca/)
 
