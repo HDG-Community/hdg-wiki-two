@@ -7,9 +7,11 @@ description: Guidelines for writing HDG according to pre-established setting req
 Params:
   icon: "pen"
 ---
-(TODO - opening quote)
+> [!QUOTATION]
+> _““I feel a little foolish for how afraid I was when I first saw you. I can truly see how much you enjoy crafting and artistry.”"_
+>
+> Sheepwave and Slylittleprincess's [From Pawn to Princess](https://archiveofourown.org/works/63477424/chapters/162654118)
 
-(TODO - opening summoning)
 ## Writing Guidelines for HDG
 {{< aside affini_puppeting_writing_promilie "A digitial illustration of a female terran floret and an affini at a desk. The terran is sitting at a desk with a laptop while their arms and fingers are being puppeted to write by the affini's vines. The affini is petting the terran and caressing their face while they whisper into the terran's ear." >}}
     We cannot guarantee this will happen to you.
