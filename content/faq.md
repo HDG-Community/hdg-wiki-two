@@ -27,7 +27,7 @@ Human Domestication Guide is a collaborative kink storytelling setting based on 
 
 As a setting, HDG centers trans and disabled experiences, with heavy themes of queerness, loss of autonomy, power dynamics like petplay and caregiver/little, and kinks including mind control, hypnosis, intoxication, and especially non-consent. 
 
-That, of course, is a very short description that leaves out a great deal for the sake of brevity; Human Domestication Guide is much more than the sub of its parts, and the best way to understand the setting is to read the stories. 
+That, of course, is a very short description that leaves out a great deal for the sake of brevity; Human Domestication Guide is much more than the sum of its parts, and the best way to understand the setting is to read the stories. 
 ### Why does every story seem to end with domestication?
 Because it's hot.
 
@@ -37,7 +37,7 @@ Again, because it's hot.
 
 You'll hear this cited elsewhere, but one of the Axioms of the setting, the unbreakable foundational underpinnings that makes HDG what it is, is that the Affini are inevitable. "We never stood a chance" isn't just a running gag, it's kind of the point. HDG isn't bog-standard sci-fi about the plucky underdog humans fighting off the evil space empire; it's about what happens after the horny space empire wins. Terrans can "win" individual encounters in the sense that they can get away, but this is typically just the Affini allowing them to do so because it's safer (or hotter) to capture them later. 
 ### Why do so many sophonts become florets? Where are all the independents?
-Say it with me: because it's hot. 
+Once more, because it's hot. 
 
 In this case, it's an artifact of what most folks writing in HDG are interested in, namely, humans getting turned into cute pets by sexy alien plants. The actual number of humans who are domesticated is actually somewhere between 25-40%; the majority of humans are independents, off living their best lives in the post-scarcity utopia that's been handed to them! Florets occupy a central role in Human Domestication Guide in the same way that, while the vast majority of people in the Star Wars universe aren't Force users, Jedi keep showing up and being central to almost every story, because lightsaber duels are cool. 
 ## Creating HDG
