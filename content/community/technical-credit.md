@@ -15,6 +15,8 @@ An open source framework for building websites!
 A minimal theme for Hugo that helps give us a pretty cool vibe. At least we like to think so!  
 [Website](https://imfing.github.io/hextra/) | [MIT License](https://github.com/imfing/hextra?tab=MIT-1-ov-file#readme)
 
+<br><hr>
+
 ## Fonts:
 ### Atkinson Hyperlegible (V11 & Next)
 Fonts designed by the Braille Institute of America to be as legible and readable as possible for folks with low vision. (And we think they just kinda look really nice!)  
