@@ -73,7 +73,7 @@ Birdlovely is a musician and writer who discovered Human Domestication Guide in 
 <br><hr>
 
 {{< aside staff_callisto "Callisto's profile picture." >}}
-    Profile by Zelda.
+    Profile by [@hornsketch](https://www.tumblr.com/hornsketch).
 {{< /aside >}}
 **Callisto**  
 Loret  
