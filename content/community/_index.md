@@ -35,7 +35,7 @@ Around this time, the Lorets began to reevaluate community management. The old V
 
 More readers continued to discover HDG, and more of them wanted to write for it, and, well, here we are — a community of thousands united by our love of the kinky space imperialism plants. 
 ### The Community Today 
-The HDG Community is, of course, more than simply the stories and the [Discord](https://discord.gg/buaPNDPY). Pockets of HDG lovers can be found all over social media, from Tumblr to Bluesky and beyond. These folks are just as much a part of the broader community as regulars in the Discord, forming a peripheral community around the highly active and creatively focused core. 
+The HDG Community is, of course, more than simply the stories and the [Discord](https://discord.gg/WgssQ6SR4q). Pockets of HDG lovers can be found all over social media, from Tumblr to Bluesky and beyond. These folks are just as much a part of the broader community as regulars in the Discord, forming a peripheral community around the highly active and creatively focused core. 
 
 While we Lorets can only really speak for the Discord and its broader staff, we think that's great. We love seeing new folks find HDG and fall down the rabbit-hole, and we love helping foster a sense of shared creativity around the setting and the stories. We welcome participation in the community from all corners, but there's some things you should probably know about before you dive in headfirst.
 
