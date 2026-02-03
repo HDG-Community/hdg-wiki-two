@@ -23,9 +23,11 @@ _Not to be confused by the primary polity terrans lived under at the time of the
 **Home System**: [[sol|Sol]]  
 **Native Gravity:** 1.0g  
 **Year Length:** 365 Terran standard days
+
 **Lifespan:** Wild terrans lived on average 70-80 years, but independents in the Terran Protectorate can live to twice that. [[florets-domestication|Florets]] can potentially live as long as three centuries.  
 **Circadian Rhythm:** ~24 hours  
 **Domesticated:** 2554 CE (0 BD)
+
 **Names:** Diverse and varied. Prone to change after administration of class G xenodrugs. Examples: Alice, Layla, Princess, Elvira, David
 ## Appearance and Physiology
 {{< aside catgirl_n_fini_lise "Digital illustration of a female terran floret and an affini. The terran has cat ears and a tail and is wearing a floral dress and collar. The affini has a vine wrapped around the terran and the two's faces are close to one another as they look into each others' eyes." >}}
