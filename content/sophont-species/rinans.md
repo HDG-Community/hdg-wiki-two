@@ -13,16 +13,16 @@ description: The only xenosophont species encountered by Terrans prior to the ar
 
 
 ### Quick Info
-**Homeworld**: Nyrina ("ny-RINN-ah")
-**Home System**: Li 
-**Native Gravity:** .89g
-**Year Length:** 241 Terran days
+**Homeworld**: Nyrina ("ny-RINN-ah")  
+**Home System**: Li  
+**Native Gravity:** .89g  
+**Year Length:** 241 Terran standard days
 
-**Lifespan:** 60-70 in the wild; 100-140 post-domestication; 200 for florets. 
-**Circadian Rhythm:** 13.87 hours
-**Domesticated:** 2553
+**Lifespan:** The natural wild Rinan lifespan is between 60-70 years, but with the aid of xenoveterinary science independents can live 100-140 years. [[florets-domestication|Florets]] can potentially live for 200 years.  
+**Circadian Rhythm:** 13.87 hours  
+**Domesticated:** 2553s CE
 
-**Names:** Traditional Rinan names typically use short chirpy syllables (Examples: Li Li, Thala). Under occupation by the [terran-accord|Terran Accord], many Rinan adopted or were forced to accept [terran|Terran] names. After joining the [affini-compact|Affini Compact] they are liberated and able to pick preferred names. 
+**Names:** Traditional Rinan names typically use short chirpy syllables (Examples: Li Li, Thala). Under occupation by the [terran-accord|Terran Accord], many Rinan adopted or were forced to accept [terran|Terran] names. After joining the [affini-compact|Affini Compact] they are liberated and able to pick preferred names.
 ## Appearance & Physiology
 Rinans (pronounced "RYE-nans") are a warm-blooded tetrapodal xenosophont species, standing upright approximately 1 meter tall and weighing around 20-25 kilograms. They have large dark eyes, non-prehensile tails, and fur covering a majority of their bodies (in a similar range of natural colors as human hair, and which similarly loses color upon reaching old age). Rinans are naturally nocturnal, with their large dark eyes evolved for night vision, and have 6 digits on each hand (and foot). Their fingers are laid out as follows: inner thumb, finger, middle thumb, two fingers connected by a partial webbing (referred to as the “handscoop”, possibly evolved for burrowing), outer thumb.
 
