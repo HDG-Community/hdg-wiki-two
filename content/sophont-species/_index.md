@@ -8,7 +8,7 @@ params:
   icon: leaf
 weight: 4
 ---
-# Sophont Species
+
 The Affini Compact is home to countless sophont species, but there's always new xenosophonts outside the present boundaries of the Compact still in need of the care and love of the Affini; how fortunate that the Compact grows larger everyday! 
 ## About Xenosophonts 
 While strictly speaking you can have a Human Domestication Guide Story with only two species of sophonts present (that being [[terrans|terrans]] and [[affini|affini]], naturally), many authors like to showcase the diversity of the Compact by showing other sophont species besides just humans. Given the size of the Local Group (hint: _big_), it's easy for authors to create their own xenospecies, which over time has resulted in a wide collage of fascinating cuties ripe for domestication. Two such examples who have already been added to the wiki are [[khetari|khetari]], feathered felines from a high-gravity homeworld who happily enforce a pecking order on their softer, squishier fellow florets, and [[vreeut|vreeüt]], dromaeosaur-analogues whose penchant for protocol has earned them the nickname "flusterraptors" (among many others). 
