@@ -13,14 +13,13 @@ weight: 10
 {{< /aside >}}
 
 > [!QUOTATION]
-> "Chloë, you've accepted some understandable but incorrect ideas about who we are. We are the affini compact, and our goal is to bring abundance to all sophonts everywhere. We took you in because you were being hurt. That's over now." - The Place Where We Can Stop Running"
-{title="" cite="[https://archiveofourown.org/works/58402522]" caption="- Dame Harmony's _The Place Where We Can Stop Running_"}
+> "Chloë, you've accepted some understandable but incorrect ideas about who we are. We are the affini compact, and our goal is to bring abundance to all sophonts everywhere. We took you in because you were being hurt. That's over now."
+{title="" cite="[https://archiveofourown.org/works/58402522]" caption= "Dame Harmony's The Place Where We Can Stop Running"}
 
 HDG is not always the most straightforward of things at times, and the Lorets have received a great many questions we've strived to answer for folks over the past few years. This article is a compilation of many of the most common we receive, especially from newcomers to the setting.
 
 If you can't find the answers you are seeking here, you can check out the rest of the Guide, as many articles have more topical FAQs on their respective pages. If you still have inquires, you can always head on over to the [HDG Community Server](https://discord.gg/WgssQ6SR4q) and ask the Lorets over in the setting questions channel.
 
-(TODO - A lot of these questions are missing answers - if you wanna write up a response for one, ping me with it and I'll add it on here. I tried to make the ones which still need answering by having them start with @)
 ## General Setting
 ### Human Domestication Guide? What's that?
 Human Domestication Guide is a collaborative kink storytelling setting based on the original story "Human Domestication Guide" by GlitchyRobo. Stories in this setting typically revolve around a human being taken as a pet (called a floret) by a species of hyper-advanced alien conquerers, the Affini, whose self-assigned mission is to care for every living sophont (thinking) being in the universe; they call this "domestication," a word that shared with the process of turning a specific sophont being into an Affini's pet. The Lore is typically fairly loose, and stories don't often interact directly with one another; we're fond of saying "It's a big Local Group!" and that there's room for everyone's story to blossom in its own way, with its own approach to the central core concepts of Human Domestication Guide. 
