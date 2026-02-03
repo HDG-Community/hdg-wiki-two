@@ -1,7 +1,7 @@
 ---
 title: Terrans
-date: 2024-11-05T00:00:00+00:00
-authors: [Promilie and tbd]
+date: 2026-02-03T00:00:00+00:00
+authors: [Promilie, SlyPrincess and tbd]
 draft: false
 description: tbd
 ---
@@ -23,13 +23,11 @@ _Not to be confused by the primary polity terrans lived under at the time of the
 **Home System**: [[sol|Sol]]  
 **Native Gravity:** 1.0g  
 **Year Length:** 365 Terran standard days
-
 **Lifespan:** Wild terrans lived on average 70-80 years, but independents in the Terran Protectorate can live to twice that. [[florets-domestication|Florets]] can potentially live as long as three centuries.  
 **Circadian Rhythm:** ~24 hours  
 **Domesticated:** 2554 CE (0 BD)
-
-**Names:** TODO
-## Appearance & Physiology
+**Names:** Diverse and varied. Prone to change after administration of class G xenodrugs. Examples: Alice, Layla, Princess, Elvira, David
+## Appearance and Physiology
 {{< aside catgirl_n_fini_lise "Digital illustration of a female terran floret and an affini. The terran has cat ears and a tail and is wearing a floral dress and collar. The affini has a vine wrapped around the terran and the two's faces are close to one another as they look into each others' eyes." >}}
     Many terrans in the Compact get biomods to give them features of other creatures from their homeworld and beyond.
     Art by lise-lemonade.
@@ -39,8 +37,10 @@ Terrans are omnivorous bipedal primates with long limbs and expressive, flattene
 Terrans have an excellent sense of balance despite their lack of a tail. Their upright bipedal gait, as well as their ability to shed excess body heat through sweating, allowed their ancestors to specialize as persistence hunters, and terrans therefore have excellent overland endurance. Their forelimbs are also highly adapted for throwing objects accurately over long distances. Both of these advantages were crucial to early humans and their extinct evolutionary relatives, seeing as they do not have any natural armor or weaponry to defend themselves. Their teeth are short and blunt, and their claws almost entirely vestigial.
 
 Ancestral terrans clad themselves in animal skins and furs to protect themselves against the elements, and weaved together plant matter to form textiles. The extensive use of textiles for both protection and fashion is a staple of terran culture, and in the wild they often had strict cultural rules and taboos about the styling and amount of textiles to wear.
-### Bonding
-Terrans have a powerful packbonding instinct, known to them as anthropomorphism, which leads them to project human thoughts, emotions and characteristics on not only other sophonts, but also non-sapient animals and even inanimate objects. This instinct, combined with their natural pattern-recognition behavior, means that terrans will quickly form strong emotional attachments to just about anything by virtue of their natural neurology, where most xenosophonts would require external bonding enhancers. Affini owners are therefore advised to be conservative in their use of class-C xenodrugs on Terrans.
+
+> [!AFFINI]
+> Terrans have a powerful packbonding instinct, known to them as anthropomorphism, which leads them to project human thoughts, emotions and characteristics on not only other sophonts, but also non-sapient animals and even inanimate objects. This instinct, combined with their natural pattern-recognition behavior, means that terrans will quickly form strong emotional attachments to just about anything by virtue of their natural neurology, where most xenosophonts would require external bonding enhancers. Affini owners are therefore advised to be conservative in their use of class-C xenodrugs on Terrans.
+
 ## Culture & History
 For much of their history, Terrans lived in small, semi-nomadic bands largely organized along familial lines; however, about 12,500 BD, Terrans began a transition to sedentary, agricultural-based organization. This tendency spread out from several centers of activity concurrently, eventually overtaking the entirety of Terra. 
 
@@ -72,7 +72,8 @@ While many terrans accept the demonym, its adoption as a term is actually fairly
 ### Domestication
 The Terran Domestication Campaign, as all domestication campaigns do, began with the _Terran Cotyledon Program_, an intensive three-year process of locating isolated terrans or populations of terrans in distress and providing rescue and treatment for them. Through experimentation, the Affini learned how to adapt their phytotech implants to terran tissue, culminating in perfecting the terran version of the haustoric implant, the spinal graft that enables individual domestication. Between the Terran years of 2548 and 2551, many cotyledons were taken, experimented upon, and deeply loved by their Affini, while the Affini learned everything there was to know about terrans. 
 
-> [!LORET] Due to the pivotal nature of the Terran Cotyledon Program, one of the restrictions we ask members of the community to abide by is to avoid making sweeping or exclusive statements about the program; in other words, please don't try to write an absolute first contact story, or lay out a way that cotyledon programs _must_ proceed. The aim here is to make sure that what lore we have, which is fairly loose and easy to fit stories into, remains that way so others can follow in our footsteps! This doesn't mean you can't write about cotyledons — there are many cotyledons in HDG stories — but please don't try to write the _definitive_ cotyledon story. 
+> [!LORET]
+> Due to the pivotal nature of the Terran Cotyledon Program, one of the restrictions we ask members of the community to abide by is to avoid making sweeping or exclusive statements about the program; in other words, please don't try to write an absolute first contact story, or lay out a way that cotyledon programs _must_ proceed. The aim here is to make sure that what lore we have, which is fairly loose and easy to fit stories into, remains that way so others can follow in our footsteps! This doesn't mean you can't write about cotyledons — there are many cotyledons in HDG stories — but please don't try to write the _definitive_ cotyledon story. 
 
 ## Related Articles
 - [[terran-accord|Terran Accord]]
