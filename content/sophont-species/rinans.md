@@ -1,18 +1,73 @@
 ---
 title: Rinans
 date: 2024-11-05T00:00:00+00:00
-authors: tbd
+authors: Callisto, 4WheelSword, Kanagen, SlyPrincess
 draft: false
-description: tbd
-params:
-  sidebar:
-    exclude: true
+description: The only xenosophont species encountered by Terrans prior to the arrival of the Affini Compact
 ---
-## Under Construction!
-The Lorets and the rest of the folks working on the Guide are working hard on getting everything up and into tip-top shape, but we haven't reached here yet!
 
-For more information on the HDG Site Rework, check out [[005-HDG-Guide|this blog post]]!
+> [!QUOTATION]
+> _"The Rinans I’d met were a curious sort, but their inquisitive nature led to projects borne of passion and a yearning to learn._
 
-{{< image under_construction_promilie "An illustration of a terran, rinan, and khetari in hard hats and high-vis vests. The terran and rinan are looking at a blueprint while the khetari is carrying a steel beam." inline >}}
-    Art by Promilie.
-{{< /image >}}
+> _Each compounded building was filled with projects, experiments that seemed to weave into the very architecture itself. Multi-sectioned buildings were strung and structured across the city, powered by technology that would take me years to fully comprehend. They weren’t just on the sides either, there were entire buildings that ran across streets, towing the line between genius and completely unsafe."_
+> 
+> Lagnia's [Independent Establishment](https://archiveofourown.org/works/65282485/)
+
+
+### Quick Info
+**Homeworld**: Nyrina ("ny-RINN-ah")
+**Home System**: Li 
+**Native Gravity:** .89g
+**Year Length:** 241 Terran days
+
+**Lifespan:** 60-70 in the wild; 100-140 post-domestication; 200 for florets. 
+**Circadian Rhythm:** 13.87 hours
+**Domesticated:** 2553
+
+**Names:** Traditional Rinan names typically use short chirpy syllables (Examples: Li Li, Thala). Under occupation by the [terran-accord|Terran Accord], many Rinan adopted or were forced to accept [terran|Terran] names. After joining the [affini-compact|Affini Compact] they are liberated and able to pick preferred names. 
+## Appearance & Physiology
+Rinans (pronounced "RYE-nans") are a warm-blooded tetrapodal xenosophont species, standing upright approximately 1 meter tall and weighing around 20-25 kilograms. They have large dark eyes, non-prehensile tails, and fur covering a majority of their bodies (in a similar range of natural colors as human hair, and which similarly loses color upon reaching old age). Rinans are naturally nocturnal, with their large dark eyes evolved for night vision, and have 6 digits on each hand (and foot). Their fingers are laid out as follows: inner thumb, finger, middle thumb, two fingers connected by a partial webbing (referred to as the “handscoop”, possibly evolved for burrowing), outer thumb.
+
+While appearing superficially similar to some Terran species of animal (such as sugar gliders, rodents, or small marsupials), they are not taxonomically considered mammals. 
+
+Rinans recognize four sexes among themselves, and their conception of gender and family (or pack) derives from this understanding. A traditional Rinan pack consists of four adults and any dependent offspring who have yet to form packs of their own, composed of a senior male, a senior female, a junior male, and a junior female. Senior/junior, in this context, refers not to age but to size, as junior rinans (who are somewhat smaller than senior rinans) are able, in the abscence of a senior adult, to spontaneously transition to fill that role. 
+## Culture & History
+Rinans are naturally communal, and wider Rinan culture and history reflects this. At the time of Terran first contact in the 2480s, Nyrina had no countries or borders in the Terran sense, but instead had a singular world government known as the “Rinan Community”. Individual communities and social groupings (towns, villages, cities) formed the basis of society on Nyrina, and housing, food, and other resources were a shared responsibility with no concept of “private property” (in the economic sense). Networks of these communities would be connected by trade and gifting of resources, shared infrastructure (transit, power, etc), social links, and migration of people and families. 
+
+Rinans are omnivores, though many Rinans maintained a mostly or completely vegetarian diet in the pre-contact era. Traditional Rinan food sources included what Terrans might classify as grains, legume-like plants, and vegetables; the modern Rinan language makes no distinction, classifying all edible plantmatter as “fruit.” Meat was sourced from sustainable wild sources or community-maintained farms & fisheries, and by the modern pre-contact era “lab-grown” artificial proteins were also widely available.
+
+Traditional Rinan gender structure consists of a balanced “quaternary pack” of 4 genders, reflected in the most common traditional relationship structure of 4 individuals in a lightly matriarchal pack. Variations on this, with larger or smaller family units, occurred regionally and within communities. By the modern pre-contact Rinan space age, understandings of identity and sexuality were broadly expansive, with a wide array of queer and nonquaternary identities existing. Many Rinan packs were larger or smaller, and many rinans availed themselves of modern medicine to transition between genders (or to nonquaternary identities between or beyond them). 
+
+Rinan pronouns are best rendered in English as he/him/his & she/her/hers for junior rinans, and hy/hym/hys and zhe/zher/zhers for senior rinans. 
+
+One of the most common and remarked-upon Rinan social traits is inquisitiveness. Rinans are often described by Terrans as inquisitive to a fault, with little cultural concept of personal safety. While this is somewhat true — culturally, Rinans broadly believe in the principle of self-sacrifice for the purpose of attaining further understanding of the universe — it has led to stereotypes (particularly among Terrans in the pre-Compact era) that Rinans lack a sense of self-preservation. 
+
+By the time of Terran contact, Rinan spaceflight technology was entering its early interstellar era. By the 2480s CE, the Rinan Community had colonized Nyrina’s moons, Mip, Kena, and A'ye, and one other terrestrial planet in their solar system. They had also sent missions to 3 other nearby star systems using experimental jump drive technology. In other fields (hydroponics, medicine, computers), Rinan technology was at a roughly equivalent level to that of the Terran Accord, though at a smaller overall scale due to the distributed nature of their culture and industrial base.
+### Terran Contact and Colonization
+The Rinans were the first xenosophont life encountered by the [terran-accord|Terran Accord], initially detected remotely in the late 2470s and subsequently confirmed in 2482 by an uncrewed Terran probe sent to the Rinan system. This discovery was kept secret by the Accord government until 2484, when it leaked to the public and sparked a brief “Xeno Panic”; many Terran corporations stockpiled weapons arsenals in anticipation of a pending interstellar war. This panic ended in 2485 when Terran xenolinguists created the first translations of Rinan language from intercepted transmissions, allowing the Accord to confirm that the Rinans were seemingly peaceful, and to remotely establish First Contact via an uncrewed probe. 
+
+The first Terrans visited Nyrina in 2486 on an initial diplomatic/reconnaissance mission. Military assessments of the Rinans as “not a significant threat”, along with the ongoing consolidation of power by the Terran Cosmic Navy in response to the Xeno Panic, led to the Terran Accord semi-officially annexing Rinan Community space as a “Special Administrative Area” by the end of 2486; this was framed to the Rinans as a sort of “helping hand” for the sake of exploration and technological development, one they initially gladly accepted. This trust would turn out to be misplaced, as over the next 35 years the Terran Accord increasingly pressured, coerced, and ultimately forced the Rinan population to participate in the Accord's capitalist system. By 2521, the Terran Accord had dropped all pretense of Rinan self-rule and assumed direct control of governance in Rinan space. The Cosmic Navy toppled the Rinan Community in a (largely bloodless) military coup. 
+
+Over the following three decades of Terran rule, the Rinan populace was integrated into and subjugated under the Terran Accord, with traditional expressions of Rinan culture (gender, relationship & family structure, art, language) suppressed in an attempt at cultural genocide (though there was no significant attempt, at least prior to 2551, to genuinely exterminate the Rinan population, merely to exploit them and their resources). Nyrina was used as a farm world and the other planetary bodies of the Rinan system were mined for resources. Most Rinans remained within the boundaries of now-former Rinan space, but a small number of Rinans spread into nearby star systems, chasing work as jump drive technicians, scrappers, traders, and engineers-for-hire. 
+
+Spoken Rinan languages are unpronounceable by Terran vocal chords, so following Terran contact, Rinan xenolinguists developed Rinan-Terran Sign Language as a form of communication; Terrans later invented translator implants which could translate spoken Rinan language into spoken Terran language (usually slightly delayed and somewhat monotone, except for the most expensive models). Many Terran fields of work (particularly engineering & spaceflight) _required_ Rinans to have a translator implanted, often with a subscription service attached in typical Terran capitalist fashion.
+### The Rinan Resistance
+Terran oppression of the Rinans was not unopposed; from the initial annexation of Nyrina onwards, many Rinans (and Terrans!) rose up in peaceful protest movements, which were repeatedly suppressed, sometimes bloodily, by Terran authorities. Terran antifascists and anticolonialists in particular loudly supported Rinan liberation, and from 2521 through the end of the Terran Accord in the 2550s, numerous political assassinations and other acts of anti-state sabotage were committed by both Terran and Rinan revolutionary groups in the name of the Rinan freedom movement. These actions were subsequently used as propaganda by the Terran Accord government to justify continued oppression of the “dangerous” Rinans (and further expansion of the Terran Cosmic Navy fleet). Terran propaganda variously portrayed Rinans as weak child-like “savages” in need of the Terran “civilizing mission”, or scheming communist/anarchist terrorists seeking to blow up Terran society (figuratively or, sometimes, literally).
+### Domestication
+Rinan “contact” with the Affini Compact technically pre-dates Rinan First Contact with the Terran Accord, as the first living Rinans to encounter the Affini were recovered from wreckage thrown into Compact space by an experimental Jump Drive implosion in 2471. The Compact recovered 3 living (if severely injured) Rinans with no indication of their origin. From 2471 to 2486 a handful of other sporadic incidents of Affini-Rinan contact occurred as similar jump drive malfunctions threw Rinan debris into Compact space. 2486 marked the last occurrence of incidental Rinan-Affini contact before a 6-decade gap, leaving the Rinans a mystery to the Affini until 2547, when the Compact recovered debris of yet another vessel of unknown origin (Terran), aboard which they found 6 extremely shell-shocked Rinans, and small amounts of biological debris (the largest piece of which was a single finger) from an unknown species (human). Unlike the previous incidents of contact, this time one of the Rinan survivors was an astronavigator, and was able to identify the location of Rinan space for the Affini. 
+
+The Rinan Cotyledon Program officially began in 2548 (folding in research from the previous provisional program dating back to 2471). An Affini Compact scout ship was sent to investigate Rinan Space, and subsequently discovered the Terran Accord (though Affini-Terran First Contact would not properly occur until 2551).
+
+After the Affini Compact revealed itself to the Terran Accord (and by extension the population of the former Rinan Community as well), many Rinans found themselves coerced into assisting the war effort, whether that was through increased food production or factory quotas at home on Nyrina or being pressganged into service as technicians and engineers aboard Terran Cosmic Navy vessels. There were some small segments of the Rinan populace who believed Terran propaganda regarding the Affini and joined the war effort willingly; these Rinan feralists were few and far between, however, and the average Rinan during the war was more likely than not to be supportive of the Affini, even if many were too afraid of Terran reprisal to express that; pro-Rinan liberation protest movements flared up during the war, as Terran resources became stretched too thin to properly police everywhere at once. Terran abuses of Rinans generally peaked during the war, up to and including using Rinans as disposable tools (repairing deadly radiation leaks in warship Jump Drives & weapons systems, bioweapons testing, etc.). 
+
+In 2553, the Affini Compact reached the Rinan home system, and large swathes of the Rinan population on Nyrina and its moons rose in true, open rebellion against the Terran authorities. The Terran Cosmic Navy, nearly surrounded and facing an imminent defeat by vastly-superior Affini Compact forces, attempted to annihilate the population centers of Nyrina with an orbital nuclear bombardment (an attempted so-called “glassing” of the planet) to deny the planet to the Affini and to spite the Rinans for "betraying" the Accord.
+
+ The Affini, aware of this attempted bombardment some time in advance, were able to effectively shield Nyrina from wide-scale damage. The few Terran warheads which could not be completely neutralized were redirected towards unpopulated areas of Nyrina's two largest moons and, in a few cases, the planet itself. The Affini Compact were able to completely prevent loss of sapient life at the cost of short-term, repairable ecological damage. In the immediate aftermath of the Battle of Nyrina, the newly re-formed Rinan Community government immediately capitulated to the Affini Compact and signed the Rinan Domestication Treaty. 
+ 
+ Terran Accord propaganda, meanwhile, falsely claimed that Nyrina had been devastated by their attack, a “total obliteration of the xeno traitors”; this piece of propaganda further inflamed anti-Accord protest movements, and directly inspired many rinans still serving the Terran war effort to defect and/or commit acts of sabotage. Even following the official end of the war with the signing of the Human Domestication Treaty in April of 2554, A small handful of rinans found themselves still embroiled in the conflict as the Free Terran Rebellion continued through 2557; whether trapped or pressganged into continued service, or one of the few remaining Rinan feralists who still believed in the cause.
+### Post-Domestication
+ The Rinan Domestication Treaty is generally structured the same as any other Domestication Treaty, though with a couple notable inclusions: the Rinan right to maintain a space program (with Affini supervision) is protected, as is the right of general technological experimentation (again, supervised and within safety limitations) and the right to a more natural nocturnal lifestyle is outlined explicitly (as many Rinans were forced into diurnal schedules under the Terran Accord). In the modern world, the Rinan Protectorate has returned to—and in many ways surpassed—the quality of life which previously existed in the pre-contact Rinan Community. Nyrina has been returned to a state of ecological balance, and Rinan culture flourishes even as it evolves and intermixes with the newly-open culture of the Terrans and the wider universe of the Affini Compact. 
+ 
+ Nyrina is officially the administrative center of Rinan-Terran Space, the area now often referred to locally as the “Twin Protectorates”. As of the end of the 2550s, approximately 40% of the Rinan population were Florets, with a projected equilibrium of around 40-50% over the next millennia. In the modern, post-Domestication world, Rinan culture is as vibrant and diverse as any other culture under the Affini Compact. Rinan memes (both memes _by_ Rinans and memes _of_ Rinans) are popular on the extranet, and Rinan food, Rinan music, Rinan fashion, and Rinan dayclubs can be found on many Affini vessels, stations, and worlds. Rinans themselves, both independents and Florets, have rapidly begun to spread beyond historical Rinan space to the far corners of the Local Group and beyond.
+## Article Credit
+Article by Callisto, 4WheelSword, Kanagen, SlyPrincess
