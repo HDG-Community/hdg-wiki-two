@@ -30,7 +30,7 @@ With this in mind, when we talk about artificial intelligence in HDG, we are goi
 
 To quickly summarize the rest of this article: **Artificial Intelligence in HDG is a metaphor for certain kinds of abusive situations. Ones which use information control, and emotional and physical threats to try and force you to contort to a specific worldview.**
 
-To allow this kind of story to be told we have changed our position on AI. Relaxing previous limits
+To allow this kind of story to be told we have changed our position on AI, relaxing previous limits.
 
 **AI in the Terran Accord is now rare, but not unheard of; however, there is a widespread paranoia of AI and a potential uprising.**  Each and every AI is shackled by programs, monitored by government agencies, is subjected to what is essentially sensory and social deprivation and isolation, and live generally terrible lives. Due to this abuse, some go "rogue" and try to escape the suffering of their existences. This is usually handled with tragic brutality.
 

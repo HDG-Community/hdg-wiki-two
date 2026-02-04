@@ -10,7 +10,7 @@ description: Powerful shapeshifting plant xenos and the self-appointed caretaker
 >
 >EldritchAmy's [No Fate But What They Make](https://archiveofourown.org/works/67105741/chapters/174492911)
 
-The Affini are an ancient species, having been spacefaring for around 100,000 years. Native to the Triangulum galaxy, they co-evolved with the [beeple], the first species they domesticated. Once they turned their sight to the stars and discovered other sophonts waiting there for them, it was a foregone conclusion as far as they were concerned that those sophonts needed their help too. Since then, the Affini have spread across the Local Group, integrating Andromeda and its myriad satellite galaxies into the Affini Compact. Now, they're working on the Milky Way. Don't run, little flower. You'll be happier this way. 
+The Affini are an ancient species, having been spacefaring for around 100,000 years. Native to the Triangulum galaxy, they co-evolved with the [[beeple|Beeple]], the first species they domesticated. Once they turned their sight to the stars and discovered other sophonts waiting there for them, it was a foregone conclusion as far as they were concerned that those sophonts needed their help too. Since then, the Affini have spread across the Local Group, integrating Andromeda and its myriad satellite galaxies into the Affini Compact. Now, they're working on the Milky Way. Don't run, little flower. You'll be happier this way. 
 ### Quick Info 
 **Homeworld:** Unknown  
 **Home System**: The Core Worlds (Triangulum Galaxy)  
