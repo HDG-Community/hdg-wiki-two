@@ -33,10 +33,8 @@ Terms followed by (meta) are purely out-of-universe terms used by the community 
 - **Clerk** - Specialist in the workings of the [[compact-bureaucracy|Compact's bureaucracy]]. A quite respected profession in affini society.
 - **Clerk** (meta) - Community members who lead the management of the [HDG Community Server](https://discord.gg/WgssQ6SR4q).
 - **CNS** - Ship prefix for TCN ships, standing for "Cosmic Navy Ship."
-- **Comm Unit** - Handheld communication device, similar as a mobile phone.
-- **Compact** - Affini Compact (see above).
-- **Companionism** - Ideology among xenosophonts supporting the affini's care for themselves and the universe. The opposite of feralism.
-- **Compiler** - Atomic compiler (see above).
+- **Compact** - Affini Compact.
+- **Compiler** - Atomic compiler.
 - **Connivent** - Two or more florets who share an owner. See [[florets-domestication|Florets & Domestication]].
 - **Coordinator** - Specialist who maintains a wide web of contacts and intimate knowledge of local bureaucratic offices in order to provide services to ease the functions of the Compact's bureaucracy. These services can range from helping individuals navigate the systems to find the office for their needs to resolving inter-office disputes and facilitating inter-office collaboration to overseeing large projects as part of a committee of coordinators, such as the domestication of a planet or the construction of a new city. 
 - **Core** (affini) - Highly durable central organ of an affini housing all of their necessary cognitive and bodily functions.
@@ -44,10 +42,9 @@ Terms followed by (meta) are purely out-of-universe terms used by the community 
 - **Core Worlds** - The heart of the Compact, located in the Triangulum Galaxy, including the affini homeworld. See [[worlds-locations|Worlds & Locations]].
 - **Cosmic Navy** - Terran Cosmic Navy (see below).
 - **Cotyledon** - The first florets of a species. See [[florets-domestication|Florets & Domestication]].
-- **Cubeship** - Automated package delivery ships used by the Compact.
 ### D
 - **Data Pad** - Tablet computers.
-- **DE** / Domesticated Era - Notation for date counted in years since the signing of the Human Domestication Treaty, with 2554 CE being year 0. Used by some in terran space years after domestication.
+- **DE** / Domesticated Era / TPY / Terran Protectorate Year - Notation for date counted in years since the signing of the Human Domestication Treaty, with 2554 CE being year 0. Used by some in terran space years after domestication.
 - **Digitization** - Process by which a biological sophont becomes a digital one. See [[digitization|Digitization]].
 - **Dirt** - Affini curse.
 - **DNEEF** / Do Not Engage Executive Function - Type of clause or section in a domestication contract which relieves the floret of making decisions ever again. Also used to refer to a temporary state of similar conditions for a floret.
