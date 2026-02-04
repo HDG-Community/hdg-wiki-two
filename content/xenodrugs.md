@@ -3,7 +3,7 @@ title: Xenodrugs
 date: 2026-02-03T00:00:00+00:00
 authors: DameHarmony, Amee, SlyPrincess, The Lorets
 draft: false
-description: Xenodrug information for the human domestication guide HDG setting.
+description: Xenodrug classification information for the HDG setting
 Params:
   icon: "pen"
 ---
@@ -100,7 +100,7 @@ Xenodrugs also strictly focus on non-affini sophonts: They’re drugs for pet sp
 
 Some of the common non-xenodrugs that show up in stories include the following:
 - Existing drugs from a society that has been domesticated. Cannabis and booze are great for intox kink - Humans in HDG can and do consume them - but because they weren’t developed by Affini, they’re just drugs. Benzodiazepines help with anxiety, but they aren’t class-E drugs.
-- Durotaxin and ATD (Affini Targeted Drugs). Durotaxin is similar to liquor but for affini. ATD’s mimic xenodrug classes but for affini. Because they’re for affini and not xenosophonts, they’re not considered *xeno*drugs.
+- Durataxin and ATD (Affini Targeted Drugs). Durataxin is similar to liquor but for affini. ATD’s mimic xenodrug classes but for affini. Because they’re for affini and not xenosophonts, they’re not considered *xeno*drugs.
 - Medications that do not have recreational purposes and are purely therapeutic, such as analgesics or antibiotics, are not classified as xenodrugs. They don’t meet the kinky threshold. 
 
 ## Related Articles
