@@ -104,7 +104,7 @@ Terms followed by (meta) are purely out-of-universe terms used by the community 
 ### N
 - **Nascent Feralism Pollarding Office** / NFPO - Bureaucratic office concerned with large-scale mitigation of feralist leanings in a recently domesticated population. See [[compact-bureaucracy|Compact Bureaucracy]].
 - **Nothoculture** - Translation of an Affini term, meaning "the particular hybridization of Compact culture with that of a given xenosphont species necessary for them to achieve maximum happiness." Determining the ideal nothoculture for a species is part of every cotyledon program, though the process usually lasts for some decades post-domestication as experimentation continues to fine-tune the optimum cultural parameters for a given xenosphont species.
-- **Notice of Intent to Domesticate** / Notice of Intent - One of a number of similar bureaucratic forms an affini can file expressing interest in another sophont, which can range in severity from a general expression of interest of being in consideration as an owner if the sophont is ever domesticated to a statement of "I am domesticated this sophont; do not get in my way."
+- **Notice of Intent to Domesticate** / Notice of Intent - One of a number of similar bureaucratic forms an affini can file expressing interest in another sophont, which can range in severity from a general expression of interest of being in consideration as an owner if the sophont is ever domesticated to a statement of "I am domesticating this sophont; do not get in my way."
 - **Nutrient Water** - Mineralized Water (see above).
 - **Nyrina** - The homeworld of the Rinans, annexed by the Terran Accord decades prior to the arrival of the Affini. See [[rinans|Rinans]].
 ### O
