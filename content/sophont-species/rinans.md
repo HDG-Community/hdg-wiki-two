@@ -3,7 +3,7 @@ title: Rinans
 date: 2024-11-05T00:00:00+00:00
 authors: Callisto, 4WheelSword, Kanagen, SlyPrincess
 draft: false
-description: The only xenosophont species encountered by Terrans prior to the arrival of the Affini Compact
+description: Rinan Species HDG setting
 ---
 
 > [!QUOTATION]
