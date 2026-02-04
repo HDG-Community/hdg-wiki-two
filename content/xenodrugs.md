@@ -7,6 +7,10 @@ description: Xenodrug information for the human domestication guide HDG setting.
 Params:
   icon: "pen"
 ---
+{{< aside xenodrug_grafts_lise "Digital illustration of a collection of six xenodrug grafts, which look like botanical elements. Around the illustrations is some unintelligible alien script." >}}
+    A collection of xenodrug grafts.
+    Art by lise-lemonade.
+{{< /aside >}}
 > [!QUOTATION]
 > “Is that a xenodrug that won't make me feel uncomfy?”
 > 
@@ -101,6 +105,7 @@ Some of the common non-xenodrugs that show up in stories include the following:
 
 ## Related Articles
 Look forward to more in depth deep-dive articles on xenodrugs in the future!
+
 [[florets-domestication|Florets and Domestication]]
 
 ## Article Credit
