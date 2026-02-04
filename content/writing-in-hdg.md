@@ -8,7 +8,7 @@ Params:
   icon: "pen"
 ---
 > [!QUOTATION]
-> _““I feel a little foolish for how afraid I was when I first saw you. I can truly see how much you enjoy crafting and artistry.”"_
+> “I feel a little foolish for how afraid I was when I first saw you. I can truly see how much you enjoy crafting and artistry.”
 >
 > Sheepwave and Slylittleprincess's [From Pawn to Princess](https://archiveofourown.org/works/63477424/chapters/162654118)
 
