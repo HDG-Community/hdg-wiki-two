@@ -3,7 +3,7 @@ title: Terrans
 date: 2026-02-03T00:00:00+00:00
 authors: [Promilie, SlyPrincess, and tbd]
 draft: false
-description: tbd
+description: Terrans (humans) within the HDG setting
 ---
 _Not to be confused by the primary polity terrans lived under at the time of their domestication, the [[terran-accord|Terran Accord]]._
 <br>
