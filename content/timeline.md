@@ -1,11 +1,10 @@
 ---
 title: Timeline
 date: 2024-11-05T00:00:00+00:00
-authors: tbd
+authors: The Lorets
 draft: false
-description: tbd
+description: Human Domestication Guide Timeline
 ---
-# Human Domestication Guide Timeline 
 Most HDG stories aren't specific about the order in which they happened but there are general eras that they are set in! These are very general time periods based on narrative usage. Folks like writing about terrans meeting gay plampts (and falling in kinky love) and these eras center around that time period because of that.
 
 Check out the Works page for the full list of canon works, spaning many of these eras!
@@ -25,14 +24,12 @@ For the larger Accord, most citizens knew nothing of the clandestine operations 
 
 The three year war starting with the formal reveal and diplomatic request between the affini and the terrans. After both sides realized there was no peaceful resolution, the affini launched a full scale pacification program to save the terrans from their horrible living conditions (and also to domesticate some to keep as pets).
 Due to the affini capturing planets along the way, some experianced the affini's societal overhaul and transition to a post-scarcity society earlier than others. Some post take over stories take place during this time.
-Free Terran Rebellion (May 2554 - 2557)
+## Free Terran Rebellion (May 2554 - 2557)
 
 The Accord formally surrenders to the affini with the signing of the Human Domestication Treaty and signal to all planets, stations, and navy ships that the war is over and the affini are in charge. The government is dissolved and replaced with the Terran Protectorate which has very limited legal capabilities, while the affini manage the more complex societal overhaul and transition to a post-scarcity society. During this time, many ship captains ignored the armistice and began a guerrilla war against the affini compact.
 ## Post Terran Domestication (2557 - ~334,453 CE)
 
 With about 99.999999% of all terrans having been brought under the fold of the Affini Compact, everything just sort of went well as the lasting generational traumas of capitalism and terran imperialism got fixed by post-scarcity communism under the vines of big kinky gay plants. Everything just sort of got chill and pleasant for uh approximately 331,896 years until the affini fixed reality itself with a universal ascension.
-
-
 
 ## Under Construction!
 The Lorets and the rest of the folks working on the Guide are working hard on getting everything up and into tip-top shape, but we're not quite done yet!
