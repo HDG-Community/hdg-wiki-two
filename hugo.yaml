@@ -48,8 +48,8 @@ languages:
         - name: Glossary
           pageRef: /glossary
           weight: 6
-        - name: Foundational Works
-          pageRef: /foundational-works
+        - name: Xenodrugs
+          pageRef: xenodrugs
           weight: 7
 
 
