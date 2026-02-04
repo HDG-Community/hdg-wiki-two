@@ -3,11 +3,14 @@ title: Florets & Domestication
 date: 2024-11-03T00:00:00+00:00
 authors: Kanagen
 draft: false
-description: The processes by which the Affini care for sophont life, both on the level of an individual and the level of a culture.
+description: Florethood and Domestication within the HDG setting
 Params:
   decoration: affini
 ---
-(TODO - opening quote)
+> [!QUOTATION]
+> Have you or someone you care about been placed under an affini wardship, or other form of trial period which may result in compulsory domestication? My name is Wade Winters. I have been living in the Affini Compact as in Independent Sophont for four years. I have served on Terran Protectorate advisory councils created to ensure a smooth transition of power between humanity and the affini, and I maintain multiple relationships with both affini and florets. I even served as a terran cultural advisor on an affini appointed taskforce for determining how and why a terran might qualify for compulsory domestication. That is to say, I’ve had my fair share of exposure to our foliated friends. But here I am, still independent.
+>
+> SapphicSounds's [Independence Is Easy](https://archiveofourown.org/works/53727259)
 
 **Domestication** is a complex topic, befitting the central unpinning motivation and reason for the [[affini-compact|Affini Compact's]] existence. It can refer both to the domestication of individuals as well as to the domestication of entire sophont cultures. In both cases, the central purpose of domestication is to improve the lives of the [[sophont-species|xenosophonts]] in question, a task for which the Affini are happily very well suited. 
 ## Domestication of Sophonts
@@ -17,9 +20,9 @@ Params:
 {{< /aside >}}
 
 > [!QUOTATION]
-> _"Exactly as the term would indicate, Ms. Gale. Domestication is the primary purpose of the Affini Compact. To be explicit about it, in broad terms, we take in adorable sophont species who struggle to care for themselves, like humans, and use our overwhelming technological and resource advantages to eliminate resistance to Affini control in order to ensure they are properly cared for. But most importantly, on an individual basis, domestication refers to the process by which we use our expertise in biomedical engineering and xenodrug development to turn sophonts into happy, docile and loving pets for their Affini owners."_
+> "Exactly as the term would indicate, Ms. Gale. Domestication is the primary purpose of the Affini Compact. To be explicit about it, in broad terms, we take in adorable sophont species who struggle to care for themselves, like humans, and use our overwhelming technological and resource advantages to eliminate resistance to Affini control in order to ensure they are properly cared for. But most importantly, on an individual basis, domestication refers to the process by which we use our expertise in biomedical engineering and xenodrug development to turn sophonts into happy, docile and loving pets for their Affini owners."
 > 
-> **AsphodelVeil's [_Nurture & Acquisitions_](https://archiveofourown.org/works/48096388/chapters/121280206), chapter 6**
+> AsphodelVeil's [_Nurture & Acquisitions_](https://archiveofourown.org/works/48096388/chapters/121280206)
 
 A sophont who has been domesticated is referred to as a *floret*. Most florets are xenosophonts, but occasionally an [[affini|affini]] becomes a floret as well. As a floret, a sophont is the property of a specific affini (or, in some cases, more than one affini). That affini has absolute authority over their floret, and is charged both with ensuring the floret's well-being and shaping the floret into the best version of themselves, whatever that may be and by whatever means are necessary. 
 
@@ -74,11 +77,11 @@ If two florets belonging to two different affini fall in love or otherwise becom
 Not all florets are biological in origin! Some xenosophonts originate from artificial substrates, while others were converted to such a substrate through [[digitization|digitization]]. Digital florets may exist entirely as information, or may interact with the physical world through a variety of drone shells, which may be obviously artificial or indistinguishable from the biological. 
 ## Domestication of Cultures
 > [!QUOTATION]
-> _"She had completely underestimated how powerful the Affini obsession with florets was, how all-encompassing. It wasn’t just preventing extinctions and taking as many florets as they felt like — it included all potential florets as well, regardless of whether they wanted to be florets or not. They believe that it’s their responsibility to make every living being in the universe happy, one way or another. How had she not seen it? All the details were there. Her brain simply hadn’t joined them up properly._
+> She had completely underestimated how powerful the Affini obsession with florets was, how all-encompassing. It wasn’t just preventing extinctions and taking as many florets as they felt like — it included all potential florets as well, regardless of whether they wanted to be florets or not. They believe that it’s their responsibility to make every living being in the universe happy, one way or another. How had she not seen it? All the details were there. Her brain simply hadn’t joined them up properly.
 > 
-> _"There was no way out of this. There was never any negotiation possible beyond a polite fiction, because the Affini would never settle for anything else than absolute power to spoil Solstice rotten."_
+> There was no way out of this. There was never any negotiation possible beyond a polite fiction, because the Affini would never settle for anything else than absolute power to spoil Solstice rotten.
 > 
-> **Kanagen's [_No Gods, No Masters_](https://archiveofourown.org/works/44810131/chapters/112743343), chapter 15**
+> Kanagen's [No Gods, No Masters](https://archiveofourown.org/works/44810131/chapters/112743343)
 
 The primary drive of the [[affini-compact|Affini Compact]], and of the Affini themselves, is domestication. Domesticating individuals is all well and good, but it stops short of what the Compact's true goal is: everyone should get to live well, to enjoy life, to self-actualize, to pursue their dreams, and to share their lives with one another. To accomplish these ends, the affini domesticate not just individuals but whole societies, reshaping them in ways subtle and not-so-subtle. 
 
@@ -96,4 +99,4 @@ Part of the process of cultural domestication is the assimilation of all of a cu
 ### Domestication Treaties 
 A domestication treaty is functionally a domestication contract for an entire xenosophont species and culture. It serves as a framework for the domesticated civilization to understand their role in the universe (which is to say, subordinate to the affini, who care for them). For the affini, it has a very different purpose. Each treaty's provisions and stipulations form a resource for the affini when dealing with that species on a cultural and individual level. Each treaty is, therefore, a guidebook to the domestication of the species it concerns. 
 ## Article Credit
-Article by Kanagen.
+Written by Kanagen

@@ -14,7 +14,7 @@ weight: 10
 
 > [!QUOTATION]
 > "Chloë, you've accepted some understandable but incorrect ideas about who we are. We are the affini compact, and our goal is to bring abundance to all sophonts everywhere. We took you in because you were being hurt. That's over now."
-{title="" cite="[https://archiveofourown.org/works/58402522]" caption= "Dame Harmony's The Place Where We Can Stop Running"}
+> Dame Harmony's [The Place Where We Can Stop Running](https://archiveofourown.org/works/58402522)
 
 HDG is not always the most straightforward of things at times, and the Lorets have received a great many questions we've strived to answer for folks over the past few years. This article is a compilation of many of the most common we receive, especially from newcomers to the setting.
 
@@ -118,12 +118,12 @@ No, because the capacity to care for and own a floret is an intrinsically affini
 That depends on what kind of story you want to tell! If it was a phobia that could be accommodated without contributing negatively to the terrans well-being, for example a fear of scorpions, the affini could simply ensure that the terran was not exposed to the phobia. Alternately, they could simply use the resources at their disposal to get rid of the phobia entirely.
 ### Would a floret or Independent be allowed to use weapons / fight / gamble recreationally?
 Under Compact supervision and with creative twists to remove the feralist elements, most behaviors can still be engaged in. For example: Guns can shoot harmless rounds with a side of hypnotics to make them seem real. Florets can fight with extra strong bodies that have quick recovery times. And of course, future-florets can gamble away their independence.
-###
+### Are floret cuts and censorship mandatory?
 The restriction of access to media is entirely dictated by their owner. If an affini felt it was appropriate for a floret to access something, they could. The only reason they don’t in some stories is because it’s hot.
 ### What about animal pets?
 Sophonts (sentient lifeforms) can absolutely take non-sophont animals as pets as long as an affini has no concerns. Rest assured, puppygirls can take care of dogs and catgirls are allowed to supervise their pet fish in the Affini Compact.
-### I don’t want to be a floret though?
-You don’t need to be. HDG is a fictional setting and you are under no obligation to read it or to write a self-insert character as a floret. In fact, some of the most prolific authors in the setting write from a primarily dominant perspective, seeing themselves reflected more in the actions of the affini than in the actions of the florets.
+### I don’t see myself as a floret. Is that necessary to engage with the setting?
+Not at all! HDG is a fictional setting after all, and you are under no obligation to read it or to write a self-insert character as a floret. In fact, some of the most prolific authors in the setting write from a primarily dominant perspective, seeing themselves reflected more in the actions of the affini than in the actions of the florets.
 ### Is the haustoric implant required?
 If someone is a floret, yes. A haustoric implant is required. The implant is the cutting edge of affini medicine. It allows for the monitoring of the floret, extends their lifespan, ensures they do not go into biorhythmic withdrawal, and supports in their care in a thousand little ways. 
 More than that, it represents the absolute promise that the floret will always be loved and cared for. It is biologically impossible to abandon an implanted floret. For the above reasons, it would be cruel and un-benevolent to deprive a floret from having an implant.
@@ -151,23 +151,28 @@ After all, the kinds of stories we’re telling aren’t typically drawn out sci
 There is no code or lore for affini eye color, feel free to go wild and choose anything you like! Some stories have depicted individual affini as having eyes that change color based on their emotion, but there’s nothing standardized.
 ### What naming conventions are used for Affini?
 Prettyword Plantname, nth bloom is the common, conventional way to construct an affini's name. Some use binomial latin names as inspiration for both the first and second; some use existing names that happen to be botanical already; some use different names entirely! 
-A very standard name would be something like Digitalis Lutea, third bloom (Wellness Check). "Digitalis" is the genus that includes foxgloves, and "lutea" is a word that has been applied to some willows, but is also a latin word derived from the word for 'yellow' and in plural, refers to a variance of shades of colour! Also note that by convention, 'third bloom' is usually not capitalized, though this is not always the case: it would be perfectly fine to capitalize the bloom count!
-## @Questions About Domestication
-What if a person was genuinely better off not domesticated?
-What if a society was genuinely better off not domesticated?
-Can an Affini just domesticate whoever they want for any reason?
-Is there any way that a xenosophont can formally protest becoming a floret?
-What if a xenosophont needs to kill someone?
-## @Questions Intentionally Left Unanswered
-What is Affini Homeworld like?
+A very standard name would be something like Digitalis Lutea, third bloom [(Wellness Check)](https://archiveofourown.org/works/41249283/). "Digitalis" is the genus that includes foxgloves, and "lutea" is a word that has been applied to some willows, but is also a latin word derived from the word for 'yellow' and in plural, refers to a variance of shades of colour! Also note that by convention, 'third bloom' is usually not capitalized, though this is not always the case: it would be perfectly fine to capitalize the bloom count!
+## Questions About Domestication
+### What if a person was genuinely better off not domesticated?
+There's no such thing as being worse off domesticated than independent in the eyes of most affini. Florethood is a life of individualized love and care. But it is possible for someone to be perfectly happy and fulfilled as an idependent. Independents who _do_ find themselves in that position (and who also do not meet the strong will of an affini interested in proving them wrong) they would remain undomesticated! That being said, you usually don't end up being the main character of an HDG story in that circumstance.
+### What if a society was genuinely better off not domesticated?
+The affini are inevitable imperialists. There is no such thing as a society that is better off undomesticated.
+### Can an Affini just domesticate whoever they want for any reason?
+We like to say that the Compact is an adhoc-cracy, and the ultimate decisionmaking responsibility falls to each individual affini. That is to say, yes. And no matter what that reason or lack of reason may be, the floret will end up better for it on the other side. 
+### Is there any way that a xenosophont can formally protest becoming a floret?
+A xenosophont could attempt to use any mechanism of bureaucracy you wish as an author. A more common one is the wardship hearing. The setting is at its core a metaphor for disability, and the complex systems that cause us to fall through the cracks. Having a terran try and fail to navigate a difficult maze of systems works very well within that narrative.
+### What if a xenosophont needs to kill someone?
+While a certain degree of danger against a member of the compact is plausible, once someone is within the compact they are subjected to a panopicon of surveilance and supervision that ensures nobody slips through the cracks. These safety mechanisms prevent murder. Moreover, this is a queer noncon disability smut setting. Stories focused on the murder of inocennts fall beyond the scope of the community writing project.
+### Is there a template for domestication contracts?
+Nope! Many contracts are inspired by the first one as it appears in [Human Domestication Guide](https://readonlymind.com/@GlitchyRobo/HumanDomesticationGuide/) by GlitchyRobo, but that is not a necessity.
+## Questions Intentionally Left Unanswered
+The following questions are left deliberately unanswered by the setting to void tying anyone down to a specific model of physics or backstory. We like to preserve some mysteries.
+_What is Affini Homeworld like?
 What is Affini adolescence like?
 How do Compilers work?
 How does the fifth fundamental force work?
-Is there a template for domestication contracts?
-What are the specifics of the human domestication treaty?
-## @Miscellaneous Questions
-- What about crossovers?
-- What are the physical limitations of Class Gs?
-- What’s the deal with horses
+What are the specifics of the human domestication treaty?_
+### Beyond the FAQ
+Got a question that can't be answered here? Come join us on the [Community Discord!](https://discord.gg/WgssQ6SR4q)
 ## Article Credit
-These and the many FAQs around the site are written and maintained by the Lorets.
+Written by Kanagen, SlyPrincess, and maintained by the Lorets.
