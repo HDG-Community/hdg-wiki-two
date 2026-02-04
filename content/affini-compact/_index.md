@@ -13,7 +13,7 @@ weight: 9
 _Not to be confused with the shapeshifting plant aliens themselves, the [[affini|Affini]]._
 
 > [!QUOTATION]
-> While some of the rumors Dawn's Infinity had received had implied even more horrible things than the Terran Accord had ever implemented, Veil trusted in the stricture of legalese, if nothing else. If what the Affini Compact promised to provide for humans was true, it really may have been the end of a lifetime of stress, about paying bills, about making her next case, about losing access to her medications.
+> While some of the rumors Dawn's Infinity had received had implied even more horrible things than the Terran Accord had ever implemented, Veil trusted in the stricture of legalese, if nothing else. If what the Affini Compact promised to provide for humans was true, it really may have been the end of a lifetime of stress; about paying bills, about making her next case, about losing access to her medications.
 > 
 > Fuckingterrify's [Ramifaction](https://archiveofourown.org/works/54481600/)
 
