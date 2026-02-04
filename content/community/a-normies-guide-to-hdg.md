@@ -21,3 +21,5 @@ If you encounter HDG and you don't understand its appeal, it's probably because 
 Like, we get it. It's _weird_. But we like the weirdness, and we're having fun on our own over here, and we're not trying to force others to enjoy our fun with us. If you want to, hey, cool, more friends, more creativity. We love that! But if it's not your jam, it's not your jam, and that's okay too. 
 
 In short, please do not confuse fangirls posting "please step on me plommy" on social media with the setting's actual authors unironically IRL supporting any of the ethically dubious at best content of their work. We're not running a cult or anything, we're just writing sci-fi bodice rippers for each other. 
+### Article Credit
+Written by Kanagen
