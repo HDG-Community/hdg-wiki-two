@@ -4,6 +4,7 @@ date: 2026-02-03T00:00:00+00:00
 authors: DameHarmony, Amee, SlyPrincess, The Lorets
 draft: false
 description: Xenodrug classification information for the HDG setting
+Weight: 11
 Params:
   icon: "pen"
 ---
@@ -71,7 +72,7 @@ Prevents, delays, or induces orgasm or other sexual responses.
 Causes **permanent** ego and identity death and intense, all-pervasive euphoria which causes all sensation to feel good. 
 
 > [!NOTE]
-> Warning! Class-Os are a last-resort option for sophonts whose well-being cannot be secured using any of the other myriad methods available to the Affini Compact. As such their use is a _Big Deal_ and must be treated with gravity. Side effects include turning the eyes honey-gold.
+> Warning! Class-Os are a last-resort option for sophonts whose well-being cannot be secured using any of the other myriad methods available to the Affini Compact. As such their use is a _Big Deal_ and must be treated with gravity. Side effects may include turning the eyes honey-gold.
 
 ## Class-P
 Facilitates haustoric implant-driven body control, which may be partial or total.
