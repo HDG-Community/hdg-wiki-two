@@ -33,7 +33,7 @@ There are _some_ pharmaceuticals developed by affini that are of particular note
 Alters the sense of touch, generally making it more sensitive and pleasurable; also frequently causes euphoria or other forms of intoxication.
 
 ## Class-B
-Facilitates the implantation, alteration, or removal of memories. Depending on the stain of drug used and individual floret, some particularly traumatic memories may still resurface.
+Facilitates the implantation, alteration, or removal of memories. Depending on the strain of drug used and individual floret, some particularly traumatic memories may still resurface.
 
 ## Class-C
 Increases the bonding response, and facilitates attachment to other sophonts and objects. 
