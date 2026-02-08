@@ -5,7 +5,7 @@ authors: The Lorets
 draft: false
 description: The many different species who live in the universe.
 params:
-  icon: leaf
+  icon: beeple
 weight: 4
 ---
 
