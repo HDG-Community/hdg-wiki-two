@@ -6,22 +6,22 @@ draft: false
 description: Xenodrug classification information for the HDG setting
 Weight: 11
 Params:
-  icon: "pen"
+  icon: "flower"
 ---
 {{< aside xenodrug_grafts_lise "Digital illustration of a collection of six xenodrug grafts, which look like botanical elements. Around the illustrations is some unintelligible alien script." >}}
     A collection of xenodrug grafts.
     Art by lise-lemonade.
 {{< /aside >}}
 > [!QUOTATION]
-> “Is that a xenodrug that won't make me feel uncomfy?”
+> _“Is that a xenodrug that won't make me feel uncomfy?”_
 > 
-> “Ideally, yes. As I have mentioned, I have many skillsets, and among them is novel xenopharmacology. This is a specialized concoction of my own design I think you would enjoy.”
+> _“Ideally, yes. As I have mentioned, I have many skillsets, and among them is novel xenopharmacology. This is a specialized concoction of my own design I think you would enjoy.”_
 > 
-> I was a little apprehensive about it, but I wanted to at least try. I had looked up how affini approached romance and absolute sobriety was not exactly common for their companions. “What is it, what's in it?”
+> _I was a little apprehensive about it, but I wanted to at least try. I had looked up how affini approached romance and absolute sobriety was not exactly common for their companions. “What is it, what's in it?”_
 > 
-> “Mostly hydrogen, carbon, nitrogen and oxygen, with less than one percent of other trace elements. Though I assume you meant to ask what it will do. How familiar are you with xenodrug classifications?”
+> _“Mostly hydrogen, carbon, nitrogen and oxygen, with less than one percent of other trace elements. Though I assume you meant to ask what it will do. How familiar are you with xenodrug classifications?”_
 >
-> Sheepwave's [Good Sensory](https://archiveofourown.org/works/58671715/)
+> - Sheepwave's [Good Sensory](https://archiveofourown.org/works/58671715/)
 
 Xeno (_non-affini_) drugs (_medicine or other substance that has a physiological effect when introduced into the body._)
 
@@ -99,10 +99,12 @@ Causes or prevents sleep, in variable amounts. Variants of class-Z xenodrugs may
 In addition to the classes listed above, there are many medicines and drugs that fall outside of the defined classification system. One way of thinking about it could be to say that xenodrugs are “the kinky drugs”, even if they are also used as therapeutic modalities such as a Class-G or a Class-E. 
 Xenodrugs also strictly focus on non-affini sophonts: They’re drugs for pet species. 
 
+The drug type that inhabits the biggest grey area is phytotoxin. A phytotoxin is a bespoke compound formulated by each affini. They could be thought of as a signature effect, and have a diverse, highly creative array of effects. This is a writers opportunity to go wild with ideas to find the perfect expression for their affini and narrative needs. Because a phytotoxin is a wildcard, it doesn't have a classification.
+
 Some of the common non-xenodrugs that show up in stories include the following:
 - Existing drugs from a society that has been domesticated. Cannabis and booze are great for intox kink - Humans in HDG can and do consume them - but because they weren’t developed by Affini, they’re just drugs. Benzodiazepines help with anxiety, but they aren’t class-E drugs.
 - Durataxin and ATD (Affini Targeted Drugs). Durataxin is similar to liquor but for affini. ATD’s mimic xenodrug classes but for affini. Because they’re for affini and not xenosophonts, they’re not considered *xeno*drugs.
-- Medications that do not have recreational purposes and are purely therapeutic, such as analgesics or antibiotics, are not classified as xenodrugs. They don’t meet the kinky threshold. 
+- Medications that do not have recreational purposes and are purely therapeutic, such as analgesics or antibiotics, are not classified as xenodrugs. They don’t meet the kinky threshold.
 
 ## Related Articles
 Look forward to more in depth deep-dive articles on xenodrugs in the future!
