@@ -7,7 +7,7 @@ description: todo
 params:
   decoration: accord
   icon: accord
-weight: 3
+weight: 30
 ---
 # Overview of the Terran Accord
 
