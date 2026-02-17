@@ -8,9 +8,14 @@ description: Human Domestication Guide Timeline
 The HDG setting is, at a high level, marked by several time periods that stories can be set in. Within these time periods, exact granular events or "firsts" have not been defined. Instead, they represent high level eras that can be helpful tools for narrative use. It goes without saying that the eras focus on the domestication of humans, because the collision between hapless terrans and kinky plants is why we're all here after all!
 ## HDG Prehistory (prior to 2479 CE)
 
-Stuff happened, uh about 4 centuries of stuff since the present day, nothing is super concretely canon here. Some stuff that happened in this time includes: the discovery of exotic matters, terran jump drive got invented. Oh and Terra's biosphere collapsed, and global warming got really bad which accelerated the desire to be not on earth anymore. Eventually the Terran Accord formed an imperialist government that took over all the various nation states into one big capitalist empire.
-As the setting is about kink with the affini, this isn't an era that has really been explored and is difficult to write about canonically (it's vague on purpose!).
-Rise of the Accord (2479 - 2549)
+Approximately four centuries of undefined _stuff_ happened, from the present day leading up to 2479. A concrete canon timeline for this period hasn't been set in stone. 
+Some key events that occured in the time before the main HDG setting include:
+- The discovery of exotic matter.
+- The invention of the terran jump drive.
+- The collapse of Terra's biosphere, and bad global warming, accelerating the desire to leave Terra behind.
+Eventually within the final century of this window, the Terran Accord formed an imperialist government that took over all of the various nation states, building one big capitalist empire.
+As the setting is about kink with the affini, this isn't an era that has been deeply explored and outlined. Some of that vagueness is on purpose!
+## Rise of the Accord (2479 - 2549)
 
 After the first signs of an xeno civilization (the Rinan Community), rumors sir for 3 years before confirmation that extraterrestrial life exists. Xenophobic paranoia is co-opted by the Accord's imperialist tendencies to pass the Terran Cosmic Navy Security Act, and the navy promptly commits an annexation and atrocities on the xeno civilization.
 There aren't really stories set during this time but many feature flash backs as this is the era during which most terran characters grew up!
