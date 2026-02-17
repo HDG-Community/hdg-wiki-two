@@ -6,7 +6,7 @@ draft: false
 description: The many different species who live in the universe.
 params:
   icon: beeple
-weight: 40
+weight: 4
 ---
 
 The Affini Compact is home to countless sophont species, but there's always new xenosophonts outside the present boundaries of the Compact still in need of the care and love of the Affini; how fortunate that the Compact grows larger everyday! 

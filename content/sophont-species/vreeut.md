@@ -4,7 +4,6 @@ date: 2024-11-03T00:00:00+00:00
 authors: Kanagen
 draft: false
 description: Dinosaur-like ultraviolet swamp xenos.
-weight: 15
 ---
 {{< aside vreeut_stylized_promilie "A stylized illustration of a vreeüt looking at the viewer." >}}
     A curious vreeüt.
