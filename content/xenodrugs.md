@@ -4,7 +4,7 @@ date: 2026-02-03T00:00:00+00:00
 authors: DameHarmony, Amee, SlyPrincess, The Lorets
 draft: false
 description: Xenodrug classification information for the HDG setting
-Weight: 11
+Weight: 30
 Params:
   icon: "flower"
 ---

@@ -4,7 +4,7 @@ date: 2024-11-05T00:00:00+00:00
 authors: Kanagen
 draft: false
 description: Information on the HDG community and where to talk about HDG!
-weight: 3
+weight: 5
 params:
   icon: world
 ---
