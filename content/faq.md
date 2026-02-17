@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions
 date: 2024-11-05T00:00:00+00:00
-authors: The Lorets
+authors: The Lorets and Bookworms
 draft: false
 description: Answers to common questions folks have about the setting!
 Params:
@@ -56,6 +56,14 @@ HDG isn't just fanfic — it's something we do together. In order to keep it tig
 The answer here is "almost certainly not." This is particularly true of the Rules — they exist for community safety reasons and we take them extremely seriously. Don't break the Rules.
 
 When it comes to the Axioms, things get ever so slightly more open, but only ever so slightly. We frequently see new writers come into the setting saying "I want to subvert this trope!" or something similar, without having stuck around long enough or having read enough stories to understand that HDG is already a subversion of science fiction tropes, and subverting a subversion just leads you full circle to the original thing.
+### What about fandom crossovers?
+We do not encourage the creation of crossover media for many reasons, but the first is one of community safety. Writing HDG has a higher risk profile than you might realize, and one of mostly disabled queer trans women writing very earnest stories about their problematic kinks is a particularly juicy target for harassment. 
+
+HDG does not play well with other settings, and any crossover fic with  another world is going to read as hostile to fans of the other media. Most fandoms are not friendly towards age regressing imperialists that disregard power scaling charts. You will most likely, as many authors have learned in the past, bring the wrath of said fandoms down on yourself. Our greatest concern is that your actions will bring them down on all of us.
+
+We do encourage and celebrate expies: stories that draw from and pay homage to other sources while keeping them originating within the new context, such as No Fate But What They Make and the Terminator movies, are perfectly welcome.
+
+Finally, we are aware you can do it anyway, and no one is interested in trying to stop you even if we could. However, we do ask that crossovers that get made anyway not use the fandom or character tag for other media, to keep our community safe from wildfire exposure.
 ## Does the Affini, Terrans, or the setting as a whole have \_\_\_\_\_?
 Science fiction is a vast genre with a great many hallmark and iconic features, and at a glance it can be unclear which areas of technology exist within a setting and which laws of reality it is bending for the sake of the narrative.
 
@@ -133,6 +141,10 @@ No! It is a common social practice and marker that denotes a status of ownership
 As a default, the simple answer is no. In practice, it’s a bit more complicated. A floret can become digitized, and if that happens they no longer have a body to decay. They are effectively immortal. There are also other side-tangents that approach the topic from different angles; The bioimmortal AU where florets don’t die, and the post-ascension universe in the distant future where everyone comes back.
 ### What if two Affini disagree on how to take care of a sophont?
 They work it out! How they resolve the conflict is up to the author. Affini understand each other to be well-meaning, so if a disagreement does pop-up they have many possible approaches for peaceful resolution.
+### How does digitization work?
+Digitization is, broadly, the act of transitioning a sophont from an organic body into a digital existence. There are two ways this is done in the Compact:
+- Scan digitization, where the sophont's mind is scanned and essentially copied. This results in an ortet (the original organic sophont, unchanged by the process) and a ramet, the resulting digital sophont.
+- Overgrowth digitization, which is where a haustoric implant is carefully engineered and guided to replace, and digitize, a sophont's biology cell by cell. Unlike scan digitization, this does not result in two sophonts, and the digitized sophont has a fully continuous experience.
 ## Questions About Affini 
 ### What is Affini adolescence like?
 Affini experience a 0th bloom after being uplifted, but the details of what that looks like are kept deliberately vague for the same reason that all depictions of childhood within the Affini Compact are avoided. For more details check out [[writing-in-hdg|Writing in HDG]] and [[001-children-and-cgl|On Children, Age Regression, and CG/L Dynamics]].
@@ -172,7 +184,19 @@ What is Affini adolescence like?
 How do Compilers work?
 How does the fifth fundamental force work?
 What are the specifics of the human domestication treaty?_
+## Questions About Horses
+### Are horses real?
+Nobody really knows, but many theorize that yes, they do exist.
+### Can horses harm me?
+Only if you are a firstbloom with a particularly delicious looking apple-graft.
+### But seriously, what's the deal with horses?
+Starting all the way back in [Abscission](https://archiveofourown.org/works/44917270/), it's been a running joke that some Affini don't know what horses are. Does the Affini Compact, as a society and organizational system, know what horses are? Yes, absolutely! Can some individual Affini not know what horses are? Also absolutely! 
+The reasons for this are multifold: 
+First, it's because horses are weird. Their biology is baffling, and would certainly seem illogical to the Affini. They can only breath when running because their internal organs slide back and forth to work their diaphrams, for goodness sake!
+Secondly, it establishes that the Affini are alien to terrans. It very easily establishes a culture gap to be bridged between Affini and floret.
+Thirdly, it can be tied to Earth's ecological collapse and the inability for the planet to sustain large life outside of specialized environments like zoos. 
+Finally, it showcases that despite the extreme knowledge gap between the Terran Accord and the Affini Compact, that Affini are not all knowing and all powerful. Especially not individual affini. They can be wrong, they can be mistaken, they can be confident in it. After all, pobody's nerfect.
 ### Beyond the FAQ
 Got a question that can't be answered here? Come join us on the [Community Discord!](https://discord.gg/WgssQ6SR4q)
 ## Article Credit
-Written by Kanagen, SlyPrincess, and maintained by the Lorets.
+Written by the Lorets and Bookworms
