@@ -6,7 +6,7 @@ draft: false
 description: Answers to common questions folks have about the setting!
 Params:
   icon: "question"
-weight: 10
+weight: 15
 ---
 {{< aside faq_rinan_rae "Digital illustration of a rinan, a squirrel-like alien, wearing glasses and holding a book while standing on top of precariously stacked other books." >}}
     Art by Rae.
