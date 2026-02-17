@@ -4,7 +4,7 @@ date: 2024-10-30T00:00:00+00:00
 authors: The Coordinators
 draft: false
 description: A glossary of terms relating to the HDG setting and community.
-weight: 19
+weight: 60
 params:
   decoration: meta
 ---
