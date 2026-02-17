@@ -5,9 +5,7 @@ authors: The Lorets
 draft: false
 description: Human Domestication Guide Timeline
 ---
-Most HDG stories aren't specific about the order in which they happened but there are general eras that they are set in! These are very general time periods based on narrative usage. Folks like writing about terrans meeting gay plampts (and falling in kinky love) and these eras center around that time period because of that.
-
-Check out the Works page for the full list of canon works, spaning many of these eras!
+The HDG setting is, at a high level, marked by several time periods that stories can be set in. Within these time periods, exact granular events or "firsts" have not been defined. Instead, they represent high level eras that can be helpful tools for narrative use. It goes without saying that the eras focus on the domestication of humans, because the collision between hapless terrans and kinky plants is why we're all here after all!
 ## HDG Prehistory (prior to 2479 CE)
 
 Stuff happened, uh about 4 centuries of stuff since the present day, nothing is super concretely canon here. Some stuff that happened in this time includes: the discovery of exotic matters, terran jump drive got invented. Oh and Terra's biosphere collapsed, and global warming got really bad which accelerated the desire to be not on earth anymore. Eventually the Terran Accord formed an imperialist government that took over all the various nation states into one big capitalist empire.
