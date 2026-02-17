@@ -6,7 +6,7 @@ draft: false
 description: tbd
 Params:
   icon: "world"
-weight: 5
+weight: 40
 ---
 #
 The Local Group is a very large place! Consider that just within 500 light-years of Earth, roughly the volume occupied by the [[terran-accord|Terran Accord]] at the time of contact with the [[affini|Affini]], there are over _2 million stars_. Part of the beauty of HDG as a setting is that there will always be room for an entire solar system that hasn't been described before, full of problems no one's written about before, just waiting to be discovered by a reader. 
