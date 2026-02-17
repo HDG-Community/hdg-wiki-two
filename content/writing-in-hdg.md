@@ -4,6 +4,7 @@ date: 2024-10-30T00:00:00+00:00
 authors: The Lorets
 draft: false
 description: Guidelines for writing HDG according to pre-established setting requirements, out-of-narrative rules, and lore-based precedent.
+weight: 10
 Params:
   icon: "pen"
 ---
