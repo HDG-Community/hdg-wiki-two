@@ -4,7 +4,6 @@ date: 2024-11-05T00:00:00+00:00
 authors: Callisto, 4WheelSword, Kanagen, SlyPrincess
 draft: false
 description: Rinan Species HDG setting
-weight: 5
 ---
 
 > [!QUOTATION]

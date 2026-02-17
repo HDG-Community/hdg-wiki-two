@@ -4,7 +4,6 @@ date: 2024-11-03T00:00:00+00:00
 authors: Kanagen
 draft: false
 description: Powerful shapeshifting plant xenos and the self-appointed caretakers of all sophont life.
-weight: 1
 ---
 >[!QUOTATION]
 >“They can’t save everyone. They know they can’t. Even being careful like this isn’t a perfect solution. But they will always try to save everyone. There are no acceptable losses. As soon as they set a goal less than a hundred percent, their rounding error is worth trillions of lives. They have to make it their goal to save everyone. Every single one they lose is a whole lifetime they couldn’t bring joy to. It’s the greatest horror they can imagine.”
