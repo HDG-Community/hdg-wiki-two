@@ -6,7 +6,7 @@ draft: false
 description: Human Domestication Guide Timeline
 ---
 The HDG setting is, at a high level, marked by several time periods that stories can be set in. Within these time periods, exact granular events or "firsts" have not been defined. Instead, they represent high level eras that can be helpful tools for narrative use. It goes without saying that the eras focus on the domestication of humans, because the collision between hapless terrans and kinky plants is why we're all here after all!
-## HDG Prehistory (prior to 2479 CE)
+## Pre-contact (prior to 2479 CE)
 
 Approximately four centuries of undefined _stuff_ happened, from the present day leading up to 2479. A concrete canon timeline for this period hasn't been set in stone. 
 Some key events that occured in the time before the main HDG setting include:
