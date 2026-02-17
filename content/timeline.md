@@ -17,8 +17,7 @@ Eventually within the final century of this window, the Terran Accord formed an 
 As the setting is about kink with the affini, this isn't an era that has been deeply explored and outlined. Some of that vagueness is on purpose!
 ## Rise of the Accord (2479 - 2549)
 
-After the first signs of an xeno civilization (the Rinan Community), rumors sir for 3 years before confirmation that extraterrestrial life exists. Xenophobic paranoia is co-opted by the Accord's imperialist tendencies to pass the Terran Cosmic Navy Security Act, and the navy promptly commits an annexation and atrocities on the xeno civilization.
-There aren't really stories set during this time but many feature flash backs as this is the era during which most terran characters grew up!
+After the first signs of a xeno civilization were discovered known as the Rinan, rumors stirred for three years before confirmation was delivered that extraterrestrial life existed. Xenophobic paranoia was co-opted by the Accord's imperialist tendencies, and the navy promptly committed an annexation and atrocities on the Rinan. More information on the Rinan timeline can be found on the Rinan species page.
 ## Prelude to War (2549 - 2551)
 
 The Affini Compact arrives at the edge of terran space, they become a rumor in the outer colonies, OCNI begins many secret weapons projects after confirming their existence. The Navy ramps up recruitment and production of ships in anticipation of a new xeno threat to conquer. Affini formally begin their Cotyledon program, with lost dying terrans they find trapped around the edge of terran space.
