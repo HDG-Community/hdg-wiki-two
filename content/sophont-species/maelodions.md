@@ -4,6 +4,7 @@ date: 2026-02-17T00:00:00+00:00
 authors: Sheepwave
 draft: false
 description: Musical hivemind fruits.
+weight: 25
 ---
 {{< aside maelodion_green_sheepwave "A green fluit with six legs that split into twenty four fingers." >}}
     A standard Maelodion body plan.
@@ -11,27 +12,27 @@ description: Musical hivemind fruits.
 {{< /aside >}}
 
 > [!QUOTATION]
-> _"Perhaps I should teach you my first tongue. It is a beautiful language, with error correcting built into the very syntax of melody and rhyme.”
+> _"Perhaps I should teach you my first tongue. It is a beautiful language, with error correcting built into the very syntax of melody and rhyme.”_
 > 
-> “Oh, that's Maelodion right? They must have had an easy time understanding each other.”_
+> _“Oh, that's Maelodion right? They must have had an easy time understanding each other.”_
 > 
 > _“I was referring to the language the Affini developed for the Maelodions as part of domestication,” she remarked dryly. “Before that, generations of war over the subjective definitions of individual passages from certain ancient songs were common.”_
 > 
 > **Sheepwave's [_Good Sensory_](https://archiveofourown.org/works/58671715), Chapter 30**
 
-The Maelodions are dronekinky 3 foot tall musically inclined fruit xenos from the galaxy Andromeda. While they might be mistaken for an Affini due to being plantlike, they are quite different.
+The Maelodions are dronekinky three foot tall musically inclined fruit xenos from the galaxy Andromeda. While they might be mistaken for an Affini due to being plantlike, they are quite different.
 ### Quick Info
 **Homeworld**: Maelodia. Originally destroyed, but was reconstructed by the affini. It is a misty saltwater swampworld. Its name has no universally agreed upon Terran translation. Harmonia, Melody, or Maelodia might be used.
 **Native Gravity:** 0.4g  
 **Year Length:** 8 Terran standard years
 
-**Lifespan:** The original lifespan of a Maelodion was only a single season. Compact technology has extended this to centuriess, though it requires shedding of the physical body every few years. Despite this, most Maelodions choose a partly digital existience.
+**Lifespan:** The original lifespan of a Maelodion was only a single season. Compact technology has extended this to centuries, though it requires shedding of the physical body every few years. Despite this, most Maelodions choose a partly digital existience.
 **Circadian Rhythm:** None 
 **Domesticated:** ~19000 years before humans
 
 **Names:** Maelodion language is natively a melodic sequence. They generally take names that connect to famous musicions, instruments, or musical themes in the language they adopt, such as Lydian, Vivaldi, Beyonce, Aria, or Viola.
 ## Appearance & Physiology
-The physical body of a maelodion is  a sentient motile fruiting bodies that originate from non-sophont trees. They are about a meter tall when standing, with a slightly gourdlike central body, two sets of photoreceptive eyespots, a cluster of leaf like fibers at their base and top, and six flexible limbs. Their central body varies in texture between individuals, from feeling smooth and waxy like a watermelon, ribbed like a pumpkin, to fuzzy like a peach. 
+The physical bodies of maelodions are sentient motile fruiting bodies that originate from non-sophont trees. They are about a meter tall when standing, with a slightly gourdlike central body, two sets of photoreceptive eyespots, a cluster of leaf like fibers at their base and top, and six flexible limbs. Their central body varies in texture between individuals, from feeling smooth and waxy like a watermelon, ribbed like a pumpkin, to fuzzy like a peach. 
 
 They have six vine-like limbs that extend from their base, and bifurcate three times to end in 24 small manipulators, each time one third along the new segments’ length. the final pairs are about the length of human fingers, but can become thinner and stretch out to be about 6 inches long. They can be any color, and are just as moddable as any other xenospecies in the Compact.
 
@@ -49,6 +50,7 @@ Maleodions that commune in tight groups with each other and a single songtree ca
     A maelodion, standing next to a [[beeple|beeple]] and [[khetari|khetari]]
     Art by Sheepwave.
 {{< /aside >}}
+
 Maelodions that are in Terran space will lean towards societal roles that involve interacting with sequences of information in some way. The obvious role is musician, such as *Mx. O’Lydian and the Accidentals* in [Irregular Orbits](https://archiveofourown.org/works/57397966/chapters/153173902), but coding, mathematics, physics, writing, chemistry, and many other things fit within this definition. They do not see these pursuits as being fundamentally different from music, or more broadly as an expression of Song. 
 
 They tend to be strong language processors and usually have a good sense of humor, especially about being mistaken for affini. They are quick to debate, and tend to be very opinionated on seemingly inconsequential subjective matters.
@@ -74,7 +76,7 @@ The Maelodions were not a simple species to domesticate.
 > 
 > _“Yes.” Marsha answered bluntly._
 > 
-> **SlyLittlePrincess and Sheepwave's [_From Pawn To Princess_]([https://archiveofourown.org/works/58671715](https://archiveofourown.org/works/63477424)), Chapter 37**
+> **SlyLittlePrincess and Sheepwave's [_From Pawn To Princess_](https://archiveofourown.org/works/58671715), Chapter 37**
 
 While Maelodion weapons posed little physical threat against the Affini, their tactics, which did not value the lives of individuals, were deeply traumatic for affini to engage with. Unfortunately, ending the constant wars of the Maelodion Choirs and turning individual fruitbodies into florets was the easy part. The shared Song that each Maelodion carries within them was a far trickier puzzle. Since the Song itself was as their sentience, it could not just be replaced from scratch. But due to their semidigital nature, a feralist thought could rapidly be copied and transmit through large groups.
 
@@ -87,10 +89,9 @@ Maelodions in the present era generally fall within two categories: solo fruitbo
 > 
 > Further information in its context can be found in the primary source story of the Maelodions, which is [_Good Sensory_](https://archiveofourown.org/works/58671715) by Sheepwave.
 
-## Article Credit
-Article by Sheepwave.
-
 {{< image maelodion_vivaldi_sheepwave "A green Maelodion, sitting on a DJ table." >}}
     Vivaldi, from [_Surrogate Bloom_](https://archiveofourown.org/works/57195463?view_full_work=true).
     Art by Sheepwave
 {{< /image >}}
+## Article Credit
+Article by Sheepwave
