@@ -22,15 +22,16 @@ weight: 25
 
 The Maelodions are dronekinky three foot tall musically inclined fruit xenos from the galaxy Andromeda. While they might be mistaken for an Affini due to being plantlike, they are quite different.
 ### Quick Info
-**Homeworld**: Maelodia. Originally destroyed, but was reconstructed by the affini. It is a misty saltwater swampworld. Its name has no universally agreed upon Terran translation. Harmonia, Melody, or Maelodia might be used.
-**Native Gravity:** 0.4g  
+**Homeworld**: Maelodia. Originally destroyed, but was reconstructed by the affini. It is a misty saltwater swampworld. Its name has no universally agreed upon Terran translation. Harmonia, Melody, or Maelodia might be used.  
+**Native Gravity:**0.4g  
 **Year Length:** 8 Terran standard years
 
-**Lifespan:** The original lifespan of a Maelodion was only a single season. Compact technology has extended this to centuries, though it requires shedding of the physical body every few years. Despite this, most Maelodions choose a partly digital existience.
-**Circadian Rhythm:** None 
+**Lifespan:** The original lifespan of a Maelodion was only a single season. Compact technology has extended this to centuries, though it requires shedding of the physical body every few years. Despite this, most Maelodions choose a partly digital existience.  
+**Circadian Rhythm:** none  
 **Domesticated:** ~19000 years before humans
 
 **Names:** Maelodion language is natively a melodic sequence. They generally take names that connect to famous musicions, instruments, or musical themes in the language they adopt, such as Lydian, Vivaldi, Beyonce, Aria, or Viola.
+
 ## Appearance & Physiology
 The physical bodies of maelodions are sentient motile fruiting bodies that originate from non-sophont trees. They are about a meter tall when standing, with a slightly gourdlike central body, two sets of photoreceptive eyespots, a cluster of leaf like fibers at their base and top, and six flexible limbs. Their central body varies in texture between individuals, from feeling smooth and waxy like a watermelon, ribbed like a pumpkin, to fuzzy like a peach. 
 
