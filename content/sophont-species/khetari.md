@@ -4,6 +4,7 @@ date: 2024-11-03T00:00:00+00:00
 authors: Promilie
 draft: false
 description: Feathered, high-gravity cat xenos.
+weight: 15
 ---
 {{< aside khetari_stylized_promilie "A khetari looks behind herself towards the camera with a mischievous smile. She has a collar and a flower just below her tailfan." >}}
     A mischievous khetari floret.
