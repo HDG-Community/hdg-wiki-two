@@ -42,9 +42,10 @@ Beeple honey, being made mostly from the pollen of the xenodrug-producing flower
 The highly mutable nature of phyto-tech physiology makes beeple wildly variable not only in their appearance, but in durability as well. Beeple are capable of much more _intense_ forms of play than most xenosophonts, and some can come to expect (or demand) extreme treatment from affini to provide them with interesting experiences. Violently disassembling a beeple, flooding its brain with panic chemicals, and scrambling its ability to feel pleasure and pain might be considered by some beeple to be a good start to a lovely playdate.
 
 ## Culture & History
-> _“terrans got a, how you call it… dichotomy of intimacy going, like you get scared of the vulnerability but you need it like you need fucken’ air and water and light so bad you make soft toys to hug like they’re alive. and hey, i'm a soft toy you can hug_ and _i'm alive.” Mo squeezed him with two arms. Brion’s ribs creaked from the pressure._ This adorable little plush toy could throw me, _he thought._ Possibly the sofa, with me on it._
+> [!QUOTATION]
+> _“terrans got a, how you call it… dichotomy of intimacy going, like you get scared of the vulnerability but you need it like you need fucken’ air and water and light so bad you make soft toys to hug like they’re alive. and hey, i'm a soft toy you can hug_ and _i'm alive.” Mo squeezed him with two arms. Brion’s ribs creaked from the pressure. This adorable little plush toy could throw me, he thought. Possibly the sofa, with me on it._
 >
->_“terrans need a surrogate hugger. get that sense of intimacy from something that doesn’t look like they can pull rank on you. that’s me bud, i'm the teddy bug that hugs you back and breaks you like a twig.”"_
+>_“terrans need a surrogate hugger. get that sense of intimacy from something that doesn’t look like they can pull rank on you. that’s me bud, i'm the teddy bug that hugs you back and breaks you like a twig.”_
 > 
 > **Delcan's [_How A Floret Finds Out_](https://archiveofourown.org/works/60651835), Chapter 2**
 
