@@ -21,13 +21,13 @@ weight: 7
 Beeple are an insectile social species, and the first xenosophonts the Affini ever domesticated. They are short, soft, cute, cuddly, and completely safe. They are also immortal, drug-fueled, hedonistic omniphiles with no attachment to concepts of independence or sobriety.
 
 ### Quick Info
-**Homeworld**: Unknown, but the same homeworld as the Affini.
-**Home System**: The Core Worlds (Triangulum Galaxy)
+**Homeworld**: Unknown, but the same homeworld as the Affini  
+**Home System**: The Core Worlds (Triangulum Galaxy)  
 **Native Gravity:** Roughly 0.3g
 
-**Circadian Rhythm:** Variable
-**Lifespan:** Immortal.
-**Domesticated:** Universally.
+**Circadian Rhythm:** Variable  
+**Lifespan:** Immortal  
+**Domesticated:** Universally
 
 **Names:** Beeple have no standard naming convention; they take whatever name their owners, caretakers, or communities deem is suitable for them. They most often take names that will be easily used in the communities they join. Many beeple names in Terran will be intentionally uncapitalized, to emphasize their status as pets.
 Examples from HDG stories: bumble, macaroon, Montsechia
