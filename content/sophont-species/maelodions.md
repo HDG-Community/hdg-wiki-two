@@ -23,7 +23,7 @@ weight: 25
 The Maelodions are dronekinky three foot tall musically inclined fruit xenos from the galaxy Andromeda. While they might be mistaken for an Affini due to being plantlike, they are quite different.
 ### Quick Info
 **Homeworld**: Maelodia. Originally destroyed, but was reconstructed by the affini. It is a misty saltwater swampworld. Its name has no universally agreed upon Terran translation. Harmonia, Melody, or Maelodia might be used.  
-**Native Gravity:**0.4g  
+**Native Gravity:** 0.4g  
 **Year Length:** 8 Terran standard years
 
 **Lifespan:** The original lifespan of a Maelodion was only a single season. Compact technology has extended this to centuries, though it requires shedding of the physical body every few years. Despite this, most Maelodions choose a partly digital existience.  
