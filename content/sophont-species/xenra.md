@@ -69,4 +69,4 @@ During the Xenrani Domestication Campaign, xenoveterinarians aboard the *Cymbidi
 
 Upon further analysis, the *Cymbidium’s* cotyledon experts found that each xenra carried distinct chemical markers in their scent, which more often than not correlated to their Type. Learning this, the xenoveterinarians decided to cultivate and merge these hierarchies as an experiment on optimal structure for Xenrani society within the Affini Compact. With the majority of the xenra involved in this experiment happy within their social strata and those who were merely content—and vanishingly rarely discontented—presenting as prime candidates for domestication, the experiment was continued until it became a self-perpetuating nothoculture unique to the *Cymbidium*.
 ## Article Credit
-Article by AshInBloom, with credit to Holly Addler who created the Xenrani.
+Article by AshInBloom, with credit to Holly Adder who created the Xenrani.
