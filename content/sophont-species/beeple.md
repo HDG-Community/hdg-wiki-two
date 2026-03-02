@@ -8,7 +8,7 @@ weight: 7
 ---
 {{< aside buddybeeple_garbagewitchy "A soft paint style portrait of a beeple plushie with yellow and black fuzzy stripes and blue eyes." >}}
     Your adorable beeple buddy.
-    Art by Garbagewitchy.
+    Art by [Garbagewitchy](https://bsky.app/profile/garbagewitchy.bsky.social).
 {{< /aside >}}
 
 > [!QUOTATION]
