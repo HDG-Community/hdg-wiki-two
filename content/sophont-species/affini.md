@@ -24,7 +24,7 @@ The Affini are an ancient species, having been spacefaring for around 100,000 ye
 **Names:** Highly variable; typically drawn from local terminology for flora. In Terran space, this usually involves taking aspects of a Latin binomial name for a plant or plants and adjusting as necessary to make a name with a pleasing sound to the Terran ear. Sometimes, other names for plants, such as local colloquial names, are used. For example, Tsuga Sequi (for *tsuga,* a genus of hemlock pine trees and "sequi" for *sequoiadendron giganteum*, the giant redwood).
 
 Of course, some Affini are just named things like "Steve." That's fine too. 
-## Appearance & Physiology
+## Appearance and Physiology
 Affini are a morphologically-variable species of sophont plant-analogue organisms. They are heavily engineered and bear little resemblance, if any, to their ancestral form (discussed below); a modern affini is essentially a **phytotech** (plant-tech) cyborg consisting of a central core surrounded by vines, bark, and other foliage, all of which can be controlled and reshaped by the affini at any time. As a result, affini are functionally shapeshifters, able to remodel themselves however they wish. In practice, they often use this ability to mimic whatever sophont species they are interacting with, though some affini find a shape they particularly like and stick with it regardless of the local [[sophont-species|sophont]] population. 
 
 As a necessity of their physiology, affini are exceptional multitaskers. In addition, being so heavily engineered, they are almost always stronger, faster, and tougher than naturally evolved sophont species. On rare occasions, xenosophonts will be the physical equal of the average affini in one way or another; for occasions such as this, some affini augment their capabilities well beyond the standing norm. Most affini are able to sustain themselves on only nutritionally enhanced water, but some affini do consume plant or animal matter to sustain themselves as well. 
@@ -62,7 +62,7 @@ Because they are otherwise functionally immortal, and because timekeeping is hig
     The reblooming cycle of an affini.
     Art by Sheepwave.
 {{< /image >}}
-## Culture & History 
+## Culture and History 
 {{< aside pladdy_promilie "Digital painting of a terran with leopard biomods being held by a masculine affini with curled horns and armor-like bark. The terran is clutching at some foliage on the affini's chest while he pets behind her feline ears." >}}
     Art by Promilie.
 {{< /aside >}}
@@ -90,4 +90,4 @@ A **floret** is a member of a xenosophont species who has, voluntarily or otherw
 The **Affini Compact** is the greatest creation of the Affini, a self-sustaining non-hierarchical civilization connected by a bureaucracy that observes, records, coordinates, but does not control the lives of everyone and everything it touches. The Compact is nothing less than the manifestation of the collective wish of the Affini to make the universe a better place for all the adorable little xenosophonts that live within it.
 ## Article Credit
 Article by Kanagen.  
-The affini were created by GlitchyRobo for her story [_Human Domestication Guide_](https://archiveofourown.org/works/45190954/), which you may have heard of.
+The affini created by GlitchyRobo.
