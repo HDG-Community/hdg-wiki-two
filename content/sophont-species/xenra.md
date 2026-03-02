@@ -25,7 +25,7 @@ The **xenra (adjective form: xenrani)** are musky, canid-like sophonts originati
 **Domesticated:** 0-500 CE (~2500-2000 BT)  
 
 **Names:** Xenra naming conventions tend to focus on potent or acrid scents (Tar; Cinder; Smoke, Coffee), but can sometimes be based on nature or temperature related words (Ember, Bramble, Snow). Xerani often have nicknames, for example Tar is short for Tarantella Rubicon Lex Vesp.
-## Appearance & Physiology
+## Appearance and Physiology
 {{< aside xenra_hydrating_promilie "Black and white sketch of thirsty xenra" left >}}
     A xenra hydrating after physical activity. 
     Art by Promilie.
@@ -44,7 +44,7 @@ They don't commonly share space with Terrans, primarily due to the smell; their 
 While the majority are bipedal, some subspecies are quadrupedal instead. Notably, these are the only variant of xenrani that are sometimes born with a vaginal reproductive system. Bipedal xenrani— prior to the Xenrani Protectorate— all possessed a penis as well as breasts, while occasionally also being born with both sets of genitalia. As a canid-like species, xenra who possess a penis typically have a knot.
 
 They co-evolved with a species of goat-like humanoids called the quallin. Due to the quallin's resemblance to humanity, Terran space has become a popular tourist destination among xenrani independents and florets alike.
-## Culture & History
+## Culture and History
 
 Xenra are highly social sophonts who often express affection in ways that are degrading to others. As a species, they're deeply empathetic to one another, which is a part of why their pheromonal makeup broadcasts emotions so strongly. When scarcity was a concern, a group of xenra would sooner have everyone at half rations than the elderly, injured, or disabled members go without food at all.
 
