@@ -7,9 +7,9 @@ description: Powerful shapeshifting plant xenos and the self-appointed caretaker
 weight: 1
 ---
 >[!QUOTATION]
->“They can’t save everyone. They know they can’t. Even being careful like this isn’t a perfect solution. But they will always try to save everyone. There are no acceptable losses. As soon as they set a goal less than a hundred percent, their rounding error is worth trillions of lives. They have to make it their goal to save everyone. Every single one they lose is a whole lifetime they couldn’t bring joy to. It’s the greatest horror they can imagine.”
+>_“They can’t save everyone. They know they can’t. Even being careful like this isn’t a perfect solution. But they will always try to save everyone. There are no acceptable losses. As soon as they set a goal less than a hundred percent, their rounding error is worth trillions of lives. They have to make it their goal to save everyone. Every single one they lose is a whole lifetime they couldn’t bring joy to. It’s the greatest horror they can imagine.”_
 >
->EldritchAmy's [No Fate But What They Make](https://archiveofourown.org/works/67105741/chapters/174492911)
+>__EldritchAmy's [_No Fate But What They Make_](https://archiveofourown.org/works/67105741/chapters/174492911)__
 
 The Affini are an ancient species, having been spacefaring for around 100,000 years. Native to the Triangulum galaxy, they co-evolved with the [[beeple|Beeple]], the first species they domesticated. Once they turned their sight to the stars and discovered other sophonts waiting there for them, it was a foregone conclusion as far as they were concerned that those sophonts needed their help too. Since then, the Affini have spread across the Local Group, integrating Andromeda and its myriad satellite galaxies into the Affini Compact. Now, they're working on the Milky Way. Don't run, little flower. You'll be happier this way. 
 ### Quick Info 
@@ -24,7 +24,7 @@ The Affini are an ancient species, having been spacefaring for around 100,000 ye
 **Names:** Highly variable; typically drawn from local terminology for flora. In Terran space, this usually involves taking aspects of a Latin binomial name for a plant or plants and adjusting as necessary to make a name with a pleasing sound to the Terran ear. Sometimes, other names for plants, such as local colloquial names, are used. For example, Tsuga Sequi (for *tsuga,* a genus of hemlock pine trees and "sequi" for *sequoiadendron giganteum*, the giant redwood).
 
 Of course, some Affini are just named things like "Steve." That's fine too. 
-## Appearance & Physiology
+## Appearance and Physiology
 Affini are a morphologically-variable species of sophont plant-analogue organisms. They are heavily engineered and bear little resemblance, if any, to their ancestral form (discussed below); a modern affini is essentially a **phytotech** (plant-tech) cyborg consisting of a central core surrounded by vines, bark, and other foliage, all of which can be controlled and reshaped by the affini at any time. As a result, affini are functionally shapeshifters, able to remodel themselves however they wish. In practice, they often use this ability to mimic whatever sophont species they are interacting with, though some affini find a shape they particularly like and stick with it regardless of the local [[sophont-species|sophont]] population. 
 
 As a necessity of their physiology, affini are exceptional multitaskers. In addition, being so heavily engineered, they are almost always stronger, faster, and tougher than naturally evolved sophont species. On rare occasions, xenosophonts will be the physical equal of the average affini in one way or another; for occasions such as this, some affini augment their capabilities well beyond the standing norm. Most affini are able to sustain themselves on only nutritionally enhanced water, but some affini do consume plant or animal matter to sustain themselves as well. 
@@ -38,11 +38,11 @@ Affini senses are extremely sharp. While they commonly shape eyes that appear to
 As engineered plant-like organisms, affini are able to graft most other plant-like organisms to themselves. This is typically an outpatient operation, and functions much like grafting in terran plants; a vine is cut, the new graft is put in place and bound to the vine, and the two grow together. The affini integrates the new graft into their body and is able to manipulate it much like they do the rest of their body. 
 
 Grafts may have many purposes. Some are purely for fashion, with flowers or other visually distinctive plants added to the affini. Others will have a specific purpose; they may be a phytotech augmentation, extending the affini's capabilities beyond the norm (such as adding a digestive tract allowing them to digest food, for example). The most common example of this latter type of graft is a [[xenodrugs|xenodrug]] graft, which gives the affini a built-in means of delivering an appropriate dose of xenodrugs to a sophont. 
-### Biorhythm & Hypnotics
+### Biorhythm and Hypnotics
 All organisms have a biorhythm, the sum total of all the little motions of living: breathing, heartbeats, small movements, and so on. Affini are no different, and also have a biorhythm; however, unlike most organisms, the affini evolved a hypnotic biorhythm, and their engineered nature has augmented that natural hypnotic ability to extreme levels. As a result, all affini are naturally hypnotic, a trait they use to great effect in their [[florets-domestication|domestication]] of other sophont species. 
 
 An affini's eyes are a common focal point for this hypnosis, but it is far from the only tool in their arsenal. Their voices, which are polyphonic and highly musical, are also intrinsically hypnotic, and can easily entrance an unsuspecting xenosophont. 
-### Life Cycle & Reblooming 
+### Life Cycle and Reblooming 
 Ancestral affini, on the homeworld, once reproduced through a symbiotic relationship with [[beeple|beeple]], the sophont species they co-evolved with. By entrancing and domesticating proto-beeple, who would cuddle with them and become covered in their pollen, the proto-affini ensured that their pollen would be spread to other beeple and other affini. Pollination, as a result, has a somewhat lewd connotation in Affini society. This ancestral reproductive process is also the ultimate origin of the affini impulse to domesticate other sophont life.
 
 Modern affini are typically created through a process of uplifting nonsophont plant-like life forms. While the variety of plant they were uplifted from may influence the resulting affini (for example, a carnivorous plant may natively possess the capability to eat meat), the resulting sophont is still very much an affini.
@@ -62,7 +62,7 @@ Because they are otherwise functionally immortal, and because timekeeping is hig
     The reblooming cycle of an affini.
     Art by Sheepwave.
 {{< /image >}}
-## Culture & History 
+## Culture and History 
 {{< aside pladdy_promilie "Digital painting of a terran with leopard biomods being held by a masculine affini with curled horns and armor-like bark. The terran is clutching at some foliage on the affini's chest while he pets behind her feline ears." >}}
     Art by Promilie.
 {{< /aside >}}
@@ -90,4 +90,4 @@ A **floret** is a member of a xenosophont species who has, voluntarily or otherw
 The **Affini Compact** is the greatest creation of the Affini, a self-sustaining non-hierarchical civilization connected by a bureaucracy that observes, records, coordinates, but does not control the lives of everyone and everything it touches. The Compact is nothing less than the manifestation of the collective wish of the Affini to make the universe a better place for all the adorable little xenosophonts that live within it.
 ## Article Credit
 Article by Kanagen.  
-The affini were created by GlitchyRobo for her story [_Human Domestication Guide_](https://archiveofourown.org/works/45190954/), which you may have heard of.
+The affini created by GlitchyRobo.

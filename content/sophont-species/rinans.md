@@ -3,7 +3,7 @@ title: Rinans
 date: 2024-11-05T00:00:00+00:00
 authors: Callisto, 4WheelSword, Kanagen, SlyPrincess
 draft: false
-description: Rinan Species HDG setting
+description: Rinan Species
 weight: 10
 ---
 
@@ -24,13 +24,13 @@ weight: 10
 **Domesticated:** 2553s CE
 
 **Names:** Traditional Rinan names typically use short chirpy syllables (Examples: Li Li, Thala). Under occupation by the [[terran-accord|Terran Accord]], many Rinan adopted or were forced to accept [[terrans|Terran]] names. After joining the [[affini-compact|Affini Compact]] they are liberated and able to pick preferred names.
-## Appearance & Physiology
+## Appearance and Physiology
 Rinans (pronounced "RYE-nans") are a warm-blooded tetrapodal xenosophont species, standing upright approximately 1 meter tall and weighing around 20-25 kilograms. They have large dark eyes, non-prehensile tails, and fur covering a majority of their bodies (in a similar range of natural colors as human hair, and which similarly loses color upon reaching old age). Rinans are naturally nocturnal, with their large dark eyes evolved for night vision, and have 6 digits on each hand (and foot). Their fingers are laid out as follows: inner thumb, finger, middle thumb, two fingers connected by a partial webbing (referred to as the “handscoop”, possibly evolved for burrowing), outer thumb.
 
 While appearing superficially similar to some Terran species of animal (such as sugar gliders, rodents, or small marsupials), they are not taxonomically considered mammals. 
 
 Rinans recognize four sexes among themselves, and their conception of gender and family (or pack) derives from this understanding. A traditional Rinan pack consists of four adults and any dependent offspring who have yet to form packs of their own, composed of a senior male, a senior female, a junior male, and a junior female. Senior/junior, in this context, refers not to age but to size, as junior rinans (who are somewhat smaller than senior rinans) are able, in the abscence of a senior adult, to spontaneously transition to fill that role. 
-## Culture & History
+## Culture and History
 Rinans are naturally communal, and wider Rinan culture and history reflects this. At the time of Terran first contact in the 2480s, Nyrina had no countries or borders in the Terran sense, but instead had a singular world government known as the “Rinan Community”. Individual communities and social groupings (towns, villages, cities) formed the basis of society on Nyrina, and housing, food, and other resources were a shared responsibility with no concept of “private property” (in the economic sense). Networks of these communities would be connected by trade and gifting of resources, shared infrastructure (transit, power, etc), social links, and migration of people and families. 
 
 Rinans are omnivores, though many Rinans maintained a mostly or completely vegetarian diet in the pre-contact era. Traditional Rinan food sources included what Terrans might classify as grains, legume-like plants, and vegetables; the modern Rinan language makes no distinction, classifying all edible plantmatter as “fruit.” Meat was sourced from sustainable wild sources or community-maintained farms & fisheries, and by the modern pre-contact era “lab-grown” artificial proteins were also widely available.

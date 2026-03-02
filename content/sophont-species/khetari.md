@@ -29,7 +29,7 @@ The **khetari** are feathered, cat-like sophonts endemic to the Milky Way galaxy
 
 **Names:** Söen is a large and culturally diverse world, meaning there are easily as many khetari languages and naming conventions as there are terran ones.  
 Examples in the most commonly spoken languages: Yobai, Keeni, Toi-na, Gäraf, Juni.
-## Appearance & Physiology
+## Appearance and Physiology
 {{< aside khetari_m_f_promilie "Two khetari smile towards the camera. The female khetari's coloration is various shades of orange and brown. The male khetari's coloration is purple and white." left >}}
     A pair of female and male khetari showing off their differences in plumage.
     Art by Promilie.
@@ -43,7 +43,7 @@ Having originally evolved in the dry, dusty interior of Söen’s largest contin
 Because of their powerful and heavy bodies, khetari quickly learn to be very delicate with [[sophont-species|other xenosophonts]]. With weight and strength comparable to a terran tiger compacted into such a small frame (weighing in at anywhere between 120-260 kg), khetari [[florets-domestication|florets]] are usually closely monitored by their owners when interacting with other species. They like to love bite as a sign of affection, so a [[xenodrugs|xenodrug]]-soaked chewing vine is a great distraction to avoid accidental xenosophont injury.
 
 Their dense bodies do not handle low gravity environments well in the long term without [[haustoric-implant|haustoric implants]] or other biotech, so a large majority of independent khetari still live on Söen or on specialized fast-spinning habitation rings.
-## Culture & History
+## Culture and History
 {{< aside khetari_rae "A purple khetari about to pounce playfully. His feathered tailfan sweeps close to the camera, and his eyes are wide and trusting." >}}
     A playful male khetari.
     Art by Rae.
@@ -66,10 +66,10 @@ The peoples of Söen kept livestock in the form of large beetle-like animals, bu
 The khetari were formidable combatants on the ground, but they had no response to the Compact’s orbital spaceships and vastly superior technology. Within the space of a year and a half the entire planet was pacified and domesticated.
 
 The khetari’s most detrimental cultural vice was their propensity for warfare and violent domination, which the Compact put strong emphasis on dismantling. In the absence of violence and dominance, the khetari found other outlets for their competitive nature, leading to a cultural boom in fields like the arts, crafts and nonviolent sports. With the aid of affini technology and infrastructure they gained the opportunity to explore the galaxy, and in the modern day khetari can be found alongside their affini wardens even as far out as Rinan-Terran space.
-## Article Credit
-Article by Promilie, who both created the khetari and is their local lore custodian.
 
 {{< image khetari_ensemble_promilie "A group of eleven khetari with varying coloration, expressions, and clothing alongside a singular human with pale brown skin. A pale grey khetari with a smug expressions tugs the human along." >}}
     A collection of khetari from both before and after Söen's domestication.
     Art by Promilie.
 {{< /image >}}
+## Article Credit
+Article by Promilie, who both created the khetari and is their local lore custodian.

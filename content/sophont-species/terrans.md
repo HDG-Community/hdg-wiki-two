@@ -1,7 +1,7 @@
 ---
 title: Terrans
 date: 2026-02-03T00:00:00+00:00
-authors: [Promilie, SlyPrincess, and lorets]
+authors: Promilie, SlyPrincess, and lorets
 draft: false
 description: Terrans (humans) within the HDG setting
 weight: 5
@@ -44,7 +44,7 @@ Ancestral terrans clad themselves in animal skins and furs to protect themselves
 > [!AFFINI]
 > Terrans have a powerful packbonding instinct, known to them as anthropomorphism, which leads them to project human thoughts, emotions and characteristics on not only other sophonts, but also non-sapient animals and even inanimate objects. This instinct, combined with their natural pattern-recognition behavior, means that terrans will quickly form strong emotional attachments to just about anything by virtue of their natural neurology, where most xenosophonts would require external bonding enhancers. Affini owners are therefore advised to be conservative in their use of class-C xenodrugs on Terrans.
 
-## Culture & History
+## Culture and History
 For much of their history, Terrans lived in small, semi-nomadic bands largely organized along familial lines; however, about 12,500 BD, Terrans began a transition to sedentary, agricultural-based organization. This tendency spread out from several centers of activity concurrently, eventually overtaking the entirety of Terra. 
 
 Roughly 750 years BD, Terrans began to radically alter their environment due to mass adoption of industrialized production without sufficient safety protocols, leading to successive blights, climate change, and eventually mass extinctions and broader ecological collapse. This provided a strong motivation for Terrans to expand into neighboring star systems in the Orion Spur using rudimentary hypermetric displacement engines. 
@@ -81,4 +81,4 @@ The Terran Domestication Campaign, as all domestication campaigns do, began with
 ## Related Articles
 - [[terran-accord|Terran Accord]]
 ## Article Credit
-Appearance & Physiology section by Promilie.
+Appearance and Physiology section by Promilie. Maintained by the lorets.

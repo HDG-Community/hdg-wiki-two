@@ -32,7 +32,7 @@ The Maelodions are dronekinky three foot tall musically inclined fruit xenos fro
 
 **Names:** Maelodion language is natively a melodic sequence. They generally take names that connect to famous musicions, instruments, or musical themes in the language they adopt, such as Lydian, Vivaldi, Beyonce, Aria, or Viola.
 
-## Appearance & Physiology
+## Appearance and Physiology
 The physical bodies of maelodions are sentient motile fruiting bodies that originate from non-sophont trees. They are about a meter tall when standing, with a slightly gourdlike central body, two sets of photoreceptive eyespots, a cluster of leaf like fibers at their base and top, and six flexible limbs. Their central body varies in texture between individuals, from feeling smooth and waxy like a watermelon, ribbed like a pumpkin, to fuzzy like a peach. 
 
 They have six vine-like limbs that extend from their base, and bifurcate three times to end in 24 small manipulators, each time one third along the new segments’ length. the final pairs are about the length of human fingers, but can become thinner and stretch out to be about 6 inches long. They can be any color, and are just as moddable as any other xenospecies in the Compact.
@@ -46,7 +46,7 @@ The species has no sexes to speak of, and reproduces at the songtree scale. Frui
 A songtree is a tree somewhat like a mangrove, that uses a thick rubbery substance to absorb vibrations and reproduce them. Songtrees are not sophonts, but instead tend to be built into infrastructure like music clubs or dance halls.
 
 Maleodions that commune in tight groups with each other and a single songtree can form a communal identity called a Chorus, which blurs the lines between individuals significantly. An affini may get mods that allow them to act as a songtree for a chorus of maelodions, or implanted florets of other origins. While this mental alignment might be considered overwriting of the self to some other cultures, the maelodions that choose to become choruses do not make such distinctions.
-## Culture & History
+## Culture and History
 {{< aside maelodion_gold_sheepwave "A gold-colored maelodion, to the left of a beeple hovering midair, and a male khetari to the right." left >}}
     A maelodion, standing next to a [[beeple|beeple]] and [[khetari|khetari]]
     Art by Sheepwave.
