@@ -33,7 +33,7 @@ Examples: Brrdbtdak, Tekshtmaret, Tothtarri, Driknatht
 > Editor's Note: Vreeüti languages are impossible to pronounce without a syrinx and an appropriate resonating cavity (though biomods exist to allow species without native access to such structures to do so). Vreeüti languages are highly morphologically distant from Terran languages; therefore, any representation of a Vreeüti word in Terran writing systems is necessarily a rough transliteration, and any terran-pronounceable adaptation of Vreeüti languages (known by the umbrella prefix "Terransong") are approximations at best.  
 > 
 > All Vreeüti words in this article are transliterated based on the Rrrrchktüma language (in other words, Terransong Rrrrchktüma), which has the largest number of extant speakers. Terrans familiar with other Vreeüti languages (such as Rrrrtkaat or especially Rrrraü'ek, popularized by the program _Sabine and Selenipedium_) or their Terransong equivalents may adopt other conventions of transliteration.
-## Appearance & Physiology
+## Appearance and Physiology
 {{< image vreeut_uncouth_promilie "A detailed digital painting of a vreeüt. They have a speech bubble saying 'How uncouth!'" >}}
     Art by Promilie.
 {{< /image >}}
@@ -45,7 +45,7 @@ They have four pairs of eyes, two of which line their flanks and two of which si
 The ancestor species of the vreeüt were semiaquatic opportunistic carnivores, primarily piscivorous but perfectly able to ambush unwary prey at the shoreline or dig for bivalve analogues or eggs. Their medial limbs are highly adapted for digging, and bear large flat claws on four-fingers, along with a semi-opposable thumb for grasping large prey; on land, when not moving, vreeüt will often rest on these hands to better distribute their body weight, but do not walk on them. These limbs bear large feathers with extremely bright UV coloration, some of which shades into violet and even indigo highlights. Their foremost limbs are considerably smaller and more dextrous, with fully opposable thumbs and less developed feathers.
 
 Vreeüt possess a structure analogous to a gular sac, which they use to greatly amplify the volume of their calls. A fully grown vreeüt can generate sounds in excess of 130 decibels, though with little vocal finesse; such calls are only used for long-distance infrasonic signaling, or in some Vreeüti forms of performance art. While they lack a larynx per se, the Vreeüti pharynx is extremely flexible; like some Terran avians, Vreeüt are natural mimics, able to reproduce many sounds, and so most vreeüt find it quite easy to speak other languages, even ones that ordinarily require different anatomy to do so.
-## Culture & History
+## Culture and History
 {{< aside vreeut_swamp_promilie "A digital painting of a vreeüt slashing their way through a swamp, with a vreeüti city in the background." left >}}
     A vreeüt splashing through the swamps of Aü'tkcha. Art by Promilie.
 {{< /aside >}}
