@@ -32,7 +32,7 @@ Beeple are an insectile social species, and the first xenosophonts the Affini ev
 **Names:** Beeple have no standard naming convention; they take whatever name their owners, caretakers, or communities deem is suitable for them. They most often take names that will be easily used in the communities they join. Many beeple names in Terran will be intentionally uncapitalized, to emphasize their status as pets.
 Examples from HDG stories: bumble, macaroon, Montsechia
 
-## Appearance & Physiology
+## Appearance and Physiology
 As the first florets of the Compact, beeple have been around so long that they have no one single form factor. However, most beeple in Terran space, either coincidentally or on purpose, bear a striking resemblance to anthropomorphic Terran honeybees. They average around one meter in height, with fuzzy two-segmented bodies connected by a thick waist. They have six segmented limbs - two legs and four arms - with trilaterally symmetric hands ending in three short, stubby fingers.  Beeple heads are proportionally large for their size, and they have large compound eyes and short fuzzy antennae. Beeple are typically colored like Terran bees in yellow and black, but can be any color at all.
 
 Beeple anatomy has been carefully engineered over tens of thousands of years to maximize their capacity to be cute, adorable, and as cuddly as possible. Beeple are adapted to be appealing to both affini and xenosophonts alike. The specifics of their original physiology are intentionally left vague, but in their current state, they are not only maximally designed for adorability, but also for  susceptibility to affini manipulation and compatibility with xenodrugs.
@@ -41,7 +41,7 @@ Beeple honey, being made mostly from the pollen of the xenodrug-producing flower
 
 The highly mutable nature of phyto-tech physiology makes beeple wildly variable not only in their appearance, but in durability as well. Beeple are capable of much more _intense_ forms of play than most xenosophonts, and some can come to expect (or demand) extreme treatment from affini to provide them with interesting experiences. Violently disassembling a beeple, flooding its brain with panic chemicals, and scrambling its ability to feel pleasure and pain might be considered by some beeple to be a good start to a lovely playdate.
 
-## Culture & History
+## Culture and History
 {{< aside beeple_plastic "A green-coated beeple with red eyes." left >}}
     A cool green Beeple. 
     Art by [Plastic](https://bsky.app/profile/plastic-doodles.bsky.social).
