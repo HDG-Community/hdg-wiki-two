@@ -6,6 +6,10 @@ draft: false
 description: Rinan Species
 weight: 10
 ---
+{{< aside rinan_promilie "A rinan. A squirrel like xenosophont with a long tail, six fingers and a blue outfit." left >}}
+    A plucky Rinan.
+    Art by [Promilie](https://www.tumblr.com/hdgprom).
+{{< /aside >}}  
 
 > [!QUOTATION]
 > _"The Rinans I’d met were a curious sort, but their inquisitive nature led to projects borne of passion and a yearning to learn. Each compounded building was filled with projects, experiments that seemed to weave into the very architecture itself. Multi-sectioned buildings were strung and structured across the city, powered by technology that would take me years to fully comprehend. They weren’t just on the sides either, there were entire buildings that ran across streets, towing the line between genius and completely unsafe."_
@@ -21,15 +25,10 @@ weight: 10
 
 **Lifespan:** The natural wild Rinan lifespan is between 60-70 years, but with the aid of xenoveterinary science independents can live 100-140 years. [[florets-domestication|Florets]] can potentially live for 200 years.  
 **Circadian Rhythm:** 13.87 hours  
-**Domesticated:** 2553s CE
+**Domesticated:** 2553 CE
 
 **Names:** Traditional Rinan names typically use short chirpy syllables (Examples: Li Li, Thala). Under occupation by the [[terran-accord|Terran Accord]], many Rinan adopted or were forced to accept [[terrans|Terran]] names. After joining the [[affini-compact|Affini Compact]] they are liberated and able to pick preferred names.
 ## Appearance and Physiology
-{{< aside rinan_promilie "A rinan. A squirrel like xenosophont with a long tail, six fingers and a blue outfit." left >}}
-    A plucky Rinan.
-    Art by [Promilie](https://www.tumblr.com/hdgprom).
-{{< /aside >}}  
-
 Rinans (pronounced "RYE-nans") are a warm-blooded tetrapodal xenosophont species, standing upright approximately 1 meter tall and weighing around 20-25 kilograms. They have large dark eyes, non-prehensile tails, and fur covering a majority of their bodies (in a similar range of natural colors as human hair, and which similarly loses color upon reaching old age). Rinans are naturally nocturnal, with their large dark eyes evolved for night vision, and have 6 digits on each hand (and foot). Their fingers are laid out as follows: inner thumb, finger, middle thumb, two fingers connected by a partial webbing (referred to as the “handscoop”, possibly evolved for burrowing), outer thumb.
 
 While appearing superficially similar to some Terran species of animal (such as sugar gliders, rodents, or small marsupials), they are not taxonomically considered mammals. 
