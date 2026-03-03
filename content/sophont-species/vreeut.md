@@ -8,7 +8,7 @@ weight: 20
 ---
 {{< aside vreeut_stylized_promilie "A stylized illustration of a vreeüt looking at the viewer." >}}
     A curious vreeüt.
-    Art by Promilie.
+    Art by [Promilie](https://www.tumblr.com/hdgprom).
 {{< /aside >}}
 
 > [!QUOTATION]
@@ -30,12 +30,12 @@ The vreeüt are a [[florets-domestication|domesticated]] [[sophont-species|xenos
 **Names:** In [[terrans|terran]] languages, most vreeüt names are adapted into something pronounceable without a syrinx (see note below), featuring a lot of sharp, choppy consonantal sounds with lots of (but not universally) rounded vowels.  
 Examples: Brrdbtdak, Tekshtmaret, Tothtarri, Driknatht
 
-> Editor's Note: Vreeüti languages are impossible to pronounce without a syrinx and an appropriate resonating cavity (though biomods exist to allow species without native access to such structures to do so). Vreeüti languages are highly morphologically distant from Terran languages; therefore, any representation of a Vreeüti word in Terran writing systems is necessarily a rough transliteration, and any terran-pronounceable adaptation of Vreeüti languages (known by the umbrella prefix "Terransong") are approximations at best.  
+> [NOTE!] Vreeüti languages are impossible to pronounce without a syrinx and an appropriate resonating cavity (though biomods exist to allow species without native access to such structures to do so). Vreeüti languages are highly morphologically distant from Terran languages; therefore, any representation of a Vreeüti word in Terran writing systems is necessarily a rough transliteration, and any terran-pronounceable adaptation of Vreeüti languages (known by the umbrella prefix "Terransong") are approximations at best.  
 > 
 > All Vreeüti words in this article are transliterated based on the Rrrrchktüma language (in other words, Terransong Rrrrchktüma), which has the largest number of extant speakers. Terrans familiar with other Vreeüti languages (such as Rrrrtkaat or especially Rrrraü'ek, popularized by the program _Sabine and Selenipedium_) or their Terransong equivalents may adopt other conventions of transliteration.
 ## Appearance and Physiology
 {{< image vreeut_uncouth_promilie "A detailed digital painting of a vreeüt. They have a speech bubble saying 'How uncouth!'" >}}
-    Art by Promilie.
+    Art by [Promilie](https://www.tumblr.com/hdgprom).
 {{< /image >}}
 
 Vreeüt are hexapedal [dromaeosaurid](https://en.wikipedia.org/wiki/Dromaeosauridae) analogues from a star in the [Centaurus Arm](https://en.wikipedia.org/wiki/Scutum%E2%80%93Centaurus_Arm) of the Milky Way. They’re large, heavily built, ground-dwelling omnivores (preferring a heavily fish-or-meat based diet), averaging 4-5 meters in length from head to tail with hips roughly 1.5-1.8 meters in height, massing roughly 280-350 kilograms. Females are larger than males, with a shaggier coat of feather analogues. Both males and females appear relatively drab to humans, as their coloration is primarily in the ultraviolet part of the visible light spectrum.
@@ -47,7 +47,7 @@ The ancestor species of the vreeüt were semiaquatic opportunistic carnivores, p
 Vreeüt possess a structure analogous to a gular sac, which they use to greatly amplify the volume of their calls. A fully grown vreeüt can generate sounds in excess of 130 decibels, though with little vocal finesse; such calls are only used for long-distance infrasonic signaling, or in some Vreeüti forms of performance art. While they lack a larynx per se, the Vreeüti pharynx is extremely flexible; like some Terran avians, Vreeüt are natural mimics, able to reproduce many sounds, and so most vreeüt find it quite easy to speak other languages, even ones that ordinarily require different anatomy to do so.
 ## Culture and History
 {{< aside vreeut_swamp_promilie "A digital painting of a vreeüt slashing their way through a swamp, with a vreeüti city in the background." left >}}
-    A vreeüt splashing through the swamps of Aü'tkcha. Art by Promilie.
+    A vreeüt splashing through the swamps of Aü'tkcha. Art by [Promilie](https://www.tumblr.com/hdgprom).
 {{< /aside >}}
 Most vreeüt ancestor species were largely solitary hunters, who reared their young before sending them off to establish their own territories. Their immediate ancestor species, however, developed the practice of limited familial association and cooperative hunting beyond adolescence; as family units stuck together and applied their knack for problem-solving to survival, they became more successful, and rapidly proliferated. Within a hundred thousand years, they went from regional apex predator to dominant species on their homeworld of Aü'tkcha.
 
