@@ -14,7 +14,8 @@ weight: 15
 
 > [!QUOTATION]
 > "Chloë, you've accepted some understandable but incorrect ideas about who we are. We are the affini compact, and our goal is to bring abundance to all sophonts everywhere. We took you in because you were being hurt. That's over now."
-> Dame Harmony's [The Place Where We Can Stop Running](https://archiveofourown.org/works/58402522)
+>
+> __Dame Harmony's [_The Place Where We Can Stop Running_](https://archiveofourown.org/works/58402522)__
 
 HDG is not always the most straightforward of things at times, and the Lorets have received a great many questions we've strived to answer for folks over the past few years. This article is a compilation of many of the most common we receive, especially from newcomers to the setting.
 
