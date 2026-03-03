@@ -8,7 +8,7 @@ weight: 15
 ---
 {{< aside khetari_stylized_promilie "A khetari looks behind herself towards the camera with a mischievous smile. She has a collar and a flower just below her tailfan." >}}
     A mischievous khetari floret.
-    Art by Promilie.
+    Art by [Promilie](https://www.tumblr.com/hdgprom).
 {{< /aside >}}
 
 > [!QUOTATION]
@@ -32,7 +32,7 @@ Examples in the most commonly spoken languages: Yobai, Keeni, Toi-na, Gäraf, Ju
 ## Appearance and Physiology
 {{< aside khetari_m_f_promilie "Two khetari smile towards the camera. The female khetari's coloration is various shades of orange and brown. The male khetari's coloration is purple and white." left >}}
     A pair of female and male khetari showing off their differences in plumage.
-    Art by Promilie.
+    Art by [Promilie](https://www.tumblr.com/hdgprom).
 {{< /aside >}}
 Khetari have broad feline heads with long, triangular ears. Their powerful jaws and conical teeth are designed to crush the tough chitin of the insects and crustaceans that make up their diet. They have relatively long, thick necks and sloped shoulders, with wide arms ending in four paw-like fingers, tipped with non-retractable talon-like claws. Relative to terran cats, their torsos are short and wide, ending in a long, thick and somewhat stiffened tail with a feathered fan at its tip. The tail fan is heavily used to convey body language, such as quivering when the khetari feels joy or held high and fanned out when they feel threatened. Khetari lack eyebrows and use their ears to emote in their stead. They have digitigrade hind legs and are equally comfortable with bipedal or quadrupedal locomotion.
 
@@ -69,7 +69,7 @@ The khetari’s most detrimental cultural vice was their propensity for warfare 
 
 {{< image khetari_ensemble_promilie "A group of eleven khetari with varying coloration, expressions, and clothing alongside a singular human with pale brown skin. A pale grey khetari with a smug expressions tugs the human along." >}}
     A collection of khetari from both before and after Söen's domestication.
-    Art by Promilie.
+    Art by [Promilie](https://www.tumblr.com/hdgprom).
 {{< /image >}}
 ## Article Credit
 Article by Promilie, who both created the khetari and is their local lore custodian.

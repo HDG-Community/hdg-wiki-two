@@ -21,7 +21,8 @@ The Accord is run by a president that maintains the status quo for the corporati
 
 > [!QUOTATION]
 > _"Yet the Terran Accord had even more arbitrary restrictions on behaviour, both those explicitly enshrined in law and those implicitly coded into the power imbalance of the relationship between the rich and powerful and the common individual. The Terran Accord didn't allow individuals to make repairs to their own devices. One couldn't produce music or writing or art that was even marginally close to something a corporation had produced within an algorithmic margin of error. Nor could one protest against genuine horrors perpetrated by corporations or governments without risking one's own life. Simply existing in most spaces was a crime without paying for one's right to be there."_
-{title="" cite="https://archiveofourown.org/works/48096388" caption="AsphodelVeil, _Nurture & Acquisitions_"}
+>
+> __AsphodelVeil's [_Nurture & Acquisitions_](https://archiveofourown.org/works/48096388)__
 
 ## Known Megacorps
 

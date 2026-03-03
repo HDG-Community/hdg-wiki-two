@@ -13,9 +13,9 @@ weight: 20
 _Not to be confused with the shapeshifting plant aliens themselves, the [[affini|Affini]]._
 
 > [!QUOTATION]
-> While some of the rumors Dawn's Infinity had received had implied even more horrible things than the Terran Accord had ever implemented, Veil trusted in the stricture of legalese, if nothing else. If what the Affini Compact promised to provide for humans was true, it really may have been the end of a lifetime of stress; about paying bills, about making her next case, about losing access to her medications.
+> _While some of the rumors Dawn's Infinity had received had implied even more horrible things than the Terran Accord had ever implemented, Veil trusted in the stricture of legalese, if nothing else. If what the Affini Compact promised to provide for humans was true, it really may have been the end of a lifetime of stress; about paying bills, about making her next case, about losing access to her medications._
 > 
-> Fuckingterrify's [Ramifaction](https://archiveofourown.org/works/54481600/)
+> __Fuckingterrify's [_Ramifaction_](https://archiveofourown.org/works/54481600/)__
 
 The **Affini Compact** is a trans-galactic civilization originating in the Triangulum Galaxy, the primary cultural objective of which is the subordination and conservation of all sophont life in the universe under Affini care. With over 100,000 years of history and a territory spanning not only the Andromeda supergalaxy but also its galactic satellites, the Affini Compact has in recent years (roughly 500 years ago) begun the long-awaited process of bringing the Milky Way supergalaxy and its galactic satellites into the fold. 
 ## Introduction

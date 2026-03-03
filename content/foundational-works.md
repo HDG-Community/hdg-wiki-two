@@ -9,7 +9,7 @@ weight: 45
 > [!QUOTATION]
 > _“In a scifi space future, humanity has just lost a war to the Affini, a civilization of highly advanced plant aliens who really want to make cute, drugged up pets of their subjects..."_
 >
-> GlitchyRobo's [Human Domestication Guide](https://readonlymind.com/@GlitchyRobo/HumanDomesticationGuide), Original Description
+> __GlitchyRobo's [_Human Domestication Guide_](https://readonlymind.com/@GlitchyRobo/HumanDomesticationGuide), Original Description__
 
 Like many things, the Human Domestication Guide setting didn’t start as anything grand - just a small group of early authors collaborating with each other, building off of Glitchy’s original story. They worked closely, writing their own stories parallel to each other, talking and fleshing out the lore and themes of the world they were creating together. At first, there were only a handful of stories in conversation with each other, but that number only continued to grow and grow.
 
@@ -46,7 +46,7 @@ One of the earliest stories in the setting, *Abscission* took everything the ori
 ### Divaricated
 {{< aside divaricated_promilie "Digital illustration of a terran woman and a humanoid affini in an alien forest. The terran is wearing a military spacesuit and is climbing a tree, looking over her should at the affini. The affini is standing in the light while looking at the terran and gesturing towards her." >}}
     Katie and Thatch together on an unfamiliar world.
-    Art by Promilie.
+    Art by [Promilie](https://www.tumblr.com/hdgprom).
 {{< /aside >}}
 anna//bool - [Archive of Our Own](https://archiveofourown.org/works/41618376/)
 
@@ -70,7 +70,7 @@ Darkfalli - [Archive of Our Own](https://archiveofourown.org/works/41249283/)
 *Wellness Check* introduced the more common “ship-of-theseus” method of digitization, as well as was the first story to consider digitization as a focus. It is the archetypal wellness check, demonstrating that no matter how hard one struggles against the loving vines of the Affini Compact, *no one* slips through the cracks.
 ### No Gods, No Masters
 {{< aside ngnm_promilie "A stylized graphic depicting the main characters from No Gods No Masters. Five terrans stand shoulder to shoulder as four affini tower above and behind them." >}}
-    Art by Promilie.
+    Art by [Promilie](https://www.tumblr.com/hdgprom).
 {{< /aside >}}
 Kanagen - [Archive of Our Own](https://archiveofourown.org/works/44810131/)
 
@@ -92,5 +92,5 @@ To find further works in the setting, the bulk of stories nowadays can be found 
 
 {{< image beyond_foundation_sheepwave "A lineup of characters that represent a side spread of diverse authors and stories beyond the foundational works." >}}
     From left to right: Clover ([_The Place Where We Can Stop Running_](https://archiveofourown.org/works/58402522/)), Sage ([_A Part of Who I Am_](https://archiveofourown.org/works/59096608/)), Eleu ([_Behind the Veil_](https://archiveofourown.org/works/53993431)), Mo ([_How a Floret Finds Out_](https://archiveofourown.org/works/60651835/)), Elize ([_Affini Domestication Guide_](https://archiveofourown.org/works/44880088/)), Motzie ([_Guilty Pleasures_](https://archiveofourown.org/works/53173498/)), Rori ([_Irregular Orbits_](https://archiveofourown.org/works/57397966/)), Tsundra ([_Golden Ladder_](https://archiveofourown.org/works/53753800/)), Miss Adriss ([_Courtship_](https://archiveofourown.org/works/48043465/)), Alice ([_Through the Looking Glass_](https://archiveofourown.org/works/49969393/)), Princess ([_Dog of War_](https://archiveofourown.org/works/45445342/)), Akaiza ([_Ramifaction_](https://archiveofourown.org/works/54481600/)), Tenani ([_Florets of a Feather_](https://archiveofourown.org/works/54477985/)), Rosanna ([_Dancing to Her Rhythms_](https://archiveofourown.org/works/60961369/)), Avernus ([_Artful Manipulations_](https://archiveofourown.org/works/44920945/)), Poppy ([_Sweet Poppy_](https://archiveofourown.org/works/54560548/)), Fawny ([_Fawned Over_](https://archiveofourown.org/works/45877723/)), and Caladenia ([_A Beast at Bay_](https://archiveofourown.org/works/57997741/)).
-    Art by sheepwave.
+    Art by [Sheepwave](https://archiveofourown.org/users/sheepwave).
 {{< /image >}}

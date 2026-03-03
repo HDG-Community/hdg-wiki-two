@@ -60,11 +60,11 @@ Because they are otherwise functionally immortal, and because timekeeping is hig
 
 {{< image reblooming_sheepwave "A side-by-size timelapse of an affini reblooming, split across five depictions of the same affini. The first is ragged-looking, shedding yellowing leaves. The second has collapsed onto the ground and whose leaves have turned to brown decay. The third has reverted to just their core with their shed dead plant matter around them. The forth shows the core sprouting vines and other foliage as it regrows. Finally the fifth shows the new bloom of the affini walking alive, looking vibrant and healthy." >}}
     The reblooming cycle of an affini.
-    Art by Sheepwave.
+    Art by [Sheepwave](https://archiveofourown.org/users/sheepwave).
 {{< /image >}}
 ## Culture and History 
 {{< aside pladdy_promilie "Digital painting of a terran with leopard biomods being held by a masculine affini with curled horns and armor-like bark. The terran is clutching at some foliage on the affini's chest while he pets behind her feline ears." >}}
-    Art by Promilie.
+    Art by [Promilie](https://www.tumblr.com/hdgprom).
 {{< /aside >}}
 Affini society is synonymous with the [[affini-compact|Affini Compact]] — they are the animating force behind the Compact, and the culture in ultimate control of it. Their viewpoint defines reality within the Compact, and they exemplify the Compact's virtues.
 

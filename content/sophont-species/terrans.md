@@ -10,13 +10,13 @@ _Not to be confused by the primary polity terrans lived under at the time of the
 <br>
 {{< aside terrans_stylized_promilie "Digital illustration of two terrans, one a floret dressed in clothing made to look like leaves, the other a marine dressed in a futuristic military uniform holding a large gun." >}}
     A terran floret (left) and a Terran Cosmic Navy marine (right).
-    Art by Promilie.
+    Art by [Promilie](https://www.tumblr.com/hdgprom).
 {{< /aside >}}
 
 > [!QUOTATION]
-> “'So, you’re a Terran. What’s that like?' The xeno asked, still crunching away at the leg. Astrid had no idea how to respond to that, so she didn’t say anything. 'Done annyyyyyy… persistence hunting lately? Pack-bonded with any interesting inanimate objects?'"
+> _“'So, you’re a Terran. What’s that like?' The xeno asked, still crunching away at the leg. Astrid had no idea how to respond to that, so she didn’t say anything. 'Done annyyyyyy… persistence hunting lately? Pack-bonded with any interesting inanimate objects?'"_
 > 
-> Promilie's [_Florets of a Feather_](https://archiveofourown.org/works/54477985/chapters/138449368)
+> __Promilie's [_Florets of a Feather_](https://archiveofourown.org/works/54477985/chapters/138449368)__
 
 **Terrans** (also known as **humans**) are bipedal primates from the Orion Spur of the Milky Way. Generally, they stand between 1.5 and 2 meters, although those adapted for lower gravities are known to exceed this. Terrans are notable for their overland endurance, throwing abilities, their distinctive hair on their head, and their bonding instincts.
 ### Quick Info
