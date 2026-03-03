@@ -10,7 +10,7 @@ weight: 10
 > [!QUOTATION]
 > _"The Rinans I’d met were a curious sort, but their inquisitive nature led to projects borne of passion and a yearning to learn. Each compounded building was filled with projects, experiments that seemed to weave into the very architecture itself. Multi-sectioned buildings were strung and structured across the city, powered by technology that would take me years to fully comprehend. They weren’t just on the sides either, there were entire buildings that ran across streets, towing the line between genius and completely unsafe."_
 > 
-> Lagnia's [Independent Establishment](https://archiveofourown.org/works/65282485/)
+> __Lagnia's [_Independent Establishment_](https://archiveofourown.org/works/65282485/)__
 
 
 ### Quick Info
