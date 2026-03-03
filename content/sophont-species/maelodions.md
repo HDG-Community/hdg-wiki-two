@@ -8,7 +8,7 @@ weight: 25
 ---
 {{< aside maelodion_green_sheepwave "A green fluit with six legs that split into twenty four fingers." >}}
     A standard Maelodion body plan.
-    Art by Sheepwave.
+    Art by [Sheepwave](https://archiveofourown.org/users/sheepwave).
 {{< /aside >}}
 
 > [!QUOTATION]
@@ -49,7 +49,7 @@ Maleodions that commune in tight groups with each other and a single songtree ca
 ## Culture and History
 {{< aside maelodion_gold_sheepwave "A gold-colored maelodion, to the left of a beeple hovering midair, and a male khetari to the right." left >}}
     A maelodion, standing next to a [[beeple|beeple]] and [[khetari|khetari]]
-    Art by Sheepwave.
+    Art by [Sheepwave](https://archiveofourown.org/users/sheepwave).
 {{< /aside >}}
 
 Maelodions that are in Terran space will lean towards societal roles that involve interacting with sequences of information in some way. The obvious role is musician, such as *Mx. O’Lydian and the Accidentals* in [Irregular Orbits](https://archiveofourown.org/works/57397966/chapters/153173902), but coding, mathematics, physics, writing, chemistry, and many other things fit within this definition. They do not see these pursuits as being fundamentally different from music, or more broadly as an expression of Song. 
@@ -92,7 +92,7 @@ Maelodions in the present era generally fall within two categories: solo fruitbo
 
 {{< image maelodion_vivaldi_sheepwave "A green Maelodion, sitting on a DJ table." >}}
     Vivaldi, from [_Surrogate Bloom_](https://archiveofourown.org/works/57195463?view_full_work=true).
-    Art by Sheepwave
+    Art by [Sheepwave](https://archiveofourown.org/users/sheepwave).
 {{< /image >}}
 ## Article Credit
 Article by Sheepwave
