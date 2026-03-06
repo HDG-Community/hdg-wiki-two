@@ -18,11 +18,17 @@ As such, the Guide can never host a truly complete catalog of all known worlds �
 
 ### Hablis-9
 **Accord Moon | Former Mining Colony | Domesticated 2551**
-A former mining colony turned city state, Hablis-9 is one of several rocky moons orbiting the gas giant Orphan-3, near the coreward rim of the Terran Accord.  
+
+A former mining colony turned city state, Hablis-9 is one of several rocky moons orbiting the gas giant Orphan-3, near the coreward rim of the Terran Accord.
+
 *Created by SlyLittlePrincess. Appears in [Personhood.](https://archiveofourown.org/works/61913329)*
-### [[solstice|Solstice]]
+### Solstice
+*Main page: [[solstice|Solstice]]*
+
 **Accord Planet | Prision Colony | Domesticated 2554**
+
 Solstice (LAKE-211c) is a habitable garden world located roughly 450 light years from Sol in the Cygnus Constellation. Originally settled by a breakaway group of Martian Quakers in 2454, it was later bought out in a hostile takeover by the Osbourne-Clarke conglomerate and used as a prison colony in hopes of eventually transforming the planet into a viable colony with a permanent underclass of prisoners serving as a workforce. Following a violent uprising in 2551, the planet was abandoned by Osbourne-Clarke and bombarded from space by the Cosmic Navy as a test for an experimental hypermetric weapon, the _Jormungandr_ RKV.
+
 *Created by Kanagen. Appears in [No Gods, No Masters.](https://archiveofourown.org/works/44810131)*
 
 ## More Coming Soon!
