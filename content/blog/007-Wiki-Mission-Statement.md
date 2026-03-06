@@ -33,7 +33,7 @@ By and for the community means hosting resources, lists, and tools that help new
 The [Worlds and Locations](https://hdg.wiki/worlds-locations/) page will soon host an article on the setting's many core locations, along with a set of summaries of major ships, planets, and an extended glossary. A set of pages giving deep dives on community-made locations and ships will be accessible from there. This will be populated with a wide variety of information pulled from stories new and old, written by authors just like you who express interest in contributing!
 
 {{< aside floret_owner_pavizi "An affini, interweaving vines imitating human form. A terran floret, biomodded, estrogenized, living her best life." left >}}
-    Art by [Pavizi]([https://pavizi.tumblr.com/](https://pavizi.tumblr.com/ "https://pavizi.tumblr.com/")).
+    Art by [Pavizi](https://pavizi.tumblr.com/).
 {{< /aside >}}
 
 Earlier this week, an implementation plan for the wiki project was developed, a copy of which can be found [here](/downloads/HDGImplementationPlan.pdf). We hope that it inspires you to keep creating, building, drawing, painting, and writing. Work is underway, and we couldn’t be more excited! As you’ve possibly noticed, the [[story-hub|Story Hub]] has a landing page, the [[xenodrugs|xenodrugs]] page is up, we've added pages for several [[sophont-species|sophont species]], the site structure has begun to evolve, and things are generally on the move!
