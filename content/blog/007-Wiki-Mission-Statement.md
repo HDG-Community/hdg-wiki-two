@@ -12,7 +12,8 @@ You might have noticed some big things happening here on [HDG.wiki](https://hdg.
 
 Since the earliest days, the Human Domestication Guide Setting has been the name given to something far greater than any one story. This has been the promise greeting all new members to our space for many years now:
 
-> [!LORET] HDG is an open, collaborative setting, constantly being driven forward and expanded on by people _just like you_ sitting down and deciding to tell a story.
+> [!LORET]
+> HDG is an open, collaborative setting, constantly being driven forward and expanded on by people _just like you_ sitting down and deciding to tell a story.
 
 We believe in this promise, and are building a central resource in accordance with it. This is all part of an initiative we’re calling **“By the Community, for the Community.”** We’re looking forward to telling you all about it.
 
