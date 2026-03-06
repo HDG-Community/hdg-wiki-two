@@ -29,10 +29,6 @@ languages:
       series: series
     menu:      
       main:
-        - name: Search
-          params:
-            type: search
-          weight: 1
         - name: About HDG
           pageRef: /
           weight: 5
@@ -42,7 +38,10 @@ languages:
         - name: Writing
           pageRef: /writing-in-hdg
           weight: 15
-
+        - name: Search
+          params:
+            type: search
+          weight: 20
 
 outputs:
   home:
