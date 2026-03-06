@@ -12,7 +12,7 @@ You might have noticed some big things happening here on [HDG.wiki](https://hdg.
 
 Since the earliest days, the Human Domestication Guide Setting has been the name given to something far greater than any one story. This has been the promise greeting all new members to our space for many years now:
 
-> HDG is an open, collaborative setting, constantly being driven forward and expanded on by people _just like you_ sitting down and deciding to tell a story.
+> [!LORET] HDG is an open, collaborative setting, constantly being driven forward and expanded on by people _just like you_ sitting down and deciding to tell a story.
 
 We believe in this promise, and are building a central resource in accordance with it. This is all part of an initiative we’re calling **“By the Community, for the Community.”** We’re looking forward to telling you all about it.
 
@@ -31,11 +31,11 @@ By and for the community means hosting resources, lists, and tools that help new
 *To provide an example:*
 The [Worlds and Locations](https://hdg.wiki/worlds-locations/) page will soon host an article on the setting's many core locations, along with a set of summaries of major ships, planets, and an extended glossary. A set of pages giving deep dives on community-made locations and ships will be accessible from there. This will be populated with a wide variety of information pulled from stories new and old, written by authors just like you who express interest in contributing!
 
-Earlier this week, an implementation plan for the wiki project was developed, a copy of which can be found [here](/downloads/HDGImplementationPlan.pdf). We hope that it inspires you to keep creating, building, drawing, painting, and writing. Work is underway, and we couldn’t be more excited! As you’ve possibly noticed, the [[story-hub|Story Hub]] has a landing page, the [[xenodrugs|xenodrugs]] page is up, we've added pages for several [[sophont-species|sophont species]], the site structure has begun to evolve, and things are generally on the move!
-
 {{< aside floret_owner_pavizi "An affini, interweaving vines imitating human form. A terran floret, biomodded, estrogenized, living her best life." left >}}
     Art by [Pavizi]([https://pavizi.tumblr.com/](https://pavizi.tumblr.com/ "https://pavizi.tumblr.com/")).
 {{< /aside >}}
+
+Earlier this week, an implementation plan for the wiki project was developed, a copy of which can be found [here](/downloads/HDGImplementationPlan.pdf). We hope that it inspires you to keep creating, building, drawing, painting, and writing. Work is underway, and we couldn’t be more excited! As you’ve possibly noticed, the [[story-hub|Story Hub]] has a landing page, the [[xenodrugs|xenodrugs]] page is up, we've added pages for several [[sophont-species|sophont species]], the site structure has begun to evolve, and things are generally on the move!
 
 This is your website, and we can’t wait to get to work. We have many features in discussion and a roadmap ahead of us, but our guiding principle is that the wiki should carve out a place for community submissions wherever possible. The exact mechanism for submissions is still being determined, but our goal is to act as archivists and moderators of a community resource. It is most likely that we will be using the  [HDG Community Discord](https://discord.hdg.wiki/) as our submissions hub, once those aspects are ready. Come join us if you are interested in being a part of the shared project!
 
