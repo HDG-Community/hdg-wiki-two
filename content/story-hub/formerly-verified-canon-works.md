@@ -1,4 +1,14 @@
-
+---
+title: Formerly Verified Canon Works
+date: 2026-03-06T00:00:00+00:00
+authors: HDG Wiki Team
+draft: false
+description: Archival Canon Works Page.
+params:
+  decoration: meta
+  sidebar:
+    exclude: true
+---
 Once, the setting was much smaller. It was possible, when there were just a dozen or two stories, for the lorets to collaboratively verify the canonicity of all of them. This stopped being feasible, but this list is kept as an archive of an earlier era, and is presented in order by date.
 
 - [Human Domestication Guide](https://readonlymind.com/@GlitchyRobo/HumanDomesticationGuide/) by GlitchyRobo. In a scifi space future, humanity has just lost a war to the Affini, a civilization of highly advanced plant aliens who really want to make cute, drugged up pets of their subjects. A human, the warship pilot Elvira, has just been captured & delivered to her new mistress.
