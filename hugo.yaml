@@ -33,24 +33,15 @@ languages:
           params:
             type: search
           weight: 1
-        - name: Blog
-          pageRef: /blog
-          weight: 2
-        - name: Community
-          pageRef: community
-          weight: 3
-        - name: FAQ
-          pageRef: faq
-          weight: 4
         - name: About HDG
           pageRef: /
-          weight: 5 
-        - name: Glossary
-          pageRef: /glossary
-          weight: 6
-        - name: Xenodrugs
-          pageRef: xenodrugs
-          weight: 7
+          weight: 5
+        - name: Stories
+          pageRef: /story-hub
+          weight: 10
+        - name: Writing
+          pageRef: /writing-in-hdg
+          weight: 15
 
 
 outputs:
