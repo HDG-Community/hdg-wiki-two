@@ -14,7 +14,7 @@ weight: 13
 > [!QUOTATION]
 > *“Terran space was increasingly popular for the xenrani people due to their resemblance to a certain prey species from Quani—their homeworld—and Moira and Cinder had always been of the wandering sort. Pair that with their pheromones, and they tended to attract a bit of attention.”*
 > 
-> **Holly Addler and Fluxom’s [*Be My Valentine*](https://archiveofourown.org/works/72373636/chapters/188449786), Chapter 1**
+> **Holly Adder and Fluxom’s [*Be My Valentine*](https://archiveofourown.org/works/72373636/chapters/188449786), Chapter 1**
 
 The **xenra (adjective form: xenrani)** are musky, canid-like sophonts originating from the Andromeda galaxy resembling Terran foxes, though some phenotypes present more similarly to other canids such as wolves, coyotes, or maned wolves.
 ### Quick Info
@@ -24,7 +24,7 @@ The **xenra (adjective form: xenrani)** are musky, canid-like sophonts originati
 **Circadian Rhythm:** 34 hours  
 **Domesticated:** 0-500 CE (~2500-2000 BT)  
 
-**Names:** Xenra naming conventions tend to focus on potent or acrid scents (Tar; Cinder; Smoke, Coffee), but can sometimes be based on nature or temperature related words (Ember, Bramble, Snow). Xerani often have nicknames, for example Tar is short for Tarantella Rubicon Lex Vesp.
+**Names:** Xenra naming conventions tend to focus on potent or acrid scents (Tar; Cinder; Smoke, Coffee), but can sometimes be based on nature or temperature related words (Ember, Bramble, Snow). Xenrani often have nicknames, for example Tar is short for Tarantella Rubicon Lex Vesp.
 ## Appearance and Physiology
 {{< aside xenra_hydrating_promilie "Black and white sketch of thirsty xenra" left >}}
     A xenra hydrating after physical activity. 
