@@ -49,5 +49,5 @@ These are all community-run open lists that anyone can add their stories to for 
 - [The Boylikers' HDG](https://archiveofourown.org/collections/Boyliker_HDG)
 - [Therianism Furry and Otherkin HDG](https://archiveofourown.org/collections/Therian_HDG)
 ## Archival Collections
-- [[foundational-works|The Foundational Works]]: Seven influential stories that represent the early setting as it existed in 2021-2022 before HDG moved to AO3. No new stories will be added, but serves as a curated archive of where the setting once was.
-- [[formerly-verified-canon-works|The Formerly Verified Canon Works]]: A fully-deprecated list of stories that were once approved by the lorets. No new stories will be added, but serves as a curated archive of where the setting once was.
+- [[foundational-works|The Foundational Works]]: Seven influential stories that represent the early setting as it existed in 2021-2022 before HDG moved to AO3. No new stories will be added, but serves as a curated archive of setting history.
+- [[formerly-verified-canon-works|The Formerly Verified Canon Works]]: A fully-deprecated list of stories that were once approved by the lorets. No new stories will be added, but serves as a curated archive of setting history.
