@@ -6,12 +6,10 @@ authors:
     - name: Teagan and the Lorets
       link: 
       image: /img/staff/staff_teagan.png
-draft: true
+draft: false
 description: Changes to the Lorets' approach to the curation of the HDG setting.
 Params:
   decoration: meta
-  sidebar:
-    exclude: true
 ---
 
 _Note - This article was originally published to the old wiki and makes references to that version of the site, to clear up any confusion._
