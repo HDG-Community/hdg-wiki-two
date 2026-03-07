@@ -50,6 +50,13 @@ Fungal xenosophonts resembling Terran sloths, but with large, spectacular myceli
 Winter-adapted xenosophonts reminiscent of bovines, with bipedal frames, heavy fur, and a trio of horns—two on the crown and one on the nose. Affectionate, polyamorous, and communal by nature, the Cyn began their own campaign of domestication decades prior to their contact with and subsequent eager submission to the Affini. They express themselves heavily through body art, shaving patterns into their fur and carving them into their horns.
 
 *Created by [LadyIridia.](https://archiveofourown.org/users/LadyIridia/pseuds/LadyIridia)*
+### Erefax
+
+**Milky Way | ~500BT**
+
+A quadruped ovine species of large stature, known affectionately to many florets as "sheeposaurs." The Erefax have ceratopsid crests and horns, as well as prehensile tongues that they use to manipulate tools and the world around them. Their most notable physical aspect is the lanolin of their wool, which evolved to contain significant quantities of paralytics and sedatives to deter predators. Erefax wool is prized in the Compact as "dollwool". Herds and large families are the core of Erefax society, and they value a slow-paced, methodical way of living. The oldest Erefax still remember a time before the Compact, so Erefax culture is still grappling with the implications of Domestication.
+
+*Created by otterpopd, Raeve_Noir, and RocketMermaid23. Appear in [Shear Bliss.](https://archiveofourown.org/works/71967226)*
 ### Khetari
 *Main Page: [[khetari|Khetari]]*
 
@@ -138,6 +145,7 @@ Not all sophonts have been given enough detail for a character to be made with t
 > [!LORET]
 > As this page is a **Work In Progress,** we have added just three examples we had ready below to showcase their formatting. We can't wait to add more!
 
+- **Al'yssrians,** friendly avian sophonts that lived in an early Industrial-era society when the Compact discovered them. Al'yssrians enjoy spicy foods, singing/mimicking voices, and the feeling of warm wind under their wings. By PyxxieStyxx, [Five Lives](https://archiveofourown.org/works/48855070)
 - **Cloudhoppers**: Small flying avian xenosphonts native to the Andromeda galaxy. Highly gregarious, they live in colonies and are rarely domesticated solo. By Kanagen, [The Floret In The Mirror.](https://archiveofourown.org/works/50435179)
 - **Rudon:** A sexually trimorphic species of reptilians with a rich artistic history that had technologically plateaued before industrialization when the Affini arrived. By SlyLittlePrincess, [From Pawn To Princess](https://archiveofourown.org/works/63477424).
 - **Racharrhiin:** An arachnid species from a resin-covered planet in the Triangulum galaxy. Racharrhiin have a natural _drive_ to spend their entire existence focusing on creative projects, often years or even decades at a time. By [EldritchAmy](https://archiveofourown.org/users/EldritchAmy).
