@@ -21,7 +21,7 @@ Params:
 > 
 > _“Mostly hydrogen, carbon, nitrogen and oxygen, with less than one percent of other trace elements. Though I assume you meant to ask what it will do. How familiar are you with xenodrug classifications?”_
 >
-> - Sheepwave's [Good Sensory](https://archiveofourown.org/works/58671715/)
+> __Sheepwave's [_Good Sensory_](https://archiveofourown.org/works/58671715/)__
 
 Xeno (_non-affini_) drugs (_medicine or other substance that has a physiological effect when introduced into the body._)
 
