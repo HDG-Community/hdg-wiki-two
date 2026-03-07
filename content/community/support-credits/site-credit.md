@@ -1,8 +1,10 @@
 ---
-title: Site Credits
+title: Legacy Site Credits
 date: 2023-01-01T00:00:00+00:00
 draft: false
-description: The folks behind the magic!
+description: Legacy Site Credits for the HDG Wiki.
+params:
+  decoration: meta
 ---
 > [!LORET]
 > Without the following folks, their efforts, technical expertise, and overall dedication to the community, this site would not be possible!
