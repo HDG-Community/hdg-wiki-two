@@ -44,7 +44,7 @@ Obviously, this is not the case in the Affini Compact. The Affini do not tolerat
 
 On a purely Doyleist level, of course, HDG is overwhelmingly written by neurodiverse creators. We write what we know, from our own perspectives. Consequently, a great many of our characters inherit our neurodiverse traits, including many affini. We center neurodiverse narratives in HDG because it speaks to who we are. There are probably neurotypical (or at least, inasmuch as neurotypical folks exist as opposed to folks closer to the "ideal" on the spectrum are able to fake it convincingly and without strain) folks in the community, certainly in the readership if not overwhelmingly on the creative side, and they are absolutely welcome in the community, but much like with asexuality, we do ask that those who don't consider themselves to be part of the neurodiverse community remember whose space they're in when picking up the pen to write. 
 ### Utopianism 
-There's no child in the basement. Sorry. Wrong story. 
+There's no child in the basement. Sorry. Wrong story.
 
 To be a little less glib about it: Yes, the Affini are an empire, endlessly expanding, forcibly integrating species they encounter into their all-consuming quest to care for all sophont life. No, they are not doing it with any ulterior motive in mind. When they say "we're here to help," they mean it. They just also don't take no for an answer. 
 
