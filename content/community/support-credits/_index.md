@@ -14,5 +14,5 @@ The following articles include information regarding the server, and credit for 
 [[habtix|Habtix Information]] - Information on the server ticket system
 
 ## Credits
-[[technical-credit|Technical Credits]] - Information on the tools used to build the website
+[[technical-credit|Technical Credits]] - Information on the tools used to build the website  
 [[site-credit|Legacy Site Credits]] - Special thanks to the legacy contributors whose technical expertise and dedication to the community made this possible.
