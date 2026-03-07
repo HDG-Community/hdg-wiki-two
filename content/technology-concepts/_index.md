@@ -1,6 +1,6 @@
 ---
 title: Technology and Concepts
-date: 2024-11-03T00:00:00+00:00
+date: 2026-03-07T00:00:00+00:00
 authors: HDG Wiki Team
 draft: false
 description: The technology and concepts that appear in the HDG setting.
