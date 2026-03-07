@@ -4,6 +4,8 @@ date: 2024-11-05T00:00:00+00:00
 authors: The Clerks
 draft: false
 description: Information on use of the ticketing system on the HDG community server.
+params:
+  decoration: meta
 ---
 _This article covers information regarding the [HDG Community Server](https://discord.gg/WgssQ6SR4q)._
 ## HabTix Bot for Discord

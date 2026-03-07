@@ -7,6 +7,8 @@ description: Information on the setting themes.
 weight: 2
 params:
   icon: book
+  params:
+  decoration: meta
 ---
 Fiction has themes. Even if you're not trying to (or even if you're aggressively trying not to), when you put pen to paper to create a narrative you are touching on the things that inform the story, inform how you the writer are interacting with the story, and how the reader will interact with the story. This is true even if you're just writing smut. 
 

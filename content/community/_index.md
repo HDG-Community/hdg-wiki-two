@@ -7,6 +7,7 @@ description: Information on the HDG community and where to talk about HDG!
 weight: 2
 params:
   icon: question
+  decoration: meta
 ---
 Welcome to the HDG Community Wiki! 
 

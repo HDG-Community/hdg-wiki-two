@@ -2,7 +2,9 @@
 title: Technical Credits
 date: 2023-01-02T00:00:00+00:00
 draft: false
-description: The inner workings!
+description: Technical credits for the HDG Wiki
+params:
+  decoration: meta
 ---
 > [!LORET]
 > Websites aren't made of magic! Here's the software, tools, and fonts that make the pixels you're looking at right now!
