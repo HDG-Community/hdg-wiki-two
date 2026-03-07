@@ -1,5 +1,5 @@
 ---
-title: Writing in HDG
+title: Writing Hub
 date: 2024-10-30T00:00:00+00:00
 authors: HDG Wiki Team
 draft: false
