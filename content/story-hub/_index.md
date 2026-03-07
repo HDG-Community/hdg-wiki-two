@@ -7,7 +7,7 @@ description: The HDG community story hub.
 params:
   decoration: meta
   icon: story
-weight: 80
+weight: 5
 ---
 This landing page is still very much a **work in progress** and will likely change dramatically. There is something big we are working on we can't wait to share, but In the meantime why not check these out:
 - **[The HDG tag on AO3](https://archiveofourown.org/tags/Human%20Domestication%20Guide/works)** - This is where the vast majority of HDG stories are being posted today. The setting grows by dozens of stories per week, so it's always fun to check out what's new!
