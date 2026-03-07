@@ -49,5 +49,5 @@ The HDG.Wiki Team
 
 {{< image sage_cyprassi_lucislibari "An aquatic affini and doll floret pair." >}}
     Sage(He/Him) and Cyprassi(He/Fae). 
-    Art from [A Part Of Who I Am](https://archiveofourown.org/works/59096608) by [LucisLibari](https://www.tumblr.com/moon-floret)
+    Art from [A Part Of Who I Am](https://archiveofourown.org/works/59096608) by [moonfloret](https://www.tumblr.com/moon-floret)
 {{< /image >}}
