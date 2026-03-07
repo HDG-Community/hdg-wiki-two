@@ -6,7 +6,7 @@ draft: false
 description: All of our blog posts
 cascade:
   type: blog
-weight: 2
+weight: 40
 Params:
   icon: "book"
 ---
