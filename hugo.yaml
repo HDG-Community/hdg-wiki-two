@@ -30,7 +30,7 @@ languages:
     menu:      
       main:
         - name: About HDG
-          pageRef: /
+          pageRef: /community
           weight: 5
         - name: Stories
           pageRef: /story-hub
