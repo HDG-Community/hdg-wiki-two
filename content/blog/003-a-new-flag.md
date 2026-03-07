@@ -7,11 +7,13 @@ authors:
     - name: Teagan
       link: 
       image: /img/staff/staff_teagan.png
-draft: false
+draft: true
 description: A diegetic look at the history of the flag of the Terran Accord.
 type: blog
 Params:
   decoration: meta
+  sidebar:
+    exclude: true
 ---
 *Excerpt from **Prelude to Protectorate: The Rise & Fall of the Final Terran Accord** (Sillinvalina and Chelsie Porax, 132 DE):*
 
