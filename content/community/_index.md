@@ -1,12 +1,12 @@
 ---
-title: Community
+title: About HDG
 date: 2024-11-05T00:00:00+00:00
 authors: Kanagen
 draft: false
 description: Information on the HDG community and where to talk about HDG!
-weight: 5
+weight: 2
 params:
-  icon: world
+  icon: question
 ---
 If you're here, reading this, then you've probably at least heard of HDG. You may not, however, have really had it all explained to you! This page will give you a crash course in what the HDG Community is, its various permutations, and what we're even doing here. 
 
