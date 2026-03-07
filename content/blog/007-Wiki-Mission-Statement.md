@@ -47,7 +47,7 @@ The one we all write in, together.
 *With love in our hearts,*
 The HDG.Wiki Team
 
-{{< image sage_cyprassi_lucislibari "An aquatic affini and doll floret pair." >}}
+{{< image sage_cyprassi_moonfloret "A terran and affini share an intimate moment." >}}
     Sage(He/Him) and Cyprassi(He/Fae). 
     Art from [A Part Of Who I Am](https://archiveofourown.org/works/59096608) by [moonfloret](https://www.tumblr.com/moon-floret)
 {{< /image >}}

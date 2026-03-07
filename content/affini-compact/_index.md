@@ -25,6 +25,9 @@ The long memory and cultural mania for [[florets-domestication|domestication]] c
 ### Universal Domestication
 _Main Article: [[florets-domestication|Florets & Domestication]]_
 
+{{< aside bath_pavizi "An affini bathing a floret." left >}}
+    An affini bathing a floret. Art by [Pavizi](https://pavizi.tumblr.com/).
+{{< /aside >}}
 The purpose of the Compact is nothing less than to ensure that every sophont in the universe is cared for to the highest possible standard, is able to self-actualize and become the best version of themself, and to be as happy as is possible. Having had a great deal of time to think about how best to tackle this problem, the Affini have long since concluded that the optimal answer is universal domestication - in other words, for all other sophonts in the universe to accept that the Affini know best, that they naturally belong in charge, and that everyone will agree that it's better this way. 
 
 The really irritating part about this ideology, for those on the outside looking in, is that reality seems to agree with the Affini. 

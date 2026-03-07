@@ -1,5 +1,5 @@
 ---
-title: Florets & Domestication
+title: Florets and Domestication
 date: 2024-11-03T00:00:00+00:00
 authors: Kanagen
 draft: false
@@ -7,6 +7,10 @@ description: Florethood and Domestication within the HDG setting
 Params:
   decoration: affini
 ---
+{{< aside floret_owner_pavizi "An affini, interweaving vines imitating human form. A terran floret, biomodded, estrogenized, living her best life." left >}}
+    Art by [Pavizi](https://pavizi.tumblr.com/).
+{{< /aside >}}
+
 > [!QUOTATION]
 > _Have you or someone you care about been placed under an affini wardship, or other form of trial period which may result in compulsory domestication? My name is Wade Winters. I have been living in the Affini Compact as in Independent Sophont for four years. I have served on Terran Protectorate advisory councils created to ensure a smooth transition of power between humanity and the affini, and I maintain multiple relationships with both affini and florets. I even served as a terran cultural advisor on an affini appointed taskforce for determining how and why a terran might qualify for compulsory domestication. That is to say, I’ve had my fair share of exposure to our foliated friends. But here I am, still independent._
 >
@@ -60,6 +64,10 @@ Other terms may be added as the affini taking the floret desires. If the floret 
 > [!AFFINI]
 > The "political rights" that florets give up are nebulous at best. While florets do get a vote (for fun!), that vote doesn't count; however, if a substantial proportion of florets vote against something, the affini don't simply ignore it. These are _florets_ we're talking about, after all! 
 ### Florets of All Kinds 
+{{< aside aquatic_themothmuse "An aquatic affini and doll floret pair." >}}
+    Art by [themothmuse](https://www.tumblr.com/themothmuse).
+{{< /aside >}}
+
 There are several modifiers one may encounter after a floret's name, such as "Pinnate" or "Pluribus." These are terms that further specify conditions relating to, or further identify, a floret. These terms are considered so central to the floret's identity that they are formally encoded in their name.
 #### Cotyledons
 **Cotyledons** are very special florets, the very first that the Affini take as part of the process of learning about a new sophont species. Most cotyledons are rescues, taken from failed colonies, damaged ships, and similar life-threatening situations, but some are simply quietly abducted if there's no ready source of accidental cotyledons. 
