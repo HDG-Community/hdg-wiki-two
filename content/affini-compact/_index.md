@@ -7,7 +7,7 @@ description: The galaxies-spanning society of the affini working towards the goa
 Params:
   decoration: affini
   icon: tree
-weight: 20
+weight: 15
 
 ---
 _Not to be confused with the shapeshifting plant aliens themselves, the [[affini|Affini]]._
