@@ -50,7 +50,7 @@ _Main Page: [[digitization|Digitization]]_
 
 Digitization is the process of converting a non-digital (i.e., organic) sophont into a digital sophont, a thinking being that runs as a program on a computer. Some cultures develop this technology prior to the arrival of the Affini. In the Affini Compact, there are two primary means of digitization. The first is a copy & paste process of scanning a sophont's brain and starting up a new copy in digital space; the second is a process of haustoric implant overgrowth that converts a floret into a digital organism while preserving continuity of consciousness. 
 
-_Appear in [Digitization Writing Jame](https://archiveofourown.org/collections/HDG_Digitization_December_2025)_.
+_Appear in the [Digitization Writing Jam](https://archiveofourown.org/collections/HDG_Digitization_December_2025)_.
 ### Floret Cuts
 **Concept** 
 
