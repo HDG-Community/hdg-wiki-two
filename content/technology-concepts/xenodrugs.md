@@ -4,9 +4,9 @@ date: 2026-02-03T00:00:00+00:00
 authors: DameHarmony, Amee, SlyPrincess, The Lorets
 draft: false
 description: Xenodrug classification information for the HDG setting
-Weight: 30
+Weight: 2
 Params:
-  icon: "flower"
+  decoration: affini
 ---
 {{< aside xenodrug_grafts_lise "Digital illustration of a collection of six xenodrug grafts, which look like botanical elements. Around the illustrations is some unintelligible alien script." >}}
     A collection of xenodrug grafts.
