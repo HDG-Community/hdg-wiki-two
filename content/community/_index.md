@@ -14,7 +14,7 @@ Human Domestication Guide is a shared creative setting, the subject of which is 
 
 That's the elevator pitch for the setting. While the [[writing-in-hdg|Writing in HDG]] page has a little more detail on what that all means, this is more of an overview to help you understand what we're doing here. 
 ## Helpful Links
-
+**[[themes|Setting Themes]]**: An article discussing the themes of the setting.  
 **[[faq|Frequently Asked Questions]]**: Got a question? We're here to help!
 
 ## The History of the HDG Community
