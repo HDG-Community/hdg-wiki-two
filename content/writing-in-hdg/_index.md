@@ -1,5 +1,5 @@
 ---
-title: Writing in HDG
+title: Writing Hub
 date: 2024-10-30T00:00:00+00:00
 authors: HDG Wiki Team
 draft: false
@@ -7,6 +7,7 @@ description: Guidelines for writing HDG.
 weight: 10
 Params:
   icon: "pen"
+  decoration: meta
 ---
 > [!QUOTATION]
 > _“I feel a little foolish for how afraid I was when I first saw you. I can truly see how much you enjoy crafting and artistry.”_
