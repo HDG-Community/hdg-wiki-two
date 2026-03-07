@@ -50,7 +50,19 @@ _Main Page: [[digitization|Digitization]]_
 
 Digitization is the process of converting a non-digital (i.e., organic) sophont into a digital sophont, a thinking being that runs as a program on a computer. Some cultures develop this technology prior to the arrival of the Affini. In the Affini Compact, there are two primary means of digitization. The first is a copy & paste process of scanning a sophont's brain and starting up a new copy in digital space; the second is a process of haustoric implant overgrowth that converts a floret into a digital organism while preserving continuity of consciousness. 
 
-_Appear in [Digitization Writing Jame](https://archiveofourown.org/collections/HDG_Digitization_December_2025)_
+_Appear in [Digitization Writing Jame](https://archiveofourown.org/collections/HDG_Digitization_December_2025)_.
+### Floret Cuts
+**Concept** 
+
+"Floret cut" is an unofficial jargon term used for media that has been edited to suit the needs and expectations of the individual watching it. Contrary to popular belief, this need not be for florets, though florets are often the target of this kind of media control. Undesirable elements (violence, capitalism, etc) may be seamlessly removed and replaced with narrative alternatives, characters may be altered to suit romantic or sexual preferences, and so on. This process can even be used to provide two individuals watching the same media on the same screen with different experiences through the use of lenticular angles and sonic interference. 
+
+_Appear in many stories, including [From Pawn to Princess](https://archiveofourown.org/works/63477355/chapters/162653896)_.
+### Jump Drives
+**Technology**
+
+By manipulating the spacetime metric (the "fabric" of spacetime), an object may enter an alternate dimension often referred to as hyperspace. Provided this is done with the appropriate force and geometries, this allows that object to pass through hyperspace and emerge into normal space once again, in the process bypassing the limitations of normal physics such as relativity. Virtually all faster-than-light travel in Human Domestication Guide uses a variant of this method, though few species have mastered it to the degree that the Affini have. 
+
+_Appear in many stories, including [What Have We Learned?](https://archiveofourown.org/works/67250080)_.
 ### Ring Habitats 
 **Technology**
 
