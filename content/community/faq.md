@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions
 date: 2024-11-05T00:00:00+00:00
-authors: The Lorets and Bookworms
+authors: HDG Wiki Team
 draft: false
 description: Answers to common questions folks have about the setting!
 Params:
@@ -200,4 +200,4 @@ Finally, it showcases that despite the extreme knowledge gap between the Terran 
 ### Beyond the FAQ
 Got a question that can't be answered here? Come join us on the [Community Discord!](https://discord.gg/WgssQ6SR4q)
 ## Article Credit
-Written by the Lorets and Bookworms
+Written by the HDG Wiki Team
