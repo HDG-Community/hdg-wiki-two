@@ -13,14 +13,19 @@ weight: 15
     Florence from _Soar Higher, Fall Farther_. 
     Art by [ObliviaWrites](https://www.tumblr.com/obliviasart).
 {{< /aside >}}
-The Human domestication guide setting gains its unique feeling and texture from the technology and concepts that bring the world to life.
 
+> [!QUOTATION]
+> _"I want to discuss your care needs, so that we are clear on things like body modification, xenodrugs, and sexual activity. Also, I want to decide on titles and names, and touch permissions. And I want to know if you have any specific additions you'd like put in your contract. Also, I'd like to discuss the timeline for biomods and an implant."_
+>
+> __Belenen's [_Intake Interview_](https://archiveofourown.org/works/57520810), Chapter Nine__
+
+The Human domestication guide setting gains its unique feeling and texture from the technology and concepts that bring the world to life.
 ## About Technology
 Within the context of Human Domestication Guide, two levels of technological development are important: the development of the Terran Accord, and the development of the Affini Compact. Other species may have variable levels of technological development, and may even be comparable to the Affini in some niche areas, but in general the Affini are the most technologically advanced culture in the setting. 
 
-The [terran-accord|Terran Accord] has a grounded, hard sci-fi tone. Ships are powered using nuclear reactors, achieve thrust using conventional nuclear rocketry, have limited facilities for spin gravity, and are generally limited by physics as we currently understand them with some small exceptions (such as the jump drive, which even Terrans do not fully understand the operations of). Sidearms are more likely to be slugthrowers than energy weapons (although a few do exist in some stories). Cybernetic augmentations are possible but often have serious drawbacks, except for the extremely wealthy.
+The [[terran-accord|Terran Accord]] has a grounded, hard sci-fi tone. Ships are powered using nuclear reactors, achieve thrust using conventional nuclear rocketry, have limited facilities for spin gravity, and are generally limited by physics as we currently understand them with some small exceptions (such as the jump drive, which even Terrans do not fully understand the operations of). Sidearms are more likely to be slugthrowers than energy weapons (although a few do exist in some stories). Cybernetic augmentations are possible but often have serious drawbacks, except for the extremely wealthy.
 
-By contrast, the [affini-compact|Affini Compact], having been spacefaring for over 100,000 years and having acquired the technological corpus of every species they've domesticated over that period of time across multiple galaxies, may be fairly said to have achieved a level of technological development that is not only post-scarcity but downright utopian. They have functionally free energy, can produce any desired commodity on command, have mastered medical science to such a degree that disease is effectively eliminated, and so on. In short, their aesthetic is not hard sci-fi, but borderline magical; what limitations they do have are primarily there to keep the setting relatively grounded for the sake of narrative consistency. 
+By contrast, the [[affini-compact|Affini Compact]], having been spacefaring for over 100,000 years and having acquired the technological corpus of every species they've domesticated over that period of time across multiple galaxies, may be fairly said to have achieved a level of technological development that is not only post-scarcity but downright utopian. They have functionally free energy, can produce any desired commodity on command, have mastered medical science to such a degree that disease is effectively eliminated, and so on. In short, their aesthetic is not hard sci-fi, but borderline magical; what limitations they do have are primarily there to keep the setting relatively grounded for the sake of narrative consistency. 
 
 This technological gulf often serves as a contrast to heighten the sudden change and sense of shock that accompanies the arrival of the Affini, whether it be the shoddy medical care of the Accord contrasted with the loving care of a veterinarian or the wonder at Affini computing technology set against the backdrop of someone who's only ever known genAI-infested slopware. In narrative terms, it's one of the most visible markers and drivers of the oft-cited catch phrase "we never stood a chance."
 ## Setting Concepts 
