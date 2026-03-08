@@ -143,7 +143,7 @@ A species of aquatic, serpentine creatures. They do not have a large presence in
 ## Extended Glossary
 Not all sophonts have been given enough detail for a character to be made with that origin, instead appearing more as passing refrences or in an affini's backstory. A xenospecies that appears in this list may eventually move up to the main glossary or get its own page if the author expands upon them!
 > [!LORET]
-> As this page is a **Work In Progress,** we have added just three examples we had ready below to showcase their formatting. We can't wait to add more!
+> As this page is a **Work In Progress,** we have added some examples below to showcase the formatting. We can't wait to add more!
 
 - **Al'yssrians,** friendly avian sophonts that lived in an early Industrial-era society when the Compact discovered them. Al'yssrians enjoy spicy foods, singing/mimicking voices, and the feeling of warm wind under their wings. By PyxxieStyxx, [Five Lives](https://archiveofourown.org/works/48855070)
 - **Cloudhoppers**: Small flying avian xenosphonts native to the Andromeda galaxy. Highly gregarious, they live in colonies and are rarely domesticated solo. By Kanagen, [The Floret In The Mirror.](https://archiveofourown.org/works/50435179)
