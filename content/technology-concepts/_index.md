@@ -17,8 +17,9 @@ weight: 15
 > [!QUOTATION]
 > _"I want to discuss your care needs, so that we are clear on things like body modification, xenodrugs, and sexual activity. Also, I want to decide on titles and names, and touch permissions. And I want to know if you have any specific additions you'd like put in your contract. Also, I'd like to discuss the timeline for biomods and an implant."_
 >
-> __Belenen's [_Intake Interview_](https://archiveofourown.org/works/57520810), Chapter Nine__
+> __Belenen's [_Intake Interview_](https://archiveofourown.org/works/57520810), Chapter Nine__  
 
+  
 The Human domestication guide setting gains its unique feeling and texture from the technology and concepts that bring the world to life.
 ## About Technology
 Within the context of Human Domestication Guide, two levels of technological development are important: the development of the Terran Accord, and the development of the Affini Compact. Other species may have variable levels of technological development, and may even be comparable to the Affini in some niche areas, but in general the Affini are the most technologically advanced culture in the setting. 
