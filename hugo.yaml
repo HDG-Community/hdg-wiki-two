@@ -51,8 +51,8 @@ outputs:
 
 params:
   env: production
-  description: "A HDG Wiki"
-  author: The Lorets
+  description: "The Human Domestication Guide Wiki"
+  author: The HDG Wiki Team
   time:
     enableRelative: false
     defaultOptions:
