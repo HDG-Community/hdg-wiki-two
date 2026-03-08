@@ -9,6 +9,10 @@ Params:
   icon: flower
 weight: 15
 ---
+{{< aside soar_florence_obliviawrites "A terran with extensive biomods." left >}}
+    Florence from _Soar Higher, Fall Farther_. 
+    Art by [ObliviaWrites](https://www.tumblr.com/obliviasart).
+{{< /aside >}}
 The Human domestication guide setting gains its unique feeling and texture from the technology and concepts that bring the world to life.
 
 ## About Technology
