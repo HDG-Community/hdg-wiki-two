@@ -41,6 +41,10 @@ The Affini Compact is post-scarcity - that is, they are not limited by material 
 The Compact, being a spacefaring species since prehistoric times by human standards, has long since solved virtually every problem associated with living in space. Consequently, population centers in the Compact span planetary surfaces, space stations, asteroid habitats, megastructures, and more. While the Milky Way is generally rustic by comparison to the rest of the Compact, with relatively few megastructures per cubic kiloparsec, many Compact sophonts still dwell in what would be considered by Terrans to be mindbogglingly large station and ship habitats. 
 
 The Compact is connected by a hyperluminal ansible overnet, and while this network is not without latency, especially over longer distances, it does maintain strong socio-cultural connections between otherwise quite distant sectors of Compact space. Entire fields of study exist simply to study the flow of memes back and forth between different subcutures. 
+{{< image compact_life_moonfloret "An affini and terran." >}}
+    Life in new asteria. 
+    Art by [moonfloret](https://www.tumblr.com/moon-floret).
+{{< /image >}}
 ### Social Class in the Compact 
 While the Compact has shed every vestige of capitalism, it has not eliminated class. While **the Affini** would be quick to point out that they do not consider themselves inherently _superior_ to other sophonts, they nevertheless are without question in overall control of not only the Compact but all worlds and cultures within it. 
 
