@@ -53,5 +53,8 @@ To be a little less glib about it: Yes, the Affini are an empire, endlessly expa
 This is a corollary theme to Disability, above. The Affini aren't willing to accept "no, we're fine, thanks." Everyone gets to be a part of their utopia, and it is a utopia. There's no seamy underbelly to it; the closest the Compact gets to dirty secrets are cotyledons — the forced medical experiments that serve as a prelude to every domestication campaign — and even then, they don't hide cotyledons away and pretend they don't exist, _they celebrate them._
 
 The Affini aren't bullshitting. There's no nefarious secret plan. There's no grand goal beyond the one they'll happily infodump to you about. They're here to help, and they won't take no for an answer. _The horror is the comfort, and the comfort is the horror._
+
+{{< image bathtime_pavizi "An affini giving a Terran a bath." >}} Art by [Pavizi](https://pavizi.tumblr.com/). {{< /aside >}}
+
 ## Article Credit
 Written by Kanagen
