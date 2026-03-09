@@ -13,7 +13,7 @@ This landing page is still very much a **work in progress** and will likely chan
 - **[The HDG tag on AO3](https://archiveofourown.org/tags/Human%20Domestication%20Guide/works)** - This is where the vast majority of HDG stories are being posted today. The setting grows by dozens of stories per week, so it's always fun to check out what's new!
 - **[The HDG tag on Read Only Mind](https://readonlymind.com/search/?q=%23Human_Domestication_Guide)** - This was once where HDG lived before growing far too big for a niche site. However, some stories have never been moved to AO3 so there are many hidden gems to find, even though they no longer accept new HDG stories.
 ## Writing Jam Collections
-Over on the [Community Discord,](https://discord.gg/WgssQ6SR4q) we love running month-long writing jams a few times a year! 
+Over on the [HDG Community Discord](https://discord.hdg.wiki/) we love running month-long writing jams a few times a year! 
 - [February Fluff Fics 2024](https://archiveofourown.org/collections/February_Fluff_Fics_2024)
 - [HDG Acekink Jam 2025](https://archiveofourown.org/collections/AceKinkJam2025)
 - [HDG BIPOC Jam 2025](https://archiveofourown.org/collections/HDG_BIPOC_jam_2025)
