@@ -9,7 +9,7 @@ Params:
   icon: flower
 weight: 15
 ---
-{{< aside soar_florence_obliviawrites "A terran with extensive biomods." left >}}
+{{< aside soar_florence_obliviawrites "A terran with extensive biomods." >}}
     Florence from _Soar Higher, Fall Farther_. 
     Art by [ObliviaWrites](https://www.tumblr.com/obliviasart).
 {{< /aside >}}
