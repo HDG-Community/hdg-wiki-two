@@ -95,7 +95,7 @@ This produces this:
 </div>
 
 ## image
-to run the randomizer on a list of bullets, just enclose them in a **div** with the class **"randomimage"** like so:
+to run the randomizer on a set of possible image blocks, just enclose them in a **div** with the class **"randomimage"** like so:
 ```
 <div class="randomimage">
   
