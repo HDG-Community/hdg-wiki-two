@@ -3,11 +3,11 @@ title: The Test One
 date: 2024-11-05T00:00:00+00:00
 authors: HDG Wiki Team
 draft: false
-description: Test
-Params:
-  icon: "question"
+description: A hidden test of the randomizer function
+params:
   decoration: meta
-weight: 1
+  sidebar:
+    exclude: true
 ---
 ## this is where we test to make sure this works.
 
