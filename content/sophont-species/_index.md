@@ -31,6 +31,9 @@ An ancient progenitor race, co-evolved with the [[beeple|Beeple,]] the first spe
 
 *Created by Glitchyrobo. Feature in all HDG stories. First appeared in [Human Domestication Guide.](https://readonlymind.com/@GlitchyRobo/HumanDomesticationGuide/)*
 ### Beeple
+{{< mini buddybeeple_garbagewitchy "A soft paint style portrait of a beeple plushie with yellow and black fuzzy stripes and blue eyes." >}} 
+Art by [Garbagewitchy](https://bsky.app/profile/garbagewitchy.bsky.social). {{< /mini >}}
+
 *Main Page: [[beeple|beeple]]*
 
 **Triangulum | the first florets**
@@ -39,6 +42,8 @@ An insectile social species, and the first xenosophonts the Affini ever domestic
 
 *Maintained by the Lorets.*
 ### Ch'thal 
+{{< mini chthal_belenen >}} Art by [Belenen](https://archiveofourown.org/users/Belenen). {{< /mini >}}
+
 **Messier 110 | ~800 years BT**
 
 Fungal xenosophonts resembling Terran sloths, but with large, spectacular mycelial crests running down their backs. They have a vast multitude of sexes like Terran slime molds, and when they find a mate they bond for life. They communicate emotional information via spores, which frequently end up having an effect on other xenosophonts as well.
@@ -51,6 +56,7 @@ Winter-adapted xenosophonts reminiscent of bovines, with bipedal frames, heavy f
 
 *Created by [LadyIridia.](https://archiveofourown.org/users/LadyIridia/pseuds/LadyIridia)*
 ### Erefax
+{{< mini erefax_willowl "An erefax relaxing." >}} Art by [WillOwl](https://archiveofourown.org/users/TinyEspresso). {{< /mini >}}
 
 **Milky Way | ~500BT**
 
@@ -58,6 +64,8 @@ A quadruped ovine species of large stature, known affectionately to many florets
 
 *Created by otterpopd, Raeve_Noir, and RocketMermaid23. Appear in [Shear Bliss.](https://archiveofourown.org/works/71967226)*
 ### Khetari
+{{< mini khetari_stylized_promilie "A khetari looks behind herself towards the camera with a mischievous smile. She has a collar and a flower just below her tailfan." >}} Art by [Promilie](https://www.tumblr.com/hdgprom). {{< /mini >}}
+
 *Main Page: [[khetari|Khetari]]*
 
 **Milky Way | ~400 years BT**
@@ -66,6 +74,8 @@ Meter-tall feathered, cat-like sophonts endemic to the Milky Way galaxy. Though 
 
 *Created by Promilie. Appear in [Florets of a Feather](https://archiveofourown.org/works/54477985/chapters/145430536)*
 ### Maelodions
+{{< mini maelodion_green_sheepwave "A green fluit with six legs that split into twenty four fingers." >}} Art by [Sheepwave](https://archiveofourown.org/users/sheepwave). {{< /mini >}}
+
 *Main page: [[maelodions|Maelodions]]*
 
 **Andromeda | 19,000 years BT**
@@ -92,6 +102,8 @@ Mostly-aquatic xenosophonts with huge eyes, tentacles, a hinged jaw, deadly veno
 
 *Created by Belenen. Appear in [Growing Periwinkle](https://archiveofourown.org/works/55524103)*
 ### Rinans
+{{< mini rinan_promilie "A rinan. A squirrel like xenosophont with a long tail, six fingers and a blue outfit." >}} Art by [Promilie](https://www.tumblr.com/hdgprom). {{< /mini >}}
+
 *Main page: [[rinans|Rinans]]*
 
 **Milky Way, inside the Terran Accord | Domesticated 2553**
@@ -100,6 +112,8 @@ A small nocturnal mammalian xenospecies that bears a resemblance to a terran rod
 
 *Maintained by the Lorets.*
 ### Spectrum Jellies 
+{{< mini spectrum_jelly_sheepwave "An illustration of a semitransparent jellyfish-like creature with a large beak." >}} Art by [Sheepwave](https://archiveofourown.org/users/sheepwave). {{< /mini >}}
+
 **Milky Way, neighboring the Terran Accord | ??? years BT**
 
 Xenophilic jellyfish people that communicate via bioluminescence. Willingly surrendered to the affini. Genetically engineered humanoid forms for themselves after receiving a Terran SETI signal, but didn't realize that the Terrans might not communicate in light patterns. The Affini upstaged them by being cool shapeshifters.
@@ -112,6 +126,8 @@ Insectoid aliens a with semi crystalline carapace that came from a high gravity 
 
 *Created by Miss Praxis for [Lamia Domestication Guide.](https://readonlymind.com/@Miss_Praxis/LamiaDomesticationGuide/) Maintained by the Lorets.*
 ### Terrans 
+{{< mini terrans_stylized_promilie "Digital illustration of two terrans, one a floret dressed in clothing made to look like leaves, the other a marine dressed in a futuristic military uniform holding a large gun." >}} Art by [Promilie](https://www.tumblr.com/hdgprom). {{< /mini >}}
+
 *Main page: [[terrans|Terrans]]*
 
 **Milky Way | Domesticated 2554**
@@ -120,12 +136,16 @@ Bipedal primates from the Orion Spur of the Milky Way. Generally, they stand bet
 
 *Feature in almost all HDG stories.*
 ### Vreeüt 
+{{< mini vreeut_stylized_promilie "A stylized illustration of a vreeüt looking at the viewer." >}} Art by [Promilie](https://www.tumblr.com/hdgprom). {{< /mini >}}
+
 **Milky Way | ~300-400 years BT**
 
 Share many similarities in appearance to the extinct [utahraptors](https://en.wikipedia.org/wiki/Utahraptor) and similar species of prehistoric Terra. Unlike their earthling counterparts, they sport an excellent range of vision thanks to several additional pairs of eyes, ultraviolet plumage, an extra pair of limbs, and the intelligence and social structures to create an industrial society.
 
 *Created by Kanagen. Appear in [The Floret In The Mirror.](https://archiveofourown.org/works/50435179)*
 ### Xenra
+{{< mini xenra_domesticated_fluxom "Two images of a xenra with grey brown fur, glasses and gold horns and claws" >}} Art by Fluxom. {{< /mini >}}
+
 *Main page: [[xenra|Xenra]]*
 
 **Andromeda Satelite Galaxy | ~2000 years BT**

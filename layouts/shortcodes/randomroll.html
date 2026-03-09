@@ -1,0 +1,66 @@
+<script>
+
+const elements = document.querySelectorAll(".randomset"); // Select all randblocks
+
+for (const element of elements) {
+  const options = element.querySelectorAll(".rngopt");
+for (const subelement of options) {
+subelement.style.display = "none";
+}
+   // Select a random index and display the element
+  if (options.length > 0) {
+    const randomIndex = Math.floor(Math.random() * options.length);
+  options[randomIndex].style.display = "unset";
+    // using unset this will probably break if the hiding mechanism becomes the css itself.
+  }
+} 
+ 
+// now to do the same but for the easier to use formats.
+
+// list elements
+const listelements = document.querySelectorAll(".randomlist"); // Select all randlists
+
+for (const element of listelements) {
+  const options = element.querySelectorAll('li');
+for (const subelement of options) {
+subelement.style.display = "none";
+}
+  // Select a random index and display the element
+  if (options.length > 0) {
+    const randomIndex = Math.floor(Math.random() * options.length);
+  options[randomIndex].style.display = "unset";
+        // using unset this will probably break if the hiding mechanism becomes the css itself.
+  } 
+} 
+
+// quote blocks
+const quoteelements = document.querySelectorAll(".randomquote"); // Select all designated quote blocks
+
+for (const element of quoteelements) {
+  const options = element.querySelectorAll(".quote-Block");
+for (const subelement of options) {
+subelement.style.display = "none";
+}
+  // Select a random index and display the element
+  if (options.length > 0) {
+    const randomIndex = Math.floor(Math.random() * options.length);
+  options[randomIndex].style.display = "block";
+  } 
+} 
+
+// image blocks
+const imageelements = document.querySelectorAll(".randomimage"); // Select all designated image asides
+
+for (const element of imageelements) {
+  const options = element.querySelectorAll(".image-aside");
+for (const subelement of options) {
+subelement.style.display = "none";
+}
+  // Select a random index and display the element
+  if (options.length > 0) {
+    const randomIndex = Math.floor(Math.random() * options.length);
+  options[randomIndex].style.display = "block";
+  } 
+} 
+
+</script>
