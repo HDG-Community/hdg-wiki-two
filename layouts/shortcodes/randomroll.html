@@ -24,14 +24,12 @@ for (const element of listelements) {
   const options = element.querySelectorAll('li');
 for (const subelement of options) {
 subelement.style.display = "none";
-  subelement.style.backgroundColor = "blue"; //testing to see if it sees them
 }
   // Select a random index and display the element
   if (options.length > 0) {
     const randomIndex = Math.floor(Math.random() * options.length);
   options[randomIndex].style.display = "unset";
         // using unset this will probably break if the hiding mechanism becomes the css itself.
-    options[randomIndex].style.backgroundColor = "red"; // testing to see its firing at all
   } 
 } 
 
@@ -42,13 +40,11 @@ for (const element of quoteelements) {
   const options = element.querySelectorAll(".quote-Block");
 for (const subelement of options) {
 subelement.style.display = "none";
-  subelement.style.backgroundColor = "blue"; //testing to see if it sees them
 }
   // Select a random index and display the element
   if (options.length > 0) {
     const randomIndex = Math.floor(Math.random() * options.length);
   options[randomIndex].style.display = "unset";
-    options[randomIndex].style.backgroundColor = "red"; // testing to see its firing at all
   } 
 } 
 
@@ -57,7 +53,7 @@ const imageelements = document.querySelectorAll(".randomimage"); // Select all d
 
 for (const element of imageelements) {
   element.style.backgroundColor = "green"; //testing to see if it sees them at all
-  const options = element.querySelectorAll("div"); // this is a bad idea, it should be using the image-aside class, but for some reason that isnt working
+  const options = element.querySelectorAll("div.image-aside"); // this is a bad idea, it should be using the image-aside class, but for some reason that isnt working
 for (const subelement of options) {
 subelement.style.display = "none";
   subelement.style.backgroundColor = "blue"; //testing to see if it sees them
