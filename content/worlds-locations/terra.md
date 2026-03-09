@@ -11,7 +11,7 @@ params:
 ---
 
 > [!IMPORTANT]
-> Expect this page to be revised heavily!
+> This is legacy content. Expect this page to be revised heavily!
 
 Earth, more often called Terra in the [[terran-accord|Terran Accord]] official media and bureaucracy, is humanity's homeworld. Every human being, no matter where they were born in the galaxy, has a relatively recent ancestor who was born, lived, and died on this little world. For uncountable eons up until relatively recently, every dream, every struggle, and every disaster that humanity experienced took place here.
 
