@@ -9,6 +9,10 @@ params:
   sidebar:
     exclude: true
 ---
+> [!IMPORTANT]
+> This is legacy content. Expect this page to be revised heavily!
+
+
 ## Under Construction!
 The team working on the Guide are working hard on getting everything up and into tip-top shape, but we haven't reached here yet!
 
