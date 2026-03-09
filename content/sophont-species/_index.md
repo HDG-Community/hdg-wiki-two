@@ -36,7 +36,7 @@ An ancient progenitor race, co-evolved with the [[beeple|Beeple,]] the first spe
   
 {{< mini buddybeeple_garbagewitchy "A soft paint style portrait of a beeple plushie with yellow and black fuzzy stripes and blue eyes." >}} Art by [Garbagewitch](https://bsky.app/profile/garbagewitchy.bsky.social). {{< /mini >}}
 
-{{< mini beeple_plastic "A green-coated beeple with red eyes." left >}} Art by [Plastic](https://bsky.app/profile/plastic-doodles.bsky.social). {{< /mini >}}
+{{< mini beeple_plastic "A green-coated beeple with red eyes." >}} Art by [Plastic](https://bsky.app/profile/plastic-doodles.bsky.social). {{< /mini >}}
 
 </div>
 
@@ -181,3 +181,5 @@ The HDG Wiki Team are working hard on getting everything up and into tip-top sha
 {{< image under_construction_promilie "An illustration of a terran, rinan, and khetari in hard hats and high-vis vests. The terran and rinan are looking at a blueprint while the khetari is carrying a steel beam." inline >}}
     Art by Promilie.
 {{< /image >}}
+
+{{< randomroll >}}
