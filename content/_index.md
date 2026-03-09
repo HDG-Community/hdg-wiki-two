@@ -8,7 +8,7 @@ Welcome to the community site for the Human Domestication Guide setting!
 
 Before we go any further, you should be aware of two things:
 - One, **this shared writing project is rooted in kink**. If you are either a minor or otherwise not comfortable with that sort of thing, it would be for the best if you went to some other website instead.
-- Two, **this site will always be changing and growing**. The setting has _exploded_ in size over the past couple years, and there's a lot of things to cover in a comprehensive community resource for the setting, so we're taking it a few steps at a time, adding on to the site as we go. If you can't find a particular piece of information you're looking for, you can always ask on the [community Discord](https://discord.gg/WgssQ6SR4q) or at the [Loret Ask Blog](https://www.tumblr.com/hdg-lorets). Also, if you have any feedback for the site, please don't hesitate to head on over to the Discord and let us know!
+- Two, **this site will always be changing and growing**. The setting has _exploded_ in size over the past couple years, and there's a lot of things to cover in a comprehensive community resource for the setting, so we're taking it a few steps at a time, adding on to the site as we go. If you can't find a particular piece of information you're looking for, you can always ask on the [HDG Community Discord](https://discord.hdg.wiki/) or at the [Loret Ask Blog](https://www.tumblr.com/hdg-lorets). Also, if you have any feedback for the site, please don't hesitate to head on over to the Discord and let us know!
 
 ## What is HDG?
 

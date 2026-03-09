@@ -9,7 +9,7 @@ params:
   decoration: meta
 ---
 
-On this page you can find a wide variety of terms used in their setting and their definitions. Need a term defined that you can't find on here? Let us know over on the [Community Discord](https://discord.gg/WgssQ6SR4q)!
+On this page you can find a wide variety of terms used in their setting and their definitions. Need a term defined that you can't find on here? Let us know over on the [HDG Community Discord](https://discord.hdg.wiki/)!
 
 Terms followed by (meta) are purely out-of-universe terms used by the community and don't hold the same meaning within the world of HDG.
 ### A
@@ -31,7 +31,7 @@ Terms followed by (meta) are purely out-of-universe terms used by the community 
 - **By the Everbloom** - Affini oath.
 ### C
 - **Clerk** - Specialist in the workings of the [[compact-bureaucracy|Compact's bureaucracy]]. A quite respected profession in affini society.
-- **Clerk** (meta) - Community members who lead the management of the [HDG Community Server](https://discord.gg/WgssQ6SR4q).
+- **Clerk** (meta) - Community members who lead the management of the [HDG Community Discord](https://discord.hdg.wiki/).
 - **CNS** - Ship prefix for TCN ships, standing for "Cosmic Navy Ship."
 - **Compact** - Affini Compact.
 - **Compiler** - Atomic compiler.
@@ -69,7 +69,7 @@ Terms followed by (meta) are purely out-of-universe terms used by the community 
 - **Free Terranism** - Terran supremacist ideology resisting the Compact’s control over terran space.
 - **Frost** - Affini curse.
 ### G
-- **Gardener** (meta) - Community members who assist the Clerks with the day-to-day moderation and operations of the [HDG Community Server](https://discord.gg/WgssQ6SR4q).
+- **Gardener** (meta) - Community members who assist the Clerks with the day-to-day moderation and operations of the [HDG Community Discord](https://discord.hdg.wiki/).
 - **Gesture Training** - Common practice of training florets to respond to taps, gestures, or another nonverbal cues to aid in their caregiving for purposes such as dressing and eating.
 ### H
 - **Habitation Ring** / Hab Ring - Rotating ring as part of a spaceship or space station used to simulate gravity in microgravity environments. See both [[affini-ships|Affini Ships]] and [[terran-ships|Terran Ships]].

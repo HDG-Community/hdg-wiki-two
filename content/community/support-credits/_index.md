@@ -8,6 +8,10 @@ weight: 40
 params:
   decoration: meta
 ---
+The HDG wiki in its current state is maintained by a team of volunteers from within the Clerk, Loret, Gardener, and Bookworm teams over on the [HDG Community Discord](https://discord.hdg.wiki/).
+
+
+
 The following articles include information regarding the server, and credit for the invaluable tools and legacy contributors who made this possible.
 
 ## Server Supports
