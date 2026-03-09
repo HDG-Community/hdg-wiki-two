@@ -54,7 +54,7 @@ This is a corollary theme to Disability, above. The Affini aren't willing to acc
 
 The Affini aren't bullshitting. There's no nefarious secret plan. There's no grand goal beyond the one they'll happily infodump to you about. They're here to help, and they won't take no for an answer. _The horror is the comfort, and the comfort is the horror._
 
-{{< image bathtime_pavizi "An affini giving a Terran a bath." >}} Art by [Pavizi](https://pavizi.tumblr.com/). {{< /aside >}}
+{{< image bathtime_pavizi "An affini giving a Terran a bath." >}} Art by [Pavizi](https://pavizi.tumblr.com/). {{< /image >}}
 
 ## Article Credit
 Written by Kanagen
