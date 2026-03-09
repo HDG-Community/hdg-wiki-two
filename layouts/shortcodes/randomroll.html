@@ -57,7 +57,7 @@ const imageelements = document.querySelectorAll(".randomimage"); // Select all d
 
 for (const element of imageelements) {
   element.style.backgroundColor = "green"; //testing to see if it sees them at all
-  const options = element.querySelectorAll(".image-aside");
+  const options = element.querySelectorAll("div"); // this is a bad idea, it should be using the image-aside class, but for some reason that isnt working
 for (const subelement of options) {
 subelement.style.display = "none";
   subelement.style.backgroundColor = "blue"; //testing to see if it sees them
