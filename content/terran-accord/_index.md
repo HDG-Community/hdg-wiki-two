@@ -25,6 +25,11 @@ While human civilization could have provided a far better life for all its citiz
 The experieince of living under the Terran Accord can not be summarized by a single experience, much like life on Earth in the real world can not. Social class and circumstances created a vast difference in life experiences. In some places, life was reasonably pleasant, in others it was grim, cutthroat, and oppressive. Being rich always helped, of course.
 
 Availability of things like medication, leisure time, or food not shaped like a ration cube was subject to supply chain disruptions, stockholder whims, pirate raids, and more. Even those who were lucky to find relative stability still lived under the unjust rule of Capital.
+
+As the vast majority of those living in the Accord needed currency to exchange for goods and services and other necessities, and the near-universal method of acquiring currency was by providing work that another desired, their culture was focused almost *entirely* on immediate individual worth and usefulness. Even recreational activities or hobbies were viewed through this lens, with good ones being referred to as 'side-gigs' and 'hustles', while bad ones were viewed as 'time-wasters' and 'pipe dreams'.  Yes, they even felt like time could be 'wasted', a currency to spend or save, and likely a remnant of when they were not on top of their food chain.
+
+Many Terrans, when first joining the Compact, struggled greatly to separate themselves from these principles without more direct affini intervention. 
+
 ## History
 Established roughly 70 local years prior to [[florets-domestication|domestication]], the Accord was a mature state by Terran standards, its origins beginning to pass from living memory for the majority of its population. One of the Accord's key political programs, though hardly an original one, was the development of and insistence upon labeling all humans, regardless of their system of origin, as inextricably Terran. This was intended to foster interstellar unity as a pretext for centralized authority following the Accord's discard and subsequent contest of Nyrina. Despite the [[rinans|Rinans]] offering no significant military resistance to the Terran invasion, Rinans were routinely characterized as both hopelessly backward as well as a persistent threat to Terran safety and sovereignty.
 
