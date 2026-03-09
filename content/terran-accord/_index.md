@@ -41,7 +41,10 @@ Humanity's exact history has been garbled, both by the passage of time and inten
 > [!LORET]
 > This is an in-universe explanation for the out-of-universe fact that the setting is simply so big that stories cannot avoid contradicting each other!
 
-Certain events are absolutely known, however, and more information can be found on the [[timeline|Timeline]] page. 
+Certain events are absolutely known, however, and more information can be found on the 
+
+> [!NOTE]
+> Coming soon!
 ### Future: The Terran Protectorate
 Gloomy as that may all be, the future of humanity is bright, thanks to the arrival of the [[affini-compact|Affini Compact]]. Following the signing of the Human Domestication Treaty in 2554, the Accord was left to history, and with the passing of generations will one day be entirely forgotten from the consciousness of the average Terran.
 ## Government and Factions
