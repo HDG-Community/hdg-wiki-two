@@ -81,7 +81,11 @@ Terran civilization's access to the jump drive, a point-to-point faster-than-lig
 > In genre terms, the Terran Accord operates on what is sometimes called "Hard Science Fiction" rules, which is a set of genre expectations that centers verisimilitude to real physics and plausible technology. 
 
 ### Starships of the Accord
+Starship construction was a centuries-long tradition even before the advent of the Terran Accord, and though the final manifestation of human self-governance benefited from that experience, their obsession with capitalist competition and lowest-bidder construction often ran at cross-purposes to best principles of ship design. Because of this, there were very few standardized starship designs in the Accord, though most adhered to certain form factors and general principles due to the physical demands of spaceflight. 
 
+The average Terran ship is not particularly aesthetically pleasing, being constructed primarily of lightweight metals and often surrounded by simple anti-micrometeorite shields. This often lends them a blocky appearance, even when designed with a relatively streamlined form factor. For thermal management, Terran ships rely on radiators; these are retractable on some ships, particularly combat vessels, in order to present a lower infrared profile — a rare few ships were designed with active cooling systems, heat sinks, and directional radiators to maintain low-observability. Terran ships lacked optical stealthing, but often employed extremely low-albedo paint to minimize visual spectrum EM reflectivity. 
+
+In addition to difficulties inflicted by devotion to a substandard economic model, the capabilities of Terran starships were limited by their incomplete understanding of physics. Without a full understanding the fifth fundamental force, Terrans were forced to rely on chemical and nuclear thrusters to navigate in normal space, and upon a trial-and-error methodology of ballistic hyperspace jumps. Their ships often had limited habitable volume, both in total and per crew — many of the smaller ships even lacked centrifugal drums for artificial gravity.
 
 ## Article Credit
 Article by the HDG.wiki team.
