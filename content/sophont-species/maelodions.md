@@ -85,7 +85,7 @@ This required a Domestication approach that involved heavy information control t
 
 Maelodions in the present era generally fall within two categories: solo fruitbodies and collectivist Neo-choirs. None begrudge the Affini for what was done to them. Their new languages were intentionally designed to lack the ability to construct direct critiques of the Compact that will 'rhyme' and be considered valid statements. Some Affini do not think that the level of cultural rewrite that occurred was beneficial for the Maelodions, and mourn the old Song, but they are rare.
 
-> [!LORET]
+> [!NOTE]
 > This may read like it is a powerscaling space battle species, but it is not. The Maelodion wars are an allegory for destructive cycles of conflict and horizontal violence in marginalized communities. Engagement with this element of their history is not about epic space battles, but the trauma of war and the consequences of online miscommunication spiraling out of control. 
 > 
 > Further information in its context can be found in the primary source story of the Maelodions, which is [_Good Sensory_](https://archiveofourown.org/works/58671715) by Sheepwave.
