@@ -35,13 +35,13 @@ Humanity's exact history earlier than its final century pre-domestication has be
 ### Future: The Terran Protectorate
 Gloomy as that may all be, the future of humanity is bright, thanks to the arrival of the [[affini-compact|Affini Compact]]. Following the signing of the Human Domestication Treaty in 2554, the Accord was left to history, and with the passing of generations will one day be entirely forgotten from the consciousness of the average Terran.
 ## Government and Factions
-Ostensibly a representative democracy, at least on the macro scale, the Accord was primarily run for the benefit of a select few. Within this sprawl of inefficiency and pointless extraction, several organizations existed in both  cooperation and conflict. Due to the scattered nature of the Accord, different regions of space had vastly different structures, and many supposedly 
-### The Cosmic Navy
 {{< aside john_terra_promilie "Digital illustration of a male terran in a scifi military uniform holding a smoking gun." >}}
     John Terra, hero of the Accord and champion of the Cosmic Navy.
     Art by Promilie.
 {{< /aside >}}
 
+Ostensibly a representative democracy, at least on the macro scale, the Accord was primarily run for the benefit of a select few. Within this sprawl of inefficiency and pointless extraction, several organizations existed in both  cooperation and conflict. Due to the scattered nature of the Accord, different regions of space had vastly different structures, and many supposedly 
+### The Cosmic Navy
 *Main Page: [[tcn|The Cosmic Navy]]*
 
 > [!NOTE]
