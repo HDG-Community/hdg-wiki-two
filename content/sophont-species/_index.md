@@ -34,7 +34,7 @@ An ancient progenitor race, co-evolved with the [[beeple|Beeple,]] the first spe
 
 <div class="randomimage">
   
-{{< mini buddybeeple_garbagewitchy "A soft paint style portrait of a beeple plushie with yellow and black fuzzy stripes and blue eyes." >}} Art by [Garbagewitch](https://bsky.app/profile/garbagewitchy.bsky.social). {{< /mini >}}
+{{< mini buddybeeple_garbagewitchy "A soft paint style portrait of a beeple plushie with yellow and black fuzzy stripes and blue eyes." >}} Art by [Garbagewitchy](https://bsky.app/profile/garbagewitchy.bsky.social). {{< /mini >}}
 
 {{< mini beeple_plastic "A green-coated beeple with red eyes." >}} Art by [Plastic](https://bsky.app/profile/plastic-doodles.bsky.social). {{< /mini >}}
 
@@ -102,6 +102,8 @@ Moth-like centuar sophonts that stand at about . Originating from an unusually d
 
 *Maintained by the Lorets.*
 ### Ocythoen
+{{< mini ocythoen_iolanthe "A green Ocythoen looking at the camera underwater." >}} Art by [](). {{< /mini >}}
+
 **Milky Way | ~400 years BT**
 
 Mostly-aquatic xenosophonts with huge eyes, tentacles, a hinged jaw, deadly venom, an ovipositor, and a brood pouch. They are all the same sex, and lack much of a concept of gender, typically using neopronouns based on vibes. They can move very fast in water, but are quite slow on land, relying on mobility devices or affini carrying. Their native languages are sign-based as they do not have a voice box unless biomodded.
