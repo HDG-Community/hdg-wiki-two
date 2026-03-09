@@ -83,8 +83,9 @@ This is static text. article here, yadda
 </div> 
 </div> 
 
-
 Filling space here, yet again.
+
+## test divder
 
 Hi, Hello.
 
@@ -92,7 +93,8 @@ I cannot put into words how excited I am about this concept.
 
 ### dividing again.
 
-<p> we should be able to randomize a single word in sentences as well, even multiple times per paragraoh. for example: <span class="randomset"><span class="rngopt">one!</span><span class="rngopt">two!</span><span class="rngopt">three!</span><span class="rngopt">four!</span></span> <span class="randomset"><span class="rngopt">one!</span><span class="rngopt">two!</span><span class="rngopt">three!</span><span class="rngopt">four!</span></span></p>
+<p> we should be able to randomize a single word in sentences as well, even multiple times per paragraph. for example: <span class="randomset"><span class="rngopt">one!</span><span class="rngopt">two!</span><span class="rngopt">three!</span><span class="rngopt">four!</span></span> <span class="randomset"><span class="rngopt">one!</span><span class="rngopt">two!</span><span class="rngopt">three!</span><span class="rngopt">four!</span></span></p>
+
 
 <script>
 
@@ -105,14 +107,8 @@ subelement.style.display = "none";
 }
 if (options.length > 0) {
   const randomIndex = Math.floor(Math.random() * options.length);
-if (options[randomIndex].tagName === 'span') {
-  options[randomIndex].style.display = "inline";
-  }
-else
-  {
-  options[randomIndex].style.display = "block";
-  }
+  options[randomIndex].style.display = "unset";
  }
 }
 
-</script> 
+</script>
