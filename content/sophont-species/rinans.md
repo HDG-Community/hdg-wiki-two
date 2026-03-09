@@ -6,7 +6,7 @@ draft: false
 description: Rinan Species
 weight: 10
 ---
-{{< aside rinan_promilie "A rinan. A squirrel like xenosophont with a long tail, six fingers and a blue outfit." left >}}
+{{< aside rinan_promilie "A rinan. A squirrel like xenosophont with a long tail, six fingers and a blue outfit." >}}
     A plucky Rinan.
     Art by [Promilie](https://www.tumblr.com/hdgprom).
 {{< /aside >}}  
