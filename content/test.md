@@ -9,36 +9,91 @@ Params:
   decoration: meta
 weight: 1
 ---
-## testing below this line. which option does it pick?
-Who knows. let's ramble to be sure that normal text near the random picker works as expected.
+## this is where we test to make sure this works.
 
-<div class="randomset">
-<div class="rngopt">
+Who knows. let's ramble to be sure that normal text near the random picker works as expected. 
+
+<div class="randomset"> 
+<div class="rngopt"> 
+
+option 1 
+
+</div> 
+<div class="rngopt"> 
+
+option 2 
+
+</div> 
+<div class="rngopt"> 
+
+option 3 
+</div> 
+</div> 
+
+This is another static line. Yay!
+
+<div class="randomset"> 
+<div class="rngopt"> 
 
 > [!QUOTATION]
-> *“Terran space was increasingly popular for the xenrani people due to their resemblance to a certain prey species from Quani—their homeworld—and Moira and Cinder had always been of the wandering sort. Pair that with their pheromones, and they tended to attract a bit of attention.”*
+> _"This is the first quote."_
 > 
-> **Holly Addler and Fluxom’s [*Be My Valentine*](https://archiveofourown.org/works/72373636/chapters/188449786), Chapter 1**
+> **Somebody's [_Story_](https://archiveofourown.org/works/54477985/chapters/145430536) chapter 1**
 
-</div>
-<div class="rngopt">
+</div> 
+<div class="rngopt"> 
 
 > [!QUOTATION]
-> _"It is common knowledge that one cannot, for ethical reasons, rise to disturb a cat who sleeps in one’s lap, Astrid knew. The not-quite-cat currently sleeping in **her** lap, however, had her trapped in a much more physical sense. It was simply too heavy to move."_
+> _"This is the second quote."_
 > 
-> **Promilie's [_Florets of a Feather_](https://archiveofourown.org/works/54477985/chapters/145430536), chapter 4**
+> _"it has more lines."_
+> 
+> **Somebody's [_Story_](https://archiveofourown.org/works/54477985/chapters/145430536) chapter 2**
 
-</div>
-<div class="rngopt">
+</div> 
+<div class="rngopt"> 
 
-{{< aside aquatic_themothmuse "An aquatic affini and doll floret pair." >}}
-    Art by [themothmuse](https://www.tumblr.com/themothmuse).
+> [!QUOTATION]
+> _"option three."_
+> 
+> **Somebody's [_Story_](https://archiveofourown.org/works/54477985/chapters/145430536) chapter 3**
+</div> 
+</div> 
+
+This is static text. article here, yadda
+
+### a line to make the image testing look better
+
+<div class="randomset"> 
+<div class="rngopt"> 
+
+{{< aside khetari_stylized_promilie "A khetari looks behind herself towards the camera with a mischievous smile. She has a collar and a flower just below her tailfan." left >}}
+    A mischievous khetari floret. option 1.
+    Art by Promilie.
 {{< /aside >}}
 
-</div>
-</div>
+</div> 
+<div class="rngopt"> 
 
-testing over! did it work? Maybe, maybe not!
+{{< aside khetari_m_f_promilie "Two khetari smile towards the camera. The female khetari's coloration is various shades of orange and brown. The male khetari's coloration is purple and white." left >}}
+    A pair of female and male khetari showing off their differences in plumage. option 2.
+    Art by Promilie.
+{{< /aside >}}
+
+</div> 
+</div> 
+
+
+Filling space here, yet again.
+
+Hi, Hello.
+
+I cannot put into words how excited I am about this concept.
+
+### dividing again.
+
+<p> we should be able to randomize a single word in sentences as well, even multiple times per paragraoh. for example: <span class="randomset"><span class="rngopt">one!</span><span class="rngopt">two!</span><span class="rngopt">three!</span><span class="rngopt">four!</span></span> <span class="randomset"><span class="rngopt">one!</span><span class="rngopt">two!</span><span class="rngopt">three!</span><span class="rngopt">four!</span></span></p>
+
 
 <script>
 
@@ -52,7 +107,6 @@ subelement.style.display = "none";
 if (options.length > 0) {
   const randomIndex = Math.floor(Math.random() * options.length);
   options[randomIndex].style.display = "block";
-options[randomIndex].style.backgroundColor = "red";
   }
 }
 
