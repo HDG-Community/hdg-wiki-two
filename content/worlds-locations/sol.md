@@ -17,7 +17,8 @@ The Sol System, even in the wake of the Terran Diaspora, is still home to the va
 Over the last 500 years, industrialization has spread across the system; asteroids are broken up for mining, trace elements are skimmed in vast quantities from the endless reserves of the gas giants, and the Kuiper Belt is a flurry of ships mining cometary ice. Pick any point in the Sol System, and you're likely to find a miserable Terran just waiting for the Affini to come along and rescue them — but there are a few places where most of those adorable little Terrans are likely to be found.
 
 ## Terra
-Main Page: [terra|Terra]
+_Main Page: [[terra|Terra]]_
+
 Earth, more often called Terra in the [[terran-accord|Terran Accord]] official media and bureaucracy, is humanity's homeworld. Every human being, no matter where they were born in the galaxy, has a relatively recent ancestor who was born, lived, and died on this little world. For uncountable eons up until relatively recently, every dream, every struggle, and every disaster that humanity experienced took place here.
 
 [!LORET] Earth is a location that has many contradictory depictions. This is the nature of the shared setting, and the text below represents one common version of the planet.
@@ -28,7 +29,8 @@ Earth is not a pleasant place to live unless you're very wealthy; average temper
 Luna is a major industrial and population center, and prior to Mars' terraformation the shining center of humanity's presence in space. The moon's low gravity made it an ideal place to construct and launch new ships, and its orbit still crawls with refineries, habitat stations, and the husks of mined-out metallic asteroids steered inward from the Belt. The surface is festooned with domed cites dug deep into the Lunar regolith; since the moon lacks an active core, it also lacks a magnetic field, and radiation is a serious concern.
 
 ## Mars 
-Main Page: [mars|Mars]
+_Main Page: [[mars|Mars]]_
+
 Mars has been continuously inhabited for several hundred years, nearly as long as the slow process of terraforming has been under way, and it's the cultural and social center of the Solar System as far as most Terrans are concerned.
 
 ## Gas Giant Moons
