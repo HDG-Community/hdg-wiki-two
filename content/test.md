@@ -106,7 +106,7 @@ subelement.style.display = "none";
 }
 if (options.length > 0) {
   const randomIndex = Math.floor(Math.random() * options.length);
-if (tagName === 'span') {
+if (options[randomIndex].tagName === 'span') {
   options[randomIndex].style.display = "inline";
   }
 else
@@ -115,4 +115,4 @@ else
   }
 }
 
-</script>
+</script> 
