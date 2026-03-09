@@ -9,7 +9,7 @@ params:
   icon: story
 weight: 5
 ---
-This landing page is still very much a **work in progress** and will likely change dramatically. There is something big we are working on we can't wait to share, but In the meantime why not check these out:
+This landing page is still very much a **work in progress** and will likely change dramatically. There is something big we are working on we can't wait to share, but in the meantime why not check these out:
 - **[The HDG tag on AO3](https://archiveofourown.org/tags/Human%20Domestication%20Guide/works)** - This is where the vast majority of HDG stories are being posted today. The setting grows by dozens of stories per week, so it's always fun to check out what's new!
 - **[The HDG tag on Read Only Mind](https://readonlymind.com/search/?q=%23Human_Domestication_Guide)** - This was once where HDG lived before growing far too big for a niche site. However, some stories have never been moved to AO3 so there are many hidden gems to find, even though they no longer accept new HDG stories.
 ## Writing Jam Collections
