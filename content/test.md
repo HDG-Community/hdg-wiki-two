@@ -15,17 +15,25 @@ Who knows. let's ramble to be sure that normal text near the random picker works
 <div class="randomset">
 <div class="rngopt">
 
-option 1
+> [!QUOTATION]
+> *“Terran space was increasingly popular for the xenrani people due to their resemblance to a certain prey species from Quani—their homeworld—and Moira and Cinder had always been of the wandering sort. Pair that with their pheromones, and they tended to attract a bit of attention.”*
+> 
+> **Holly Addler and Fluxom’s [*Be My Valentine*](https://archiveofourown.org/works/72373636/chapters/188449786), Chapter 1**
 
 </div>
 <div class="rngopt">
 
-option 2
+> [!QUOTATION]
+> _"It is common knowledge that one cannot, for ethical reasons, rise to disturb a cat who sleeps in one’s lap, Astrid knew. The not-quite-cat currently sleeping in **her** lap, however, had her trapped in a much more physical sense. It was simply too heavy to move."_
+> 
+> **Promilie's [_Florets of a Feather_](https://archiveofourown.org/works/54477985/chapters/145430536), chapter 4**
 
 </div>
 <div class="rngopt">
 
-option 3
+{{< aside aquatic_themothmuse "An aquatic affini and doll floret pair." >}}
+    Art by [themothmuse](https://www.tumblr.com/themothmuse).
+{{< /aside >}}
 
 </div>
 </div>
