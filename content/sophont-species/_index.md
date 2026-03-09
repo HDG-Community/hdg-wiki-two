@@ -32,11 +32,12 @@ An ancient progenitor race, co-evolved with the [[beeple|Beeple,]] the first spe
 *Created by Glitchyrobo. Feature in all HDG stories. First appeared in [Human Domestication Guide.](https://readonlymind.com/@GlitchyRobo/HumanDomesticationGuide/)*
 ### Beeple
 
-<div class="">
-{{< mini buddybeeple_garbagewitchy "A soft paint style portrait of a beeple plushie with yellow and black fuzzy stripes and blue eyes." >}} 
-Art by [Garbagewitchy](https://bsky.app/profile/garbagewitchy.bsky.social). {{< /mini >}}
+<div class="randomimage">
+  
+{{< mini buddybeeple_garbagewitchy "A soft paint style portrait of a beeple plushie with yellow and black fuzzy stripes and blue eyes." >}} Art by [Garbagewitch](https://bsky.app/profile/garbagewitchy.bsky.social). {{< /mini >}}
 
-{{< aside beeple_plastic "A green-coated beeple with red eyes." left >}} Art by Art by [Plastic](https://bsky.app/profile/plastic-doodles.bsky.social). {{< /aside >}}
+{{< mini beeple_plastic "A green-coated beeple with red eyes." left >}} Art by [Plastic](https://bsky.app/profile/plastic-doodles.bsky.social). {{< /mini >}}
+
 </div>
 
 *Main Page: [[beeple|beeple]]*
