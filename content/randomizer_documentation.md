@@ -176,20 +176,6 @@ This is the second result. it has a quote in it that the other doesn't!
 </div>
 </div>
 
-
-> [!QUOTATION]
-> _"This is the second quote."_
-> 
-> _"it has more lines."_
-> 
-> **Somebody's [_Story_](https://archiveofourown.org/works/54477985/chapters/145430536) chapter 2**
-
-</div> 
-
-
-
-
-
 ## coming later:
 an option to make it so it reactivates N options, rather than just one.
 
