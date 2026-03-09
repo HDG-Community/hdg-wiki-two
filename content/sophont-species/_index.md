@@ -102,7 +102,7 @@ Moth-like centuar sophonts that stand at about . Originating from an unusually d
 
 *Maintained by the Lorets.*
 ### Ocythoen
-{{< mini ocythoen_iolanthe "A green Ocythoen looking at the camera underwater." >}} Art by [](). {{< /mini >}}
+{{< mini ocythoen_iolanthe "A green Ocythoen looking at the camera underwater." >}} Art by [Iolanthe](https://vgen.co/Iolanthe). {{< /mini >}}
 
 **Milky Way | ~400 years BT**
 
