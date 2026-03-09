@@ -63,9 +63,9 @@ the old, difficult way
   <div class="rngopt"> 
 {{< mini buddybeeple_garbagewitchy "A soft paint style portrait of a beeple plushie with yellow and black fuzzy stripes and blue eyes." >}} Art by [Garbagewitchy](https://bsky.app/profile/garbagewitchy.bsky.social). {{< /mini >}}
 </div>
-
+  <div class="rngopt"> 
 {{< mini beeple_plastic "A green-coated beeple with red eyes." >}} Art by [Plastic](https://bsky.app/profile/plastic-doodles.bsky.social). {{< /mini >}}
-
+  </div>
 </div>
 
 ## new test block
