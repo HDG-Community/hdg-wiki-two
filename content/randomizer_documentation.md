@@ -120,7 +120,7 @@ Note that this works for all image shortcodes, which are currently image, aside,
 
 
 ## freeform 
-There are applications where more fine detail is wanted, and at the cost of being way more work to set up it can do some very cool things. for this, we not only need to specify a container with the class **"randomset"** but also mark what it is randomizing by using the class "rngopt" (random number generator option)
+There are applications where more fine detail is wanted, and at the cost of being way more work to set up it can do some very cool things. for this, we not only need to specify a container with the class **"randomset"** but also mark what it is randomizing by using the class **"rngopt"** (random number generator option)
 
 using this, we can do things like randomize multiple individual parts inside a paragraph.
 ```
@@ -130,6 +130,63 @@ using this, we can do things like randomize multiple individual parts inside a p
 which produces:
 
 <p> we should be able to randomize a single word in sentences as well, even multiple times per paragraph. for example: <span class="randomset"><span class="rngopt">one!</span><span class="rngopt">two!</span><span class="rngopt">three!</span><span class="rngopt">four!</span></span> <span class="randomset"><span class="rngopt">one!</span><span class="rngopt">two!</span><span class="rngopt">three!</span><span class="rngopt">four!</span></span></p>
+
+
+We can also just mark large multi paragraph sections as a single random roll, or arbitrarily mix any desired subsections, shortcodes, etc. Will we ever need this? probably not, but we have it if we do.
+
+```
+<div class="randomset"> 
+<div class="rngopt"> 
+
+This is the first result.
+
+- this bullet isn't in the other one.
+
+It has multiple paragraphs.
+
+</div> 
+<div class="rngopt"> 
+
+This is the second result. it has a quote in it that the other doesn't!
+
+> look at this quote line! woah.
+
+</div>
+</div>
+```
+
+produces:
+
+<div class="randomset"> 
+<div class="rngopt"> 
+
+This is the first result.
+
+- this bullet isn't in the other one.
+
+It has multiple paragraphs.
+
+</div> 
+<div class="rngopt"> 
+
+This is the second result. it has a quote in it that the other doesn't!
+
+> look at this quote line! woah.
+
+</div>
+</div>
+
+
+> [!QUOTATION]
+> _"This is the second quote."_
+> 
+> _"it has more lines."_
+> 
+> **Somebody's [_Story_](https://archiveofourown.org/works/54477985/chapters/145430536) chapter 2**
+
+</div> 
+
+
 
 
 
