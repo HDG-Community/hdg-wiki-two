@@ -1,14 +1,16 @@
 ---
-title: The Test One
+title: The Test Zone
 date: 2024-11-05T00:00:00+00:00
 authors: HDG Wiki Team
 draft: false
-description: A hidden test of the randomizer function
+description: A hidden test of various functions. you found it!
 params:
   decoration: meta
   sidebar:
     exclude: true
 ---
+Welcome to the test zone! there's nothing here that is useful to a reader, but congrats if you managed to find it.
+
 ## new test block
 this one is testing the randomimage
 
