@@ -11,26 +11,18 @@ weight: 25
 ---
 # Overview of the Terran Accord
 
-
-
-> [!QUOTATION]
-> _"Osiris could hardly keep his eyes open. The last hour or so of his shifts were always the worst, copying data out of one table, reformatting it, and pasting it into another one. He sat at his computer and did this every single day, and has been doing so for about two years now. This job was completely meaningless, the only reason some AI scraper couldn’t do it is because the legacy database is too old to be accurately scraped by AI, and medical data can't be too inaccurate or else too many people will die before their assets can be liquidated to pay for care. Jobs like these only existed for people like Osiris, too disabled to have been drafted onto a ship for the war but not disabled or rich enough for the scraps of public assistance that still remained. Work or die, those are his only two options."_
->
-> __Pr1nceAndromeda's [_A Prince and his Lilies_](https://archiveofourown.org/works/63434749)__
-
+The Terran Accord was a fascist and hyper-capitalist state composed of an uneasy alliance between the central government in the [[sol|Solar System]] and surrounding imperial core, and a varied collection of corporate entities, some of which rose to the level of pseudo-states themselves, particularly in the periphery and especially in the frontier of the Accord. Their mutual interest in expansion and profit maintained the relationship, though internecine wars between corporations were not uncommon. 
 
 The Terran Accord was the most recent (and final) iteration of self-government by the [[terrans|human species]]. Reaching up to 500 light years away from their homeworld, a small rocky planet orbiting a yellow main-sequence star called [[sol|Sol]], this government projected power through military force, capitalist expansion, and ruthless exploitation of its population. Limited by the profit-driven nature of its economy, the Accord never developed beyond primitive applications of strange matter, and never fully understood the nature of hyperspace. This minor polity therefore proved relatively simple for the Affini to domesticate.
-## Introduction
-The Terran Accord was a fascist and hyper-capitalist state composed of an uneasy alliance between the central government in the [[sol|Solar System]] and surrounding imperial core, and a varied collection of corporate entities, some of which rose to the level of pseudo-states themselves, particularly in the periphery and especially in the frontier of the Accord. Their mutual interest in expansion and profit maintained the relationship, though internecine wars between corporations were not uncommon. 
 
 Established roughly 70 local years prior to [[florets-domestication|domestication]], the Accord was a mature state by Terran standards, its origins beginning to pass from living memory for the majority of its population. One of the Accord's key political programs, though hardly an original one, was the development of and insistence upon labeling all humans, regardless of their system of origin, as inextricably Terran. This was intended to foster interstellar unity as a pretext for centralized authority following the Accord's discard and subsequent contest of Nyrina. Despite the [[rinans|Rinans]] offering no significant military resistance to the Terran invasion, Rinans were routinely characterized as both hopelessly backward as well as a persistent threat to Terran safety and sovereignty.
 
 While human civilization could have provided a far better life for all its citizenry, to do so would have meant the rich and powerful could not hoard wealth best measured scientific notation. Populaces were generally oppressed by systems designed both accidentally and intentionally to shut down meaningful resistance. Despite this, many tried anyway, and the might of the Terran military, despite its own xenophobic messaging, was almost entirely devoted to violence against its own people.
 ## Life in the Accord
 > [!QUOTATION]
-> _"Yet the Terran Accord had even more arbitrary restrictions on behaviour, both those explicitly enshrined in law and those implicitly coded into the power imbalance of the relationship between the rich and powerful and the common individual. The Terran Accord didn't allow individuals to make repairs to their own devices. One couldn't produce music or writing or art that was even marginally close to something a corporation had produced within an algorithmic margin of error. Nor could one protest against genuine horrors perpetrated by corporations or governments without risking one's own life. Simply existing in most spaces was a crime without paying for one's right to be there."_
+> _"Osiris could hardly keep his eyes open. The last hour or so of his shifts were always the worst, copying data out of one table, reformatting it, and pasting it into another one. He sat at his computer and did this every single day, and has been doing so for about two years now. This job was completely meaningless, the only reason some AI scraper couldn’t do it is because the legacy database is too old to be accurately scraped by AI, and medical data can't be too inaccurate or else too many people will die before their assets can be liquidated to pay for care. Jobs like these only existed for people like Osiris, too disabled to have been drafted onto a ship for the war but not disabled or rich enough for the scraps of public assistance that still remained. Work or die, those are his only two options."_
 >
-> __AsphodelVeil's [_Nurture & Acquisitions_](https://archiveofourown.org/works/48096388)__
+> __Pr1nceAndromeda's [_A Prince and his Lilies_](https://archiveofourown.org/works/63434749)__
 
 The Terran Accord can not be summarized by a single experience, much like life on Earth in the real world can not. Social class and circumstances created a vast difference in life experiences. In some places, life is reasonably pleasant, in others it is grim, cutthroat, and oppressive. Being rich always helps, of course.
 
@@ -60,6 +52,11 @@ Ostensibly a representative democracy, at least on the macro scale, the Accord w
 > [!NOTE]
 > Coming soon!
 ### The Megacorps
+> [!QUOTATION]
+> _"Yet the Terran Accord had even more arbitrary restrictions on behaviour, both those explicitly enshrined in law and those implicitly coded into the power imbalance of the relationship between the rich and powerful and the common individual. The Terran Accord didn't allow individuals to make repairs to their own devices. One couldn't produce music or writing or art that was even marginally close to something a corporation had produced within an algorithmic margin of error. Nor could one protest against genuine horrors perpetrated by corporations or governments without risking one's own life. Simply existing in most spaces was a crime without paying for one's right to be there."_
+>
+> __AsphodelVeil's [_Nurture & Acquisitions_](https://archiveofourown.org/works/48096388)__
+
 The hand of the free market, as it always does, has largely strangled the concept of competition, innovation, or improvement. Much of the Accord exists within spaces controlled by strict vertical monopolies where a single buisness entity and its subsidiaries control every aspect of commerce and culture on an entire planet, moon, or station. 
 ### The Office of Cosmic Naval Intelligence
 PULLQUOTE
