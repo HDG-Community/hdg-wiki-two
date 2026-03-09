@@ -38,6 +38,9 @@ const elements = document.querySelectorAll(".randomset"); // Select all randbloc
 
 for (const element of elements) {
   const options = element.querySelectorAll(".rngopt");
+for (const subelement of options) {
+subelement.style.display = "none";
+}
 if (options.length > 0) {
   const randomIndex = Math.floor(Math.random() * options.length);
   options[randomIndex].style.display = "block";
