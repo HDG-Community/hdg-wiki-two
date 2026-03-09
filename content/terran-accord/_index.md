@@ -22,7 +22,7 @@ While human civilization could have provided a far better life for all its citiz
 >
 > __Pr1nceAndromeda's [_A Prince and his Lilies_](https://archiveofourown.org/works/63434749)__
 
-The Terran Accord can not be summarized by a single experience, much like life on Earth in the real world can not. Social class and circumstances created a vast difference in life experiences. In some places, life is reasonably pleasant, in others it is grim, cutthroat, and oppressive. Being rich always helps, of course.
+The experieince of living under the Terran Accord can not be summarized by a single experience, much like life on Earth in the real world can not. Social class and circumstances created a vast difference in life experiences. In some places, life was reasonably pleasant, in others it was grim, cutthroat, and oppressive. Being rich always helped, of course.
 
 Availability of things like medication, leisure time, or food not shaped like a ration cube was subject to supply chain disruptions, stockholder whims, pirate raids, and more. Even those who were lucky to find relative stability still lived under the unjust rule of Capital.
 ## History
