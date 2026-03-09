@@ -101,7 +101,7 @@ to run the randomizer on a list of bullets, just enclose them in a **div** with 
   
 {{</* aside buddybeeple_garbagewitchy "A soft paint style portrait of a beeple plushie with yellow and black fuzzy stripes and blue eyes." >}} Art by [Garbagewitchy](https://bsky.app/profile/garbagewitchy.bsky.social). {{</* /aside */>}}
 
-{{</* aside beeple_plastic "A green-coated beeple with red eyes." */>}} Art by [Plastic](https://bsky.app/profile/plastic-doodles.bsky.social). {{< /aside */>}}
+{{</* aside beeple_plastic "A green-coated beeple with red eyes." */>}} Art by [Plastic](https://bsky.app/profile/plastic-doodles.bsky.social). {{</* /aside */>}}
 
 </div>
 ```
