@@ -41,7 +41,7 @@ for (const element of elements) {
 if (options.length > 0) {
   const randomIndex = Math.floor(Math.random() * options.length);
   options[randomIndex].style.display = "block";
-options[randomIndex]..style.backgroundColor = "red";
+options[randomIndex].style.backgroundColor = "red";
   }
 }
 
