@@ -44,7 +44,7 @@ subelement.style.display = "none";
   // Select a random index and display the element
   if (options.length > 0) {
     const randomIndex = Math.floor(Math.random() * options.length);
-  options[randomIndex].style.display = "block";
+  options[randomIndex].style.display = "unset";
   } 
 } 
 
@@ -52,14 +52,14 @@ subelement.style.display = "none";
 const imageelements = document.querySelectorAll(".randomimage"); // Select all designated image asides
 
 for (const element of imageelements) {
-  const options = element.querySelectorAll(".image-aside");
+  const options = element.querySelectorAll(".img-aside"); // this is a bad idea, it should be using the image-aside class, but for some reason that isnt working
 for (const subelement of options) {
 subelement.style.display = "none";
 }
   // Select a random index and display the element
   if (options.length > 0) {
     const randomIndex = Math.floor(Math.random() * options.length);
-  options[randomIndex].style.display = "block";
+  options[randomIndex].style.display = "unset";
   } 
 } 
 

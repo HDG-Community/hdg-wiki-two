@@ -31,8 +31,14 @@ An ancient progenitor race, co-evolved with the [[beeple|Beeple,]] the first spe
 
 *Created by Glitchyrobo. Feature in all HDG stories. First appeared in [Human Domestication Guide.](https://readonlymind.com/@GlitchyRobo/HumanDomesticationGuide/)*
 ### Beeple
-{{< mini buddybeeple_garbagewitchy "A soft paint style portrait of a beeple plushie with yellow and black fuzzy stripes and blue eyes." >}} 
-Art by [Garbagewitchy](https://bsky.app/profile/garbagewitchy.bsky.social). {{< /mini >}}
+
+<div class="randomimage">
+  
+{{< mini buddybeeple_garbagewitchy "A soft paint style portrait of a beeple plushie with yellow and black fuzzy stripes and blue eyes." >}} Art by [Garbagewitchy](https://bsky.app/profile/garbagewitchy.bsky.social). {{< /mini >}}
+
+{{< mini beeple_plastic "A green-coated beeple with red eyes." >}} Art by [Plastic](https://bsky.app/profile/plastic-doodles.bsky.social). {{< /mini >}}
+
+</div>
 
 *Main Page: [[beeple|beeple]]*
 
@@ -96,6 +102,8 @@ Moth-like centuar sophonts that stand at about . Originating from an unusually d
 
 *Maintained by the Lorets.*
 ### Ocythoen
+{{< mini ocythoen_iolanthe "A green Ocythoen looking at the camera underwater." >}} Art by [Iolanthe](https://vgen.co/Iolanthe). {{< /mini >}}
+
 **Milky Way | ~400 years BT**
 
 Mostly-aquatic xenosophonts with huge eyes, tentacles, a hinged jaw, deadly venom, an ovipositor, and a brood pouch. They are all the same sex, and lack much of a concept of gender, typically using neopronouns based on vibes. They can move very fast in water, but are quite slow on land, relying on mobility devices or affini carrying. Their native languages are sign-based as they do not have a voice box unless biomodded.
@@ -175,3 +183,5 @@ The HDG Wiki Team are working hard on getting everything up and into tip-top sha
 {{< image under_construction_promilie "An illustration of a terran, rinan, and khetari in hard hats and high-vis vests. The terran and rinan are looking at a blueprint while the khetari is carrying a steel beam." inline >}}
     Art by Promilie.
 {{< /image >}}
+
+{{< randomroll >}}
