@@ -11,11 +11,9 @@ weight: 25
 ---
 # Overview of the Terran Accord
 
-The Terran Accord was a fascist and hyper-capitalist state composed of an uneasy alliance between the central government in the [[sol|Solar System]] and surrounding imperial core, and a varied collection of corporate entities, some of which rose to the level of pseudo-states themselves, particularly in the periphery and especially in the frontier of the Accord. Their mutual interest in expansion and profit maintained the relationship, though internecine wars between corporations were not uncommon. 
+The Terran Accord was the most recent (and final) iteration of self-government by the [[terrans|human species]], a fascist and hyper-capitalist state composed of an uneasy alliance between the central government in the [[sol|Solar System]] and surrounding imperial core, and a varied collection of corporate entities, some of which rose to the level of pseudo-states themselves, particularly in the periphery and especially in the frontier of the Accord. Their mutual interest in expansion and profit maintained the relationship, though internecine wars between corporations were not uncommon. 
 
-The Terran Accord was the most recent (and final) iteration of self-government by the [[terrans|human species]]. Reaching up to 500 light years away from their homeworld, a small rocky planet orbiting a yellow main-sequence star called [[sol|Sol]], this government projected power through military force, capitalist expansion, and ruthless exploitation of its population. Limited by the profit-driven nature of its economy, the Accord never developed beyond primitive applications of strange matter, and never fully understood the nature of hyperspace. This minor polity therefore proved relatively simple for the Affini to domesticate.
-
-Established roughly 70 local years prior to [[florets-domestication|domestication]], the Accord was a mature state by Terran standards, its origins beginning to pass from living memory for the majority of its population. One of the Accord's key political programs, though hardly an original one, was the development of and insistence upon labeling all humans, regardless of their system of origin, as inextricably Terran. This was intended to foster interstellar unity as a pretext for centralized authority following the Accord's discard and subsequent contest of Nyrina. Despite the [[rinans|Rinans]] offering no significant military resistance to the Terran invasion, Rinans were routinely characterized as both hopelessly backward as well as a persistent threat to Terran safety and sovereignty.
+Reaching up to 500 light years away from their homeworld, a small rocky planet orbiting a yellow main-sequence star called [[sol|Sol]], this government projected power through military force, capitalist expansion, and ruthless exploitation of its population. Limited by the profit-driven nature of its economy, the Accord never developed beyond primitive applications of strange matter, and never fully understood the nature of hyperspace. This minor polity therefore proved relatively simple for the Affini to domesticate.
 
 While human civilization could have provided a far better life for all its citizenry, to do so would have meant the rich and powerful could not hoard wealth best measured scientific notation. Populaces were generally oppressed by systems designed both accidentally and intentionally to shut down meaningful resistance. Despite this, many tried anyway, and the might of the Terran military, despite its own xenophobic messaging, was almost entirely devoted to violence against its own people.
 ## Life in the Accord
@@ -28,15 +26,12 @@ The Terran Accord can not be summarized by a single experience, much like life o
 
 Availability of things like medication, leisure time, or food not shaped like a ration cube was subject to supply chain disruptions, stockholder whims, pirate raids, and more. Even those who were lucky to find relative stability still lived under the unjust rule of Capital.
 ## History
-Humanity's exact history has been garbled, both by the passage of time and intentional rewriting by local corporate states. Only the Neoxenoveterinary Archeobureaucrats of the Affini Compact could say for sure when certain events happened, and even then only after an extensive reconstructive effort. 
+Established roughly 70 local years prior to [[florets-domestication|domestication]], the Accord was a mature state by Terran standards, its origins beginning to pass from living memory for the majority of its population. One of the Accord's key political programs, though hardly an original one, was the development of and insistence upon labeling all humans, regardless of their system of origin, as inextricably Terran. This was intended to foster interstellar unity as a pretext for centralized authority following the Accord's discard and subsequent contest of Nyrina. Despite the [[rinans|Rinans]] offering no significant military resistance to the Terran invasion, Rinans were routinely characterized as both hopelessly backward as well as a persistent threat to Terran safety and sovereignty.
+
+Humanity's exact history earlier than its final century pre-domestication has been garbled, both by the passage of time and repeated cycles of intentional rewriting by local corporate states. Only the Neoxenoveterinary Archeobureaucrats of the Affini Compact could say for sure when certain events happened, and even then only after an extensive reconstructive effort. 
 
 > [!LORET]
 > This is an in-universe explanation for the out-of-universe fact that the setting is simply so big that stories cannot avoid contradicting each other!
-
-Certain events are absolutely known, however, and more information can be found on the 
-
-> [!NOTE]
-> Coming soon!
 ### Future: The Terran Protectorate
 Gloomy as that may all be, the future of humanity is bright, thanks to the arrival of the [[affini-compact|Affini Compact]]. Following the signing of the Human Domestication Treaty in 2554, the Accord was left to history, and with the passing of generations will one day be entirely forgotten from the consciousness of the average Terran.
 ## Government and Factions
