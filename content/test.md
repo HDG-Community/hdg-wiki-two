@@ -94,7 +94,6 @@ I cannot put into words how excited I am about this concept.
 
 <p> we should be able to randomize a single word in sentences as well, even multiple times per paragraoh. for example: <span class="randomset"><span class="rngopt">one!</span><span class="rngopt">two!</span><span class="rngopt">three!</span><span class="rngopt">four!</span></span> <span class="randomset"><span class="rngopt">one!</span><span class="rngopt">two!</span><span class="rngopt">three!</span><span class="rngopt">four!</span></span></p>
 
-
 <script>
 
 const elements = document.querySelectorAll(".randomset"); // Select all randblocks
@@ -110,9 +109,10 @@ if (options[randomIndex].tagName === 'span') {
   options[randomIndex].style.display = "inline";
   }
 else
-{
+  {
   options[randomIndex].style.display = "block";
   }
+ }
 }
 
 </script> 
