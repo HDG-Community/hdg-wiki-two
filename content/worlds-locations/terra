@@ -5,7 +5,7 @@ authors: tbd
 draft: false
 description: tbd
 params:
-  decoration: meta
+  decoration: accord
   sidebar:
     exclude: true
 ---
