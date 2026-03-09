@@ -76,8 +76,8 @@ Terran civilization's access to the jump drive, a point-to-point faster-than-lig
 > In genre terms, the Terran Accord operates on what is sometimes called "Hard Science Fiction" rules, which is a set of genre expectations that centers verisimilitude to real physics and plausible technology. 
 
 ### Starships of the Accord
-> [!NOTE]
-> Coming soon!
+
+
 ## Article Credit
 Article by the HDG.wiki team.
 
