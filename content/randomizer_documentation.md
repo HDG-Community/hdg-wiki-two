@@ -14,7 +14,7 @@ Hello there. this probably will move later, but it is useful to put it here for 
 
 ## how to use it
 the very first thing that you must do to make the randomizer work, currently, is to put this shortcode at the end of your .md:  
-`{{< randomroll >}}`  
+`{{</* randomroll */>}}`  
 this adds the javastript to run the code to the page. (this will probably be changed later so that it runs automatically.)
 
 ## Simple cases
@@ -95,13 +95,13 @@ This produces this:
 </div>
 
 ## image
-to run the randomizer on a list of bullets, just enclose them in a **div** with the class **"randomlist"** like so:
+to run the randomizer on a list of bullets, just enclose them in a **div** with the class **"randomimage"** like so:
 ```
 <div class="randomimage">
   
-{{< aside buddybeeple_garbagewitchy "A soft paint style portrait of a beeple plushie with yellow and black fuzzy stripes and blue eyes." >}} Art by [Garbagewitchy](https://bsky.app/profile/garbagewitchy.bsky.social). {{< /aside >}}
+{{</* aside buddybeeple_garbagewitchy "A soft paint style portrait of a beeple plushie with yellow and black fuzzy stripes and blue eyes." >}} Art by [Garbagewitchy](https://bsky.app/profile/garbagewitchy.bsky.social). {{</* /aside */>}}
 
-{{< aside beeple_plastic "A green-coated beeple with red eyes." >}} Art by [Plastic](https://bsky.app/profile/plastic-doodles.bsky.social). {{< /aside >}}
+{{</* aside beeple_plastic "A green-coated beeple with red eyes." */>}} Art by [Plastic](https://bsky.app/profile/plastic-doodles.bsky.social). {{< /aside */>}}
 
 </div>
 ```
