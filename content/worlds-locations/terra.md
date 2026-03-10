@@ -3,7 +3,7 @@ title: Terra
 date: 2026-03-05T00:00:00+00:00
 authors: tbd
 draft: false
-description: tbd
+description: Humanity's homeworld
 params:
   decoration: accord
   sidebar:
