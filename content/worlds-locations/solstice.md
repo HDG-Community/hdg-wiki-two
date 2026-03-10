@@ -5,8 +5,7 @@ authors: Kanagen
 draft: false
 description: tbd
 params:
-  sidebar:
-    exclude: true
+
 ---
 
 > [!QUOTATION]
