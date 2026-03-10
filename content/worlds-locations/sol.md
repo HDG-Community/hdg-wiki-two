@@ -1,7 +1,7 @@
 ---
 title: Sol
 date: 2024-11-05T00:00:00+00:00
-authors: tbd
+authors: the HDG.wiki team
 draft: false
 description: tbd
 params:
