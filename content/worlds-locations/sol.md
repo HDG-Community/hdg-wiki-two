@@ -1,13 +1,11 @@
 ---
 title: Sol
 date: 2024-11-05T00:00:00+00:00
-authors: tbd
+authors: the HDG.wiki team
 draft: false
 description: tbd
 params:
   decoration: accord
-  sidebar:
-    exclude: true
 ---
 > [!IMPORTANT]
 > This is legacy content. Expect this page to be revised heavily!

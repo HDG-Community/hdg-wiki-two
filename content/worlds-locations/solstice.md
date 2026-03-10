@@ -4,9 +4,6 @@ date: 2024-11-05T00:00:00+00:00
 authors: Kanagen
 draft: false
 description: tbd
-params:
-  sidebar:
-    exclude: true
 ---
 
 > [!QUOTATION]

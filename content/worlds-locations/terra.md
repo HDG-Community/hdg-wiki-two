@@ -6,8 +6,6 @@ draft: false
 description: Humanity's homeworld
 params:
   decoration: accord
-  sidebar:
-    exclude: true
 ---
 
 > [!IMPORTANT]

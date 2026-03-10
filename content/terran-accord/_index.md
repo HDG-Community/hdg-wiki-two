@@ -1,7 +1,7 @@
 ---
 title: Terran Accord
 date: 2024-11-05T00:00:00+00:00
-authors: tbd
+authors: the HDG.wiki team
 draft: false
 description: Pre-Affini Terran Government
 params:
@@ -59,7 +59,6 @@ Ostensibly a representative democracy, at least on the macro scale, the Accord w
 
 The hand of the free market, as it always does, has largely strangled the concept of competition, innovation, or improvement. Much of the Accord exists within spaces controlled by strict vertical monopolies where a single buisness entity and its subsidiaries control every aspect of commerce and culture on an entire planet, moon, or station. 
 ### The Office of Cosmic Naval Intelligence
-PULLQUOTE
 
 Every fascist empire needs its secret police, and the OCNI were the Accord's. Overfunded, unaccountable, and immoral, the OCNI was a magnet to the most outlandish research and development projects and the most ethically challenged individuals seeking power.
 
@@ -88,7 +87,4 @@ The average Terran ship is not particularly aesthetically pleasing, being constr
 In addition to difficulties inflicted by devotion to a substandard economic model, the capabilities of Terran starships were limited by their incomplete understanding of physics. Without a full understanding the fifth fundamental force, Terrans were forced to rely on chemical and nuclear thrusters to navigate in normal space, and upon a trial-and-error methodology of ballistic hyperspace jumps. Their ships often had limited habitable volume, both in total and per crew — many of the smaller ships even lacked centrifugal drums for artificial gravity.
 
 ## Article Credit
-Article by the HDG.wiki team.
-
-
-
+Article by Kanagen, Sheepwave, Pyxxiestyxx, 4wheelsword, and the rest of the HDG.wiki team.
