@@ -3,7 +3,7 @@ title: Terran Accord
 date: 2024-11-05T00:00:00+00:00
 authors: tbd
 draft: false
-description: todo
+description: Pre-Affini Terran Government
 params:
   decoration: accord
   icon: accord
