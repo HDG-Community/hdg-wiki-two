@@ -6,7 +6,7 @@ draft: false
 description: The Terran Accord's Space Military
 Params:
   decoration: accord
-    sidebar:
+  sidebar:
     exclude: true
 ---
 ## Under Construction!
