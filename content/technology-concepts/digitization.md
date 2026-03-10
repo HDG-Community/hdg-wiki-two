@@ -34,6 +34,9 @@ Transmigrationism is not, however, a popular school of thought. While there is n
 {{< image transmigrationist_space_sheepwave "An impossible vista with vanishing points that don't make sense, simultanously floating in space and also in an endless sky." >}}
     A vista from a realm of domesticated physics.
     Art by Sheepwave, from [Good Sensory](https://archiveofourown.org/works/58671715) chapter 28.
-{{< /aside >}}
+{{< /image >}}
+
+_You might like to check out the [HDG Digitization December 2025 Writing Jam](https://archiveofourown.org/collections/HDG_Digitization_December_2025) or the [Digitized and Posthuman HDG](https://archiveofourown.org/collections/Digitization_HDG) community collection!_
+
 ## Article Credit
 Article by Kanagen
