@@ -1,11 +1,13 @@
 ---
 title: Terran Cosmic Navy
 date: 2024-11-05T00:00:00+00:00
-authors: tbd
+authors: the HDG.wiki team
 draft: false
-description: todo
+description: The Terran Accord's Space Military
 Params:
   decoration: accord
+    sidebar:
+    exclude: true
 ---
 ## Under Construction!
 The Lorets and the rest of the folks working on the Guide are working hard on getting everything up and into tip-top shape, but we haven't reached here yet!
