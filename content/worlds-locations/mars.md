@@ -3,7 +3,7 @@ title: Mars
 date: 2026-03-05T00:00:00+00:00
 authors: tbd
 draft: false
-description: tbd
+description: Humanity's first terraformed planet
 params:
   decoration: accord
   sidebar:
