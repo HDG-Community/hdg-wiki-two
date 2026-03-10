@@ -6,8 +6,6 @@ draft: false
 description: tbd
 params:
   decoration: accord
-  sidebar:
-    exclude: true
 ---
 > [!IMPORTANT]
 > This is legacy content. Expect this page to be revised heavily!
