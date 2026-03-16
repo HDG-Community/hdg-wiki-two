@@ -61,7 +61,7 @@ The hand of the free market, as it always does, has largely strangled the concep
 
 Mega corporations in HDG exist as a logical extreme to powerful corporate and monopolistic concepts that thrive under capitalism. One, or perhaps an entire cabinet of powerful individuals rest luxuriously at the crown of a chain of command whose conditions grow progressively worse the lower you go.
 
-Power corrupts, inflation and late stage capitalism twist and constrict to the point where any cost is one that must be reduced. Any excess that subtracts from the bottom line, or stars forbid the paycheck of someone high on the ladder is unacceptable. They are powerhouses of authority and control that take every advantage they can, every opportunity they are able. The Compact seeks to dismantle capitalism, and there is an argument to be made that its very personification exists as Megacorperations themselves.
+Power corrupts, inflation and late stage capitalism twist and constrict to the point where any cost is one that must be reduced. Any excess that subtracts from the bottom line, or stars forbid the paycheck of someone high on the ladder is unacceptable. They are powerhouses of authority and control that take every advantage they can, every opportunity they are able. The Compact seeks to dismantle capitalism, and there is an argument to be made that its very personification exists as Megacorps themselves.
 
 ### The Office of Cosmic Naval Intelligence
 
