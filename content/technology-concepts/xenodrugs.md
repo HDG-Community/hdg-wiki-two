@@ -47,14 +47,8 @@ Causes disinhibition. A class-D may prevent lying to oneself or disrupt emotiona
 ## Class-E
 Regulates emotions, relaxes muscles, and helps to calm panic attacks and other emotional outbursts. May cause disorientation or discoordination as a side effect.
 
-## Class-F
-Manipulates thought patterns. Can disrupt intrusive thoughts or facilitate haustoric implant-driven alterations in thought processes.
-
 ## Class-G
 Causes alterations in the body through the activation or deactivation of certain genes. This includes rapid, granular HRT effects, limited height alterations, hair and eye colour, fur growth, and other cosmetic effects.
-
-## Class-H
-Heightens suggestability and causes trancelike or hallucinatory mental states.
 
 ## Class-J
 Induces regression to a nonspecific simplistic, more sensory-seeking state which is easy to map onto things like petspace. Class-Js require close supervision to administer correctly, and have a ramp-up and down period of a few days each, and so are mainly suitable for medium and long-term use.
@@ -74,15 +68,6 @@ Causes **permanent** ego and identity death and intense, all-pervasive euphoria 
 > [!NOTE]
 > Warning! Class-Os are a last-resort option for sophonts whose well-being cannot be secured using any of the other myriad methods available to the Affini Compact. As such their use is a _Big Deal_ and must be treated with gravity. Side effects may include turning the eyes honey-gold.
 
-## Class-P
-Facilitates haustoric implant-driven body control, which may be partial or total.
-
-## Class-S
-Alters perception of sensory data. May cause hallucinations, synaesthesia, or act as a filter to change how certain stimuli are perceived; for example, altering the sense of taste so everything tastes sweet.
-
-## Class-V
-Facilitates the use of mods in biomodded sophonts. This may include preventing rejection of those mods or other effects that help sophonts use their new bodies.
-
 ## Class-W
 Induces aphasia and disrupts the ability to communicate in one or both directions. May garble the production or interpretation of speech or other forms of communication, or restrict speech to noises like barking.
 
@@ -94,6 +79,15 @@ Causes or prevents sleep, in variable amounts. Variants of class-Z xenodrugs may
 
 > [!AFFINI]
 > Warning! Long-term usage of class-Z₀ is dangerous and will result in a wellness check if abused.
+
+## Less Common Xenodrug Classes
+Not all xenodrugs appear in every story, and some appear in very few. These, while part of the setting, are rarely named, but always avaliable as effects.
+
+- **Class-F:** Manipulates thought patterns. Can disrupt intrusive thoughts or facilitate haustoric implant-driven alterations in thought processes.
+- **Class-H:** Heightens suggestability and causes trancelike or hallucinatory mental states.
+- **Class-P:** Facilitates haustoric implant-driven body control, which may be partial or total.
+- **Class-S:** Alters perception of sensory data. May cause hallucinations, synaesthesia, or act as a filter to change how certain stimuli are perceived; for example, altering the sense of taste so everything tastes sweet.
+- **Class-V:** Facilitates the use of mods in biomodded sophonts. This may include preventing rejection of those mods or other effects that help sophonts use their new bodies.
 
 ### Unclassified Drugs
 In addition to the classes listed above, there are many medicines and drugs that fall outside of the defined classification system. One way of thinking about it could be to say that xenodrugs are “the kinky drugs”, even if they are also used as therapeutic modalities such as a Class-G or a Class-E. 
