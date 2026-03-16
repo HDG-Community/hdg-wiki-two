@@ -25,56 +25,56 @@ Params:
 
 Xeno (_non-affini_) drugs (_medicine or other substance that has a physiological effect when introduced into the body._)
 
-### Xenodrug Classifications
+## Xenodrug Classifications
 The Affini have developed thousands of drugs for use by xenosophonts as part of their wider efforts to ensure the happiness and wellbeing of everyone within the Compact. The delivery methods for these drugs are as numerous as the drugs themselves, including injection, inhalation, topical, and ingestion.
 
 There are _some_ pharmaceuticals developed by affini that are of particular note due to their primarily recreational uses. These drugs have been grouped into classes.
-## Class-A
+### Class-A
 Alters the sense of touch, generally making it more sensitive and pleasurable; also frequently causes euphoria or other forms of intoxication.
 
-## Class-B
+### Class-B
 Facilitates the implantation, alteration, or removal of memories. Depending on the strain of drug used and individual floret, some particularly traumatic memories may still resurface.
 
-## Class-C
+### Class-C
 Increases the bonding response, and facilitates attachment to other sophonts and objects. 
 
 > [!AFFINI]
 > Warning: Human bonding response is naturally very high, use with caution!
 
-## Class-D
+### Class-D
 Causes disinhibition. A class-D may prevent lying to oneself or disrupt emotional repression, and may cause logorrhea or unfiltered speech.
 
-## Class-E
+### Class-E
 Regulates emotions, relaxes muscles, and helps to calm panic attacks and other emotional outbursts. May cause disorientation or discoordination as a side effect.
 
-## Class-G
+### Class-G
 Causes alterations in the body through the activation or deactivation of certain genes. This includes rapid, granular HRT effects, limited height alterations, hair and eye colour, fur growth, and other cosmetic effects.
 
-## Class-J
+### Class-J
 Induces regression to a nonspecific simplistic, more sensory-seeking state which is easy to map onto things like petspace. Class-Js require close supervision to administer correctly, and have a ramp-up and down period of a few days each, and so are mainly suitable for medium and long-term use.
 
-## Class-L
+### Class-L
 Causes temporary ego and identity death and intense, all-pervasive euphoria which causes all sensation to feel good. Class-Ls require close supervision to adminster correctly, and are a cocktail of xenodrugs. May harm a sophont's capacity to think or feel pleasure without them if used too frequently.
 
-## Class-M
+### Class-M
 Inhibits movement and thoughts, whether as a paralytic or through the inducement of stillness and peace. Commonly used for dollplay or by sophonts who identify as dolls.
 
-## Class-N
+### Class-N
 Prevents, delays, or induces orgasm or other sexual responses.
 
-## Class-O
+### Class-O
 Causes **permanent** ego and identity death and intense, all-pervasive euphoria which causes all sensation to feel good. 
 
 > [!NOTE]
 > Warning! Class-Os are a last-resort option for sophonts whose well-being cannot be secured using any of the other myriad methods available to the Affini Compact. As such their use is a _Big Deal_ and must be treated with gravity. Side effects may include turning the eyes honey-gold.
 
-## Class-W
+### Class-W
 Induces aphasia and disrupts the ability to communicate in one or both directions. May garble the production or interpretation of speech or other forms of communication, or restrict speech to noises like barking.
 
-## Class-Y
+### Class-Y
 Induces temporary or permanent age regression on a diverse spectrum of physical and psychological levels. A cocktail of xenodrugs, minor formulations cause a sophont to see others as a parental figure, while major formulations result in full identity death, and a complete return to an infant like state.
 
-## Class-Z
+### Class-Z
 Causes or prevents sleep, in variable amounts. Variants of class-Z xenodrugs may cause alterations to dreams (preventing or intensifying them). Long-term class-Zs exist for facilitating hibernation or long-term life support, and class-Z₀ xenodrugs exist to prevent sleep. 
 
 > [!AFFINI]
@@ -89,7 +89,7 @@ Not all xenodrugs appear in every story, and some appear in very few. These, whi
 - **Class-S:** Alters perception of sensory data. May cause hallucinations, synaesthesia, or act as a filter to change how certain stimuli are perceived; for example, altering the sense of taste so everything tastes sweet.
 - **Class-V:** Facilitates the use of mods in biomodded sophonts. This may include preventing rejection of those mods or other effects that help sophonts use their new bodies.
 
-### Unclassified Drugs
+## Unclassified Drugs
 In addition to the classes listed above, there are many medicines and drugs that fall outside of the defined classification system. One way of thinking about it could be to say that xenodrugs are “the kinky drugs”, even if they are also used as therapeutic modalities such as a Class-G or a Class-E. 
 Xenodrugs also strictly focus on non-affini sophonts: They’re drugs for pet species. 
 
