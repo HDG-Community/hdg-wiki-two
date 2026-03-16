@@ -58,6 +58,11 @@ Ostensibly a representative democracy, at least on the macro scale, the Accord w
 > __AsphodelVeil's [_Nurture & Acquisitions_](https://archiveofourown.org/works/48096388)__
 
 The hand of the free market, as it always does, has largely strangled the concept of competition, innovation, or improvement. Much of the Accord exists within spaces controlled by strict vertical monopolies where a single buisness entity and its subsidiaries control every aspect of commerce and culture on an entire planet, moon, or station. 
+
+Mega corporations in HDG exist as a logical extreme to powerful corporate and monopolistic concepts that thrive under capitalism. One, or perhaps an entire cabinet of powerful individuals rest luxuriously at the crown of a chain of command whose conditions grow progressively worse the lower you go.
+
+Power corrupts, inflation and late stage capitalism twist and constrict to the point where any cost is one that must be reduced. Any excess that subtracts from the bottom line, or stars forbid the paycheck of someone high on the ladder is unacceptable. They are powerhouses of authority and control that take every advantage they can, every opportunity they are able. The Compact seeks to dismantle capitalism, and there is an argument to be made that its very personification exists as Megacorperations themselves.
+
 ### The Office of Cosmic Naval Intelligence
 
 Every fascist empire needs its secret police, and the OCNI were the Accord's. Overfunded, unaccountable, and immoral, the OCNI was a magnet to the most outlandish research and development projects and the most ethically challenged individuals seeking power.
