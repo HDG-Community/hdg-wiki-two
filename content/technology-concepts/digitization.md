@@ -1,13 +1,12 @@
 ---
 title: Digitization and the Digital Compact
-date: 2024-11-05T00:00:00+00:00
+date: 2026-05-28T00:00:00+00:00
 authors: the HDG.wiki team
 draft: false
 description: The digital universe
 Params:
   decoration: affini
-  sidebar:
-    exclude: true
+weight: 7
 ---
 The Affini Compact is not subtle. It extends inexorably outward, domesticating the universe, spreading happiness and contentment, always with its eye on the next star over and the cuties who call it home. There is another Compact, however, one far more subtle that its prosaic cousin, one that goes unseen by many but which is essential to the expansion and the function of the Affini Compact and its all-consuming cultural mission. 
 
