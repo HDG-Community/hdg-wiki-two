@@ -1,5 +1,5 @@
 {
-  description = "An experimental wiki for the hdg community";
+  description = "The Human Domestication Guide Wiki";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";

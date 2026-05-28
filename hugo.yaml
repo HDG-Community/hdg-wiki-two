@@ -2,6 +2,13 @@
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://hdg.wiki/"
 title: Human Domestication Guide
+enableRobotsTXT: true
+
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
+  
 copyright: " "
 paginate: 5
 theme: hextra
@@ -16,7 +23,7 @@ pygmentsUseClasses: true
 mainsections: ["posts", "papermod"]
 
 minify:
-  disableXML: true
+  disableXML: false
   # minifyOutput: true
 
 languages:

@@ -1,4 +1,4 @@
-module github.com/FlorOps/hdg-wiki-two
+module github.com/HDG-Community/hdg-wiki-two
 
 go 1.22.6
 
