@@ -45,4 +45,4 @@ The Haustoric Implant is inserted into a floret's spine, typically through a pro
 It will typically take a few weeks to recover from Implantation Surgery while the implant grows in. During this time, the floret in question will typically be held on a regimen of class-J and class-M xenodrugs and doted on constantly by their affini, to ensure that the process is disturbed as little as possible. During this period, it is common for the terran to experience vivid “implant dreams”, representative of the implant fusing with their nervous system.
 
 ## Article Credit
-CadenceTheHypnoticFloret, Lagnia, HDG Wiki Team
+CadenceTheHypnoticFloret, Lagnia, The HDG.Wiki Team
