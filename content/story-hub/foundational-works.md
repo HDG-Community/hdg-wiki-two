@@ -4,6 +4,7 @@ date: 2024-11-02T00:00:00+00:00
 authors: The Lorets
 draft: false
 description: Achive of foundational works page.
+url: /foundational-works/
 params:
   decoration: meta
   sidebar:
