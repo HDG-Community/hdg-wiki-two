@@ -1,6 +1,6 @@
 ---
 title: Haustoric Implant
-date: 2024-11-05T00:00:00+00:00
+date: 2026-05-28T00:00:00+00:00
 authors: CadenceTheHypnoticFloret, Lagnia, HDG Wiki Team
 draft: false
 description: The Haustoric Implant
