@@ -12,20 +12,20 @@ weight: 7
 {{< /aside >}}
 
 > [!QUOTATION]
->_ "Kht’teela was forty when the Affini arrived, barely an adult, and, back then, she was forcibly domesticated for feralism. The regrettable passions of youth came to even her even-tempered species. Now, she was pushing three hundred, only nearly as grumpy as the Herdmothers were then, and only beginning to slow down. It was… Nice. One of the benefits of the Affini compact upending their lives."
+> _"Kht’teela was forty when the Affini arrived, barely an adult, and, back then, she was forcibly domesticated for feralism. The regrettable passions of youth came to even her even-tempered species. Now, she was pushing three hundred, only nearly as grumpy as the Herdmothers were then, and only beginning to slow down. It was… Nice. One of the benefits of the Affini compact upending their lives."_
 > 
 > **otterpopd's [_Shear Bliss_](https://archiveofourown.org/works/71967226)**
 
 Erefax are a quadrupedal species of large stature, sometimes known affectionately as “sheeposaurs" or "dollsheep". Before the Affini, their lives were long and slow, and now they are longer and slower.
 
 ### Quick Info
-**Homeworld**:Ttellir, the fifth planet orbiting its star. A terrestrial silicate planet with one moon.   
-**Home System**: Tchrrellit, a white Class-M star roughly 100ly from Sag A*  
+**Homeworld:** Ttellir, the fifth planet orbiting its star. A terrestrial silicate planet with one moon.   
+**Home System:** Tchrrellit, a white Class-M star roughly 100ly from Sag A*  
 **Native Gravity:** Roughly 0.7g
 
 **Circadian Rhythm:** 57 Terran Hours  
-**Lifespan:**  Appx. 200-300 Terran years in the wild, upwards of 700 with current biotechnology. As of 2550, the oldest erefax remember their pre-compact childhoods  
-**Domesticated:**: 40%
+**Lifespan:** Appx. 200-300 Terran years in the wild, upwards of 700 with current biotechnology. As of 2550, the oldest erefax remember their pre-compact childhoods  
+**Domesticated:** 40%
 
 **Names:** Due to their unique tongue structure, erefax languages have a high degree of phonetic complexity, creating a higher number of plosives, rhotics, and fricatives than 95% of other xenosophont species are able to produce. Their writing systems tend towards the symbological and featural, since their exponentially larger phonetic inventory make alphabets harder to use. Their names make good use of this expanded inventory.
 Examples: Ttellir, Kht'teela, Rruhan
@@ -60,7 +60,7 @@ The cognitive dissonance of a civilization that operated on much longer, slower 
 
 Many cultural practices, including and especially that of crest-shaping, migrated from their original signifiers to being purely aesthetic practices. Crest-shaping and wool-shearing in particular are rolled into many of the kinky practices between erefax and Affini. As erefax are still a herd species, an affini will frequently find that an erefax floret has a large number of pinnates, and may take a multitude of them as florets at a time.
 
-Erefax lanolin has euphoric, sedative and/or muscle relaxant effects on many other xenosophonts, and thus their wool is prized within the Compact as “dollwool.” This has led to popularity 
+Erefax lanolin has euphoric, sedative and/or muscle relaxant effects on many other xenosophonts, and thus their wool is prized within the Compact as “dollwool”. This has led to popularity with dolls all over the compact.
 
 ## Article Credit
 Article by Pandora
